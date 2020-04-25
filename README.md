@@ -6,3 +6,9 @@ laligafilipina.com alpha
 npx install-peerdeps --dev eslint-config-airbnb
 ```
 
+### Gatsby Starter
+```sh
+# https://github.com/gatsbyjs/gatsby-starter-default
+# copied without prettier
+npx gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
+```
