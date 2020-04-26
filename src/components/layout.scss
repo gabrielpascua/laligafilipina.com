@@ -1,0 +1,13 @@
+@import "~normalize-scss/sass/normalize/import-now";
+@import "~skeleton-sass-official/src/core/config"; // Skeleton Sass core loader
+
+// import default theme variables
+@import "~skeleton-sass-official/src/themes/fresh/vars"; // theme variable overrides
+
+// my overrides
+$font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+
+
+// import default theme styles
+@import "~skeleton-sass-official/src/themes/fresh/include_components"; // theme base styles
+@import "~skeleton-sass-official/src/themes/fresh/grid"; // theme grid styles

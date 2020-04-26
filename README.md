@@ -12,3 +12,6 @@ npx install-peerdeps --dev eslint-config-airbnb
 # copied without prettier
 npx gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
 ```
+
+### WebPack Resources
+* https://github.com/atomicpages/skeleton-sass/wiki/Integrating-Skeleton-Sass-into-Dev-Workflows
