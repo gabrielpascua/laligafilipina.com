@@ -1,3 +1,41 @@
+const skeletonCssPlugin = ['gatsby-plugin-sass'];
+const markdownPlugin = [
+  {
+    resolve: 'gatsby-source-filesystem',
+    options: {
+      name: 'pages',
+      path: `${__dirname}/src/pages/`,
+    },
+  },
+  // {
+  //   resolve: `gatsby-source-filesystem`,
+  //   options: {
+  //     name: `posts`,
+  //     path: `${__dirname}/src/posts/`,
+  //   },
+  // },
+  // {
+  //   resolve: "gatsby-plugin-page-creator",
+  //   options: {
+  //     path: `${__dirname}/src/posts`,
+  //   },
+  // },
+  {
+    resolve: 'gatsby-plugin-mdx',
+    // options: {
+    //   defaultLayouts: {
+    //     // posts: require.resolve("./src/components/posts-layout.js"),
+    //     default: require.resolve('./src/templates/post-mdx.jsx'),
+    //   },
+    // },
+  },
+];
+
+const myPlugins = [
+  ...skeletonCssPlugin,
+  ...markdownPlugin,
+];
+
 module.exports = {
   siteMetadata: {
     title: 'Gatsby Default Starter',
@@ -27,7 +65,7 @@ module.exports = {
         icon: 'src/images/gatsby-icon.png', // This path is relative to the root of the site.
       },
     },
-    'gatsby-plugin-sass',
+    ...myPlugins,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,

@@ -1,4 +1,7 @@
 {
-    "extends": "airbnb",
+    "extends": [
+        "airbnb",
+        "plugin:mdx/recommended"
+    ],
     "ignorePatterns": ["public", "node_modules"]
 }
