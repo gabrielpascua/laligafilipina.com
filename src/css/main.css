@@ -1,8 +1,12 @@
-/*
-  You can use import statements to include partials:
- */
+@import '@exampledev/new.css/new.css';
 @import 'imports/reset.css';
 @import 'imports/sticky-footer.css';
+
+:root {
+  --mobile: 360px;
+  --tablet: 768px;
+  --desktop: 1200px; /* 1366px is most popular */
+}
 
 /*
   Or add your statements here:
@@ -13,4 +17,14 @@ body {
     'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+body * {
+  border: 1px dashed cyan;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
