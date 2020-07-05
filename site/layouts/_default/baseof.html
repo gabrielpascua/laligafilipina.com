@@ -18,7 +18,7 @@
     {{- block "main" . }}{{- end -}}
   </div>
   <footer class="footer">
-    {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
+    <div class="container">{{- block "footer" . }}{{ partial "footer" . }}{{ end -}}</div>
   </footer>
   {{- $script := .Site.Data.webpack.main -}}
   {{- with $script.js }}

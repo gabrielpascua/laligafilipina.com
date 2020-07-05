@@ -14,6 +14,11 @@
   --light: var(--light);
 }
 
+/* Universal Box Sizing */
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
 /*
   Or add your statements here:
  */
@@ -27,10 +32,21 @@ body {
   -webkit-hyphens: auto;
   -ms-hyphens: auto;
   hyphens: auto;
+
+  max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  border-bottom: none;
 }
 
 body * {
   border: 1px dashed cyan;
+}
+
+.container {
+  margin-left: .5rem;
+  margin-right: .5rem;
 }
 
 .header {
@@ -68,4 +84,46 @@ body * {
 
 .carousel .carousel-text {
   flex-basis: 65%;
+}
+
+@media (min-width: 768px) {
+  .container {
+      margin-left: 2rem;
+      margin-right: 2rem;
+  }
+  .carousel h3 {
+      font-size: 1.25rem;
+  }
+
+  .carousel .carousel-image {
+    flex-basis: 20%;
+  }
+}
+
+@media (min-width: 960px) {
+  .container {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 1020px;
+  }
+
+  .carousel-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .carousel-container .carousel-item:last-of-type{
+    margin-right: 0;
+  }
+
+  .carousel .carousel-item{
+    flex-basis: 30%;
+    margin-right: 5%;
+    flex-direction: column;
+  }
+
+  .carousel .carousel-image{
+    margin-right: 0;
+  }
 }
