@@ -1,11 +1,17 @@
 @import '@exampledev/new.css/new.css';
 @import 'imports/reset.css';
 @import 'imports/sticky-footer.css';
+@import 'imports/utilities.css';
 
 :root {
   --mobile: 360px;
   --tablet: 768px;
   --desktop: 1200px; /* 1366px is most popular */
+
+  --black: #efefef;
+  --white: #fff;
+  --dark: var(--black);
+  --light: var(--light);
 }
 
 /*
@@ -17,6 +23,10 @@ body {
     'Droid Sans', 'Helvetica Neue', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
 }
 
 body * {
@@ -27,4 +37,35 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+}
+
+.hero h1 {
+  font-size: 1.5rem;
+}
+
+.ticker h2 {
+  font-size: 1.25rem;
+}
+
+.carousel .carousel-item{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.carousel .carousel-image {
+  flex-basis: 30%;
+  margin-right: 5%;
+}
+
+.carousel img {
+  margin-bottom: 0;
+}
+
+.carousel h3 {
+  font-size: 1rem;
+}
+
+.carousel .carousel-text {
+  flex-basis: 65%;
 }
