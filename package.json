@@ -9,11 +9,9 @@
     "start": "run-p start:**",
     "start:hugo": "hugo -d ../dist -s site -vw",
     "start:webpack": "webpack-dev-server --config webpack.dev.js --hot",
-
     "stage": "run-p stage:**",
     "stage:hugo": "hugo -d ../dist -s site -vw",
     "stage:webpack": "cross-env NODE_ENV=production webpack-dev-server --config webpack.stage.js",
-
     "preview": "run-p preview:**",
     "preview:hugo": "npm run start:hugo -- -D -F",
     "preview:webpack": "npm run start:webpack",
