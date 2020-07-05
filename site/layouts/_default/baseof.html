@@ -13,16 +13,17 @@
   {{ end -}}
 </head>
 <body>
-  <div class="page-body">
-    {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
-    {{- block "main" . }}{{- end -}}
+  <div id="app">
+    <div class="page-body">
+      {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
+      {{- block "main" . }}{{- end -}}
+    </div>
+    <footer class="footer">
+      <div class="container">{{- block "footer" . }}{{ partial "footer" . }}{{ end -}}</div>
+    </footer>
   </div>
-  <footer class="footer">
-    <div class="container">{{- block "footer" . }}{{ partial "footer" . }}{{ end -}}</div>
-  </footer>
-  {{- $script := .Site.Data.webpack.main -}}
-  {{- with $script.js }}
-    <script src="{{ relURL . }}"></script>
+  {{- range $elem_key, $elem_val := .Site.Data.webpack }}
+    {{- with $elem_val.js }}<script src="{{ relURL . }}" async></script>{{ end }}
   {{ end -}}
 </body>
 </html>
