@@ -1,4 +1,4 @@
-@import '@exampledev/new.css/new.css';
+@import 'normalize.css/normalize.css';
 @import 'imports/reset.css';
 @import 'imports/sticky-footer.css';
 @import 'imports/utilities.css';
@@ -8,10 +8,15 @@
   --tablet: 768px;
   --desktop: 1200px; /* 1366px is most popular */
 
-  --black: #efefef;
+  --black: #333;
   --white: #fff;
+  --alto: #e0e0e0;
+  --silver: #aaaaaa;
+
   --dark: var(--black);
   --light: var(--light);
+  --border-color: var(--alto);
+  --gray: var(--silver);
 }
 
 /* Universal Box Sizing */
@@ -34,14 +39,59 @@ body {
   hyphens: auto;
 
   max-width: 100%;
+  color: #222;
 }
+
+@media (max-width: 768px) {
+  body {
+    /* font-size: 14px; */
+  }
+}
+
+/* body * {
+  border: 1px solid cyan;
+} */
 
 h1,h2,h3,h4,h5,h6 {
   border-bottom: none;
+  font-size: inherit;
 }
 
-body * {
-  border: 1px dashed cyan;
+.page-header {
+  padding-bottom: .5rem;
+  margin-bottom: 2rem;
+  background-color: #f0f0f0;
+  margin-top: 0;
+  padding-top: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.page-body {
+  margin-bottom: 3rem;
+}
+
+.footer {
+  background-color: #f0f0f0;
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  font-size: .8rem;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+hr {
+  border: 0;
+  height: 0;
+  border-top: 1px solid var(--white);
+  border-bottom: 1px solid var(--border-color);
 }
 
 .container {
@@ -53,25 +103,55 @@ body * {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+}
+
+.header img,
+.header section {
+  margin: 0;
+}
+
+.header :last-child,
+.header :first-child{
+  flex-basis: 18%;
+  font-size: .70rem;
+}
+
+.header :nth-child(2) {
+  flex-basis: 55%;
+  font-size: 1.55rem;
+  color: #000;
 }
 
 .hero h1 {
-  font-size: 1.5rem;
+  font-size: 1.125rem;
 }
 
+.carousel h2,
 .ticker h2 {
-  font-size: 1.25rem;
+  font-size: 1.125rem;
+}
+
+.ticker-item {
+  padding: 2rem;
+}
+
+.carousel .carousel-text p:last-of-type,
+.ticker p:last-of-type{
+  margin-bottom: 0;
 }
 
 .carousel .carousel-item{
   display: flex;
   flex-direction: row;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .carousel .carousel-image {
   flex-basis: 30%;
   margin-right: 5%;
+  height: 100px;
+  overflow: hidden;
 }
 
 .carousel img {

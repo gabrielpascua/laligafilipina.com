@@ -19,7 +19,7 @@
       {{- block "main" . }}{{- end -}}
     </div>
     <footer class="footer">
-      <div class="container">{{- block "footer" . }}{{ partial "footer" . }}{{ end -}}</div>
+      {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
     </footer>
   </div>
   {{- range $elem_key, $elem_val := .Site.Data.webpack }}
