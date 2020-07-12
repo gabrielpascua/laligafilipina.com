@@ -134,11 +134,41 @@ hr {
 }
 
 .ticker h2 {
+  text-align: center;
   font-size: 1.125rem;
 }
 
 .ticker-item {
   padding: 2rem;
+}
+
+.ticker-item .ticker-secondary-content {
+  margin-top: 1rem;
+}
+
+.ticker-item .ticker-arrows{
+  display: inline-block;
+}
+
+#toggleCoverage {
+  position: absolute;
+  left: -9999999px;
+}
+
+#toggleCoverage ~ ul {
+  height: 0;
+  opacity: 0;
+  margin-top: 0;
+}
+
+#toggleCoverage:checked ~ ul {
+  height: 100%;
+  opacity: 1;
+  margin-top: 1rem;
+}
+
+#toggleCoverage:checked ~ .ticker-arrows {
+  transform: rotate(90deg);
 }
 
 .carousel .carousel-text p:last-of-type,
@@ -151,6 +181,9 @@ hr {
   flex-direction: row;
   align-items: flex-start;
   border-bottom: 1px solid var(--border-color);
+  margin-bottom: 1rem;
+  padding-bottom: 1rem;
+  padding-top: .5rem;
 }
 
 .carousel .carousel-item:last-child {
@@ -171,6 +204,7 @@ hr {
 .carousel h3 {
   font-size: 1rem;
   margin-bottom: .5rem;
+  margin-top: 0;
 }
 
 .carousel p {
@@ -182,16 +216,86 @@ hr {
 }
 
 @media (min-width: 768px) {
+  .header :nth-child(2) {
+    flex-basis: 40%;
+  }
+
+  .header :last-child,
+  .header :first-child{
+    font-size: .80rem;
+  }
+
   .container {
       margin-left: 2rem;
       margin-right: 2rem;
   }
+
+  .underlined-hed {
+    font-size: 1.125rem;
+  }
+
+  .hero h1 {
+    font-size: 1.75rem;
+  }
+  
+  .ticker h2 {
+    text-align: left;
+    font-size: 1.5rem;
+  }
+
+  .carousel *,
+  .ticker-item * {
+    /* border: 1px solid cyan; */
+  }
+
   .carousel h3 {
-      font-size: 1.25rem;
+      font-size: 1.35rem;
+  }
+
+  .carousel .carousel-item{
+    margin-bottom: 1.5rem;
+    padding-bottom: 1.5rem;
   }
 
   .carousel .carousel-image {
-    flex-basis: 20%;
+    flex-basis: 30%;
+    height: 120px;
+    margin-right: 5%;
+  }
+
+  .carousel .carousel-text {
+    flex-basis: 63%;
+  }
+
+  .ticker-item {
+    padding: 2rem 0;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .ticker-item .ticker-primary-content{
+    flex-basis: 60%;
+    margin-right: 5%;
+  }
+
+  .ticker-item .ticker-secondary-content{
+    flex-basis: 35%;
+    opacity: 75%;
+    margin-top: 0;
+  }
+
+  #toggleCoverage ~ ul,
+  #toggleCoverage:checked ~ ul {
+    height: 100%;
+    opacity: 1;
+    margin-top: 0;
+  }
+
+  #toggleCoverage ~ label,
+  #toggleCoverage:checked ~ .ticker-arrows,
+  .ticker-item .ticker-arrows {
+    display: none;
   }
 }
 
