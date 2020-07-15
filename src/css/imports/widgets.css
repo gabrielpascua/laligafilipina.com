@@ -4,4 +4,6 @@
     display: inline-block;
     width: 30%;
     text-transform: uppercase;
+    position: relative;
+    top: 1px;
 }

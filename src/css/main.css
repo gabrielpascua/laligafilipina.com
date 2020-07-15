@@ -208,7 +208,7 @@ hr {
 
 .carousel .carousel-item{
   display: flex;
-  flex-direction: row;
+  flex-direction: row-reverse;
   align-items: flex-start;
   border-bottom: 1px solid var(--border-color);
   margin-bottom: 1rem;
@@ -221,8 +221,7 @@ hr {
 }
 
 .carousel .carousel-image {
-  flex-basis: 30%;
-  margin-right: 10%;
+  flex-basis: 33%;
   height: 80px;
   overflow: hidden;
 }
@@ -242,7 +241,8 @@ hr {
 }
 
 .carousel .carousel-text {
-  flex-basis: 55%;
+  flex-basis: 60%;
+  margin-right: 7%;
 }
 
 @media (min-width: 768px) {
@@ -285,7 +285,7 @@ hr {
   .carousel .carousel-image {
     flex-basis: 30%;
     height: 120px;
-    margin-right: 5%;
+    padding-left: 1rem;
   }
 
   .carousel .carousel-text {
@@ -372,6 +372,8 @@ hr {
     margin-right: 0;
     overflow: hidden;
     height: 160px;
+    margin-right: 5%;
+    padding-top: 1rem;
   }
 
   .carousel-text {
