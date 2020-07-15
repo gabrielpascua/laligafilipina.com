@@ -1,5 +1,5 @@
 <template>
-    <span class="text-faded">{{ day }}<br />{{ date }}</span>
+    <span>{{ day }}<br />{{ date }}</span>
 </template>
 
 <script>

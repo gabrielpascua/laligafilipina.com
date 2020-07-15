@@ -3,7 +3,7 @@
 }
 
 .bg-dark * {
-    color: var(--white);
+    color: rgba(255,255,255,.9);
 }
 
 .bg-light { background-color: var(--light); color: var(--dark); }
