@@ -1,9 +1,7 @@
 .underlined-hed{
     margin-bottom: 0;
     border-bottom: 2px solid #222;
-    display: inline-block;
-    width: 30%;
-    text-transform: uppercase;
     position: relative;
     top: 1px;
+    display: inline-block;
 }

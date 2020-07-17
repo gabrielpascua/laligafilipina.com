@@ -11,7 +11,7 @@
   --black: #222;
   --white: #fff;
   --alto: #e0e0e0;
-  --silver: #888888;
+  --silver: #777777;
   --dark: var(--black);
   --light: var(--white);
   --border-color: var(--alto);
@@ -29,7 +29,7 @@
  */
 
 html {
-  line-height: 1.275;
+  line-height: 1.4;
 }
 
 body {
@@ -41,6 +41,7 @@ body {
   hyphens: auto;
   max-width: 100%;
   color: #222;
+  font-size: 15px;
 }
 
 @media (max-width: 768px) {
@@ -55,7 +56,7 @@ body * {
 
 h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
-  font-size: inherit;
+  color: #0a0a0a;
 }
 
 .page-header {
@@ -69,6 +70,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-body {
   padding-bottom: 2rem;
+  background: rgb(255, 255, 255);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgb(245, 245, 245) 100%);
 }
 
 .footer {
@@ -76,7 +79,6 @@ h1, h2, h3, h4, h5, h6 {
   border-top: 1px solid var(--border-color);
   padding-top: 1rem;
   padding-bottom: 1rem;
-  font-size: .8rem;
 }
 
 img {
@@ -113,17 +115,15 @@ hr {
 
 .header :last-child, .header :first-child {
   flex-basis: 18%;
-  font-size: .60rem;
 }
 
 .header :nth-child(2) {
   flex-basis: 55%;
-  font-size: 1.55rem;
   color: #000;
 }
 
 .hero h1 {
-  font-size: 1.125rem;
+  /* font-size: 1.125rem; */
 }
 
 .ticker.bg-light {
@@ -133,17 +133,6 @@ hr {
 
 .ticker h2 {
   text-align: center;
-  font-size: 1.125rem;
-}
-
-/* .ticker ul a {
-  color: rgba(255, 255, 255, .5);
-} */
-
-.ticker .underlined-hed {
-  display: inline;
-  text-transform: capitalize;
-  font-size: .9rem;
 }
 
 .ticker-item {
@@ -159,13 +148,15 @@ hr {
   display: none;
 }
 
-/* .ticker-item .ticker-secondary-content {
-  margin-top: 1rem;
-} */
-
 .ticker-item .ticker-arrows {
   display: inline-block;
 }
+
+.ticker-item li {
+  padding-top: .25rem;
+  padding-bottom: .25rem;
+}
+
 
 #toggleCoverage {
   position: absolute;
@@ -179,21 +170,20 @@ hr {
 
 #toggleCoverage~ul {
   height: 0;
-  /* opacity: 0; */
+  opacity: 0;
   margin-top: 0;
   margin-bottom: 0;
-  font-size: .9rem;
   overflow: hidden;
 }
 
 #toggleCoverage:checked~ul {
   height: 100%;
-  margin-top: 1rem;
+  opacity: 1;
 }
 
 #toggleCoverage:checked~hr {
-  opacity: .25;
   width: 100%;
+  opacity: 1;
 }
 
 #toggleCoverage:checked~.ticker-arrows {
@@ -220,16 +210,20 @@ hr {
 
 .carousel .carousel-image {
   flex-basis: 33%;
-  height: 90px;
+  height: 75px;
   overflow: hidden;
+  position: relative;
 }
 
 .carousel img {
   margin-bottom: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0;
 }
 
 .carousel h3 {
-  font-size: 1rem;
   margin-bottom: .5rem;
   margin-top: 0;
 }
@@ -243,29 +237,23 @@ hr {
   margin-right: 7%;
 }
 
+.carousel .underlined-hed{
+  width: 30%;
+}
+
 @media (min-width: 768px) {
   .header :nth-child(2) {
     flex-basis: 40%;
-  }
-  .header :last-child, .header :first-child {
-    font-size: .80rem;
   }
   .container {
     margin-left: 2rem;
     margin-right: 2rem;
   }
-  .underlined-hed {
-    font-size: 1.125rem;
-  }
   .hero h1 {
-    font-size: 1.75rem;
+    /* font-size: 1.75rem; */
   }
   .ticker h2 {
     text-align: left;
-    font-size: 1.5rem;
-  }
-  .carousel h3 {
-    font-size: 1.35rem;
   }
   .carousel .carousel-item {
     margin-bottom: 1.5rem;
@@ -317,11 +305,8 @@ hr {
     flex-basis: 20%;
   }
   .page-body {
-    background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgb(245, 245, 245) 100%);
-  }
-  .underlined-hed {
-    font-size: .9rem;
+    /* background: rgb(255, 255, 255);
+    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgb(245, 245, 245) 100%); */
   }
   .carousel-container {
     display: flex;
@@ -348,7 +333,9 @@ hr {
     margin-right: 0;
     overflow: hidden;
     height: 160px;
-    padding: .75rem;
+    border-left: .75rem solid #fff;
+    border-right: .75rem solid #fff;
+    border-top: .75rem solid #fff;
   }
   .carousel .carousel-text {
     min-height: 220px;
@@ -359,16 +346,22 @@ hr {
   }
   .carousel img {
     width: 290px;
-    display: block;
   }
   .carousel h3 {
     text-align: center;
     padding: 1rem .5rem;
     padding: 1.5rem 0 1rem 0;
-    font-size: 1rem;
+  }
+  .ticker-item{
+    padding-bottom: 3rem;
   }
   .ticker-item .ticker-primary-image {
     width: 320px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  }
+  .ticker-item .ticker-primary-text {
+    padding-top: 3rem;
   }
   .ticker-item .ticker-secondary-content, .ticker-item .ticker-primary-text {
     width: calc(95% - 340px);
