@@ -10,7 +10,7 @@
   /* 1366px is most popular */
   --black: #222;
   --white: #fff;
-  --alto: #e0e0e0;
+  --alto: #eaeaea;
   --silver: #777777;
   --dark: var(--black);
   --light: var(--white);
@@ -61,8 +61,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-header {
   padding-bottom: .5rem;
-  margin-bottom: 2rem;
-  background-color: #f0f0f0;
+  /* margin-bottom: 2rem; */
+  background-color: transparent;
   margin-top: 0;
   padding-top: 1rem;
   border-bottom: 1px solid var(--border-color);
@@ -75,8 +75,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .footer {
-  background-color: #f0f0f0;
-  border-top: 1px solid var(--border-color);
+  background-color: rgb(245, 245, 245);
+  /* border-top: 1px solid var(--border-color); */
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
@@ -321,12 +321,13 @@ hr {
     flex-basis: 30%;
     margin-right: 5%;
     padding-top: 0;
-    padding-bottom: 0;
+    padding-bottom: 1rem;
     display: block;
     flex-direction: unset;
     align-items: unset;
     border-bottom: none;
     background: var(--white);
+    box-shadow: 0px 0px 15px -13px rgba(0,0,0,0.50);
     /* background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(240,240,240,1) 100%); */
   }
   .carousel .carousel-image {
