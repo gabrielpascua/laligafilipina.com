@@ -14,5 +14,12 @@
 * https://github.com/vuejs-templates/webpack-simple
 * https://vuejs.org/v2/guide/single-file-components.html
 
+### Covid 19 Sources
+* https://api.covid19api.com/country/philippines?from=2020-06-01&to=2020-07-18
+* https://corona.lmao.ninja/v2/historical/philippines?lastdays=30
+* https://corona-virus-stats.herokuapp.com/api/v1/cases/general-stats
+* Mortality Rate: Deaths / Confirmed  (Average)
+* Recovery Rate: Recovered / Confirmed (Average)
+
 ### TODO
 * Sitemap.xml
