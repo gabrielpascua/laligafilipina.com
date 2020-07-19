@@ -31,6 +31,7 @@
     "@babel/preset-env": "^7.10.3",
     "@babel/register": "^7.10.3",
     "assets-webpack-plugin": "^5.0.2",
+    "axios": "^0.19.2",
     "babel-eslint": "^10.0.2",
     "babel-loader": "^8.1.0",
     "chart.js": "^2.9.3",
