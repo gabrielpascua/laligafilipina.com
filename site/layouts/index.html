@@ -1,10 +1,11 @@
 {{- define "main" }}
 
-<section class="hero mb-2">
-    <div class="container">
-        <h1>Corona Virus Cases</h1>
-        <div>
-            <bar-chart />
+<section class="hero pb-3 pt-2">
+    <div class="container text-center">
+        <h1 class="mb-0">Corona Virus Cases</h1>
+        <p class="mt-0">COVID-19 Cases for a six-week period</p>
+        <div class="mt-2">
+            <bar-chart :height="180" />
         </div>
     </div>
 </section>
