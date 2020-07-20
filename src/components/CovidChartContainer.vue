@@ -67,7 +67,7 @@ const transformCovid19 = function(covidData) {
     });
   }
 
-  return {barData:barData, lineData:lineData};
+  return {barData, lineData};
 };
 
 const transformNinja = function(covidData) {
@@ -83,7 +83,7 @@ const transformNinja = function(covidData) {
     });
   }
 
-  return {barData:barData, lineData:lineData};
+  return {barData, lineData};
 };
 
 const setChartData = function(standardData) {
@@ -129,8 +129,7 @@ export default {
       requestData = await axios.get(ninjaApi);
     }
 
-    requestData = requestData || {};
-    const rawData = requestData.data;
+    const {data: rawData} = requestData;
     const covidData = Array.isArray(rawData) ? transformCovid19(rawData) : transformNinja(rawData);
 
     this.chartData = setChartData(covidData);

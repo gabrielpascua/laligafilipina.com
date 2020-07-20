@@ -1,17 +1,9 @@
 {
   "presets": [
-    [
-      "@babel/preset-env",
-      {
-        "targets": {
-          "esmodules": true
-        }
-      }
-    ]
+    "@babel/preset-env"
   ],
   "plugins": [
     "@babel/plugin-syntax-object-rest-spread",
-    "@babel/plugin-proposal-object-rest-spread",
-    "@babel/plugin-transform-arrow-functions"
+    "@babel/plugin-proposal-object-rest-spread"
   ]
 }
