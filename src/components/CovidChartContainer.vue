@@ -26,10 +26,10 @@ import axios from "axios";
 import CovidChart from "./CovidChart.vue";
 
 const dateParams = (function() {
-  const now = new Date();
-  const oneDayInMs = 24 * 60 * 60 * 1000;
   const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
-  const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const now = new Date(Date.parse(new Date().toUTCString()) + timeOffsetInMs);
+  const oneDayInMs = 24 * 60 * 60 * 1000;
+  const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1);
   const lookbackDays = 42;
   return {
     endDate: endDate,
@@ -70,57 +70,46 @@ const getChartOptions = function() {
   };
 };
 
-const transformCovid19 = function(covidData) {
-  const barData = [];
-  const recoveredData = [];
-  const deathData = [];
-  for (let i = 0, max = covidData.length; i < max; i++) {
-    const d = covidData[i];
-    recoveredData.push(d.Recovered);
-    deathData.push(d.Deaths);
-    barData.push({
-      x: new Date(Date.parse(d.Date) + dateParams.timeOffsetInMs),
-      y: d.Confirmed
-    });
-  }
-
-  return {barData, recoveredData, deathData};
+const fetchFromCovid19 = function(covidData) {
+  return covidData.map((c) => ({
+    confirmed: c.Confirmed,
+    deaths: c.Deaths,
+    recovered: c.Recovered,
+    date: new Date(Date.parse(c.Date) + dateParams.timeOffsetInMs)
+  }));
 };
 
-const transformNinja = function(covidData) {
-  const barData = [];
-  const recoveredData = [];
-  const deathData = [];
+const fetchFromNinja = function(covidData) {
+  const transformedData = [];
   for (let i = 0, max = dateParams.lookbackDays; i < max; i++) {
     const dt = new Date(dateParams.startDate.getTime() + (dateParams.oneDayInMs * i));
     const key = `${dt.getMonth() + 1}/${dt.getDate()}/${dt.getFullYear().toString().substring(2)}`;
-    recoveredData.push(covidData.timeline.recovered[key]);
-    deathData.push(covidData.timeline.deaths[key]);
-    barData.push({
-      x: new Date(Date.parse(key) + dateParams.timeOffsetInMs),
-      y: covidData.timeline.cases[key]
+    transformedData.push({
+      confirmed: covidData.timeline.cases[key],
+      deaths: covidData.timeline.deaths[key],
+      recovered: covidData.timeline.recovered[key],
+      date: new Date(Date.parse(key) + dateParams.timeOffsetInMs)
     });
   }
-
-  return {barData, recoveredData, deathData};
+  return transformedData;
 };
 
-const setChartData = function(standardData) {
+const setChartData = function(cases) {
   return {
-    labels: standardData.barData.map((c) => c.x),
+    labels: cases.map((c) => c.date),
     datasets: [{
-      data: standardData.barData.map((c) => c.y),
+      data: cases.map((c) => c.confirmed),
       borderWidth: 1,
       backgroundColor: "rgba(0,0,0,.125)"
     }, {
-      data: standardData.recoveredData,
+      data: cases.map((c) => c.recovered),
       type: "line",
       backgroundColor: "transparent",
       borderColor: "rgba(19,189,0,0.75)",
       borderWidth: 2,
       pointRadius: 0
     }, {
-      data: standardData.deathData,
+      data: cases.map((c) => c.deaths),
       type: "line",
       backgroundColor: "transparent",
       borderColor: "rgba(255, 99, 132, 0.75)",
@@ -143,23 +132,42 @@ export default {
   mounted: async function() {
     this.loaded = false;
 
-    const covid19api = `https://api.covid19api.com/country/philippines?from=${dateParams.startDate.toISOString()}&to=${dateParams.endDate.toISOString()}`;
-    const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?lastdays=${dateParams.lookbackDays}`;
-
-    let requestData;
-    try {
-      requestData = await axios.get(covid19api);
-      if (!requestData) {
-        throw new Error("retry other source");
-      }
-    } catch (error) {
-      requestData = await axios.get(ninjaApi);
+    let lcData = JSON.parse(localStorage.getItem("covidData") || null);
+    const nowInMs = Date.parse(new Date().toUTCString()) + dateParams.timeOffsetInMs;
+    let refreshData = false;
+    if (lcData && lcData.expires) {
+      refreshData = nowInMs > lcData.expires;
+    } else {
+      refreshData = true;
     }
 
-    const {data: rawData} = requestData;
-    const covidData = Array.isArray(rawData) ? transformCovid19(rawData) : transformNinja(rawData);
+    if (refreshData) {
+      const covid19api = `https://api.covid19api.com/country/philippines?from=${dateParams.startDate.toISOString().split("T")[0]}&to=${dateParams.endDate.toISOString().split("T")[0]}`;
+      const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?lastdays=${dateParams.lookbackDays}`;
 
-    this.chartData = setChartData(covidData);
+      let requestData;
+      try {
+        requestData = await axios.get(covid19api);
+        if (!requestData) {
+          throw new Error("retry other source");
+        }
+      } catch (error) {
+        requestData = await axios.get(ninjaApi);
+      }
+
+      const {data: rawData} = requestData;
+      const covidData = Array.isArray(rawData) ? fetchFromCovid19(rawData) : fetchFromNinja(rawData);
+
+      lcData = {
+        cases: covidData,
+        expires: nowInMs + (1 * 60 * 60 * 1000)
+      };
+
+      localStorage.setItem("covidData", JSON.stringify(lcData));
+    }
+
+
+    this.chartData = setChartData(lcData.cases);
     this.chartOptions = getChartOptions();
     this.loaded = true;
   }
