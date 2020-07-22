@@ -1,10 +1,24 @@
 <template>
+  <div>
+    <ul class="inline-block mt-2 mb-0">
+      <li>
+        <a href="#" class="underlined-hed pr-2 pb-1"><b>Confirmed</b></a>
+      </li>
+      <li>
+        <a href="#" class="pr-2 text-faded pb-1">Recovered</a>
+      </li>
+      <li>
+        <a href="#" class="pr-2 text-faded pb-1">Deaths</a>
+      </li>
+    </ul>
+    <hr class="mt-0 mb-2" />
     <covid-chart
       v-if="loaded"
       :height="180"
       :chartData="chartData"
       :chartOptions="chartOptions"
     />
+  </div>
 </template>
 
 <script>
@@ -14,11 +28,13 @@ import CovidChart from "./CovidChart.vue";
 const dateParams = (function() {
   const now = new Date();
   const oneDayInMs = 24 * 60 * 60 * 1000;
+  const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
   const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const lookbackDays = 42;
   return {
     endDate: endDate,
     lookbackDays: lookbackDays,
+    timeOffsetInMs: timeOffsetInMs,
     oneDayInMs: oneDayInMs,
     startDate: new Date(endDate.getTime() - (lookbackDays * oneDayInMs))
   };
@@ -56,34 +72,37 @@ const getChartOptions = function() {
 
 const transformCovid19 = function(covidData) {
   const barData = [];
-  const lineData = [];
+  const recoveredData = [];
+  const deathData = [];
   for (let i = 0, max = covidData.length; i < max; i++) {
     const d = covidData[i];
-    const dt = new Date(dateParams.startDate.getTime() + (dateParams.oneDayInMs * i));
-    lineData.push(d.Recovered / d.Confirmed);
+    recoveredData.push(d.Recovered);
+    deathData.push(d.Deaths);
     barData.push({
-      x: dt,
+      x: new Date(Date.parse(d.Date) + dateParams.timeOffsetInMs),
       y: d.Confirmed
     });
   }
 
-  return {barData, lineData};
+  return {barData, recoveredData, deathData};
 };
 
 const transformNinja = function(covidData) {
   const barData = [];
-  const lineData = [];
+  const recoveredData = [];
+  const deathData = [];
   for (let i = 0, max = dateParams.lookbackDays; i < max; i++) {
     const dt = new Date(dateParams.startDate.getTime() + (dateParams.oneDayInMs * i));
     const key = `${dt.getMonth() + 1}/${dt.getDate()}/${dt.getFullYear().toString().substring(2)}`;
-    lineData.push(covidData.timeline.recovered[key] / covidData.timeline.cases[key]);
+    recoveredData.push(covidData.timeline.recovered[key]);
+    deathData.push(covidData.timeline.deaths[key]);
     barData.push({
-      x: dt,
+      x: new Date(Date.parse(key) + dateParams.timeOffsetInMs),
       y: covidData.timeline.cases[key]
     });
   }
 
-  return {barData, lineData};
+  return {barData, recoveredData, deathData};
 };
 
 const setChartData = function(standardData) {
@@ -94,11 +113,19 @@ const setChartData = function(standardData) {
       borderWidth: 1,
       backgroundColor: "rgba(0,0,0,.125)"
     }, {
-      data: standardData.lineData,
+      data: standardData.recoveredData,
       type: "line",
       backgroundColor: "transparent",
-      borderColor: "rgba(228,228,0,.75)",
-      borderWidth: 2
+      borderColor: "rgba(19,189,0,0.75)",
+      borderWidth: 2,
+      pointRadius: 0
+    }, {
+      data: standardData.deathData,
+      type: "line",
+      backgroundColor: "transparent",
+      borderColor: "rgba(255, 99, 132, 0.75)",
+      borderWidth: 2,
+      pointRadius: 0
     }]
   };
 };

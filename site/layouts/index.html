@@ -1,12 +1,10 @@
 {{- define "main" }}
 
 <section class="hero pb-3 pt-2">
-    <div class="container text-center">
-        <h1 class="mb-0">Corona Virus Cases</h1>
-        <p class="mt-0">COVID-19 Cases for a six-week period</p>
-        <div class="mt-2">
-            <covid-chart-container />
-        </div>
+    <div class="container">
+        <h1 class="mb-0 text-center">Corona Virus Cases</h1>
+        <p class="mt-0 text-center">COVID-19 Cases for a six-week period</p>
+        <covid-chart-container />
     </div>
 </section>
 
@@ -28,7 +26,7 @@
                 <label for="toggleCoverage" class="text-hed pointer">Related</label>
                 <span class="ticker-arrows transition-ease-all">+</span>
                 <hr />
-                <ul class="inline-block transition-ease-all">
+                <ul class="link-arrows transition-ease-all">
                     <li>
                         <a href="#">List of lawmakers who voted for and against ABS-CBN franchise renewal</a>
                     </li>
