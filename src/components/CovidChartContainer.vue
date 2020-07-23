@@ -2,13 +2,22 @@
   <div>
     <ul class="chart-links inline-block mt-2 mb-0">
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('confirmed', $event.target)">Cases</span>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
+          <i style="background-color: rgb(224, 224, 224); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
+          Cases
+        </span>
       </li>
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('recovered', $event.target)">Recoveries</span>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['recovered', 'confirmed'], $event.target)">
+          <i style="background-color: rgb(181, 223, 185); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
+          Recoveries
+        </span>
       </li>
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('deaths', $event.target)">Deaths</span>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
+          <i style="background-color: rgb(254, 155, 160); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
+          Deaths
+        </span>
       </li>
     </ul>
     <hr class="mt-0 mb-2" />
@@ -58,14 +67,16 @@ const getChartOptions = function() {
         ticks: {
           maxRotation: 0,
           minRotation: 0
-        }
+        },
+        stacked: true
       }],
       yAxes: [{
         ticks: {
           callback: function(value, index, values) {
             return value.toLocaleString();
           }
-        }
+        },
+        stacked: true
       }]
     },
     legend: {
@@ -100,13 +111,30 @@ const fetchFromNinja = function(covidData) {
 };
 
 const setChartData = function(cases) {
+  const colorDictionary = {
+    confirmed: "rgba(0,0,0,.08)",
+    deaths: "rgba(255, 0, 0, 0.4)",
+    recovered: "rgba(0, 156, 19, 0.3)"
+  };
+
   return {
-    labels: cases.map((c) => c.date),
-    datasets: [{
-      data: cases.map((c) => c.count),
-      borderWidth: 1,
-      backgroundColor: "rgba(0,0,0,.25)"
-    }]
+    labels: cases.find((c) => c.type === "confirmed").data.map((c) => c.date),
+    datasets: cases.map((ct, i) => {
+      if (ct.type === "confirmed") {
+        return {
+          data: ct.data.map((c) => c.count),
+          borderWidth: 1,
+          backgroundColor: colorDictionary[ct.type],
+        };
+      } else {
+        return {
+          type: "bar",
+          data: ct.data,
+          borderWidth: 1,
+          backgroundColor: colorDictionary[ct.type]
+        };
+      }
+    })
   };
 };
 
@@ -121,10 +149,14 @@ export default {
     };
   },
   mounted: async function() {
-    await this.updateChart("confirmed");
+    await this.updateChart(["deaths", "recovered", "confirmed"]);
   },
   methods: {
-    updateChart: async function(dataType, chartLink) {
+    updateChart: async function(dataTypes, chartLink) {
+      if (chartLink && chartLink.nodeName === "I") {
+        chartLink = chartLink.parentNode;
+      }
+
       const activeClasses = ["active", "underlined-hed", "text-bold"];
       if (chartLink) {
         document.querySelector(".chart-link.active").classList.remove(...activeClasses);
@@ -175,8 +207,21 @@ export default {
         localStorage.setItem("covidData", JSON.stringify(lcData));
       }
 
+      const chartData = dataTypes.map((dt) => {
+        if (dt === "confirmed") {
+          return {
+            type: dt,
+            data: lcData.cases.map((c) => ({count: c[dt], date: c.date}))
+          };
+        } else {
+          return {
+            type: dt,
+            data: lcData.cases.map((c) => c[dt])
+          };
+        }
+      });
 
-      this.chartData = setChartData(lcData.cases.map((c) => ({count: c[dataType], date: c.date})));
+      this.chartData = setChartData(chartData);
       this.chartOptions = getChartOptions();
       this.loaded = true;
     }
