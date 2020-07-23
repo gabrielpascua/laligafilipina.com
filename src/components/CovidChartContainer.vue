@@ -15,7 +15,7 @@
       </li>
       <li>
         <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
-          <i style="background-color: rgb(254, 155, 160); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
+          <i style="background-color: rgba(0, 0, 0, .5); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
           Deaths
         </span>
       </li>
@@ -113,7 +113,7 @@ const fetchFromNinja = function(covidData) {
 const setChartData = function(cases) {
   const colorDictionary = {
     confirmed: "rgba(0,0,0,.08)",
-    deaths: "rgba(255, 0, 0, 0.4)",
+    deaths: "rgba(0, 0, 0, 0.4)",
     recovered: "rgba(0, 156, 19, 0.3)"
   };
 
