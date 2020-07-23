@@ -4,11 +4,11 @@
 
 <script>
 export default {
-    data: function() {
-        const today = new Date();
-        return {
-            year: today.getFullYear()
-        }
-    }
-}
+  data: function() {
+    const today = new Date();
+    return {
+      year: today.getFullYear()
+    };
+  }
+};
 </script>
