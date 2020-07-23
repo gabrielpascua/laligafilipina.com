@@ -1,14 +1,14 @@
 <template>
   <div>
-    <ul class="inline-block mt-2 mb-0">
+    <ul class="chart-links inline-block mt-2 mb-0">
       <li>
-        <a href="#" class="underlined-hed pr-2 pb-1" @click="updateChart('confirmed')"><b>Cases</b></a>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('confirmed', $event.target)">Cases</span>
       </li>
       <li>
-        <a href="#" class="pr-2 text-faded pb-1" @click="updateChart('recovered')">Recoveries</a>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('recovered', $event.target)">Recoveries</span>
       </li>
       <li>
-        <a href="#" class="pr-2 text-faded pb-1" @click="updateChart('deaths')">Deaths</a>
+        <span class="chart-link pointer pr-2 pb-1" @click="updateChart('deaths', $event.target)">Deaths</span>
       </li>
     </ul>
     <hr class="mt-0 mb-2" />
@@ -32,10 +32,10 @@ const dateParams = (function() {
   const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const lookbackDays = 42;
   return {
-    endDate: endDate,
-    lookbackDays: lookbackDays,
-    timeOffsetInMs: timeOffsetInMs,
-    oneDayInMs: oneDayInMs,
+    endDate,
+    lookbackDays,
+    timeOffsetInMs,
+    oneDayInMs,
     startDate: new Date(endDate.getTime() - (lookbackDays * oneDayInMs))
   };
 })();
@@ -119,7 +119,15 @@ export default {
     await this.updateChart("confirmed");
   },
   methods: {
-    updateChart: async function(dataType) {
+    updateChart: async function(dataType, chartLink) {
+      const activeClasses = ["active", "underlined-hed", "text-bold"];
+      if (chartLink) {
+        document.querySelector(".chart-link.active").classList.remove(...activeClasses);
+        chartLink.classList.add(...activeClasses);
+      } else {
+        document.querySelector(".chart-link:first-child").classList.add(...activeClasses);
+      }
+
       this.loaded = false;
 
       let lcData = JSON.parse(localStorage.getItem("covidData") || null);
@@ -132,8 +140,14 @@ export default {
       }
 
       if (refreshData) {
-        const covid19api = `https://api.covid19api.com/country/philippines?from=${dateParams.startDate.toISOString().split("T")[0]}&to=${dateParams.endDate.toISOString().split("T")[0]}`;
-        const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?lastdays=${dateParams.lookbackDays}`;
+        const covParams = new URLSearchParams();
+        covParams.append("from", dateParams.startDate.toISOString().split("T")[0]);
+        covParams.append("to", dateParams.endDate.toISOString().split("T")[0]);
+        const covid19api = `https://api.covid19api.com/country/philippines?${covParams.toString()}`;
+
+        const ninjaParams = new URLSearchParams();
+        ninjaParams.append("lastdays", dateParams.lookbackDays);
+        const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?${ninjaParams.toString()}`;
 
         let requestData;
         try {

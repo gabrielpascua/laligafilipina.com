@@ -53,6 +53,7 @@
 .text-faded { color: var(--gray); }
 .text-small { font-size: .75rem; }
 .text-hed { font-size: .75rem; text-transform: uppercase; font-weight: bold;}
+.text-bold { font-weight: bold; }
 
 .transition-ease-all {
     transition: all 0.2s ease;
