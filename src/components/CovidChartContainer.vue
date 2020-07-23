@@ -27,9 +27,9 @@ import CovidChart from "./CovidChart.vue";
 
 const dateParams = (function() {
   const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
-  const now = new Date(Date.parse(new Date().toUTCString()) + timeOffsetInMs);
+  const now = new Date();
   const oneDayInMs = 24 * 60 * 60 * 1000;
-  const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate() - 1);
+  const endDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   const lookbackDays = 42;
   return {
     endDate: endDate,
@@ -133,7 +133,8 @@ export default {
     this.loaded = false;
 
     let lcData = JSON.parse(localStorage.getItem("covidData") || null);
-    const nowInMs = Date.parse(new Date().toUTCString()) + dateParams.timeOffsetInMs;
+    // const nowInMs = Date.parse(new Date().toUTCString()) + dateParams.timeOffsetInMs;
+    const nowInMs = Date.now() + dateParams.timeOffsetInMs;
     let refreshData = false;
     if (lcData && lcData.expires) {
       refreshData = nowInMs > lcData.expires;
