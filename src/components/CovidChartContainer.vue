@@ -52,13 +52,18 @@ const getChartOptions = function() {
           displayFormats: {
             quarter: "MMM YYYY",
             day: "MMM DD"
-          }
+          },
+          stepSize: 4
         },
         ticks: {
           maxRotation: 0,
-          minRotation: 0,
+          minRotation: 0
+        }
+      }],
+      yAxes: [{
+        ticks: {
           callback: function(value, index, values) {
-            return (index % 3 === 0) ? value : "";
+            return value.toLocaleString();
           }
         }
       }]
