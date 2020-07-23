@@ -2,21 +2,21 @@
   <div>
     <ul class="inline-block mt-2 mb-0">
       <li>
-        <a href="#" class="underlined-hed pr-2 pb-1"><b>Confirmed</b></a>
+        <a href="#" class="underlined-hed pr-2 pb-1" @click="updateChart('confirmed')"><b>Cases</b></a>
       </li>
       <li>
-        <a href="#" class="pr-2 text-faded pb-1">Recovered</a>
+        <a href="#" class="pr-2 text-faded pb-1" @click="updateChart('recovered')">Recoveries</a>
       </li>
       <li>
-        <a href="#" class="pr-2 text-faded pb-1">Deaths</a>
+        <a href="#" class="pr-2 text-faded pb-1" @click="updateChart('deaths')">Deaths</a>
       </li>
     </ul>
     <hr class="mt-0 mb-2" />
     <covid-chart
       v-if="loaded"
       :height="180"
-      :chartData="chartData"
-      :chartOptions="chartOptions"
+      :chart-data="chartData"
+      :options="chartOptions"
     />
   </div>
 </template>
@@ -98,23 +98,9 @@ const setChartData = function(cases) {
   return {
     labels: cases.map((c) => c.date),
     datasets: [{
-      data: cases.map((c) => c.confirmed),
+      data: cases.map((c) => c.count),
       borderWidth: 1,
-      backgroundColor: "rgba(0,0,0,.125)"
-    }, {
-      data: cases.map((c) => c.recovered),
-      type: "line",
-      backgroundColor: "transparent",
-      borderColor: "rgba(19,189,0,0.75)",
-      borderWidth: 2,
-      pointRadius: 0
-    }, {
-      data: cases.map((c) => c.deaths),
-      type: "line",
-      backgroundColor: "transparent",
-      borderColor: "rgba(255, 99, 132, 0.75)",
-      borderWidth: 2,
-      pointRadius: 0
+      backgroundColor: "rgba(0,0,0,.25)"
     }]
   };
 };
@@ -130,47 +116,51 @@ export default {
     };
   },
   mounted: async function() {
-    this.loaded = false;
+    await this.updateChart("confirmed");
+  },
+  methods: {
+    updateChart: async function(dataType) {
+      this.loaded = false;
 
-    let lcData = JSON.parse(localStorage.getItem("covidData") || null);
-    // const nowInMs = Date.parse(new Date().toUTCString()) + dateParams.timeOffsetInMs;
-    const nowInMs = Date.now() + dateParams.timeOffsetInMs;
-    let refreshData = false;
-    if (lcData && lcData.expires) {
-      refreshData = nowInMs > lcData.expires;
-    } else {
-      refreshData = true;
-    }
-
-    if (refreshData) {
-      const covid19api = `https://api.covid19api.com/country/philippines?from=${dateParams.startDate.toISOString().split("T")[0]}&to=${dateParams.endDate.toISOString().split("T")[0]}`;
-      const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?lastdays=${dateParams.lookbackDays}`;
-
-      let requestData;
-      try {
-        requestData = await axios.get(covid19api);
-        if (!requestData) {
-          throw new Error("retry other source");
-        }
-      } catch (error) {
-        requestData = await axios.get(ninjaApi);
+      let lcData = JSON.parse(localStorage.getItem("covidData") || null);
+      const nowInMs = Date.now() + dateParams.timeOffsetInMs;
+      let refreshData = false;
+      if (lcData && lcData.expires) {
+        refreshData = nowInMs > lcData.expires;
+      } else {
+        refreshData = true;
       }
 
-      const {data: rawData} = requestData;
-      const covidData = Array.isArray(rawData) ? fetchFromCovid19(rawData) : fetchFromNinja(rawData);
+      if (refreshData) {
+        const covid19api = `https://api.covid19api.com/country/philippines?from=${dateParams.startDate.toISOString().split("T")[0]}&to=${dateParams.endDate.toISOString().split("T")[0]}`;
+        const ninjaApi = `https://corona.lmao.ninja/v2/historical/philippines?lastdays=${dateParams.lookbackDays}`;
 
-      lcData = {
-        cases: covidData,
-        expires: nowInMs + (1 * 60 * 60 * 1000)
-      };
+        let requestData;
+        try {
+          requestData = await axios.get(covid19api);
+          if (!requestData) {
+            throw new Error("retry other source");
+          }
+        } catch (error) {
+          requestData = await axios.get(ninjaApi);
+        }
 
-      localStorage.setItem("covidData", JSON.stringify(lcData));
+        const {data: rawData} = requestData;
+        const covidData = Array.isArray(rawData) ? fetchFromCovid19(rawData) : fetchFromNinja(rawData);
+
+        lcData = {
+          cases: covidData,
+          expires: nowInMs + (1 * 60 * 60 * 1000)
+        };
+
+        localStorage.setItem("covidData", JSON.stringify(lcData));
+      }
+
+
+      this.chartData = setChartData(lcData.cases.map((c) => ({count: c[dataType], date: c.date})));
+      this.chartOptions = getChartOptions();
+      this.loaded = true;
     }
-
-
-    this.chartData = setChartData(lcData.cases);
-    this.chartOptions = getChartOptions();
-    this.loaded = true;
   }
 };
 </script>
