@@ -1,9 +1,9 @@
 {
-  "name": "victor-hugo",
+  "name": "laligafilipina.com",
   "version": "1.0.0",
-  "description": "Victor Hugo is a Hugo boilerplate for creating truly epic websites!",
-  "repository": "netlify/victor-hugo",
-  "main": "index.js",
+  "description": "www.laligafilipina.com",
+  "repository": "",
+  "main": "index.html",
   "scripts": {
     "lint": "eslint src",
     "start": "run-p start:**",
@@ -16,7 +16,7 @@
     "preview:hugo": "npm run start:hugo -- -D -F",
     "preview:webpack": "npm run start:webpack",
     "prebuild": "rimraf dist",
-    "build": "npm run build:webpack && npm run build:hugo && npm run www",
+    "build": "npm run build:webpack && npm run build:hugo",
     "build:preview": "npm run build:webpack && npm run build:hugo:preview",
     "build:hugo": "hugo -d ../dist -s site -v",
     "build:hugo:preview": "npm run build:hugo -- -D -F",
