@@ -12,7 +12,7 @@
       <li>
         <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['recovered', 'confirmed'], $event.target)">
           Recovery
-          <span class="text-small" style="background-color: rgb(181, 223, 185);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-small" style="background-color: rgb(182, 242, 255);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
             {{recovery}}
           </span>
         </label>
@@ -144,7 +144,7 @@ const setChartData = function(cases) {
   const colorDictionary = {
     confirmed: "rgba(0,0,0,.08)",
     deaths: "rgba(255, 153, 153, 0.6)",
-    recovered: "rgba(0, 156, 19, 0.3)"
+    recovered: "rgba(136, 214, 230, 0.65)"
   };
 
   return {
