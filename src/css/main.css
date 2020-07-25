@@ -50,9 +50,9 @@ body {
   }
 }
 
-body * {
-  /* border: 1px solid cyan; */
-}
+/* body * {
+  border: 1px solid cyan;
+} */
 
 h1, h2, h3, h4, h5, h6 {
   border-bottom: none;
@@ -119,10 +119,6 @@ hr {
 .header :nth-child(2) {
   flex-basis: 55%;
   color: #000;
-}
-
-.hero {
-  /* background-color: #fafafa; */
 }
 
 .hero h1 {
@@ -257,9 +253,6 @@ hr {
     margin-left: 2rem;
     margin-right: 2rem;
   }
-  .hero h1 {
-    /* font-size: 1.75rem; */
-  }
   .ticker h2 {
     text-align: left;
   }
@@ -310,10 +303,6 @@ hr {
   }
   .header :nth-child(2) {
     flex-basis: 30%;
-  }
-  .page-body {
-    /* background: rgb(255, 255, 255);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgb(245, 245, 245) 100%); */
   }
   .carousel-container {
     display: flex;
