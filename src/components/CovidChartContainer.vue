@@ -2,22 +2,28 @@
   <div>
     <ul class="chart-links inline-block mt-2 mb-0">
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
-          <i style="background-color: rgb(224, 224, 224); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
-          Cases {{"90K"}}
-        </span>
+        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
+          Cases
+          <span class="text-small" style="background-color: rgb(224, 224, 224);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+            {{cases}}
+          </span>
+        </label>
       </li>
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['recovered', 'confirmed'], $event.target)">
-          <i style="background-color: rgb(181, 223, 185); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
-          Recoveries
-        </span>
+        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['recovered', 'confirmed'], $event.target)">
+          Recovery
+          <span class="text-small" style="background-color: rgb(181, 223, 185);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+            {{recovery}}
+          </span>
+        </label>
       </li>
       <li>
-        <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
-          <i style="background-color: rgba(0, 0, 0, .5); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
-          Deaths
-        </span>
+        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'confirmed'], $event.target)">
+          Death
+          <span class="text-small" style="background-color: rgba(255, 153, 153, .6);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+            {{mortality}}
+          </span>
+        </label>
       </li>
     </ul>
     <hr class="mt-0 mb-2" />
@@ -62,7 +68,7 @@ const getChartOptions = function(dataTypes) {
             quarter: "MMM YYYY",
             day: "MMM DD"
           },
-          stepSize: 4
+          stepSize: 6
         },
         ticks: {
           maxRotation: 0,
@@ -94,7 +100,7 @@ const getChartOptions = function(dataTypes) {
           const label = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].toLocaleString();
           switch (dataTypes[tooltipItem.datasetIndex]) {
             case "confirmed":
-              return `${label} Sick`;
+              return `${label} Still Sick`;
             case "recovered":
               return `${label} Recovered`;
             case "deaths":
@@ -137,7 +143,7 @@ const fetchFromNinja = function(covidData) {
 const setChartData = function(cases) {
   const colorDictionary = {
     confirmed: "rgba(0,0,0,.08)",
-    deaths: "rgba(0, 0, 0, 0.6)",
+    deaths: "rgba(255, 153, 153, 0.6)",
     recovered: "rgba(0, 156, 19, 0.3)"
   };
 
@@ -169,7 +175,10 @@ export default {
     return {
       loaded: false,
       chartData: null,
-      chartOptions: null
+      chartOptions: null,
+      cases: "",
+      mortality: "",
+      recovery: ""
     };
   },
   mounted: async function() {
@@ -177,8 +186,8 @@ export default {
   },
   methods: {
     updateChart: async function(dataTypes, chartLink) {
-      if (chartLink && chartLink.nodeName === "I") {
-        chartLink = chartLink.parentNode;
+      if (chartLink && !chartLink.classList.contains("chart-link")) {
+        chartLink = chartLink.closest(".chart-link");
       }
 
       const activeClasses = ["active", "underlined-hed", "text-bold"];
@@ -255,6 +264,19 @@ export default {
       this.chartData = setChartData(chartData);
       this.chartOptions = getChartOptions(dataTypes);
       this.loaded = true;
+
+      const now = lcData.cases.pop();
+      if (!this.cases) {
+        this.cases = parseInt(now.confirmed / 1000) + "K";
+      }
+
+      if (!this.mortality) {
+        this.mortality = parseInt((now.deaths / now.confirmed) * 100) + "%";
+      }
+
+      if (!this.recovery) {
+        this.recovery = parseInt((now.recovered / now.confirmed) * 100) + "%";
+      }
     }
   }
 };
