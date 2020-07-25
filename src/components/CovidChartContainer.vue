@@ -190,7 +190,7 @@ export default {
         chartLink = chartLink.closest(".chart-link");
       }
 
-      const activeClasses = ["active", "underlined-hed", "text-bold"];
+      const activeClasses = ["active", "underlined-hed"];
       if (chartLink) {
         document.querySelector(".chart-link.active").classList.remove(...activeClasses);
         chartLink.classList.add(...activeClasses);
