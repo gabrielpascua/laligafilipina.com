@@ -210,7 +210,6 @@ hr {
 
 .carousel .carousel-item:hover .media-overlay {
   opacity: .8;
-  border: 3px solid rgba(255,255,255,1);
 }
 
 .carousel .carousel-item:last-child {

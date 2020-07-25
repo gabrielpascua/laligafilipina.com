@@ -207,11 +207,18 @@ export default {
         localStorage.setItem("covidData", JSON.stringify(lcData));
       }
 
+      const maxSubtract = dataTypes.length - 1; //confirmed is always last
       const chartData = dataTypes.map((dt) => {
         if (dt === "confirmed") {
           return {
             type: dt,
-            data: lcData.cases.map((c) => ({count: c[dt], date: c.date}))
+            data: lcData.cases.map((c) => {
+              let count = c[dt];
+              for (let i = 0; i < maxSubtract; i++) {
+                count -= c[dataTypes[i]];
+              }
+              return {count, date: c.date};
+            })
           };
         } else {
           return {
