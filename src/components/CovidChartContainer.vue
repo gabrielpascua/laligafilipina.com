@@ -4,7 +4,7 @@
       <li>
         <span class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
           <i style="background-color: rgb(224, 224, 224); padding: 0 0.35rem; font-size: 0.75rem; margin-right: .25rem;">&nbsp;</i>
-          Cases
+          Cases {{"90K"}}
         </span>
       </li>
       <li>
@@ -49,7 +49,7 @@ const dateParams = (function() {
   };
 })();
 
-const getChartOptions = function() {
+const getChartOptions = function(dataTypes) {
   return {
     scales: {
       xAxes: [{
@@ -78,6 +78,30 @@ const getChartOptions = function() {
         },
         stacked: true
       }]
+    },
+    tooltips: {
+      displayColors: false,
+      callbacks: {
+        title: function(tooltipItem, data) {
+          const title = data.labels[tooltipItem[0].index] || "";
+          let allCases = 0;
+          data.datasets.forEach((ds) => {
+            allCases += ds.data[tooltipItem[0].index];
+          });
+          return `Date: ${title.split("T")[0]}\nTotal: ${allCases.toLocaleString()}`;
+        },
+        label: function(tooltipItem, data) {
+          const label = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].toLocaleString();
+          switch (dataTypes[tooltipItem.datasetIndex]) {
+            case "confirmed":
+              return `${label} Sick`;
+            case "recovered":
+              return `${label} Recovered`;
+            case "deaths":
+              return `${label} Dead`;
+          }
+        }
+      }
     },
     legend: {
       display: false
@@ -113,7 +137,7 @@ const fetchFromNinja = function(covidData) {
 const setChartData = function(cases) {
   const colorDictionary = {
     confirmed: "rgba(0,0,0,.08)",
-    deaths: "rgba(0, 0, 0, 0.4)",
+    deaths: "rgba(0, 0, 0, 0.6)",
     recovered: "rgba(0, 156, 19, 0.3)"
   };
 
@@ -229,7 +253,7 @@ export default {
       });
 
       this.chartData = setChartData(chartData);
-      this.chartOptions = getChartOptions();
+      this.chartOptions = getChartOptions(dataTypes);
       this.loaded = true;
     }
   }
