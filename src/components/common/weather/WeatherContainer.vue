@@ -23,7 +23,6 @@ const getWeatherData = async function() {
   const now = new Date().toISOString();
   const [date, time] = now.split("T");
   const timeKey = `${date}T${time.split(":")[0]}:00:00Z`;
-  console.log({ timeKey });
 
   let weatherData = timeseries.find((t) => t.time === timeKey);
   if (!weatherData) {
