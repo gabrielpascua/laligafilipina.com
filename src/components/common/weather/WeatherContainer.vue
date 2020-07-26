@@ -9,25 +9,31 @@ import Weather from "./Weather.vue";
 
 const getTimeSeries = async function() {
   const {data} = await axios("https://api.met.no/weatherapi/locationforecast/2.0/compact?lat=12.8797&lon=121.7740");
-  localStorage.setItem("weather", JSON.stringify(data.properties.timeseries));
-  return data.properties.timeseries;
+  const localizedData = {
+    timeseries: data.properties.timeseries,
+    expires: Date.now() + (24 * 60 * 60 * 1000)
+  };
+  localStorage.setItem("weather", JSON.stringify(localizedData));
+  return localizedData;
 };
 
 const getWeatherData = async function() {
-  let timeseries = JSON.parse(localStorage.getItem("weather") || null);
+  let data = JSON.parse(localStorage.getItem("weather") || null) || {};
 
-  if (!timeseries) {
-    timeseries = await getTimeSeries();
+  if (!data.timeseries) {
+    data = await getTimeSeries();
+  } else if (Date.now() > data.expires) {
+    data = await getTimeSeries();
   }
 
   const now = new Date().toISOString();
   const [date, time] = now.split("T");
   const timeKey = `${date}T${time.split(":")[0]}:00:00Z`;
 
-  let weatherData = timeseries.find((t) => t.time === timeKey);
+  let weatherData = data.timeseries.find((t) => t.time === timeKey);
   if (!weatherData) {
-    timeseries = await getTimeSeries();
-    weatherData = timeseries.find((t) => t.time === timeKey);
+    data = await getTimeSeries();
+    weatherData = data.timeseries.find((t) => t.time === timeKey);
   }
 
   return {
