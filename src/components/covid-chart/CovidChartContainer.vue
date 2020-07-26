@@ -12,7 +12,7 @@
       <li>
         <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['recovered', 'confirmed'], $event.target)">
           Recovery
-          <span class="text-small" style="background-color: rgb(182, 242, 255);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-small text-white" style="background-color: rgba(0, 56, 168, 1);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
             {{recovery}}
           </span>
         </label>
@@ -20,7 +20,7 @@
       <li>
         <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'confirmed'], $event.target)">
           Death
-          <span class="text-small" style="background-color: rgba(255, 153, 153, .6);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-small text-white" style="background-color: rgba(206, 17, 38	, 1);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
             {{mortality}}
           </span>
         </label>
@@ -143,8 +143,8 @@ const fetchFromNinja = function(covidData) {
 const setChartData = function(cases) {
   const colorDictionary = {
     confirmed: "rgba(0,0,0,.08)",
-    deaths: "rgba(255, 153, 153, 0.6)",
-    recovered: "rgba(136, 214, 230, 0.65)"
+    deaths: "rgba(206, 17, 38	, 0.75)",
+    recovered: "rgba(0, 56, 168, .75)"
   };
 
   return {
