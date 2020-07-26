@@ -54,6 +54,7 @@
 .text-small { font-size: .75rem; }
 .text-hed { font-size: .75rem; text-transform: uppercase; font-weight: bold;}
 .text-bold { font-weight: bold; }
+.text-white { color: var(--white) }
 
 .transition-ease-all {
     transition: all 0.2s ease;
