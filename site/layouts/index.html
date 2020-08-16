@@ -1,23 +1,26 @@
 {{- define "main" }}
 
+{{- with .Site.Data.home.latest.hero -}}
 <section class="hero pb-3 pt-2">
     <div class="container">
-        <h1 class="mb-0 text-center">Corona Virus Cases</h1>
-        <p class="mt-0 text-center">COVID-19 Cases for a six-week period</p>
-        <covid-chart-container />
+        <h1 class="mb-0 text-center">{{ .title }}</h1>
+        <p class="mt-0 text-center">{{ .description }}</p>
+        {{ .content | safeHTML }}
     </div>
 </section>
+{{- end -}}
 
+{{- with .Site.Data.home.latest.ticker -}}
 <section class="ticker bg-light mb-2">
     <div class="container">
         <div class="ticker-item">
-            <a href="#" class="ticker-primary-content">
+            <a href="{{ .primary.url }}" class="ticker-primary-content">
                 <div class="ticker-primary-image">
-                    <img src="/images/ticker-news.jpg" />
+                    <img src="{{ .primary.image }}" alt="{{ .primary.title }}" />
                 </div>
                 <div class="ticker-primary-text">
-                    <h2 class="pt-0 mt-0">Robredo on Anti-Terror Act: ‘Why pass it during pandemic, amid opposition?’</h2>
-                    <p>MANILA—Vice-President Leni Robredo on Saturday denounced the passage of the anti-terror bill amid calls to scrap the measure while the country continued to grapple with the COVID-19 crisis.</p>
+                    <h2 class="pt-0 mt-0">{{ .primary.title }}</h2>
+                    <p>{{ .primary.title }}</p>
                 </div>
             </a>
             
@@ -27,57 +30,39 @@
                 <span class="ticker-arrows transition-ease-all">+</span>
                 <hr />
                 <ul class="link-arrows transition-ease-all">
-                    <li>
-                        <a href="#">List of lawmakers who voted for and against ABS-CBN franchise renewal</a>
-                    </li>
-                    <li>
-                        <a href="#">Vilma Santos wonders why suddenly only 11 voted to renew ABS-CBN franchise</a>
-                    </li>
-                    <li>
-                        <a href="#">DILG calls for ordinances to jail quarantine violators</a>
-                    </li>
+                    {{- range .secondary }}
+                    <li><a href="{{ .url }}">{{ .title }}</a></li>
+                    {{ end -}}
                 </ul>
             </div>
         </div>
     </div>
 </section>
+{{- end -}}
 
+{{- with .Site.Data.home.latest.carousel -}}
 <div class="carousel">
     <div class="container">
         <h2 class="underlined-hed text-hed pb-1">Featured</h2>
         <hr class="mb-1 mt-0" />
         <div class="carousel-container">
-            <a href="https://www.youtube.com/watch?v=yw8a8n7ZAZg" class="carousel-item">
+            {{- range . }}
+            <a href="{{ .url }}" class="carousel-item">
                 <div class="carousel-image">
-                    <img src="/images/maxresdefault.jpg" alt="Why the US has so many Filipino nurses Thumbnail" />
+                    <img src="{{ .image }}" alt="{{ .title }}" />
+                    {{- if eq .type "video" -}}
                     <div class="media-overlay"><div class="play-arrow"></div></div>
+                    {{- end -}}
                 </div>
                 <div class="carousel-text">
-                    <h3>Why the US has so many Filipino nurses</h3>
-                    <p>The US colonized a country and built a labor supply - Vox Media</p>
+                    <h3>{{ .title }}</h3>
+                    <p>{{ .description }}</p>
                 </div>
             </a>
-            <a href="https://www.youtube.com/watch?v=7ZcoBFeiuA8" class="carousel-item">
-                <div class="carousel-image">
-                    <img src="/images/hqdefault.jpg" alt="Rethinking Filipino Food by Going to Muslim Thumbnail" />
-                    <div class="media-overlay"><div class="play-arrow"></div></div>
-                </div>
-                <div class="carousel-text">
-                    <h3>Rethinking Filipino Food by Going to Muslim Mindanao</h3>
-                    <p>The Philippines, home to over 7,600 islands struggles to forge an inclusive national identity. - Al Jazeera</p>
-                </div>
-            </a>
-            <a href="https://en.wikipedia.org/wiki/The_Kingmaker_(film)" class="carousel-item">
-                <div class="carousel-image">
-                    <img src="/images/The_Kingmaker_documentary_poster.jpg" alt="‘The Kingmaker’: The Power and Vainglory of Imelda Marcos Thumbnail" />
-                </div>
-                <div class="carousel-text">
-                    <h3>‘The Kingmaker’: The Power and Vainglory of Imelda Marcos</h3>
-                    <p>Lauren Greenfield turns a cool, clinical eye on the seemingly unsinkable, unstoppable former first lady of the Philippines.</p>
-                </div>
-            </a>
+            {{ end -}}
         </div>
     </div>
 </div>
+{{- end -}}
 
 {{- end -}}
