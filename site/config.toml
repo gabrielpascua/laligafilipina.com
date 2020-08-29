@@ -6,4 +6,9 @@ title = "La Liga Filipina"
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
 # https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS", "taxonomyTerm"]
+
+# https://gohugo.io/content-management/taxonomies/
+[taxonomies]
+  category = "categories"
+  tag = "tags"
