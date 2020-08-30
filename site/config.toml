@@ -12,3 +12,6 @@ disableKinds = ["RSS", "taxonomyTerm"]
 [taxonomies]
   category = "categories"
   tag = "tags"
+
+[permalinks]
+  posts = "/:year/:month/:title/"
