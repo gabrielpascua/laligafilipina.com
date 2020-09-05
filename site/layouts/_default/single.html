@@ -1,7 +1,12 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
 <article class="content">
-  <main class="container">
-    {{- .Content -}}
+  <main class="container pt-1 pl-1 pr-1">
+    <section class="markdown">
+      <!-- <textarea>{{ printf "%#v" $.Site }}</textarea> -->
+      <h1 class="mb-1">{{ .Title }}</h1>
+      <p class="text-faded mb-2">{{ .Description }}</p>
+      {{- .Content -}}
+    </section>
   </main>
 </article>
 {{ end }}
