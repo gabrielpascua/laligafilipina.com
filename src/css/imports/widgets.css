@@ -29,3 +29,13 @@
     top: 25%;
     position: relative;
 }
+
+.tag{
+    background-color: var(--gray);
+    color: var(--white);
+    font-size: .75rem;
+    border-radius: .25rem;
+    margin-right: .25rem;
+    display: inline-block;
+    padding: .125rem .5rem;
+}

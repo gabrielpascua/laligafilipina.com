@@ -2,17 +2,14 @@
 <article class="content">
   <main class="container pt-1 pl-1 pr-1">
     <section class="markdown">
-      <!-- <textarea>{{ printf "%#v" $.Site }}</textarea> -->
       <h1 class="mb-1">{{ .Title }}</h1>
-      <p class="text-faded">{{ .Description }}</p>
+      <p class="mb-2">{{ .Description }}</p>
       {{- .Content -}}
-      <div class="tags mt-3 mb-2">
+      <div class="content-tags mt-3 mb-2">
         {{- with .Params.tags }}
-        <ul id="tags">
           {{ range . }}
-            <li> <a href="{{ "tags" | absURL }}/{{ . | urlize }}">{{ . }}</a> </li>
+            <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="tag">{{ . }}</a>
           {{ end }}
-        </ul>
         {{ end -}}
       </div>
     </section>

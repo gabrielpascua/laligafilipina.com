@@ -23,3 +23,14 @@
 
 ### TODO
 * Sitemap.xml
+
+
+### Frontmatter
+* T - title
+* I - issues
+* L - labels
+* T - tags
+* P - publishDate
+* A - author
+* D - description
+* S - slug
