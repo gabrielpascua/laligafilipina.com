@@ -20,7 +20,7 @@
       <li>
         <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'confirmed'], $event.target)">
           Death
-          <span class="text-small text-white" style="background-color: rgba(206, 17, 38	, 1);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-small text-white" style="background-color: rgba(0,0,0,.75);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
             {{mortality}}
           </span>
         </label>
@@ -39,6 +39,12 @@
 <script>
 import axios from "axios";
 import CovidChart from "./CovidChart.vue";
+
+const colorDictionary = {
+  confirmed: "rgba(0,0,0,.08)",
+  deaths: "rgba(0, 0, 0	, 0.75)",
+  recovered: "rgba(0, 56, 168, .75)"
+};
 
 const dateParams = (function() {
   const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
@@ -141,12 +147,6 @@ const fetchFromNinja = function(covidData) {
 };
 
 const setChartData = function(cases) {
-  const colorDictionary = {
-    confirmed: "rgba(0,0,0,.08)",
-    deaths: "rgba(206, 17, 38	, 0.75)",
-    recovered: "rgba(0, 56, 168, .75)"
-  };
-
   return {
     labels: cases.find((c) => c.type === "confirmed").data.map((c) => c.date),
     datasets: cases.map((ct, i) => {

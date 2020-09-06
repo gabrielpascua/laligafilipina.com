@@ -41,7 +41,7 @@ body {
   -ms-hyphens: auto;
   hyphens: auto;
   max-width: 100%;
-  color: #222;
+  color: var(--black);
   font-size: 15px;
 }
 
@@ -87,7 +87,11 @@ img {
 
 a {
   text-decoration: none;
-  color: var(--black);
+  color: rgba(0,56,168,.75);
+}
+
+a:hover {
+  color: rgba(0,56,168,1);
 }
 
 hr {
