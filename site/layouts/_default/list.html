@@ -1,0 +1,21 @@
+{{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
+<section class="taxonomy">
+  <main class="container pt-1">
+    <h1 class="mb-1">{{ .Title }}</h1>
+    <!---
+      1. Use the data file here
+      2. Data file must have 2 identical - 1 latest.. 1 issue
+    -->
+    {{- .Content -}}
+    <div class="mt-2 mb-3">
+      <ul>
+        {{ range .Pages }}
+            <li>
+                <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+            </li>
+        {{ end }}
+        </ul>
+    </div>
+  </main>
+</section>
+{{ end }}

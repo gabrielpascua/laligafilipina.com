@@ -10,8 +10,9 @@ disableKinds = ["RSS", "taxonomyTerm"]
 
 # https://gohugo.io/content-management/taxonomies/
 [taxonomies]
-  category = "categories"
+  issue = "issues"
   tag = "tags"
+  label = "labels"
 
 [permalinks]
   posts = "/:year/:month/:title/"

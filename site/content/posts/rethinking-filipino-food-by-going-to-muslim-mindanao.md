@@ -3,6 +3,12 @@ title: Rethinking Filipino Food by Going to Muslim Mindanao
 description: Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’s not easy to forge an inclusive national identity. 
 slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 publishDate: 2020-08-30T10:50:23.819Z
+issues: 202009.001
+labels: Featured
+tags:
+  - Food
+  - Tourism
+  - Mindano
 ---
 
 {{< youtubex video-id="7ZcoBFeiuA8" >}}
