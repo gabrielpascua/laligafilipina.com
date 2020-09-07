@@ -4,7 +4,7 @@ description: Filipino nurses have been disproportionately affected by the corona
 slug: why-the-us-has-so-many-filipino-nurses
 publishDate: 2020-08-30T10:50:23.819Z
 author: 
-issues: 202009.001
+issues: "202009.001"
 labels: Featured
 tags:
   - Coronavirus

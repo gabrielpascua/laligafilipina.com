@@ -4,7 +4,7 @@ description: Representation matters. In a nation as diverse as the Philippines, 
 slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 publishDate: 2020-08-30T10:50:23.819Z
 author: 
-issues: 202009.001
+issues: "202009.001"
 labels: Featured
 tags:
   - Food

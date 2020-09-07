@@ -1,0 +1,72 @@
+{{- define "main" }}
+
+{{ with (index .Site.Data.home .Data.Term) }}
+
+  {{- with .hero -}}
+  <section class="hero pb-3 pt-2">
+      <div class="container">
+          <h1 class="mb-0 text-center">{{ .hero.title }}</h1>
+          <p class="mt-0 text-center">{{ .hero.description }}</p>
+          {{ .content | safeHTML }}
+      </div>
+  </section>
+  {{- end -}}
+
+  {{- with .ticker -}}
+  <section class="ticker bg-light mb-2">
+      <div class="container">
+          <div class="ticker-item">
+              <a href="{{ .primary.url }}" class="ticker-primary-content">
+                  <div class="ticker-primary-image">
+                      <img src="{{ .primary.image }}" alt="{{ .primary.title }}" />
+                  </div>
+                  <div class="ticker-primary-text">
+                      <h2 class="pt-0 mt-0">{{ .primary.title }}</h2>
+                      <p class="text-normal">{{ .primary.title }}</p>
+                  </div>
+              </a>
+              
+              <div class="ticker-secondary-content">
+                  <input type="checkbox" id="toggleCoverage" />
+                  <label for="toggleCoverage" class="text-hed pointer">More on this</label>
+                  <span class="ticker-arrows transition-ease-all">+</span>
+                  <hr />
+                  <ul class="link-arrows transition-ease-all">
+                      {{- range .secondary }}
+                      <li><a href="{{ .url }}">{{ .title }}</a></li>
+                      {{ end -}}
+                  </ul>
+              </div>
+          </div>
+      </div>
+  </section>
+  {{- end -}}
+
+  {{- with .carousel -}}
+  <div class="carousel">
+      <div class="container">
+          <h2 class="underlined-hed text-hed pb-1">Featured</h2>
+          <hr class="mb-1 mt-0" />
+          <div class="carousel-container">
+              {{- range . }}
+              <a href="{{ .url }}" class="carousel-item">
+                  <div class="carousel-image">
+                      <img src="{{ .image }}" alt="{{ .title }}" />
+                      {{- if eq .type "video" -}}
+                      <div class="media-overlay"><div class="play-arrow"></div></div>
+                      {{- end -}}
+                  </div>
+                  <div class="carousel-text">
+                      <h3>{{ .title }}</h3>
+                      <p class="text-normal">{{ .description }}</p>
+                  </div>
+              </a>
+              {{ end -}}
+          </div>
+      </div>
+  </div>
+  {{- end -}}
+
+{{- end -}}
+
+{{- end -}}

@@ -1,0 +1,54 @@
+{
+    "hero":{
+        "title": "Corona Virus Cases",
+        "description": "COVID-19 Cases for a six-week period",
+        "content": "<covid-chart-container />",
+        "image": "",
+        "url": ""
+    },
+    "ticker": {
+        "primary": {
+            "title": "Robredo on Anti-Terror Act: ‘Why pass it during pandemic, amid opposition?’",
+            "description": "MANILA—Vice-President Leni Robredo on Saturday denounced the passage of the anti-terror bill amid calls to scrap the measure while the country continued to grapple with the COVID-19 crisis.",
+            "image": "/images/ticker-news.jpg",
+            "url": "/"
+        },
+        "secondary": [
+            {
+                "url": "/",
+                "title": "List of lawmakers who voted for and against ABS-CBN franchise renewal"
+            },
+            {
+                "url": "/",
+                "title": "Vilma Santos wonders why suddenly only 11 voted to renew ABS-CBN franchise"
+            },
+            {
+                "url": "/",
+                "title": "DILG calls for ordinances to jail quarantine violators"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "type": "video",
+            "url": "/2020/08/why-the-us-has-so-many-filipino-nurses",
+            "title": "Why the US has so many Filipino nurses",
+            "description": "The US colonized a country and built a labor supply - Vox Media",
+            "image": "/images/maxresdefault.jpg"
+        },
+        {
+            "type": "video",
+            "url": "/2020/08/rethinking-filipino-food-by-going-to-muslim-mindanao",
+            "title": "Rethinking Filipino Food by Going to Muslim Mindanao",
+            "description": "The Philippines, home to over 7,600 islands struggles to forge an inclusive national identity. - Al Jazeera",
+            "image": "/images/hqdefault.jpg"
+        },
+        {
+            "type": "article",
+            "url": "https://en.wikipedia.org/wiki/The_Kingmaker_(film)",
+            "title": "‘The Kingmaker’: The Power and Vainglory of Imelda Marcos",
+            "description": "Lauren Greenfield turns a cool, clinical eye on the seemingly unsinkable, unstoppable former first lady of the Philippines.",
+            "image": "/images/The_Kingmaker_documentary_poster.jpg"
+        }
+    ]
+}
