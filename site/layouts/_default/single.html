@@ -1,9 +1,18 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
 <article class="content">
-  <main class="container pt-1 pl-1 pr-1">
+  <main class="container pl-1 pr-1">
     <section class="markdown">
-      <h1 class="mb-1">{{ .Title }}</h1>
-      <p class="mb-2">{{ .Description }}</p>
+      <div class="text-center mt-2">
+        <a href="/issues/{{ .Params.issues }}" class="text-faded">
+          <small>{{ .Params.issues }} Issue</small>
+        </a>
+      </div>
+      <h1 class="mt-0">
+        {{ .Title }}
+      </h1>
+      <p class="mb-2">
+        {{ .Description }}
+      </p>
       {{- .Content -}}
       <div class="content-tags mt-3 mb-2">
         {{- with .Params.tags }}

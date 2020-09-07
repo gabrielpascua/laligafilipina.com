@@ -15,7 +15,7 @@ tags:
 {{< youtubex video-id="7ZcoBFeiuA8" >}}
 
 <br />
-<h2 class="text-normal mb-2">Video Highlights</h2>
+<h3 class="text-normal mb-2">Video Highlights</h3>
 
 
 **01:00** - [Lorem ipsum dolor sit amet, consectetur adipiscing elit](javascript:playAt(60);void(0);)
