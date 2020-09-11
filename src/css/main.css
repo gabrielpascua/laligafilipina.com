@@ -68,6 +68,19 @@ h1, h2, h3, h4, h5, h6 {
   border-bottom: 1px solid var(--border-color);
 }
 
+.page-topnav{
+  border-bottom: 1px solid var(--border-color);
+  padding: .5rem;
+}
+
+.page-topnav a{
+  margin-right: 1.5rem;
+}
+
+.page-topnav a:last-of-type{
+  margin-right: 0;
+}
+
 .page-body {
   padding-bottom: 2rem;
   background: rgb(255, 255, 255);

@@ -16,7 +16,7 @@
     </div>
 </div>
 
-<div class="page-topnav" style="border-bottom: 1px solid var(--border-color); padding: .5rem;">
+<div class="page-topnav">
     <div class="container text-center">
         <!-- <small class="mr-2"><strong>Archives</strong></small>
         <small class="mr-2"><strong>Search</strong></small>
@@ -25,7 +25,7 @@
         <!-- <strong>Tunay at Totoo Para sa Pilipino</strong> -->
     {{- with .Site.Data.nav.tags -}}
     {{ range .}}
-    <a href="/tags/{{.slug}}" class="text-normal mr-2">
+    <a href="/tags/{{.slug}}" class="text-normal">
         <strong>
             <small>{{.label}}</small>
         </strong>
