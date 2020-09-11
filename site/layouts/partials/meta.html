@@ -1,1 +1,4 @@
-<meta name="description" content="www.laligafilipina.com" />
+<title>{{ $.Site.Title }}{{- if not $.IsHome -}} - {{ $.Title }}{{- end -}}</title>
+<meta name="description" content="{{ $.Description }}" />
+<meta property="og:title" content="{{$.Title}}" />
+<meta property="og:description" content="{{$.Description}}" />
