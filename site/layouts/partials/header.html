@@ -22,6 +22,15 @@
         <small class="mr-2"><strong>Search</strong></small>
         <small class="mr-2"><strong>About</strong></small>
         <small><strong>Newsletter</strong></small> -->
-        <strong>Tunay at Totoo Para sa Pilipino</strong>
+        <!-- <strong>Tunay at Totoo Para sa Pilipino</strong> -->
+    {{- with .Site.Data.nav.tags -}}
+    {{ range .}}
+    <a href="/tags/{{.slug}}" class="text-normal mr-2">
+        <strong>
+            <small>{{.label}}</small>
+        </strong>
+    </a>
+    {{ end }}
+    {{- end -}}
     </div>
 </div>
