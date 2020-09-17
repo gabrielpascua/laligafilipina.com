@@ -18,22 +18,22 @@ slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 <h3 class="text-normal mb-2">Video Highlights</h3>
 
 
-**01:00** - [Lorem ipsum dolor sit amet, consectetur adipiscing elit](javascript:playAt(60);void(0);)
+**02:05** - [BARMM - The Food Basket of the Philipipnes](javascript:playAt(125);void(0);)
 
-**02:00** - [Mauris sit amet luctus ante, eget rhoncus ligula. Ut eget lobortis nisl](javascript:playAt(120);void(0);)
+**05:40** - [Mindanao's history of fighting colonizers](javascript:playAt(340);void(0);)
 
-**03:00** - [Nam vulputate quam id mi fermentum, vel scelerisque orci dapibus](javascript:playAt(60);void(0);)
+**06:50** - [Taking up arms for an independent Muslim state](javascript:playAt(410);void(0);)
 
-**04:00** - [Nunc sed elementum risus, ac finibus nulla](javascript:playAt(60);void(0);)
+**08:30** - [The destruction of the 2017 Battle of Marawi](javascript:playAt(510);void(0);)
 
-**05:00** - [Maecenas congue nisl nec ex malesuada sollicitudin.](javascript:playAt(60);void(0);)
+**10:45** - [Displaced refugees of war](javascript:playAt(645);void(0);)
 
-**06:00** - [Duis consequat quis tortor non sodales.](javascript:playAt(60);void(0);)
+**12:07** - [The effects of Martial Law](javascript:playAt(727);void(0);)
 
-**07:00** - [Nullam nunc erat, auctor id massa ac, dictum dignissim leo.](javascript:playAt(60);void(0);)
+**13:12** - [The resiliency of the Maranao's](javascript:playAt(792);void(0);)
 
-**08:00** - [Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae](javascript:playAt(60);void(0);)
+**16:25** - [Changing public perception of Muslim's in Mindanao](javascript:playAt(985);void(0);)
 
-**09:11** - [Sed et congue nulla, eget porta ipsum. Sed egestas tellus et laoreet rutrum.](javascript:playAt(60);void(0);)
+**17:28** - [What's your fish?](javascript:playAt(1048);void(0);)
 
-**10:31** - [Ut in ultricies purus. Suspendisse a finibus purus.](javascript:playAt(60);void(0);)
+**21:30** - [Who is a Filipino?](javascript:playAt(1290);void(0);)
