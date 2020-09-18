@@ -171,6 +171,7 @@ const setChartData = function(cases) {
 export default {
   name: "CovidChartContainer",
   components: {CovidChart},
+  props: ["source"],
   data: function() {
     return {
       loaded: false,
@@ -209,7 +210,7 @@ export default {
         refreshData = true;
       }
 
-      if (refreshData) {
+      if (refreshData && !this.source) {
         const covParams = new URLSearchParams();
         covParams.append("from", dateParams.startDate.toISOString().split("T")[0]);
         covParams.append("to", dateParams.endDate.toISOString().split("T")[0]);
@@ -238,6 +239,9 @@ export default {
         };
 
         localStorage.setItem("covidData", JSON.stringify(lcData));
+      } else if (this.source) {
+        const requestData = await axios.get(this.source);
+        lcData = requestData.data;
       }
 
       const maxSubtract = dataTypes.length - 1; //confirmed is always last

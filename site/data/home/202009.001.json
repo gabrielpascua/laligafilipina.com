@@ -2,7 +2,7 @@
     "hero":{
         "title": "Corona Virus Cases",
         "description": "COVID-19 Cases for a six-week period",
-        "content": "<covid-chart-container />",
+        "content": "<covid-chart-container source='/data/covid-archive.json' />",
         "image": "",
         "url": ""
     },
