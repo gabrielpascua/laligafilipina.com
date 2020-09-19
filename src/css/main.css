@@ -161,6 +161,13 @@ hr {
   text-align: center;
 }
 
+.ticker-lead{
+  text-align: center;
+  margin-bottom: .5rem;
+  color: #000;
+  font-weight: bold;
+}
+
 .ticker-item {
   padding: 2rem;
 }
@@ -296,6 +303,9 @@ hr {
   }
   .carousel .carousel-text {
     flex-basis: 63%;
+  }
+  .ticker-lead{
+    text-align: left;
   }
   .ticker-item {
     position: relative;

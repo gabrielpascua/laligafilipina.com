@@ -8,23 +8,24 @@
     },
     "ticker": {
         "primary": {
-            "title": "Robredo on Anti-Terror Act: ‘Why pass it during pandemic, amid opposition?’",
-            "description": "MANILA—Vice-President Leni Robredo on Saturday denounced the passage of the anti-terror bill amid calls to scrap the measure while the country continued to grapple with the COVID-19 crisis.",
-            "image": "/images/ticker-news.jpg",
-            "url": "/"
+            "lead": "Released After 6 Years",
+            "title": "He Killed a Transgender Woman in the Philippines. Why Was He Freed?",
+            "description": "The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.",
+            "image": "https://static01.nyt.com/images/2020/09/17/magazine/17atwar-marine-pardon-5/merlin_176720751_da532d26-4714-4d28-9289-9ec914e327d3-facebookJumbo.jpg",
+            "url": "https://www.nytimes.com/2020/09/17/magazine/philippines-marine-pardon-duterte.html"
         },
         "secondary": [
             {
-                "url": "/",
-                "title": "List of lawmakers who voted for and against ABS-CBN franchise renewal"
+                "url": "https://heavy.com/news/2020/09/jennifer-laude-joseph-pemberton/",
+                "title": "Jennifer Laude: U.S Marine Deported After Killing Filipino Trans-Woman"
             },
             {
-                "url": "/",
-                "title": "Vilma Santos wonders why suddenly only 11 voted to renew ABS-CBN franchise"
+                "url": "https://mb.com.ph/2020/09/12/pemberton-paid-p4-6m-civil-damages-with-his-salary-lawyer/",
+                "title": "Pemberton paid P4.6M civil damages with his salary – lawyer - Manila Bulletin"
             },
             {
-                "url": "/",
-                "title": "DILG calls for ordinances to jail quarantine violators"
+                "url": "https://www.usatoday.com/story/news/world/2020/09/13/joseph-scott-pemberton-marine-deported-philippines-after-killing/5785522002/",
+                "title": "Philippines deports US Marine convicted of killing transgender woman in 2014"
             }
         ]
     },
@@ -33,22 +34,22 @@
             "type": "video",
             "url": "/2020/08/why-the-us-has-so-many-filipino-nurses",
             "title": "Why the US has so many Filipino nurses",
-            "description": "The US colonized a country and built a labor supply - Vox Media",
-            "image": "/images/maxresdefault.jpg"
+            "description": "The US colonized a country and built a labor supply. Filipino nurses have been disproportionately affected...",
+            "image": "https://i.ytimg.com/vi/yw8a8n7ZAZg/maxresdefault.jpg"
+        },
+        {
+            "type": "article",
+            "url": "https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms",
+            "title": "PHOTOS: Why The Philippines Has So Many Teen Moms",
+            "description": "Over a 10-year period, 1.2 million Filipina girls between the ages of 10 and 19 have had a child. The government is trying to change things. But the pandemic has made matters worse.",
+            "image": "https://media.npr.org/assets/img/2020/08/20/hrm_ralyn--20-55_wide-c423a7e7e9b4492f530efe377e0a7f8d1ff97a7f.jpg"
         },
         {
             "type": "video",
             "url": "/2020/08/rethinking-filipino-food-by-going-to-muslim-mindanao",
             "title": "Rethinking Filipino Food by Going to Muslim Mindanao",
-            "description": "The Philippines, home to over 7,600 islands struggles to forge an inclusive national identity. - Al Jazeera",
-            "image": "/images/hqdefault.jpg"
-        },
-        {
-            "type": "article",
-            "url": "https://en.wikipedia.org/wiki/The_Kingmaker_(film)",
-            "title": "‘The Kingmaker’: The Power and Vainglory of Imelda Marcos",
-            "description": "Lauren Greenfield turns a cool, clinical eye on the seemingly unsinkable, unstoppable former first lady of the Philippines.",
-            "image": "/images/The_Kingmaker_documentary_poster.jpg"
+            "description": "Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’...",
+            "image": "https://i.ytimg.com/vi/7ZcoBFeiuA8/hqdefault.jpg"
         }
     ]
 }
