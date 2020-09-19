@@ -314,7 +314,7 @@ hr {
   }
   .ticker-item .ticker-primary-image {
     display: block;
-    margin-top: 0;
+    margin-top: 2rem;
     position: absolute;
     float: none;
     right: 0;
