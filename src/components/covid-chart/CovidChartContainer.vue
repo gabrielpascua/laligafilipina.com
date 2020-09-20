@@ -2,25 +2,25 @@
   <div>
     <ul class="chart-links inline-block mt-2 mb-0">
       <li>
-        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
           Cases
-          <span class="text-small" style="background-color: rgb(224, 224, 224);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span :style="setLabelStyle('confirmed')">
             {{cases}}
           </span>
         </label>
       </li>
       <li>
-        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['recovered', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['recovered', 'confirmed'], $event.target)">
           Recovery
-          <span class="text-small text-white" style="background-color: rgba(0, 56, 168, 1);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-white" :style="setLabelStyle('recovered')">
             {{recovery}}
           </span>
         </label>
       </li>
       <li>
-        <label class="chart-link pointer" style="padding:0 2rem .5rem 0" @click="updateChart(['deaths', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
           Death
-          <span class="text-small text-white" style="background-color: rgba(0,0,0,.75);display: inline-block;padding: 0px 0.25rem;text-align: center;min-width: 30px;">
+          <span class="text-white" :style="setLabelStyle('deaths')">
             {{mortality}}
           </span>
         </label>
@@ -37,6 +37,7 @@
 </template>
 
 <script>
+import Vue from "vue";
 import axios from "axios";
 import CovidChart from "./CovidChart.vue";
 
@@ -45,6 +46,14 @@ const colorDictionary = {
   deaths: "rgba(0, 0, 0	, 0.75)",
   recovered: "rgba(0, 56, 168, .75)"
 };
+
+Vue.component("todo-item", {
+  // The todo-item component now accepts a
+  // "prop", which is like a custom attribute.
+  // This prop is called todo.
+  props: ["todo"],
+  template: "<li>{{ todo.text }}</li>"
+});
 
 const dateParams = (function() {
   const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
@@ -281,6 +290,16 @@ export default {
       if (!this.recovery) {
         this.recovery = parseInt((now.recovered / now.confirmed) * 100) + "%";
       }
+    }
+    ,
+    setLabelStyle: function(colorDictionaryValue) {
+      return `
+        background-color: ${colorDictionary[colorDictionaryValue]};
+        display: inline-block;
+        padding: 0px 0.25rem;
+        text-align: center;
+        min-width: 30px;
+      `;
     }
   }
 };
