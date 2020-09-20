@@ -7,8 +7,9 @@ const VueLoaderPlugin = require("vue-loader/lib/plugin");
 
 module.exports = {
   entry: {
-    main: path.join(__dirname, "src", "index.js"),
-    app: path.join(__dirname, "src", "app.js")
+    main: path.join(__dirname, "src", "main.js"),
+    appDependencies: path.join(__dirname, "src", "app-dependencies.js"),
+    appVue: path.join(__dirname, "src", "app-vue.js")
   },
 
   output: {
