@@ -104,6 +104,7 @@ const getChartOptions = function(dataTypes) {
       displayColors: false,
       callbacks: {
         title: function(tooltipItem, data) {
+          if (!data) { return; }
           const title = data.labels[tooltipItem[0].index] || "";
           let allCases = 0;
           data.datasets.forEach((ds) => {
@@ -112,6 +113,7 @@ const getChartOptions = function(dataTypes) {
           return `Date: ${title.split("T")[0]}\nTotal: ${allCases.toLocaleString()}`;
         },
         label: function(tooltipItem, data) {
+          if (!data) { return; }
           const label = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index].toLocaleString();
           switch (dataTypes[tooltipItem.datasetIndex]) {
             case "confirmed":
