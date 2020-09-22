@@ -23,7 +23,7 @@
 
 ### TODO
 * Sitemap.xml
-
+* Image Loader
 
 ### Frontmatter
 * T - title
