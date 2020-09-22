@@ -11,7 +11,7 @@
             "lead": "Released After 6 Years",
             "title": "He Killed a Transgender Woman in the Philippines. Why Was He Freed?",
             "description": "The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.",
-            "image": "https://heavy.com/wp-content/uploads/2020/09/GettyImages-464198654-e1600136685564.jpg?quality=65&strip=all",
+            "image": "/images/issues/202009.001/GettyImages-464198654-e1600136685564.jpg",
             "url": "https://www.nytimes.com/2020/09/17/magazine/philippines-marine-pardon-duterte.html"
         },
         "secondary": [
@@ -35,21 +35,21 @@
             "url": "/2020/08/why-the-us-has-so-many-filipino-nurses",
             "title": "Why the US has so many Filipino nurses",
             "description": "The US colonized a country and built a labor supply. Filipino nurses have been disproportionately affected...",
-            "image": "https://i.ytimg.com/vi/yw8a8n7ZAZg/maxresdefault.jpg"
+            "image": "/images/issues/202009.001/maxresdefault.jpg"
         },
         {
             "type": "article",
             "url": "https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms",
             "title": "PHOTOS: Why The Philippines Has So Many Teen Moms",
             "description": "Over a 10-year period, 1.2 million Filipina girls between the ages of 10 and 19 have had a child. The government is trying to change things. But the pandemic has made matters worse.",
-            "image": "https://media.npr.org/assets/img/2020/08/20/hrm_ralyn--20-55_wide-c423a7e7e9b4492f530efe377e0a7f8d1ff97a7f.jpg"
+            "image": "/images/issues/202009.001/hrm_ralyn--20-55_wide-c423a7e7e9b4492f530efe377e0a7f8d1ff97a7f.jpg"
         },
         {
             "type": "video",
             "url": "/2020/08/rethinking-filipino-food-by-going-to-muslim-mindanao",
             "title": "Rethinking Filipino Food by Going to Muslim Mindanao",
             "description": "Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’...",
-            "image": "https://i.ytimg.com/vi/7ZcoBFeiuA8/hqdefault.jpg"
+            "image": "/images/issues/202009.001/hqdefault.jpg"
         }
     ]
 }
