@@ -94,7 +94,11 @@ const getChartOptions = function(dataTypes) {
       yAxes: [{
         ticks: {
           callback: function(value, index, values) {
-            return value.toLocaleString();
+            if (value > 999) {
+              return parseInt(value / 1000) + "K";
+            }
+
+            return value;
           }
         },
         stacked: true
