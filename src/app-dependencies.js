@@ -3,3 +3,7 @@
 // used for async-await, else "regeneratorRuntime error is not defined"
 // error will manifest
 import "regenerator-runtime/runtime";
+import Vue from "vue";
+import "lazysizes";
+
+export {Vue};
