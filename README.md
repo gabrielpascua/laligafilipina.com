@@ -23,6 +23,7 @@
 
 ### TODO
 * Sitemap.xml
+* Code split vue
 
 ### Frontmatter
 * T - title
