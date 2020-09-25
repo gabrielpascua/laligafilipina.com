@@ -142,7 +142,7 @@ const fetchFromCovid19 = function(covidData) {
     confirmed: c.Confirmed,
     deaths: c.Deaths,
     recovered: c.Recovered,
-    date: new Date(Date.parse(c.Date) + dateParams.timeOffsetInMs)
+    date: new Date(Date.parse(c.Date) + dateParams.timeOffsetInMs).toISOString()
   }));
 };
 
@@ -155,7 +155,7 @@ const fetchFromNinja = function(covidData) {
       confirmed: covidData.timeline.cases[key],
       deaths: covidData.timeline.deaths[key],
       recovered: covidData.timeline.recovered[key],
-      date: new Date(Date.parse(key) + dateParams.timeOffsetInMs)
+      date: new Date(Date.parse(key) + dateParams.timeOffsetInMs).toISOString()
     });
   }
   return transformedData;
@@ -186,7 +186,6 @@ const setChartData = function(cases) {
 export default {
   name: "CovidChartContainer",
   components: {CovidChart},
-  props: ["source"],
   data: function() {
     return {
       loaded: false,
@@ -225,7 +224,18 @@ export default {
         refreshData = true;
       }
 
-      if (refreshData && !this.source) {
+      const dataSource = this.$route.params.issueNumber ? `/data/home/${this.$route.params.issueNumber}.json` : "";
+      if (dataSource) {
+        try {
+          const requestData = await axios.get(dataSource);
+          lcData = requestData.data;
+          refreshData = false;
+        } catch {
+          refreshData = true;
+        }
+      }
+
+      if (refreshData) {
         const covParams = new URLSearchParams();
         covParams.append("from", dateParams.startDate.toISOString().split("T")[0]);
         covParams.append("to", dateParams.endDate.toISOString().split("T")[0]);
@@ -254,9 +264,6 @@ export default {
         };
 
         localStorage.setItem("covidData", JSON.stringify(lcData));
-      } else if (this.source) {
-        const requestData = await axios.get(this.source);
-        lcData = requestData.data;
       }
 
       const maxSubtract = dataTypes.length - 1; //confirmed is always last
@@ -283,7 +290,6 @@ export default {
       this.chartData = setChartData(chartData);
       this.chartOptions = getChartOptions(dataTypes);
       this.loaded = true;
-
       const now = lcData.cases.pop();
       if (!this.cases) {
         this.cases = parseInt(now.confirmed / 1000) + "K";

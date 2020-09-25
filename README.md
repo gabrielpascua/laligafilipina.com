@@ -24,6 +24,7 @@
 ### TODO
 * Sitemap.xml
 * Code split vue
+* Fix Mobile wrapping
 
 ### Frontmatter
 * T - title

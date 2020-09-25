@@ -2,7 +2,7 @@
     <div class="container">
         <div class="header">
             <section class="text-small">
-                <day-name />
+                <router-view name="dayName" />
             </section>
             <section class="text-center logo">
                 <a href="/">
@@ -10,7 +10,7 @@
                 </a>
             </section>
             <section class="text-right text-small">
-                <weather-container class="text-capitalize" />
+                <router-view name="weatherContainer"></router-view>
             </section>
         </div>
     </div>
