@@ -2,7 +2,7 @@
   <div>
     <ul class="chart-links inline-block mt-2 mb-0">
       <li>
-        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-1 pb-1" @click="updateChart(['deaths', 'recovered', 'confirmed'], $event.target)">
           Cases
           <span :style="setLabelStyle('confirmed')">
             {{cases}}
@@ -10,7 +10,7 @@
         </label>
       </li>
       <li>
-        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['recovered', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-1 pb-1" @click="updateChart(['recovered', 'confirmed'], $event.target)">
           Recovery
           <span class="text-white" :style="setLabelStyle('recovered')">
             {{recovery}}
@@ -18,7 +18,7 @@
         </label>
       </li>
       <li>
-        <label class="chart-link pointer pr-2 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
+        <label class="chart-link pointer pr-1 pb-1" @click="updateChart(['deaths', 'confirmed'], $event.target)">
           Death
           <span class="text-white" :style="setLabelStyle('deaths')">
             {{mortality}}
@@ -29,15 +29,15 @@
     <hr class="mt-0 mb-2" />
     <covid-chart
       v-if="loaded"
-      :height="180"
       :chart-data="chartData"
+      :height="180"
       :options="chartOptions"
+      :styles="{position:'relative', width:'calc(100% - 1px)'}"
     />
   </div>
 </template>
 
 <script>
-import Vue from "vue";
 import axios from "axios";
 import CovidChart from "./CovidChart.vue";
 
@@ -46,14 +46,6 @@ const colorDictionary = {
   deaths: "rgba(0, 0, 0	, 0.75)",
   recovered: "rgba(0, 56, 168, .75)"
 };
-
-Vue.component("todo-item", {
-  // The todo-item component now accepts a
-  // "prop", which is like a custom attribute.
-  // This prop is called todo.
-  props: ["todo"],
-  template: "<li>{{ todo.text }}</li>"
-});
 
 const dateParams = (function() {
   const timeOffsetInMs = 8 * 60 * 60 * 1000; // UTC+8
@@ -133,7 +125,11 @@ const getChartOptions = function(dataTypes) {
     legend: {
       display: false
     },
-    responsive: true
+    responsive: true,
+    responsiveAnimationDuration: 0,
+    animation: {
+      duration: 0
+    }
   };
 };
 
