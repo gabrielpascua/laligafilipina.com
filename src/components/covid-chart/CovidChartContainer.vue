@@ -30,9 +30,9 @@
     <covid-chart
       v-if="loaded"
       :chart-data="chartData"
-      :height="180"
       :options="chartOptions"
-      :styles="{position:'relative', width:'calc(100% - 1px)'}"
+      :width="350"
+      :styles="computedStyle"
     />
   </div>
 </template>
@@ -126,10 +126,11 @@ const getChartOptions = function(dataTypes) {
       display: false
     },
     responsive: true,
-    responsiveAnimationDuration: 0,
-    animation: {
-      duration: 0
-    }
+    // responsiveAnimationDuration: 0,
+    maintainAspectRatio: false,
+    // animation: {
+    //   duration: 0
+    // }
   };
 };
 
@@ -308,6 +309,17 @@ export default {
         text-align: center;
         min-width: 30px;
       `;
+    }
+  },
+  computed: {
+    computedStyle() {
+      const maxWidth = window.innerWidth > 960 ? 960 : window.innerWidth;
+      const minWidth = 320;
+      const height = minWidth + (((maxWidth - minWidth) / 100) * 10);
+      return {
+        height: `${height}px`,
+        position: "relative"
+      };
     }
   }
 };
