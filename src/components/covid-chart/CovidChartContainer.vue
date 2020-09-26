@@ -247,12 +247,12 @@ export default {
 
         let requestData;
         try {
-          requestData = await axios.get(covid19api);
+          requestData = await axios.get(ninjaApi);
           if (!requestData) {
             throw new Error("retry other source");
           }
         } catch (error) {
-          requestData = await axios.get(ninjaApi);
+          requestData = await axios.get(covid19api);
         }
 
         const {data: rawData} = requestData;
