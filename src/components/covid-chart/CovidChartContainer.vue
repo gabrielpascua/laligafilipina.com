@@ -44,7 +44,7 @@ import CovidChart from "./CovidChart.vue";
 const colorDictionary = {
   confirmed: "rgba(0,0,0,.08)",
   deaths: "rgba(0, 0, 0	, 0.75)",
-  recovered: "rgba(0, 56, 168, .75)"
+  recovered: "rgba(0, 56, 168, .8)"
 };
 
 const dateParams = (function() {
