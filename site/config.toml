@@ -15,7 +15,7 @@ disableKinds = ["RSS", "taxonomyTerm"]
   label = "labels"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:slug/"
 
 [markup]
   [markup.goldmark]

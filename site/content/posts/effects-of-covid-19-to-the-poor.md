@@ -1,18 +1,18 @@
 ---
-title: Rethinking Filipino Food by Going to Muslim Mindanao
-issues: "20001"
+title: "COVID-19 In Philippines: The Starving Urban Poor. What Went Wrong?"
+issues: "20002"
 labels: Featured
 tags:
   - Food
   - Tourism
   - Mindanao
-publishDate: 2020-08-30T10:50:23.819Z
+publishDate: 2020-10-03T20:51:32.327Z
 author: 
 description: Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’s not easy to forge an inclusive national identity. 
 slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 ---
 
-{{< youtubex video-id="7ZcoBFeiuA8" >}}
+{{< youtubex video-id="kyh1cMxAu_Y" >}}
 
 <br />
 <h3 class="text-normal mb-2">Video Highlights</h3>
