@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
 title = "La Liga Filipina"
-description = "Stories and News about the Philippines and Filipinos all around the world"
 
 # RSS, categories and tags disabled for an easy start
 # See configuration options for more details: 
@@ -22,3 +21,6 @@ disableKinds = ["RSS", "taxonomyTerm"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  description = "Stories and News about the Philippines and Filipinos all around the world"
