@@ -15,9 +15,12 @@ disableKinds = ["RSS", "taxonomyTerm"]
   label = "labels"
 
 [permalinks]
-  posts = "/:year/:month/:title/"
+  posts = "/:year/:month/:slug/"
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[params]
+  description = "Stories and News about the Philippines and Filipinos all around the world"
