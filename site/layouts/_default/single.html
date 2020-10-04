@@ -11,7 +11,7 @@
         {{ .Title }}
       </h1>
       <p class="mb-2">
-        {{ .Description }}
+        {{ .Description | safeHTML }}
       </p>
       {{- .Content -}}
       <div class="content-tags mt-3 mb-2">
