@@ -1,0 +1,51 @@
+{
+    "hero":{
+        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Repatriation During the Pandemic",
+            "title": "‘I just want my husband’s remains to be returned to us’",
+            "description": "COVID-19 has made it more difficult for seafarers on international fishing vessels to get medical help. The death of Stanley Jungco shows the hardships fishermen go through to provide for their families.",
+            "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/03-Navotas-Fish-Port-0007.jpg?resize=600%2C315",
+            "url": "https://www.aljazeera.com/features/2020/9/28/anguished-family-members-wait-for-the-return-of-their-dead"
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/10/01/20/nearly-480000-ofws-affected-by-covid-19-pandemic-labor-dept",
+                "title": "Unemployed overseas workers prefer to stay abroad than go home"
+            },
+            {
+                "url": "https://www.bloomberg.com/news/articles/2020-09-23/philippines-army-of-migrant-workers-retrains-for-life-back-home",
+                "title": "Retraining nearly 300,000 jobless Filipinos returning from abroad"
+            },
+            {
+                "url": "https://mb.com.ph/2020/09/29/remains-of-35-ofws-from-saudi-arabia-flown-home/",
+                "title": "Bodies of 30 OFW's who died from COVID-19 in Saudi Arabia are flown back"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "type": "video",
+            "url": "/2020/10/one-woman-protecting-a-marine-sanctuary-in-siquijor",
+            "title": "Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman",
+            "description": "Evelyn Malicay and volunteers patrol the protected waters of Siquijor from commercial vessels illegally fishing in the area.",
+            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg"
+        },
+        {
+            "type": "article",
+            "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",
+            "title": "The Dirty Secret Behind The West's Coconut Fad",
+            "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
+            "image": "https://assets.ozy.com/ozy-prod/2021/04/faisal-protecting-the-coconut-bounty-2-1.jpg?w=600&h=315"
+        },
+        {
+            "type": "article",
+            "url": "https://www.wired.com/story/the-20-year-hunt-for-the-man-behind-the-love-bug-virus/",
+            "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
+            "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
+            "image": "https://media.wired.com/photos/5f5bb7618ce9df9007fb1453/191:100/w_1280,c_limit/backchannel-snakeboy.jpg"
+        }
+    ]
+}
