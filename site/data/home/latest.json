@@ -1,10 +1,6 @@
 {
     "hero":{
-        "title": "Corona Virus Cases",
-        "description": "COVID-19 Cases for a six-week period",
-        "content": "<router-view name=\"covidContainer\" />",
-        "image": "",
-        "url": ""
+        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='covidContainer' /></div></section>"
     },
     "ticker": {
         "primary": {

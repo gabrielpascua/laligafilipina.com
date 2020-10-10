@@ -1,13 +1,7 @@
 {{- define "main" }}
 
 {{- with .Site.Data.home.latest.hero -}}
-<section class="hero pb-3 pt-2">
-    <div class="container">
-        <h1 class="mb-0 text-center">{{ .title }}</h1>
-        <p class="mt-0 text-center">{{ .description }}</p>
-        {{ .content | safeHTML }}
-    </div>
-</section>
+    {{ .content | safeHTML }}
 {{- end -}}
 
 {{- with .Site.Data.home.latest.ticker -}}
