@@ -1,51 +1,47 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Lockdown</h1><p class='mt-0 text-center'>Channel News Asia looks at the effects of strict lockdowns to the urban poor</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Repatriation During the Pandemic",
-            "title": "‘I just want my husband’s remains to be returned to us’",
-            "description": "COVID-19 has made it more difficult for seafarers on international fishing vessels to get medical help. The death of Stanley Jungco shows the hardships fishermen go through to provide for their families.",
-            "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/03-Navotas-Fish-Port-0007.jpg?resize=600%2C315",
-            "url": "https://www.aljazeera.com/features/2020/9/28/anguished-family-members-wait-for-the-return-of-their-dead"
+            "lead": "More than 350,000 COVID-19 Infections",
+            "title": "Benguet flower growers won’t wilt in pandemic",
+            "description": "As All Souls Day and All Saints Day come near, flower shops in La Trinidad, Benguet find ways to make a living despite falling demands",
+            "image": "https://newsinfo.inquirer.net/files/2020/09/Regions82710-620x402.jpg",
+            "url": "https://newsinfo.inquirer.net/1340602/benguet-flower-growers-wont-wilt-in-pandemic"
         },
-        "secondary": [
-            {
-                "url": "https://news.abs-cbn.com/news/10/01/20/nearly-480000-ofws-affected-by-covid-19-pandemic-labor-dept",
-                "title": "Unemployed overseas workers prefer to stay abroad than go home"
-            },
-            {
-                "url": "https://www.bloomberg.com/news/articles/2020-09-23/philippines-army-of-migrant-workers-retrains-for-life-back-home",
-                "title": "Retraining nearly 300,000 jobless Filipinos returning from abroad"
-            },
-            {
-                "url": "https://mb.com.ph/2020/09/29/remains-of-35-ofws-from-saudi-arabia-flown-home/",
-                "title": "Bodies of 30 OFW's who died from COVID-19 in Saudi Arabia are flown back"
-            }
-        ]
+        "secondary": [{
+            "url": "https://www.nbcnews.com/tech/security/we-don-t-have-choice-amazon-ring-call-center-workers-n1243439",
+            "title":"Amazon Ring call center workers are 'scared' to go to work"
+        },{
+            "url": "https://mb.com.ph/2020/09/27/a-new-school-year-starts-in-millions-of-homes/",
+            "title":"A new school year starts in millions of homes of public school students"
+        },{
+            "url": "https://thediplomat.com/2020/10/amid-a-pandemic-evictions-plague-the-philippines/",
+            "title":"Evictions in poor communities continue to happen amid the pandemic"
+        }]
     },
     "carousel": [
         {
-            "type": "video",
-            "url": "/2020/10/one-woman-protecting-a-marine-sanctuary-in-siquijor",
-            "title": "Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman",
-            "description": "Evelyn Malicay and volunteers patrol the protected waters of Siquijor from commercial vessels illegally fishing in the area.",
-            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg"
+            "type": "article",
+            "url": "https://theundefeated.com/features/erik-spoelstra-and-the-lack-of-asian-coaches-in-the-nba/",
+            "title": "Erik Spoelstra and the lack of Asian coaches in the NBA",
+            "description": "Spoelstra of the NBA's Miami Heat leads the way for Asian coaches trying to break the cultural stereotypes in American sports",
+            "image": "https://theundefeated.com/wp-content/uploads/2020/10/r754247_1296x729_16-9.jpg?w=700"
         },
         {
             "type": "article",
-            "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",
-            "title": "The Dirty Secret Behind The West's Coconut Fad",
-            "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
-            "image": "https://assets.ozy.com/ozy-prod/2021/04/faisal-protecting-the-coconut-bounty-2-1.jpg?w=600&h=315"
+            "url": "https://www.bbc.com/news/world-asia-54275891",
+            "title": "Philippines Troll Patrol: The woman taking on trolls on their own turf",
+            "description": "Facebook's inability to enforce rules against disinformation makes some to counter the messages on the same group board where the trolls proliferate",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/154E5/production/_114596278_shibby.jpg"
         },
         {
             "type": "article",
-            "url": "https://www.wired.com/story/the-20-year-hunt-for-the-man-behind-the-love-bug-virus/",
-            "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
-            "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
-            "image": "https://media.wired.com/photos/5f5bb7618ce9df9007fb1453/191:100/w_1280,c_limit/backchannel-snakeboy.jpg"
+            "url": "https://www.wsws.org/en/articles/2020/09/23/mart-s23.html",
+            "title": "Forty-eight years since Marcos declared martial law in the Philippines",
+            "description": "Remembering the lessons from then president Ferdinand Marcos's Martial Law and what the country can learn to avoid another authoritarian regime",
+            "image": "https://www.wsws.org/asset/1dd6190b-e131-4f4c-ac00-e112a7222b64?rendition=image640"
         }
     ]
 }

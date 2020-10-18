@@ -23,12 +23,12 @@
               
               <div class="ticker-secondary-content">
                   <input type="checkbox" id="toggleCoverage" />
-                  <label for="toggleCoverage" class="text-hed pointer">More on this</label>
+                  <label for="toggleCoverage" class="text-hed pointer">Related</label>
                   <span class="ticker-arrows transition-ease-all">+</span>
                   <hr />
                   <ul class="link-arrows transition-ease-all">
                       {{- range .secondary }}
-                      <li><a href="{{ .url }}" class="text-normal">{{ .title }}</a></li>
+                      <li><a href="{{ .url }}" class="text-normal"><strong>{{ .title }}</strong></a></li>
                       {{ end -}}
                   </ul>
               </div>
