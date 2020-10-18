@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Lockdown</h1><p class='mt-0 text-center'>Channel News Asia looks at the effects of strict lockdowns to poor areas in Manila</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Lockdown</h1><p class='mt-0 text-center'>Channel News Asia looks at the effects of strict lockdowns to the urban poor</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
     },
     "ticker": {
         "primary": {

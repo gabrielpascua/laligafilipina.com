@@ -13,7 +13,6 @@ const commonComponents = {
   "weatherContainer": WeatherContainer
 };
 
-
 new Vue({
   el: "#app",
   router: new VueRouter({
@@ -25,6 +24,12 @@ new Vue({
       }
     }, {
       path: "/issues/:issueNumber/",
+      components: {
+        ...commonComponents,
+        covidContainer: CovidChartContainer
+      }
+    }, {
+      path: "/*/350-thousand-coronavirus-cases-issue-20003",
       components: {
         ...commonComponents,
         covidContainer: CovidChartContainer

@@ -1,13 +1,7 @@
 {{- define "main" }}
 
 {{- with .Site.Data.home.latest.hero -}}
-<section class="hero pb-3 pt-2">
-    <div class="container">
-        <h1 class="mb-0 text-center">{{ .title }}</h1>
-        <p class="mt-0 text-center">{{ .description }}</p>
-        {{ .content | safeHTML }}
-    </div>
-</section>
+    {{ .content | safeHTML }}
 {{- end -}}
 
 {{- with .Site.Data.home.latest.ticker -}}
@@ -32,12 +26,12 @@
             
             <div class="ticker-secondary-content">
                 <input type="checkbox" id="toggleCoverage" checked />
-                <label for="toggleCoverage" class="text-hed pointer">More on this</label>
+                <label for="toggleCoverage" class="text-hed pointer">Related</label>
                 <span class="ticker-arrows transition-ease-all">+</span>
                 <hr />
                 <ul class="link-arrows transition-ease-all">
                     {{- range .secondary }}
-                    <li><a href="{{ .url }}" class="text-normal">{{ .title }}</a></li>
+                    <li><a href="{{ .url }}" class="text-normal"><strong>{{ .title }}</strong></a></li>
                     {{ end -}}
                 </ul>
             </div>
