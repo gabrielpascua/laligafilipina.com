@@ -1,47 +1,47 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='covidContainer' /></div></section>"
+        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Remembering Those Who Fight For Us</h1><p class='mt-0 text-center'>A sister recounts her twin's love of life and their passion for dancing</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L9BgO1DRbXc?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Super Typhoon Rolly (Goni)",
-            "title": "In photos: Typhoon Goni hits the Philippines",
-            "description": "Maximum sustained winds of 75 km/h near the center and gustiness of up to 90 km/h.",
-            "image": "https://cdn.cnn.com/cnnnext/dam/assets/201101094458-03-typhoon-goni-philippines-super-tease.jpg",
-            "url": "https://www.cnn.com/2020/11/01/world/gallery/typhoon-goni-philippines/index.html"
+            "lead": "Christmas in the time of Covid19",
+            "title": "A Christmas like no other",
+            "description": "\"We isolate now, so that when we gather again, no one is missing.\"",
+            "image": "https://opinion.inquirer.net/files/2020/06/JERRY-ORBOS-MOMENTS-620x324.jpeg",
+            "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other"
         },
         "secondary": [{
-            "url": "https://news.abs-cbn.com/news/11/01/20/typhoon-rolly-leaves-at-least-10-dead-more-than-390000-displaced",
-            "title":"Typhoon Rolly leaves at least 10 dead, more than 390,000 displaced"
+            "url": "https://www.npr.org/sections/health-shots/2020/12/17/946700176/tis-the-season-to-celebrate-heres-how-to-do-it-safely",
+            "title":"'Tis The Season To Celebrate. Here's How To Do It Safely"
         },{
-            "url": "https://mb.com.ph/2020/11/01/rolly-death-toll-rises-to-10-3-others-missing-ocd/",
-            "title":"‘Rolly’ death toll rises to 10; 3 others missing — OCD"
+            "url": "https://mb.com.ph/2020/11/29/nograles-christmas-get-togethers-limited-to-10-people-in-gcq-areas/",
+            "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas"
         },{
-            "url": "https://www.philstar.com/headlines/2020/11/02/2054019/rolly-pummels-southern-luzon",
-            "title":"Rolly pummels Southern Luzon"
+            "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-christmas-dinner-philippines-pork/2020/12/21/2a85cb74-3a8e-11eb-aad9-8959227280c4_story.html",
+            "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition."
         }]
     },
     "carousel": [
         {
             "type": "video",
-            "url": "/2020/11/filipino-frontline-nursers-in-ny",
+            "url": "/2020/12/filipino-frontline-nursers-in-ny/",
             "title": "Filipino Nurses: New York's Frontliners | 101 East",
-            "description": "TK",
+            "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
             "image": "https://i.ytimg.com/vi/MDJ0I15UFt8/maxresdefault.jpg"
         },
         {
             "type": "article",
-            "url": "https://www.healthline.com/nutrition/pandan",
-            "title": "What Is Pandan? Benefits, Uses, Taste, and Substitutes",
-            "description": "TK",
-            "image": "https://post.healthline.com/wp-content/uploads/2020/10/pandan-1200x628-facebook-1200x628.jpg"
+            "url": "https://www.yahoo.com/news/second-life-california-nurse-walks-224559714.html",
+            "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
+            "description": "Merlin Pambuan's recovery after several months battling Covid19 teaches us about hope and the fight to live.",
+            "image": "https://s.yimg.com/uu/api/res/1.2/vMMDkimihccN2.1mtzo3SQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/bc213007031fb683ec65eef242a76df9"
         },
         {
             "type": "article",
-            "url": "https://www.npr.org/2020/10/23/925316298/over-120-000-people-remain-displaced-3-years-after-philippines-marawi-battle",
-            "title": "Over 120,000 People Remain Displaced 3 Years After Philippines' Marawi Battle",
-            "description": "TK",
-            "image": "https://media.npr.org/assets/img/2020/10/22/mustapha-marawi-01_wide-ab99c223cc8e6760b5f569afbea93bd8de234f7f.jpg?s=700"
+            "url": "https://www.channelnewsasia.com/news/cnainsider/philippines-president-rodrigo-duterte-china-pivot-investments-13801780",
+            "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
+            "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
+            "image": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13802010/16x9/991/557/a358185c151744d67f1554c98383efa7/pN/insight-duterte-s-china-pivot-main.jpg"
         }
     ]
 }
