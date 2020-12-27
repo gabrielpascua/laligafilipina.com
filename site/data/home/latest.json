@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Remembering Those Who Fight For Us</h1><p class='mt-0 text-center'>A sister recounts her twin's love of life and their passion for dancing</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L9BgO1DRbXc?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='sinovacDoughnuts' /></div></section>"
     },
     "ticker": {
         "primary": {
