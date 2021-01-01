@@ -1,47 +1,45 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='sinovacDoughnuts' /></div></section>"
+        "content": "<section class='hero pb-3 pt-2'><div class='container'><a href='/2020/12/comparing-the-sinovac-vaccine-issue-20005/'><h1 class='mb-0 text-center'>Comparing Vaccines</h1><p class='mt-0 text-center text-normal'>Comparing vaccine candidates that the Philippine government is planning to procure</p></a><br /><router-view name='sinovacDoughnuts' /></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Christmas in the time of Covid19",
-            "title": "A Christmas like no other",
-            "description": "\"We isolate now, so that when we gather again, no one is missing.\"",
-            "image": "https://opinion.inquirer.net/files/2020/06/JERRY-ORBOS-MOMENTS-620x324.jpeg",
-            "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other"
+            "lead": "COVID-19 Vaccines for Filipinos",
+            "title": "Dissecting Data: How COVID-19 vaccine access is revealing truth about global pecking order",
+            "description": "The Philippines will only get <b>access to COVID-19 vaccines by the second quarter of 2021, or mid 2022</b>, depending on who you are asking. The government isn’t to blame. At least not the Philippine government. The governments of developed countries however are a different story. Based on the latest data, some rich nations have bought up enough doses to cover their entire population 5 times.",
+            "image": "https://sa.kapamilya.com/absnews/abscbnnews/media/2020/reuters/10/29/health-coronavirus-germany-curevac.jpg",
+            "url": "https://news.abs-cbn.com/blogs/opinions/12/26/20/dissecting-data-how-covid-19-vaccine-access-is-revealing-truth-about-global-pecking-order"
         },
         "secondary": [{
-            "url": "https://www.npr.org/sections/health-shots/2020/12/17/946700176/tis-the-season-to-celebrate-heres-how-to-do-it-safely",
-            "title":"'Tis The Season To Celebrate. Here's How To Do It Safely"
+            "url": "https://www.wsj.com/articles/vaccines-are-coming-but-they-wont-end-covid-19-anytime-soon-11607864417",
+            "title":"Vaccines Are Coming but They Won’t End Covid-19 Anytime Soon"
         },{
-            "url": "https://mb.com.ph/2020/11/29/nograles-christmas-get-togethers-limited-to-10-people-in-gcq-areas/",
-            "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas"
+            "url": "https://opinion.inquirer.net/136588/no-vaccine-no-vfa",
+            "title":"No vaccine, no VFA"
         },{
-            "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-christmas-dinner-philippines-pork/2020/12/21/2a85cb74-3a8e-11eb-aad9-8959227280c4_story.html",
-            "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition."
+            "url": "http://tempo.com.ph/2020/12/31/no-choice-for-pinoys/",
+            "title":"No choice for Pinoys"
         }]
     },
     "carousel": [
         {
-            "type": "video",
-            "url": "/2020/12/filipino-frontline-nursers-in-ny/",
-            "title": "Filipino Nurses: New York's Frontliners | 101 East",
-            "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
-            "image": "https://i.ytimg.com/vi/MDJ0I15UFt8/maxresdefault.jpg"
+            "type": "article",
+            "url": "https://usa.inquirer.net/61334/biden-names-fil-am-to-white-house-press-office",
+            "title": "Biden names Fil-Am to White House press office",
+            "description": "OG: Perez served as a press assistant on the Biden-Harris transition team, and as national communications assistant and communications intern for the Biden-Harris campaign.",
+            "image": "https://usa.inquirer.net/files/2020/12/1FF2C863-838E-4580-A070-A41207C800B0-600x800.jpg"
         },
         {
             "type": "article",
-            "url": "https://www.yahoo.com/news/second-life-california-nurse-walks-224559714.html",
-            "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
-            "description": "Merlin Pambuan's recovery after several months battling Covid19 teaches us about hope and the fight to live.",
-            "image": "https://s.yimg.com/uu/api/res/1.2/vMMDkimihccN2.1mtzo3SQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/bc213007031fb683ec65eef242a76df9"
+            "url": "https://www.bbc.com/news/world-asia-55299912",
+            "title": "TK",
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/106DC/production/_116129276_p091pdtp.jpg"
         },
         {
             "type": "article",
-            "url": "https://www.channelnewsasia.com/news/cnainsider/philippines-president-rodrigo-duterte-china-pivot-investments-13801780",
-            "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
-            "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
-            "image": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13802010/16x9/991/557/a358185c151744d67f1554c98383efa7/pN/insight-duterte-s-china-pivot-main.jpg"
+            "url": "",
+            "title": "TK",
+            "image": ""
         }
     ]
 }

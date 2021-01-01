@@ -4,6 +4,7 @@
 @import 'imports/utilities.css';
 @import 'imports/widgets.css';
 @import 'imports/markdown.css';
+@import 'imports/flexbox.css';
 :root {
   --mobile: 360px;
   --tablet: 768px;
