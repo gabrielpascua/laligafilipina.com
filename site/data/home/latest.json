@@ -13,12 +13,18 @@
         "secondary": [{
             "url": "https://www.wsj.com/articles/vaccines-are-coming-but-they-wont-end-covid-19-anytime-soon-11607864417",
             "title":"Vaccines Are Coming but They Won’t End Covid-19 Anytime Soon"
+        }, {
+            "url": "https://www.dw.com/en/fact-check-will-poor-countries-miss-out-on-covid-19-vaccinations/a-55886334",
+            "title": "Fact-check: Will poor countries miss out on COVID-19 vaccinations?"
         },{
             "url": "https://opinion.inquirer.net/136588/no-vaccine-no-vfa",
             "title":"No vaccine, no VFA"
         },{
             "url": "http://tempo.com.ph/2020/12/31/no-choice-for-pinoys/",
             "title":"No choice for Pinoys"
+        },{
+            "url": "https://www.aljazeera.com/news/2021/1/3/covid-19-vaccine-distribution-and-inoculations",
+            "title": "Graphics: Global COVID vaccine distribution and inoculations"
         }]
     },
     "carousel": [
