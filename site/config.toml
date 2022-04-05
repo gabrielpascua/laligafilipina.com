@@ -24,3 +24,16 @@ disableKinds = ["RSS", "taxonomyTerm"]
 
 [params]
   description = "Stories and News about the Philippines and Filipinos all around the world"
+
+# https://gohugo.io/about/security-model/#security-policy
+# Defaults + getenv edits
+[security]
+  enableInlineShortcodes = false
+  [security.exec]
+    allow = ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
+    osEnv = ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  [security.funcs]
+    getenv = ['^(HUGO_|CONTEXT|DEPLOY_PRIME_URL)']
+  [security.http]
+    methods = ['(?i)GET|POST']
+    urls = ['.*']

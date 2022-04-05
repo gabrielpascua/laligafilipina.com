@@ -69,3 +69,14 @@ yarn-error.log
 .pnp.js
 # Yarn Integrity file
 .yarn-integrity
+
+# Hugo https://github.com/gohugoio/hugoDocs/blob/master/.gitignore
+/.idea
+# /.vscode
+# /public
+# node_modules
+nohup.out
+# .DS_Store
+trace.out
+.hugo_build.lock
+resources/_gen/images/
