@@ -1,8 +1,7 @@
-@import 'imports/reset.css';
-@import 'imports/sticky-footer.css';
-@import 'imports/utilities.css';
-@import 'imports/widgets.css';
-@import 'imports/markdown.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 :root {
   --mobile: 360px;
   --tablet: 768px;

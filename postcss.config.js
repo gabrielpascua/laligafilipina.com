@@ -4,6 +4,7 @@ module.exports = {
     "postcss-preset-env": {
       browsers: "last 1 versions"
     },
+    tailwindcss: {},
     autoprefixer: {}
   }
 };
