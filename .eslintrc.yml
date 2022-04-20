@@ -8,6 +8,9 @@ parserOptions:
 
 plugins: [ "import" ]
 
+extends:
+  react-app
+
 rules:
   # Possible Errors
   # https://github.com/eslint/eslint/tree/master/docs/rules#possible-errors
