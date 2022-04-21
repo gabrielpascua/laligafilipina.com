@@ -12,12 +12,12 @@
   {{ end -}}
 </head>
 <body>
-  <div id="app" class="wrapper">
-    <div class="page-body">
+  <div id="app" class="min-h-full grid grid-rows-[1fr_auto]">
+    <div>
       {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
       {{- block "main" . }}{{- end -}}
     </div>
-    <footer class="footer">
+    <footer class="row-start-2 row-end-3">
       {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
     </footer>
   </div>
