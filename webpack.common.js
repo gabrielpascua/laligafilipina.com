@@ -6,7 +6,7 @@ const AssetsPlugin = require("assets-webpack-plugin");
 
 module.exports = {
   entry: {
-    main: path.join(__dirname, "src", "index.jsx")
+    main: path.join(__dirname, "src", "index.js"),
   },
 
   output: {
@@ -24,13 +24,13 @@ module.exports = {
         },
       },
 
-      { test: /\.json$/, loader: "json-loader" },
+      {test: /\.json$/, loader: "json-loader"},
 
       {
         loader: "babel-loader",
-        test: /\.(js|jsx)?$/,
+        test: /\.js?$/,
         exclude: /node_modules/,
-        options: { cacheDirectory: true },
+        options: {cacheDirectory: true},
       },
 
       {
