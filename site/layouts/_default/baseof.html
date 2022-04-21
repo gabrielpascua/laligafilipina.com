@@ -13,11 +13,11 @@
 </head>
 <body>
   <div id="app" class="min-h-full grid grid-rows-[1fr_auto]">
-    <div>
+    <section>
       {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
       {{- block "main" . }}{{- end -}}
-    </div>
-    <footer class="row-start-2 row-end-3">
+    </section>
+    <footer class="row-start-2 row-end-3 border-t pt-4 pb-4">
       {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
     </footer>
   </div>

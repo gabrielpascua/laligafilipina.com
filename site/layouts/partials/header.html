@@ -1,22 +1,22 @@
-<div class="page-header">
+<div class="pb-3 pt-4 border-b">
     <div class="container">
-        <div class="header">
-            <section class="text-small">
+        <div class="flex flex-row justify-between items-center">
+            <section class="text-xs basis-1/4">
                 <router-view name="dayName" />
             </section>
-            <section class="text-center logo">
+            <section class="text-center basis-1/2 logo">
                 <a href="/">
                     {{ partial "logo" . }}
                 </a>
             </section>
-            <section class="text-right text-small">
+            <section class="text-right text-xs basis-1/4">
                 <router-view name="weatherContainer"></router-view>
             </section>
         </div>
     </div>
 </div>
 
-<div class="page-topnav">
+<div class="border-b pt-2 pb-3">
     <div class="container text-center">
         <!-- <small class="mr-2"><strong>Archives</strong></small>
         <small class="mr-2"><strong>Search</strong></small>
@@ -29,11 +29,9 @@
 
     {{- with .Site.Data.nav.tags -}}
     {{ range .}}
-    <a href="/tags/{{.slug}}" class="text-normal">
-        <strong>
-            <small>{{.label}}</small>
-        </strong>
-    </a>
+        <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2">
+            <strong>{{.label}}</strong>
+        </a>
     {{ end }}
     {{- end -}}
     </div>
