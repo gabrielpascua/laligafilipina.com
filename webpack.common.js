@@ -3,10 +3,13 @@ const path = require("path");
 const CopyWebpackPlugin = require("copy-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
 const AssetsPlugin = require("assets-webpack-plugin");
+const { VueLoaderPlugin } = require('vue-loader');
 
 module.exports = {
   entry: {
-    main: path.join(__dirname, "src", "index.js"),
+    "app-dependencies": path.join(__dirname, "src", "app-dependencies.js"),
+    "app-vue": path.join(__dirname, "src", "app-vue.js"),
+    "main": path.join(__dirname, "src", "main.js"),
   },
 
   output: {
@@ -24,13 +27,21 @@ module.exports = {
         },
       },
 
-      {test: /\.json$/, loader: "json-loader"},
+      {
+        test: /\.json$/,
+        loader: "json-loader"
+      },
+
+      {
+        test: /\.vue$/,
+        loader: "vue-loader"
+      },
 
       {
         loader: "babel-loader",
         test: /\.js?$/,
         exclude: /node_modules/,
-        options: {cacheDirectory: true},
+        options: { cacheDirectory: true },
       },
 
       {
@@ -50,6 +61,13 @@ module.exports = {
         ],
       },
     ],
+  },
+
+  resolve: {
+    alias: {
+      "vue$": "vue/dist/vue.esm-bundler.js"
+    },
+    extensions: ["*", ".js", ".vue", ".json"]
   },
 
   plugins: [
@@ -72,5 +90,7 @@ module.exports = {
         },
       ],
     }),
+
+    new VueLoaderPlugin(),
   ],
 };
