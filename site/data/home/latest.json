@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Remembering Those Who Fight For Us</h1><p class='mt-0 text-center'>A sister recounts her twin's love of life and their passion for dancing</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/L9BgO1DRbXc?controls=0\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+        "content": "<section class=\"mb-4\"> <div class=\"container pl-4 pr-4\"> <h1 class=\"text-base font-bold\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</h1> <p class=\"text-sm mt-2 mb-5 text-neutral-600\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><div> <lite-youtube videoid=\"L9BgO1DRbXc\" style=\"background-image: url('https://i.ytimg.com/vi/L9BgO1DRbXc/hqdefault.jpg');\"> <a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\" class=\"lty-playbtn\" title=\"Play Video\"> <span class=\"lyt-visually-hidden\">Play Video</span> </a> </lite-youtube> </div></div></section>"
     },
     "ticker": {
         "primary": {

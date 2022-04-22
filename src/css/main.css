@@ -9,3 +9,6 @@ body {
   padding: 0;
   height: 100%;
 }
+
+/* Light Youtube Embed */
+@import "lite-youtube-embed/src/lite-yt-embed.css";

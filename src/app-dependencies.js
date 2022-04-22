@@ -4,3 +4,4 @@
 // error will manifest
 import "regenerator-runtime/runtime";
 import "lazysizes";
+import "lite-youtube-embed/src/lite-yt-embed.js";
