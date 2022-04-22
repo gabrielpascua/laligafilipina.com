@@ -22,7 +22,7 @@
     </footer>
   </div>
   {{- range $elem_key, $elem_val := .Site.Data.webpack }}
-    {{- with $elem_val.js }}<script src="{{ relURL . }}" async></script>{{ end }}
+    {{- with $elem_val.js }}<script src="{{ relURL . }}" defer></script>{{ end }}
   {{ end -}}
 </body>
 </html>

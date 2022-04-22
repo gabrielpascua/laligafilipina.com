@@ -10,5 +10,42 @@ body {
   height: 100%;
 }
 
+/* Fixed Header Position */
+html {
+  scroll-padding-top: 140px; /* height of sticky header */
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+body {
+  margin-top: 140px;
+}
+
 /* Light Youtube Embed */
 @import "lite-youtube-embed/src/lite-yt-embed.css";
+
+.hero {
+  @apply mb-4;
+}
+
+.hero-container {
+  @apply container pl-4 pr-4;
+}
+
+.hero-lead {
+  @apply text-xl leading-7 font-bold;
+}
+
+.hero-dek {
+  @apply text-sm mt-2 mb-4 text-neutral-600;
+}
+
+.section-pill {
+  @apply text-white text-center inline-block min-w-[75px] bg-slate-800;
+}

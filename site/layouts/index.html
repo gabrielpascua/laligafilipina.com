@@ -1,31 +1,30 @@
 {{- define "main" }}
 
 {{- with .Site.Data.home.latest.hero -}}
-    <div class="container pl-4 pr-4 mb-2 text-xs">
-        <span class="uppercase bg-red-600 text-white text-center inline-block min-w-[90px]">Main Story</span>
+    <div class="container pl-4 pr-4 mb-4 text-xs border-b">
+        <span class="section-pill">Main Story</span>
     </div>
     {{ .content | safeHTML }}
 {{- end -}}
 
 {{- with .Site.Data.home.latest.ticker -}}
-<div class="container pl-4 pr-4 mt-7 mb-3 text-xs">
-    <span class="uppercase bg-yellow-400 text-white text-center inline-block min-w-[90px]">In Depth</span>
+<div class="container pl-4 pr-4 mt-10 mb-5 text-xs border-b">
+    <span class="section-pill">In Depth</span>
 </div>
 <section class="bg-light mb-2">
     <div class="container pl-4 pr-4">
-        <h1 class="text-base font-bold capitalize">{{ .primary.lead }}</h1>
-        <p class="text-sm mb-3 text-neutral-600">{{ .primary.description }}</p>
-        <div>
-            <ul role="list">
-                <li class="border-b border-t pt-2 mb-2 pb-2">
-                    <a href="{{ .primary.url }}" class="text-sm">
-                        <strong>{{ .primary.title }}</strong>
+        <div class="border mt-6 pb-6 rounded bg-gray-50">
+            <ul role="list" class="list-disc ml-6 mt-2 w-[83%]">
+                <li class="pt-3 mb-2 pb-4 leading-3 border-b list-none">
+                    <a href="{{ .primary.url }}" class="text-base">
+                        <strong>{{ .primary.title }}</strong><br />
+                        <span class="text-neutral-600 text-sm">{{ .primary.description }}</span>
                     </a>
                 </li>
                 {{- range .secondary }}
-                <li class="border-b mb-2 pb-2">
-                    <a href="{{ .url }}" class="text-sm leading-3">
-                        <strong>{{ .title }}</strong>
+                <li class="ml-4 mb-0 pb-0 leading-3 pt-3">
+                    <a href="{{ .url }}" class="text-sm">
+                        {{ .title }}
                     </a>
                 </li>
                 {{ end -}}
@@ -36,27 +35,29 @@
 {{- end -}}
 
 {{- with .Site.Data.home.latest.carousel -}}
-<div class="carousel">
-    <div class="container">
-        <h2 class="underlined-hed text-hed pb-1">Featured</h2>
-        <hr class="mb-1 mt-0" />
-        <div class="carousel-container">
+<div class="container pl-4 pr-4 mt-10 mb-5 text-xs border-b">
+    <span class="section-pill">Featured</span>
+</div>
+<div class="mb-4">
+    <div class="container pl-4 pr-4">
+        <div>
             {{- range . }}
-            <a href="{{ .url }}" class="carousel-item">
-                <div class="carousel-image">
+            <a href="{{ .url }}" class="flex flex-row-reverse items-start border-b mb-2 pb-4 pt-2 last:border-0">
+                <div class="h-[75px] basis-1/3 relative overflow-hidden">
                     <img
-                        data-src="{{ .image }}"
+                        class="absolute top-[50%] translate-y-[-50%]"
+                        width="100"
+                        src="{{ .image }}"
                         alt="{{ .title }}"
-                        class="lazyload"
-                        src="data:image/gif;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMjFweCIgaGVpZ2h0PSIxMjFweCIgdmlld0JveD0iLTAuNSAtMC41IDEyMSAxMjEiIGNvbnRlbnQ9IiZsdDtteGZpbGUgaG9zdD0mcXVvdDthcHAuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjAtMDktMjNUMTI6MDg6MDQuNjEwWiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODUuMC40MTgzLjEyMSBTYWZhcmkvNTM3LjM2JnF1b3Q7IGV0YWc9JnF1b3Q7cnYzNVJpLThuckY5MGdwYlpQMTEmcXVvdDsgdmVyc2lvbj0mcXVvdDsxMy43LjUmcXVvdDsgdHlwZT0mcXVvdDtkZXZpY2UmcXVvdDsmZ3Q7Jmx0O2RpYWdyYW0gaWQ9JnF1b3Q7TnI5amhLdW9VUlh3cUZnNVZSZjAmcXVvdDsgbmFtZT0mcXVvdDtQYWdlLTEmcXVvdDsmZ3Q7alpOTlQ0UXdFSVovRFVjVG9HN2NxNHVzWm8xNklOR2phZWhBR3d0RHlxeUF2OTZ5dEh4a1l5SWNtSGxtcHRPK1V3S1dWUDJqNFkxOFFRRTZpRVBSQit3aGlPTW9DbVA3R2Nrd2tSM2JUNkEwU3Jpa0JXVHFCeHdNSFQwckFlMG1rUkExcVdZTGM2eHJ5R25EdURIWWJkTUsxTnV1RFMvaENtUTUxOWYwUXdtU0U5M3Z3b1UvZ1NvbHpRZDJrWXI3WkFkYXlRVjJLOFRTZ0NVR2tTYXI2aFBRbzNoZWw2bnUrRWQwM3BpQm12NVRNS1R2NmVmcDd2Z1duc1I5OFpxbVdmZDg0MWI1NXZyc0R1dzJTNE5Yb0pPS0lHdDRQdnFkblhMQURwSXFiYjNJbXJ4dEp0MEwxWU50ZFNpVTFnbHFOSmR5VnV6R2QrUlkwNHBQaitVdEdmd0NINm14dG4wT2JsdGdDUG8venh2Tkt0cnJCMWdCbWNHbXVBSjI2NFIzTnkvMmsrbVdPVVorT0hJOVF3KzV1enZsdlBZaXJ6V2N3dDVkSm5tSnJmNEhsdjRDJmx0Oy9kaWFncmFtJmd0OyZsdDsvbXhmaWxlJmd0OyIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsiPjxkZWZzLz48Zz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgZmlsbD0iI2Y1ZjVmNSIgc3Ryb2tlPSJub25lIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PC9nPjwvc3ZnPg=="
+                        loading="lazy"
                     />
                     {{- if eq .type "video" -}}
                     <div class="media-overlay"><div class="play-arrow"></div></div>
                     {{- end -}}
                 </div>
-                <div class="carousel-text">
-                    <h3>{{ .title }}</h3>
-                    <p class="text-normal">{{ .description }}</p>
+                <div class="basis-3/5 mr-[7%]">
+                    <h3 class="font-bold text-sm leading-5">{{ .title }}</h3>
+                    <p class="text-sm mt-2">{{ .description }}</p>
                 </div>
             </a>
             {{ end -}}
