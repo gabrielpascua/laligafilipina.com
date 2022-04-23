@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <div class="border-b pt-2 pb-3 mb-6 bg-gray-50">
+    <div class="border-b pt-1 pb-2 mb-4 bg-gray-50">
         <div class="container text-center">
             <!-- <small class="mr-2"><strong>Archives</strong></small>
             <small class="mr-2"><strong>Search</strong></small>
@@ -30,7 +30,7 @@
 
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
-            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2">
+            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-neutral-800">
                 <strong>{{.label}}</strong>
             </a>
         {{ end }}

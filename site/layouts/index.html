@@ -1,9 +1,6 @@
 {{- define "main" }}
 
 {{- with .Site.Data.home.latest.hero -}}
-    <div class="container pl-4 pr-4 mb-4 text-xs border-b">
-        <span class="section-pill">Main Story</span>
-    </div>
     {{ .content | safeHTML }}
 {{- end -}}
 
@@ -16,14 +13,14 @@
         <div class="border mt-6 pb-6 rounded bg-gray-50">
             <ul role="list" class="list-disc ml-6 mt-2 w-[83%]">
                 <li class="pt-3 mb-2 pb-4 leading-3 border-b list-none">
-                    <a href="{{ .primary.url }}" class="text-base">
+                    <a href="{{ .primary.url }}" class="text-base text-gray-800">
                         <strong>{{ .primary.title }}</strong><br />
                         <span class="text-neutral-600 text-sm">{{ .primary.description }}</span>
                     </a>
                 </li>
                 {{- range .secondary }}
                 <li class="ml-4 mb-0 pb-0 leading-3 pt-3">
-                    <a href="{{ .url }}" class="text-sm">
+                    <a href="{{ .url }}" class="text-sm text-gray-900">
                         {{ .title }}
                     </a>
                 </li>
@@ -42,22 +39,10 @@
     <div class="container pl-4 pr-4">
         <div>
             {{- range . }}
-            <a href="{{ .url }}" class="flex flex-row-reverse items-start border-b mb-2 pb-4 pt-2 last:border-0">
-                <div class="h-[75px] basis-1/3 relative overflow-hidden">
-                    <img
-                        class="absolute top-[50%] translate-y-[-50%]"
-                        width="100"
-                        src="{{ .image }}"
-                        alt="{{ .title }}"
-                        loading="lazy"
-                    />
-                    {{- if eq .type "video" -}}
-                    <div class="media-overlay"><div class="play-arrow"></div></div>
-                    {{- end -}}
-                </div>
-                <div class="basis-3/5 mr-[7%]">
-                    <h3 class="font-bold text-sm leading-5">{{ .title }}</h3>
-                    <p class="text-sm mt-2">{{ .description }}</p>
+            <a href="{{ .url }}" class="flex flex-row-reverse items-start border-b mb-4 pb-5 pt-2 last:border-0">
+                <div class="text-gray-800">
+                    <h3 class="font-bold text-base leading-5 mb-1">{{ .title }}</h3>
+                    <p class="text-sm text-neutral-600">{{ .description }}</p>
                 </div>
             </a>
             {{ end -}}

@@ -12,7 +12,7 @@ body {
 
 /* Fixed Header Position */
 html {
-  scroll-padding-top: 140px; /* height of sticky header */
+  scroll-padding-top: 130px; /* height of sticky header */
 }
 
 header {
@@ -24,7 +24,7 @@ header {
 }
 
 body {
-  margin-top: 140px;
+  margin-top: 130px;
 }
 
 /* Light Youtube Embed */
@@ -39,7 +39,7 @@ body {
 }
 
 .hero-lead {
-  @apply text-xl leading-7 font-bold;
+  @apply text-xl leading-7 font-bold text-gray-800;
 }
 
 .hero-dek {
