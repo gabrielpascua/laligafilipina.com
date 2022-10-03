@@ -12,7 +12,7 @@ body {
 
 /* Fixed Header Position */
 html {
-  scroll-padding-top: 130px; /* height of sticky header */
+  scroll-padding-top: 100px; /* height of sticky header */
 }
 
 header {
@@ -24,18 +24,56 @@ header {
 }
 
 body {
-  margin-top: 130px;
+  margin-top: 100px;
 }
 
 /* Light Youtube Embed */
 @import "lite-youtube-embed/src/lite-yt-embed.css";
 
+lite-youtube::before {
+  height: 100%;
+  background-size: cover;
+  opacity: 0.5;
+}
+
+lite-youtube > .lty-playbtn {
+  transform: none;
+  background-image: none;
+  filter: none;
+  transition: none;
+  display: block;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 3px solid rgba(255,255,255,.85);
+  top: 30%;
+  left: 40%;
+}
+
+.lyt-visually-hidden {
+  overflow: hidden;
+  clip: unset;
+  clip-path: unset;
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-top: 15px solid transparent;
+  border-bottom: 15px solid transparent;
+  border-left: 15px solid rgba(255,255,255,.85);
+  left: calc(50% - 5px);
+  top: calc(50% - 15px);
+}
+
 .hero {
-  @apply mb-4;
+  @apply pt-16 pb-16 pl-10 pr-10 border-b;
+  background: rgba(255, 255, 255, 1.0);
+  background: -webkit-linear-gradient(top, rgba(255, 255, 255, 1.0), rgba(249, 250, 251, 1.0));
+  background: -moz-linear-gradient(top, rgba(255, 255, 255, 1.0), rgba(249, 250, 251, 1.0));
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 1.0), rgba(249, 250, 251, 1.0));
 }
 
 .hero-container {
-  @apply container pl-4 pr-4;
+  /* @apply container pl-8 pr-8; */
 }
 
 .hero-lead {
@@ -46,6 +84,11 @@ body {
   @apply text-sm mt-2 mb-4 text-neutral-600;
 }
 
-.section-pill {
-  @apply text-white text-center inline-block min-w-[75px] bg-slate-800;
+.top-spacer {
+  position: absolute;
+  width: 10px;
+  height: 30px;
+  border-left: 1px solid rgba(212, 212, 212, 1);
+  border-top: 1px solid rgba(212, 212, 212, 1);
+  margin-top: 30px;
 }

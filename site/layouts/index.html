@@ -5,14 +5,14 @@
 {{- end -}}
 
 {{- with .Site.Data.home.latest.ticker -}}
-<div class="container pl-4 pr-4 mt-10 mb-5 text-xs border-b">
-    <span class="section-pill">In Depth</span>
+<div class="container pl-4 pr-4 mt-10 mb-5 text-xs">
+    <strong class="text-white text-center inline-block min-w-[80px] bg-neutral-800 pt-1 pb-1">In Depth</strong>
 </div>
 <section class="bg-light mb-2">
     <div class="container pl-4 pr-4">
         <div class="border mt-6 pb-6 rounded bg-gray-50">
             <ul role="list" class="list-disc ml-6 mt-2 w-[83%]">
-                <li class="pt-3 mb-2 pb-4 leading-3 border-b list-none">
+                <li class="pt-3 pb-4 leading-3 list-none">
                     <a href="{{ .primary.url }}" class="text-base text-gray-800">
                         <strong>{{ .primary.title }}</strong><br />
                         <span class="text-neutral-600 text-sm">{{ .primary.description }}</span>
@@ -20,7 +20,7 @@
                 </li>
                 {{- range .secondary }}
                 <li class="ml-4 mb-0 pb-0 leading-3 pt-3">
-                    <a href="{{ .url }}" class="text-sm text-gray-900">
+                    <a href="{{ .url }}" class="text-sm text-black underline decoration-gray-400">
                         {{ .title }}
                     </a>
                 </li>
@@ -32,17 +32,18 @@
 {{- end -}}
 
 {{- with .Site.Data.home.latest.carousel -}}
-<div class="container pl-4 pr-4 mt-10 mb-5 text-xs border-b">
-    <span class="section-pill">Featured</span>
+<div class="container pl-4 pr-4 mt-12 mb-6 text-xs">
+    <strong class="text-white text-center inline-block min-w-[80px] bg-neutral-800 pt-1 pb-1">Featured</strong>
 </div>
-<div class="mb-4">
+<div class="mb-10">
     <div class="container pl-4 pr-4">
         <div>
             {{- range . }}
-            <a href="{{ .url }}" class="flex flex-row-reverse items-start border-b mb-4 pb-5 pt-2 last:border-0">
-                <div class="text-gray-800">
-                    <h3 class="font-bold text-base leading-5 mb-1">{{ .title }}</h3>
-                    <p class="text-sm text-neutral-600">{{ .description }}</p>
+            <div class="top-spacer"></div>
+            <a href="{{ .url }}" class="flex flex-row-reverse items-start mb-1 pb-4 pt-2 last:border-0 relative">
+                <div class="pt-2">
+                    <h3 class="font-bold text-base leading-5 mb-1 pl-6 pr-6">{{ .title }}</h3>
+                    <p class="text-sm text-neutral-600 pl-6 pr-6">{{ .description }}</p>
                 </div>
             </a>
             {{ end -}}
