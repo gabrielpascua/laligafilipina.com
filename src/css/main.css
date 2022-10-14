@@ -7,12 +7,14 @@ html,
 body {
   margin: 0;
   padding: 0;
-  height: 100%;
+  height: calc(100% - 50px); /* 50px = 1/2 of the scroll padding*/
+  box-sizing: border-box;
 }
 
 /* Fixed Header Position */
 html {
-  scroll-padding-top: 100px; /* height of sticky header */
+  /*height of sticky header*/
+  scroll-padding-top: 100px;
 }
 
 header {
@@ -25,43 +27,6 @@ header {
 
 body {
   margin-top: 100px;
-}
-
-/* Light Youtube Embed */
-@import "lite-youtube-embed/src/lite-yt-embed.css";
-
-lite-youtube::before {
-  height: 100%;
-  background-size: cover;
-  opacity: 0.5;
-}
-
-lite-youtube > .lty-playbtn {
-  transform: none;
-  background-image: none;
-  filter: none;
-  transition: none;
-  display: block;
-  width: 70px;
-  height: 70px;
-  border-radius: 50%;
-  border: 3px solid rgba(255,255,255,.85);
-  top: 30%;
-  left: 40%;
-}
-
-.lyt-visually-hidden {
-  overflow: hidden;
-  clip: unset;
-  clip-path: unset;
-  position: absolute;
-  width: 0;
-  height: 0;
-  border-top: 15px solid transparent;
-  border-bottom: 15px solid transparent;
-  border-left: 15px solid rgba(255,255,255,.85);
-  left: calc(50% - 5px);
-  top: calc(50% - 15px);
 }
 
 .hero {
