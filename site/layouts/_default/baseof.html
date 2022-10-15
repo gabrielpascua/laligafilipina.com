@@ -17,8 +17,15 @@
       {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
       {{- block "main" . }}{{- end -}}
     </section>
-    <footer class="row-start-2 row-end-3 bg-gray-900 pt-2 pb-2">
-      {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
+    <footer class="row-start-2 row-end-3">
+      <div class="w-full relative top-[1px]">
+        <svg xmlns="http://www.w3.org/2000/svg" width="100%">
+          <path fill="#111827" fill-opacity="1" d="M0,96L1440,160L1440,320L0,320Z" width="100%" height="20"></path>
+        </svg>
+      </div>
+      <div class="bg-gray-900 pb-2">
+        {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
+      </div>
     </footer>
   </div>
   {{- range $elem_key, $elem_val := .Site.Data.webpack }}

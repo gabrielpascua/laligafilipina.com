@@ -30,7 +30,7 @@ body {
 }
 
 .hero {
-  @apply pt-16 pb-16 pl-10 pr-10 border-b;
+  @apply pt-16 pb-16 pl-10 pr-10 border-b mb-8;
   @apply md:pl-0 md:pr-0;
   background: #f4f4f4;
 }
