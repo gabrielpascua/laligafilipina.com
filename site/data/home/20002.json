@@ -31,21 +31,24 @@
             "url": "/2020/10/one-woman-protecting-a-marine-sanctuary-in-siquijor",
             "title": "Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman",
             "description": "Evelyn Malicay and volunteers patrol the protected waters of Siquijor from commercial vessels illegally fishing in the area.",
-            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg"
+            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg",
+            "tag": "Environmental Activism"
         },
         {
             "type": "article",
             "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",
             "title": "The Dirty Secret Behind The West's Coconut Fad",
             "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
-            "image": "https://assets.ozy.com/ozy-prod/2021/04/faisal-protecting-the-coconut-bounty-2-1.jpg?w=600&h=315"
+            "image": "https://assets.ozy.com/ozy-prod/2021/04/faisal-protecting-the-coconut-bounty-2-1.jpg?w=600&h=315",
+            "tag": "Sustainability"
         },
         {
             "type": "article",
             "url": "https://www.wired.com/story/the-20-year-hunt-for-the-man-behind-the-love-bug-virus/",
             "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
             "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
-            "image": "https://media.wired.com/photos/5f5bb7618ce9df9007fb1453/191:100/w_1280,c_limit/backchannel-snakeboy.jpg"
+            "image": "https://media.wired.com/photos/5f5bb7618ce9df9007fb1453/191:100/w_1280,c_limit/backchannel-snakeboy.jpg",
+            "tag": "Technology"
         }
     ]
 }

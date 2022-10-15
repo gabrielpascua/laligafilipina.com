@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2 bg-dark' style='background-color:rgba(0,0,0,.9)'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Lockdown</h1><p class='mt-0 text-center'>Channel News Asia looks at the effects of strict lockdowns to the urban poor</p><div style='position:relative;padding-bottom: 56.25%;height:0'><iframe width='560' height='315' src='https://www.youtube-nocookie.com/embed/MQ5aYS4YFlQ' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture' allowfullscreen style='position:absolute;top:0;left:0;width:100%;height:100%'></iframe></div></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://www.youtube.com/watch?v=MQ5aYS4YFlQ\">COVID-19 In Philippines: The Starving Urban Poor. What Went Wrong? | Insight | Poverty In Asia</a></h1><p class='hero-dek'>The people in the Philippines are suffering from one of the toughest and longest lockdowns in the world. As the government struggles to deal with the spread of the COVID-19 outbreak, the ultra-strict quarantine and social distancing measures which have now stretched to more than half a year, have left the economy on its knees. The move has also left millions of people jobless and hungry.</p></div></div></section>"
     },
     "ticker": {
         "primary": {
@@ -27,21 +27,24 @@
             "url": "https://theundefeated.com/features/erik-spoelstra-and-the-lack-of-asian-coaches-in-the-nba/",
             "title": "Erik Spoelstra and the lack of Asian coaches in the NBA",
             "description": "Spoelstra of the NBA's Miami Heat leads the way for Asian coaches trying to break the cultural stereotypes in American sports",
-            "image": "https://theundefeated.com/wp-content/uploads/2020/10/r754247_1296x729_16-9.jpg?w=700"
+            "image": "https://theundefeated.com/wp-content/uploads/2020/10/r754247_1296x729_16-9.jpg?w=700",
+            "tag": "Sports"
         },
         {
             "type": "article",
             "url": "https://www.bbc.com/news/world-asia-54275891",
             "title": "Philippines Troll Patrol: The woman taking on trolls on their own turf",
             "description": "Facebook's inability to enforce rules against disinformation makes some to counter the messages on the same internet boards where the trolls proliferate",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/154E5/production/_114596278_shibby.jpg"
+            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/154E5/production/_114596278_shibby.jpg",
+            "tag": "Technology"
         },
         {
             "type": "article",
             "url": "https://www.wsws.org/en/articles/2020/09/23/mart-s23.html",
             "title": "Forty-eight years since Marcos declared martial law in the Philippines",
             "description": "Remembering the lessons from then president Ferdinand Marcos's Martial Law and what the country can learn to avoid another authoritarian regime",
-            "image": "https://www.wsws.org/asset/1dd6190b-e131-4f4c-ac00-e112a7222b64?rendition=image640"
+            "image": "https://www.wsws.org/asset/1dd6190b-e131-4f4c-ac00-e112a7222b64?rendition=image640",
+            "tag": "Politics"
         }
     ]
 }
