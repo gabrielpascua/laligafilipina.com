@@ -60,7 +60,7 @@ body {
 }
 
 .list-arrow li::marker{
-  content: '›  ';
+  content: '-  ';
   color: rgba(183, 183, 183, .75);
   /* font-size: 12px; */
 }
