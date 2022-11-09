@@ -1,16 +1,16 @@
 <header>
-    <div class="pb-3 pt-4 border-b bg-white">
-        <div class="container">
+    <div class="pb-3 pt-4 border-b bg-white text-neutral-600">
+        <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto">
             <div class="flex flex-row justify-between items-center">
-                <section class="text-xs">
+                <section class="text-xs md:text-small">
                     <router-view name="dayName" />
                 </section>
                 <section class="text-center logo">
                     <a href="/">
-                        <img src="/images/llf.svg" alt="La liga Filipina" width="180" height="40"/>
+                        <img src="/images/llf.svg" alt="La liga Filipina" width="180" height="40" class="md:w-[220px] lg:w-[250px]"/>
                     </a>
                 </section>
-                <section class="text-right text-xs">
+                <section class="text-right text-xs md:text-small">
                     <router-view name="weatherContainer"></router-view>
                 </section>
             </div>
@@ -30,7 +30,7 @@
 
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
-            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-neutral-800">
+            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-neutral-800 md:text-small">
                 <strong>{{.label}}</strong>
             </a>
         {{ end }}
