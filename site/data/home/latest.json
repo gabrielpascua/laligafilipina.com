@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</a></h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><p><small style=\"color:#a6a6a6; border-left: 1px solid #ddd; padding-left: .5rem;\"> youtube.com</small></p></div></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</a></h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><p><small class=\"text-gray-500\"> youtube.com</small></p></div></div></section>"
     },
     "ticker": {
         "primary": {

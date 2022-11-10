@@ -30,7 +30,7 @@ body {
 }
 
 .hero {
-  @apply pt-16 pb-16 pl-10 pr-10 border-b mb-8;
+  @apply pt-16 pb-16 pl-10 pr-10 border-b mb-4;
   @apply md:pl-0 md:pr-0 lg:pt-20 lg:pb-20;
   background: #f4f4f4;
 }
@@ -41,7 +41,7 @@ body {
 }
 
 .hero-lead {
-  @apply text-xl leading-7 font-bold text-gray-800;
+  @apply text-xl leading-7 font-extrabold text-gray-800;
   @apply md:text-2xl md:leading-9;
   text-shadow: #fff 1px 1px;
 }

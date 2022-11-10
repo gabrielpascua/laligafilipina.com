@@ -4,7 +4,7 @@
     {{ .content | safeHTML }}
 {{- end -}}
 
-<div class="md:flex max-w-screen-lg m-auto">
+<div class="mb-8 md:flex md:mb-0 md:mt-8 max-w-screen-lg m-auto">
 
 {{- with .Site.Data.home.latest.ticker -}}
 {{ $primaryUrl := urls.Parse .primary.url }}
@@ -18,7 +18,7 @@
                 <ul role="list" class="list-arrow ml-6 mt-2 w-[83%]">
                     <li class="pt-3 pb-4 leading-3 list-none">
                         <a href="{{ .primary.url }}" class="text-base">
-                            <strong>{{ .primary.title }}</strong><br />
+                            <strong class="font-bold capitalize">{{ .primary.title }}</strong><br />
                             <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
                             <span class="text-xs text-gray-500">{{ $primaryUrl.Host }}</span>
                         </a>
@@ -27,7 +27,7 @@
                     <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
                         {{ $secondaryUrl := urls.Parse .url }}
                         <a href="{{ .url }}" class="text-sm decoration-gray-400 md:text-base">
-                            <strong>{{ .title }}</strong> <br />
+                            <strong class="font-semibold">{{ .title }}</strong> <br />
                             <span class="text-xs text-gray-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                         </a>
                     </li>
