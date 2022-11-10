@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</a></h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p></div></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</a></h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><p><small class=\"text-gray-500\"> youtube.com</small></p></div></div></section>"
     },
     "ticker": {
         "primary": {
@@ -24,7 +24,7 @@
     "carousel": [
         {
             "type": "video",
-            "url": "/2020/12/filipino-frontline-nursers-in-ny/",
+            "url": "https://www.youtube.com/watch?v=MDJ0I15UFt8",
             "title": "Filipino Nurses: New York's Frontliners | 101 East",
             "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
             "image": "https://i.ytimg.com/vi/MDJ0I15UFt8/maxresdefault.jpg",
