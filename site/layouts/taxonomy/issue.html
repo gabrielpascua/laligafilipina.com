@@ -29,7 +29,7 @@
                     <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
                         {{ $secondaryUrl := urls.Parse .url }}
                         <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
-                            <strong class="font-semibold">{{ .title }}</strong> <br />
+                            <strong class="font-bold">{{ .title }}</strong> <br />
                             <span class="text-xs text-gray-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                         </a>
                     </li>
