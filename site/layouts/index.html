@@ -6,66 +6,64 @@
 
 <div class="mb-8 md:flex md:mb-0 md:mt-8 max-w-screen-lg m-auto">
 
-{{- with .Site.Data.home.latest.ticker -}}
-{{ $primaryUrl := urls.Parse .primary.url }}
-<div>
-    <div class="container mx-auto pl-4 pr-4">
-        <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In Depth</span>
-    </div>
-    <section class="bg-light mb-2">
-        <div class="container pl-4 pr-4">
-            <div class="border mt-6 pb-6 rounded">
-                <ul role="list" class="list-arrow ml-6 mt-2 w-[83%]">
-                    <li class="pt-3 pb-4 leading-3 list-none">
-                        <a href="{{ .primary.url }}" class="text-base">
-                            <strong class="font-bold capitalize text-gray-800">{{ .primary.title }}</strong><br />
-                            <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
-                            <span class="text-xs text-gray-500">{{ $primaryUrl.Host }}</span>
-                        </a>
-                    </li>
-                    {{- range .secondary }}
-                    <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
-                        {{ $secondaryUrl := urls.Parse .url }}
-                        <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
-                            <strong class="font-bold">{{ .title }}</strong> <br />
-                            <span class="text-xs text-gray-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
-                        </a>
-                    </li>
-                    {{ end -}}
-                </ul>
-            </div>
+    {{- with .Site.Data.home.latest.ticker -}}
+    {{ $primaryUrl := urls.Parse .primary.url }}
+    <div class="md:basis-2/4">
+        <div class="container mx-auto pl-4 pr-4">
+            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In Depth</span>
         </div>
-    </section>
-</div>
-{{- end -}}
+        <section class="bg-light mb-2">
+            <div class="container pl-4 pr-4">
+                <div class="border mt-6 pb-6 rounded">
+                    <ul role="list" class="list-arrow ml-6 mt-2 w-[83%]">
+                        <li class="pt-3 pb-4 leading-3 list-none">
+                            <a href="{{ .primary.url }}" class="text-base">
+                                <strong class="font-bold capitalize text-gray-800">{{ .primary.title }}</strong><br />
+                                <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
+                                <span class="text-xs text-gray-500">{{ $primaryUrl.Host }}</span>
+                            </a>
+                        </li>
+                        {{- range .secondary }}
+                        <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
+                            {{ $secondaryUrl := urls.Parse .url }}
+                            <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
+                                <strong class="font-bold">{{ .title }}</strong> <br />
+                                <span class="text-xs text-gray-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                            </a>
+                        </li>
+                        {{ end -}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+    {{- end -}}
 
-{{- with .Site.Data.home.latest.carousel -}}
-<div class="mt-6">
-    <div class="container pl-4 pr-4">
-        <div>
+    {{- with .Site.Data.home.latest.carousel -}}
+    <div class="md:basis-2/4 mt-6">
+        <div class="container pl-4 pr-4">
             {{- range . }}
             {{ $sourceUrl := urls.Parse .url }}
             <div class="container mx-auto pl-4 pr-4">
                 <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In {{ .tag }}</span>
             </div>
             <div class="border rounded mb-0 pt-1">
-            <a href="{{ .url }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
-                <div class="pt-2">
-                    <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6">{{ .title }}</h3>
-                    <p class="text-sm text-neutral-600 pl-6 pr-6">
-                        {{ .description }}
-                    </p>
-                    <p class="text-neutral-600 pl-6 pr-6">
-                        <span class="text-xs text-gray-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
-                    </p>
-                </div>
-            </a>
-        </div>
+                <a href="{{ .url }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
+                    <div class="pt-2">
+                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6">{{ .title }}</h3>
+                        <p class="text-sm text-neutral-600 pl-6 pr-6">
+                            {{ .description }}
+                        </p>
+                        <p class="text-neutral-600 pl-6 pr-6">
+                            <span class="text-xs text-gray-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
             {{ end -}}
         </div>
     </div>
-</div>
-{{- end -}}
+    {{- end -}}
 
 </div>
 
