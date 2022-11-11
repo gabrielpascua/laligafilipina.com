@@ -30,7 +30,7 @@
 
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
-            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-neutral-800 md:text-small">
+            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-gray-800 md:text-small">
                 <strong>{{.label}}</strong>
             </a>
         {{ end }}
