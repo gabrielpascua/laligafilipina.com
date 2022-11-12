@@ -4,7 +4,7 @@
     {{ .content | safeHTML }}
 {{- end -}}
 
-<div class="mb-8 md:flex md:mb-0 md:mt-8 max-w-screen-lg m-auto">
+<div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
 
     {{- with .Site.Data.home.latest.ticker -}}
     {{ $primaryUrl := urls.Parse .primary.url }}
