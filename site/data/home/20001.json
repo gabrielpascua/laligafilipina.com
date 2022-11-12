@@ -1,4 +1,8 @@
 {
+    "issue": {
+        "number": "20001",
+        "date": "September 21, 2020"
+    },
     "hero":{
         "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms\">He Killed a Transgender Woman in the Philippines. Why Was He Freed?</a></h1> <p class=\"hero-dek\">The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.</p><p><small class=\"text-gray-500\"> nytimes.com</small></p></div></div></section>"
     },
@@ -24,7 +28,7 @@
     "carousel": [
         {
             "type": "video",
-            "url": "/2020/08/why-the-us-has-so-many-filipino-nurses",
+            "url": "https://www.youtube.com/watch?v=yw8a8n7ZAZg",
             "title": "Why the US has so many Filipino nurses",
             "description": "The US colonized a country and built a labor supply. Filipino nurses have been disproportionately affected...",
             "image": "/images/issues/202009.001/maxresdefault.jpg",
@@ -40,7 +44,7 @@
         },
         {
             "type": "video",
-            "url": "/2020/08/rethinking-filipino-food-by-going-to-muslim-mindanao",
+            "url": "https://www.youtube.com/watch?v=7ZcoBFeiuA8",
             "title": "Rethinking Filipino Food by Going to Muslim Mindanao",
             "description": "Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’...",
             "image": "/images/issues/202009.001/hqdefault.jpg",
