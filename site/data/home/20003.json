@@ -27,27 +27,21 @@
     },
     "carousel": [
         {
-            "type": "article",
             "url": "https://theundefeated.com/features/erik-spoelstra-and-the-lack-of-asian-coaches-in-the-nba/",
             "title": "Erik Spoelstra and the lack of Asian coaches in the NBA",
             "description": "Spoelstra of the NBA's Miami Heat leads the way for Asian coaches trying to break the cultural stereotypes in American sports",
-            "image": "https://theundefeated.com/wp-content/uploads/2020/10/r754247_1296x729_16-9.jpg?w=700",
             "tag": "Sports"
         },
         {
-            "type": "article",
             "url": "https://www.bbc.com/news/world-asia-54275891",
             "title": "Philippines Troll Patrol: The woman taking on trolls on their own turf",
             "description": "Facebook's inability to enforce rules against disinformation makes some to counter the messages on the same internet boards where the trolls proliferate",
-            "image": "https://ichef.bbci.co.uk/news/1024/branded_news/154E5/production/_114596278_shibby.jpg",
             "tag": "Technology"
         },
         {
-            "type": "article",
             "url": "https://www.wsws.org/en/articles/2020/09/23/mart-s23.html",
             "title": "Forty-eight years since Marcos declared martial law in the Philippines",
             "description": "Remembering the lessons from then president Ferdinand Marcos's Martial Law and what the country can learn to avoid another authoritarian regime",
-            "image": "https://www.wsws.org/asset/1dd6190b-e131-4f4c-ac00-e112a7222b64?rendition=image640",
             "tag": "Politics"
         }
     ]

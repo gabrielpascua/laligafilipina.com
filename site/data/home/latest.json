@@ -23,27 +23,21 @@
     },
     "carousel": [
         {
-            "type": "video",
             "url": "https://www.youtube.com/watch?v=MDJ0I15UFt8",
             "title": "Filipino Nurses: New York's Frontliners | 101 East",
             "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
-            "image": "https://i.ytimg.com/vi/MDJ0I15UFt8/maxresdefault.jpg",
             "tag": "Overseas Workers"
         },
         {
-            "type": "article",
             "url": "https://www.yahoo.com/news/second-life-california-nurse-walks-224559714.html",
             "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
             "description": "Merlin Pambuan's recovery after several months battling COVID-19 teaches us about hope and the fight to live.",
-            "image": "https://s.yimg.com/uu/api/res/1.2/vMMDkimihccN2.1mtzo3SQ--~B/aD01MzM7dz04MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/reuters.com/bc213007031fb683ec65eef242a76df9",
             "tag": "Coronavirus"
         },
         {
-            "type": "article",
             "url": "https://www.channelnewsasia.com/news/cnainsider/philippines-president-rodrigo-duterte-china-pivot-investments-13801780",
             "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
             "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
-            "image": "https://cna-sg-res.cloudinary.com/image/upload/q_auto,f_auto/image/13802010/16x9/991/557/a358185c151744d67f1554c98383efa7/pN/insight-duterte-s-china-pivot-main.jpg",
             "tag": "International Politics"
         }
     ]
