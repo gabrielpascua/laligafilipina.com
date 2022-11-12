@@ -59,12 +59,15 @@ body {
   margin-right: 7px;
 }
 
-.list-arrow li::marker{
-  content: '-  ';
-  color: rgba(183, 183, 183, .75);
+.list-arrow li::before{
+  content: '-';
+  position: absolute;
+  color: rgba(183, 183, 183, 0.75);
+  margin-left: -1em;
+  margin-top: 0.25em;
 }
 
-.list-arrow .list-none::marker{
+.list-arrow .list-none::before{
   content: '';
 }
 
