@@ -20,7 +20,7 @@
                             <a href="{{ .primary.url }}" class="text-base">
                                 <strong class="font-bold capitalize text-gray-800">{{ .primary.title }}</strong><br />
                                 <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
-                                <span class="text-xs text-gray-500">{{ $primaryUrl.Host }}</span>
+                                <span class="text-xs text-gray-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                             </a>
                         </li>
                         {{- range .secondary }}

@@ -1,6 +1,6 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='covidContainer' /></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://www.youtube.com/watch?v=kyh1cMxAu_Y\">Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman</a></h1> <p class=\"hero-dek\">Women in the central Philippines have banded together to protect their marine sanctuaries from poachers and illegal fishers. Armed with only paddles and kayaks, these women willingly risk their lives to manage their marine protected area. Philippine waters are teeming with rich coral reefs and fish diversity and abundance, but protecting the seascape is challenging due to illegal fishing and climate change.</p><p><small class=\"text-gray-500\"> youtube.com</small></p></div></div></section>"
     },
     "ticker": {
         "primary": {
@@ -26,14 +26,6 @@
         ]
     },
     "carousel": [
-        {
-            "type": "video",
-            "url": "/2020/10/one-woman-protecting-a-marine-sanctuary-in-siquijor",
-            "title": "Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman",
-            "description": "Evelyn Malicay and volunteers patrol the protected waters of Siquijor from commercial vessels illegally fishing in the area.",
-            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg",
-            "tag": "Environmental Activism"
-        },
         {
             "type": "article",
             "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",

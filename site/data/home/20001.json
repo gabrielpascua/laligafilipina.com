@@ -1,14 +1,14 @@
 {
     "hero":{
-        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='covidContainer' /></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><div class=\"hero-container\"><h1 class=\"hero-lead\"><a href=\"https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms\">He Killed a Transgender Woman in the Philippines. Why Was He Freed?</a></h1> <p class=\"hero-dek\">The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.</p><p><small class=\"text-gray-500\"> nytimes.com</small></p></div></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Released After 6 Years",
-            "title": "He Killed a Transgender Woman in the Philippines. Why Was He Freed?",
-            "description": "The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.",
-            "image": "/images/issues/202009.001/GettyImages-464198654-e1600136685564.jpg",
-            "url": "https://www.nytimes.com/2020/09/17/magazine/philippines-marine-pardon-duterte.html"
+            "lead": "",
+            "title": "Philippines deports US Marine convicted of killing transgender woman in 2014",
+            "description": "A U.S. Marine convicted of killing a Filipino transgender woman was deported Sunday after a presidential pardon cut short his detention.",
+            "image": "",
+            "url": "https://www.usatoday.com/story/news/world/2020/09/13/joseph-scott-pemberton-marine-deported-philippines-after-killing/5785522002/"
         },
         "secondary": [
             {
@@ -18,10 +18,6 @@
             {
                 "url": "https://mb.com.ph/2020/09/12/pemberton-paid-p4-6m-civil-damages-with-his-salary-lawyer/",
                 "title": "Pemberton paid P4.6M civil damages with his salary – lawyer - Manila Bulletin"
-            },
-            {
-                "url": "https://www.usatoday.com/story/news/world/2020/09/13/joseph-scott-pemberton-marine-deported-philippines-after-killing/5785522002/",
-                "title": "Philippines deports US Marine convicted of killing transgender woman in 2014"
             }
         ]
     },
