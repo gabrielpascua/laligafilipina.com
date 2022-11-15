@@ -78,3 +78,38 @@ body {
 .list-arrow .list-none{
   @apply pl-0;
 }
+
+.markdown iframe {
+  @apply absolute top-0 left-0 w-[100%] h-[100%];
+}
+
+.markdown .timeline{
+  @apply border-t pt-4 mt-4;
+}
+
+.markdown .timeline ul {
+  margin-left: 1em;
+}
+
+.markdown .timeline li {
+  display: flex;
+  margin-bottom: .5em;
+}
+
+.markdown .timeline li::before{
+  content: '-';
+  position: absolute;
+  color: rgba(183, 183, 183, 0.75);
+  margin-left: -1em;
+}
+
+.markdown .timeline li :first-child{
+  display: block;
+  width: 70px;
+}
+
+.markdown .timeline li :last-child{
+  display: block;
+  width: calc(100% - 70px);
+  line-height: 1.25;
+}
