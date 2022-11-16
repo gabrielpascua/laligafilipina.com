@@ -41,8 +41,8 @@ body {
 }
 
 .hero-lead {
-  @apply text-xl leading-7 font-extrabold text-gray-800;
-  @apply md:text-2xl md:leading-9;
+  @apply text-xl leading-7 font-extrabold text-gray-800 capitalize;
+  @apply md:text-3xl md:leading-9;
   text-shadow: #fff 1px 1px;
 }
 
