@@ -10,7 +10,7 @@
     {{ $primaryUrl := urls.Parse .primary.url }}
     <div class="md:basis-2/4">
         <div class="container mx-auto pl-4 pr-4">
-            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In Depth</span>
+            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-600">In Depth</span>
         </div>
         <section class="bg-light mb-2">
             <div class="container pl-4 pr-4">
@@ -20,7 +20,7 @@
                             <a href="{{ .primary.url }}" class="text-base">
                                 <strong class="font-bold capitalize text-gray-800">{{ .primary.title }}</strong><br />
                                 <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
-                                <span class="text-xs text-gray-500">{{ replace $primaryUrl.Host "www." "" }}</span>
+                                <span class="text-xs text-zinc-600">{{ replace $primaryUrl.Host "www." "" }}</span>
                             </a>
                         </li>
                         {{- range .secondary }}
@@ -28,7 +28,7 @@
                             {{ $secondaryUrl := urls.Parse .url }}
                             <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
                                 <strong class="font-bold">{{ .title }}</strong> <br />
-                                <span class="text-xs text-gray-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                                <span class="text-xs text-zinc-600">{{ replace $secondaryUrl.Host "www." ""}}</span>
                             </a>
                         </li>
                         {{ end -}}
@@ -55,7 +55,7 @@
                             {{ .description }}
                         </p>
                         <p class="text-neutral-600 pl-6 pr-6">
-                            <span class="text-xs text-gray-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                            <span class="text-xs text-zinc-600-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
                         </p>
                     </div>
                 </a>
