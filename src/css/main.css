@@ -113,3 +113,8 @@ body {
   width: calc(100% - 70px);
   line-height: 1.25;
 }
+
+/* Tailwind Utilities - prepend with "x" */
+.xfont-medium {
+  @apply font-medium text-gray-900;
+}

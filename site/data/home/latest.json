@@ -1,44 +1,43 @@
 {
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><p><small class=\"text-zinc-600\"> youtube.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It. - The New York Times</h1> <p class=\"hero-dek\">Against long odds and initially strong opposition, <span class=\"xfont-medium\">a pristine marine preserve in the Philippines has thrived for decades</span> under the care of local fishermen.</p><p><small class=\"text-zinc-600\"> nytimes.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Christmas in the time of COVID-19",
-            "title": "A Christmas like no other",
-            "description": "\"We isolate now, so that when we gather again, no one is missing.\"",
-            "image": "https://opinion.inquirer.net/files/2020/06/JERRY-ORBOS-MOMENTS-620x324.jpeg",
-            "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other"
+            "lead": "Growing Population Concerns",
+            "title": "Filipino baby girl is 'symbolic' 8 billionth person in the world",
+            "description": "A baby girl born at the Dr. Jose Fabella Memorial Hospital in Manila in the early hours of November 15 has been designated as <span class=\"xfont-medium\">the \"symbolic\" eight billionth person</span> born.",
+            "url": "https://www.philstar.com/lifestyle/on-the-radar/2022/11/15/2224020/filipino-baby-girl-symbolic-8-billionth-person-world"
         },
         "secondary": [{
-            "url": "https://www.npr.org/sections/health-shots/2020/12/17/946700176/tis-the-season-to-celebrate-heres-how-to-do-it-safely",
-            "title":"'Tis The Season To Celebrate. Here's How To Do It Safely"
+            "url": "https://www.theguardian.com/world/2022/nov/17/the-school-with-18000-students-educating-the-philippines-booming-population",
+            "title":"The school with 18,000 students: educating the Philippines’ booming population | Philippines | The Guardian"
         },{
-            "url": "https://mb.com.ph/2020/11/29/nograles-christmas-get-togethers-limited-to-10-people-in-gcq-areas/",
-            "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas"
+            "url": "https://newsinfo.inquirer.net/1693300/fertility-rate-of-ph-women-plummets-to-less-than-2-children",
+            "title":"Fertility rate of PH women plummets to less than 2 children"
         },{
-            "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-christmas-dinner-philippines-pork/2020/12/21/2a85cb74-3a8e-11eb-aad9-8959227280c4_story.html",
-            "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition."
+            "url": "#",
+            "title":"TBD"
         }]
     },
     "carousel": [
         {
-            "url": "https://www.youtube.com/watch?v=MDJ0I15UFt8",
-            "title": "Filipino Nurses: New York's Frontliners | 101 East",
-            "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
-            "tag": "Overseas Workers"
+            "url": "https://www.theatlantic.com/books/archive/2022/11/rodrigo-duterte-philippines-journalist-attack-rappler-facebook/672072/",
+            "title": "Fight Fascism Before It’s Too Late - The Atlantic",
+            "description": "<span class=\"xfont-medium\">Maria Ressa</span> — If you live in a country where democracy is still intact: Don’t wait.",
+            "tag": "Politics"
         },
         {
-            "url": "https://www.yahoo.com/news/second-life-california-nurse-walks-224559714.html",
-            "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
-            "description": "Merlin Pambuan's recovery after several months battling COVID-19 teaches us about hope and the fight to live.",
-            "tag": "Coronavirus"
+            "url": "https://newsinfo.inquirer.net/1694528/obesitys-heavy-toll-millions-of-filipinos-now-at-greater-health-risks",
+            "title": "Obesity’s heavy toll: Millions of Filipinos now at greater health risks",
+            "description": "MANILA, Philippines — The past two years have been almost at a standstill because of the COVID-19 crisis, but while its economic consequences were evident, most people have not heard of how <span class=\"xfont-medium\">a “silent epidemic” took its toll on millions of Filipinos.</span>",
+            "tag": "Health"
         },
         {
-            "url": "https://www.channelnewsasia.com/news/cnainsider/philippines-president-rodrigo-duterte-china-pivot-investments-13801780",
-            "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
-            "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
-            "tag": "International Politics"
+            "url": "https://www.nationalgeographic.co.uk/travel/2022/11/beyond-the-beaches-five-unusual-experiences-in-the-philippines",
+            "title": "Beyond the beaches: five unusual experiences in the Philippines",
+            "description": "Although famous for its exceptional white-sand beaches and crystalline waters, <span class=\"xfont-medium\">the archipelago has myriad unique experiences waiting to be discovered</span> beyond the shore.",
+            "tag": "Travel"
         }
     ]
 }

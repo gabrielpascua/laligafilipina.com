@@ -18,13 +18,20 @@
             <div class="container pl-4 pr-4">
                 <div class="border mt-6 pb-6 rounded">
                     <ul role="list" class="list-arrow ml-6 mt-2 w-[83%]">
-                        <li class="pt-3 pb-4 leading-3 list-none">
+                        <li class="pt-3 pb-4 list-none">
                             <a href="{{ .primary.url }}" class="text-base">
-                                <strong class="font-bold capitalize text-gray-800">{{ .primary.title }}</strong><br />
-                                <span class="text-neutral-600 text-sm">{{ .primary.description }}</span><br />
+                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6">{{ .primary.title }}</h3>
+                                <p class="leading-5 text-neutral-600 text-sm">{{ .primary.description | safeHTML }}</p>
                                 <span class="text-xs text-zinc-600">{{ replace $primaryUrl.Host "www." "" }}</span>
                             </a>
                         </li>
+
+                        {{ if (isset .primary "lead") }}
+                        <li class="list-none mt-2 mb-2 border-b border-dotted pb-2 text-sm text-gray-900">
+                            More About {{ .primary.lead }}:
+                        </li> 
+                        {{ end }}
+
                         {{- range .secondary }}
                         <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
                             {{ $secondaryUrl := urls.Parse .url }}
@@ -54,7 +61,7 @@
                     <div class="pt-2">
                         <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6">{{ .title }}</h3>
                         <p class="text-sm text-neutral-600 pl-6 pr-6">
-                            {{ .description }}
+                            {{ .description | safeHTML }}
                         </p>
                         <p class="text-neutral-600 pl-6 pr-6">
                             <span class="text-xs text-zinc-600 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
