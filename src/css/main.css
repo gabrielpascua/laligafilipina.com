@@ -79,7 +79,12 @@ body {
   @apply pl-0;
 }
 
-.markdown iframe {
+.markdown iframe.instagram-media{
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+.markdown iframe.youtube-media {
   @apply absolute top-0 left-0 w-[100%] h-[100%];
 }
 

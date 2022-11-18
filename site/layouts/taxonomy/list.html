@@ -11,7 +11,7 @@
             <li class="mb-8 border-t pt-8 last:border-b last:pb-12">
                 <a href="{{.Permalink}}">
                   <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
-                  <p class="text-gray-700">{{.Description}}</p>
+                  <p class="text-gray-700">{{.Description | safeHTML }}</p>
                 </a>
                 <p>
                   <span class="text-xs text-gray-500">
