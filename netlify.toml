@@ -2,7 +2,3 @@
 HUGO_VERSION = "0.96.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-
-[security]
-  [security.funcs]
-    getenv = ['^(HUGO_|CONTEXT|DEPLOY_PRIME_URL)','URL']
