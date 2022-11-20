@@ -1,27 +1,36 @@
 {{ define "main" }} {{ $section := .Site.GetPage "section" .Section }}
-<article class="content">
-  <main class="container-small">
-    <section class="markdown">
-      <div class="text-center mt-2">
-        <a href="/issues/{{ .Params.issues }}" class="text-faded">
-          <small>{{ .Params.issues }} Issue</small>
+<article class="pl-4 pr-4 mb-14 mt-8 max-w-screen-lg m-auto">
+  <main class="pt-1 pb-1 md:pl-20 md:pr-20 md:pt-6">
+
+    <section class="mb-8">
+      <div class="mb-2">
+        <a href="/issues/{{ .Params.issues }}" class="">
+          <small>Issue: {{ .Params.issues }}</small>
         </a>
       </div>
-      <h1 class="mt-0">
+      <h1 class="text-3xl leading-8 font-extrabold text-gray-800">
         {{ .Title }}
       </h1>
-      <p class="mb-2">
-        {{ .Description | safeHTML }}
-      </p>
-      {{- .Content -}}
-      <div class="content-tags mt-3 mb-2">
-        {{- with .Params.tags }}
-          {{ range . }}
-            <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="tag">{{ . }}</a>
-          {{ end }}
-        {{ end -}}
-      </div>
     </section>
+
+    <p class="mb-10">
+      {{ .Description | safeHTML }}
+    </p>
+
+    <div class="markdown mb-10">
+      {{- .Content -}}
+    </div>
+
+    <div class="mt-14">
+      {{- with .Params.tags }}
+        {{ range . }}
+          <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="mr-4">
+            <small class="font-semibold">{{ . }}</small>
+          </a>
+        {{ end }}
+      {{ end -}}
+    </div>
+
   </main>
 </article>
 {{ end }}

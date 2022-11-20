@@ -11,18 +11,20 @@
   <link href="{{ relURL . }}" rel="stylesheet">
   {{ end -}}
 </head>
-<body>
-  <div id="app" class="wrapper">
-    <div class="page-body">
+<body class="text-gray-700">
+  <div id="app" class="min-h-full grid grid-rows-[1fr_auto]">
+    <section>
       {{- block "header" . -}}{{ partial "header" . }}{{- end -}}
       {{- block "main" . }}{{- end -}}
-    </div>
-    <footer class="footer">
-      {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
+    </section>
+    <footer class="row-start-2 row-end-3">
+      <div class="bg-gray-800 pb-4 pt-4 mt-10">
+        {{- block "footer" . }}{{ partial "footer" . }}{{ end -}}
+      </div>
     </footer>
   </div>
   {{- range $elem_key, $elem_val := .Site.Data.webpack }}
-    {{- with $elem_val.js }}<script src="{{ relURL . }}" async></script>{{ end }}
+    {{- with $elem_val.js }}<script src="{{ relURL . }}" defer></script>{{ end }}
   {{ end -}}
 </body>
 </html>

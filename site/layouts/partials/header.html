@@ -1,40 +1,40 @@
-<div class="page-header">
-    <div class="container">
-        <div class="header">
-            <section class="text-small">
-                <router-view name="dayName" />
-            </section>
-            <section class="text-center logo">
-                <a href="/">
-                    {{ partial "logo" . }}
-                </a>
-            </section>
-            <section class="text-right text-small">
-                <router-view name="weatherContainer"></router-view>
-            </section>
+<header>
+    <div class="pb-3 pt-4 border-b bg-white text-neutral-600">
+        <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto">
+            <div class="flex flex-row justify-between items-center">
+                <section class="text-xs md:text-small">
+                    <router-view name="dayName" />
+                </section>
+                <section class="text-center logo">
+                    <a href="/">
+                        <img src="/images/llf.svg" alt="La liga Filipina" width="180" height="40" class="md:w-[220px] lg:w-[250px]"/>
+                    </a>
+                </section>
+                <section class="text-right text-xs md:text-small">
+                    <router-view name="weatherContainer"></router-view>
+                </section>
+            </div>
         </div>
     </div>
-</div>
 
-<div class="page-topnav">
-    <div class="container text-center">
-        <!-- <small class="mr-2"><strong>Archives</strong></small>
-        <small class="mr-2"><strong>Search</strong></small>
-        <small class="mr-2"><strong>About</strong></small>
-        <small><strong>Newsletter</strong></small> -->
-        <!-- <strong>Tunay at Totoo Para sa Pilipino</strong> -->
+    <div class="border-b pt-1 pb-2 bg-white">
+        <div class="container text-center">
+            <!-- <small class="mr-2"><strong>Archives</strong></small>
+            <small class="mr-2"><strong>Search</strong></small>
+            <small class="mr-2"><strong>About</strong></small>
+            <small><strong>Newsletter</strong></small> -->
+            <!-- <strong>Tunay at Totoo Para sa Pilipino</strong> -->
 
-    <!-- <a href="#" class="text-normal"><strong><small>Archives</small></strong></a>
-    <span class="text-faded pr-1">|</span> -->
+        <!-- <a href="#" class="text-normal"><strong><small>Archives</small></strong></a>
+        <span class="text-faded pr-1">|</span> -->
 
-    {{- with .Site.Data.nav.tags -}}
-    {{ range .}}
-    <a href="/tags/{{.slug}}" class="text-normal">
-        <strong>
-            <small>{{.label}}</small>
-        </strong>
-    </a>
-    {{ end }}
-    {{- end -}}
+        {{- with .Site.Data.nav.tags -}}
+        {{ range .}}
+            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-gray-800 md:text-small">
+                <strong>{{.label}}</strong>
+            </a>
+        {{ end }}
+        {{- end -}}
+        </div>
     </div>
-</div>
+</header>

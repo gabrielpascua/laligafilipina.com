@@ -4,70 +4,74 @@
     {{ .content | safeHTML }}
 {{- end -}}
 
-{{- with .Site.Data.home.latest.ticker -}}
-<section class="ticker bg-light mb-2">
-    <div class="container">
-        <div class="ticker-item">
-            <a href="{{ .primary.url }}" class="ticker-primary-content">
-                <div class="ticker-primary-image">
-                    <img
-                        data-src="{{ .primary.image }}"
-                        alt="{{ .primary.title }}"
-                        class="lazyload"
-                        src="data:image/gif;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMjFweCIgaGVpZ2h0PSIxMjFweCIgdmlld0JveD0iLTAuNSAtMC41IDEyMSAxMjEiIGNvbnRlbnQ9IiZsdDtteGZpbGUgaG9zdD0mcXVvdDthcHAuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjAtMDktMjNUMTI6MDg6MDQuNjEwWiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODUuMC40MTgzLjEyMSBTYWZhcmkvNTM3LjM2JnF1b3Q7IGV0YWc9JnF1b3Q7cnYzNVJpLThuckY5MGdwYlpQMTEmcXVvdDsgdmVyc2lvbj0mcXVvdDsxMy43LjUmcXVvdDsgdHlwZT0mcXVvdDtkZXZpY2UmcXVvdDsmZ3Q7Jmx0O2RpYWdyYW0gaWQ9JnF1b3Q7TnI5amhLdW9VUlh3cUZnNVZSZjAmcXVvdDsgbmFtZT0mcXVvdDtQYWdlLTEmcXVvdDsmZ3Q7alpOTlQ0UXdFSVovRFVjVG9HN2NxNHVzWm8xNklOR2phZWhBR3d0RHlxeUF2OTZ5dEh4a1l5SWNtSGxtcHRPK1V3S1dWUDJqNFkxOFFRRTZpRVBSQit3aGlPTW9DbVA3R2Nrd2tSM2JUNkEwU3Jpa0JXVHFCeHdNSFQwckFlMG1rUkExcVdZTGM2eHJ5R25EdURIWWJkTUsxTnV1RFMvaENtUTUxOWYwUXdtU0U5M3Z3b1UvZ1NvbHpRZDJrWXI3WkFkYXlRVjJLOFRTZ0NVR2tTYXI2aFBRbzNoZWw2bnUrRWQwM3BpQm12NVRNS1R2NmVmcDd2Z1duc1I5OFpxbVdmZDg0MWI1NXZyc0R1dzJTNE5Yb0pPS0lHdDRQdnFkblhMQURwSXFiYjNJbXJ4dEp0MEwxWU50ZFNpVTFnbHFOSmR5VnV6R2QrUlkwNHBQaitVdEdmd0NINm14dG4wT2JsdGdDUG8venh2Tkt0cnJCMWdCbWNHbXVBSjI2NFIzTnkvMmsrbVdPVVorT0hJOVF3KzV1enZsdlBZaXJ6V2N3dDVkSm5tSnJmNEhsdjRDJmx0Oy9kaWFncmFtJmd0OyZsdDsvbXhmaWxlJmd0OyIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsiPjxkZWZzLz48Zz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgZmlsbD0iI2Y1ZjVmNSIgc3Ryb2tlPSJub25lIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PC9nPjwvc3ZnPg=="
-                    />
-                </div>
-                <div class="ticker-primary-text">
-                    <div class="ticker-lead">{{ .primary.lead }}</div>
-                    <h2 class="pt-0 mt-0">{{ .primary.title }}</h2>
-                    <p class="text-normal">{{ .primary.description }}</p>
-                </div>
-            </a>
-            
-            <div class="ticker-secondary-content">
-                <input type="checkbox" id="toggleCoverage" checked />
-                <label for="toggleCoverage" class="text-hed pointer">Related</label>
-                <span class="ticker-arrows transition-ease-all">+</span>
-                <hr />
-                <ul class="link-arrows transition-ease-all">
-                    {{- range .secondary }}
-                    <li><a href="{{ .url }}" class="text-normal"><strong>{{ .title }}</strong></a></li>
-                    {{ end -}}
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
-{{- end -}}
+<div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
 
-{{- with .Site.Data.home.latest.carousel -}}
-<div class="carousel">
-    <div class="container">
-        <h2 class="underlined-hed text-hed pb-1">Featured</h2>
-        <hr class="mb-1 mt-0" />
-        <div class="carousel-container">
+    {{- with .Site.Data.home.latest.ticker -}}
+    {{ $primaryUrl := urls.Parse .primary.url }}
+    <div class="md:basis-2/4">
+        <div class="container mx-auto pl-4 pr-4">
+            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-600">In Depth</span>
+        </div>
+        <section class="bg-light mb-2">
+            <div class="container pl-4 pr-4">
+                <div class="border mt-6 pb-6 rounded">
+                    <ul role="list" class="list-arrow ml-6 mt-2 w-[90%]">
+                        <li class="pt-3 pb-4 list-none">
+                            <a href="{{ .primary.url }}" class="text-base">
+                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6">{{ .primary.title }}</h3>
+                                <p class="leading-5 text-neutral-600 text-sm">{{ .primary.description | safeHTML }}</p>
+                                <span class="text-xs text-zinc-600">{{ replace $primaryUrl.Host "www." "" }}</span>
+                            </a>
+                        </li>
+
+                        {{ if (isset .primary "lead") }}
+                        <li class="list-none mt-2 mb-2 border-b border-dotted pb-2 text-sm text-gray-900">
+                            More About {{ .primary.lead }}:
+                        </li>
+                        {{ end }}
+
+                        {{- range .secondary }}
+                        <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
+                            {{ $secondaryUrl := urls.Parse .url }}
+                            <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
+                                <strong class="font-bold">{{ .title }}</strong> <br />
+                                <span class="text-xs text-zinc-600">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                            </a>
+                        </li>
+                        {{ end -}}
+                    </ul>
+                </div>
+            </div>
+        </section>
+    </div>
+    {{- end -}}
+
+    {{- with .Site.Data.home.latest.carousel -}}
+    <div class="md:basis-2/4 mt-6">
+        <div class="container pl-4 pr-4">
             {{- range . }}
-            <a href="{{ .url }}" class="carousel-item">
-                <div class="carousel-image">
-                    <img
-                        data-src="{{ .image }}"
-                        alt="{{ .title }}"
-                        class="lazyload"
-                        src="data:image/gif;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHdpZHRoPSIxMjFweCIgaGVpZ2h0PSIxMjFweCIgdmlld0JveD0iLTAuNSAtMC41IDEyMSAxMjEiIGNvbnRlbnQ9IiZsdDtteGZpbGUgaG9zdD0mcXVvdDthcHAuZGlhZ3JhbXMubmV0JnF1b3Q7IG1vZGlmaWVkPSZxdW90OzIwMjAtMDktMjNUMTI6MDg6MDQuNjEwWiZxdW90OyBhZ2VudD0mcXVvdDs1LjAgKFgxMTsgTGludXggeDg2XzY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvODUuMC40MTgzLjEyMSBTYWZhcmkvNTM3LjM2JnF1b3Q7IGV0YWc9JnF1b3Q7cnYzNVJpLThuckY5MGdwYlpQMTEmcXVvdDsgdmVyc2lvbj0mcXVvdDsxMy43LjUmcXVvdDsgdHlwZT0mcXVvdDtkZXZpY2UmcXVvdDsmZ3Q7Jmx0O2RpYWdyYW0gaWQ9JnF1b3Q7TnI5amhLdW9VUlh3cUZnNVZSZjAmcXVvdDsgbmFtZT0mcXVvdDtQYWdlLTEmcXVvdDsmZ3Q7alpOTlQ0UXdFSVovRFVjVG9HN2NxNHVzWm8xNklOR2phZWhBR3d0RHlxeUF2OTZ5dEh4a1l5SWNtSGxtcHRPK1V3S1dWUDJqNFkxOFFRRTZpRVBSQit3aGlPTW9DbVA3R2Nrd2tSM2JUNkEwU3Jpa0JXVHFCeHdNSFQwckFlMG1rUkExcVdZTGM2eHJ5R25EdURIWWJkTUsxTnV1RFMvaENtUTUxOWYwUXdtU0U5M3Z3b1UvZ1NvbHpRZDJrWXI3WkFkYXlRVjJLOFRTZ0NVR2tTYXI2aFBRbzNoZWw2bnUrRWQwM3BpQm12NVRNS1R2NmVmcDd2Z1duc1I5OFpxbVdmZDg0MWI1NXZyc0R1dzJTNE5Yb0pPS0lHdDRQdnFkblhMQURwSXFiYjNJbXJ4dEp0MEwxWU50ZFNpVTFnbHFOSmR5VnV6R2QrUlkwNHBQaitVdEdmd0NINm14dG4wT2JsdGdDUG8venh2Tkt0cnJCMWdCbWNHbXVBSjI2NFIzTnkvMmsrbVdPVVorT0hJOVF3KzV1enZsdlBZaXJ6V2N3dDVkSm5tSnJmNEhsdjRDJmx0Oy9kaWFncmFtJmd0OyZsdDsvbXhmaWxlJmd0OyIgc3R5bGU9ImJhY2tncm91bmQtY29sb3I6IHJnYigyNTUsIDI1NSwgMjU1KTsiPjxkZWZzLz48Zz48cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMTIwIiBoZWlnaHQ9IjEyMCIgZmlsbD0iI2Y1ZjVmNSIgc3Ryb2tlPSJub25lIiBwb2ludGVyLWV2ZW50cz0iYWxsIi8+PC9nPjwvc3ZnPg=="
-                    />
-                    {{- if eq .type "video" -}}
-                    <div class="media-overlay"><div class="play-arrow"></div></div>
-                    {{- end -}}
-                </div>
-                <div class="carousel-text">
-                    <h3>{{ .title }}</h3>
-                    <p class="text-normal">{{ .description }}</p>
-                </div>
-            </a>
+            {{ $sourceUrl := urls.Parse .url }}
+            <div class="container mx-auto pl-4 pr-4">
+                <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In {{ .tag }}</span>
+            </div>
+            <div class="border rounded mb-0 pt-1">
+                <a href="{{ .url }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
+                    <div class="pt-2">
+                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6">{{ .title }}</h3>
+                        <p class="text-sm text-neutral-600 pl-6 pr-6">
+                            {{ .description | safeHTML }}
+                        </p>
+                        <p class="text-neutral-600 pl-6 pr-6">
+                            <span class="text-xs text-zinc-600 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                        </p>
+                    </div>
+                </a>
+            </div>
             {{ end -}}
         </div>
     </div>
+    {{- end -}}
+
 </div>
-{{- end -}}
 
 {{- end -}}

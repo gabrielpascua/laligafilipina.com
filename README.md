@@ -9,7 +9,7 @@
 * Device dimensions are 360, 768, and 1366
 * Tablets have a low traffic
 
-### vue.js Installation
+### vue.js Installation [Deprecated over v3]
 * https://vue-loader.vuejs.org/guide/#manual-setup
 * https://github.com/vuejs-templates/webpack-simple
 * https://vuejs.org/v2/guide/single-file-components.html

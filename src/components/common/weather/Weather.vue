@@ -1,5 +1,5 @@
 <template>
-  <span>
+  <span class="capitalize">
     {{temperature}}&deg;C
     <br />
     {{description}}

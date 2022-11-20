@@ -2,12 +2,9 @@ module.exports = {
   plugins: {
     "postcss-import": {},
     "postcss-preset-env": {
-      browsers: [
-        "> 1%",
-        "last 2 versions",
-        "not dead"
-      ]
+      browsers: "last 1 versions"
     },
+    tailwindcss: {},
     autoprefixer: {}
   }
 };

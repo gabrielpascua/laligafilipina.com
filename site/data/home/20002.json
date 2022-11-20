@@ -1,6 +1,10 @@
 {
+    "issue": {
+        "number": "20002",
+        "date": "October 5, 2020"
+    },
     "hero":{
-        "content": "<section class='hero pb-3 pt-2'><div class='container'><h1 class='mb-0 text-center'>Corona Virus Cases</h1><p class='mt-0 text-center'>COVID-19 Cases for a six-week period</p><router-view name='covidContainer' /></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"https://www.youtube.com/watch?v=kyh1cMxAu_Y\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman</h1> <p class=\"hero-dek\">Women in the central Philippines have banded together to protect their marine sanctuaries from poachers and illegal fishers. Armed with only paddles and kayaks, these women willingly risk their lives to manage their marine protected area. Philippine waters are teeming with rich coral reefs and fish diversity and abundance, but protecting the seascape is challenging due to illegal fishing and climate change.</p><p><small class=\"text-zinc-600\"> youtube.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
@@ -27,25 +31,16 @@
     },
     "carousel": [
         {
-            "type": "video",
-            "url": "/2020/10/one-woman-protecting-a-marine-sanctuary-in-siquijor",
-            "title": "Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fisherman",
-            "description": "Evelyn Malicay and volunteers patrol the protected waters of Siquijor from commercial vessels illegally fishing in the area.",
-            "image": "https://i.ytimg.com/vi/kyh1cMxAu_Y/maxresdefault.jpg"
-        },
-        {
-            "type": "article",
             "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",
             "title": "The Dirty Secret Behind The West's Coconut Fad",
             "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
-            "image": "https://assets.ozy.com/ozy-prod/2021/04/faisal-protecting-the-coconut-bounty-2-1.jpg?w=600&h=315"
+            "tag": "Sustainability"
         },
         {
-            "type": "article",
             "url": "https://www.wired.com/story/the-20-year-hunt-for-the-man-behind-the-love-bug-virus/",
             "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
             "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
-            "image": "https://media.wired.com/photos/5f5bb7618ce9df9007fb1453/191:100/w_1280,c_limit/backchannel-snakeboy.jpg"
+            "tag": "Technology"
         }
     ]
 }
