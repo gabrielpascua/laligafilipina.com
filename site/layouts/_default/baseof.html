@@ -26,5 +26,6 @@
   {{- range $elem_key, $elem_val := .Site.Data.webpack }}
     {{- with $elem_val.js }}<script src="{{ relURL . }}" defer></script>{{ end }}
   {{ end -}}
+  {{- block "extras" . -}}{{- end -}}
 </body>
 </html>
