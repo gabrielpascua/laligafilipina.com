@@ -13,4 +13,4 @@ slug: "filipino-frontline-nursers-in-ny"
 ---
 
 
-{{< youtubex video-id="MDJ0I15UFt8" >}}
+{{< youtube MDJ0I15UFt8 >}}

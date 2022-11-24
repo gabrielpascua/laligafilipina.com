@@ -12,4 +12,4 @@ description: Evelyn Malicay and volunteers patrol the protected waters of Siquij
 slug: "one-woman-protecting-a-marine-sanctuary-in-siquijor"
 ---
 
-{{< youtubex video-id="kyh1cMxAu_Y" >}}
+{{< youtube kyh1cMxAu_Y >}}

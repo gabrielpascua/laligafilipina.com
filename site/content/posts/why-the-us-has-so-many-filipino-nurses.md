@@ -12,7 +12,7 @@ description: Filipino nurses have been disproportionately affected by the corona
 slug: why-the-us-has-so-many-filipino-nurses
 ---
 
-{{< youtubex video-id="yw8a8n7ZAZg" >}}
+{{< youtube yw8a8n7ZAZg >}}
 
 
 <br />

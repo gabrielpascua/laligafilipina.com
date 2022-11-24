@@ -11,4 +11,4 @@ description: The people in the Philippines are suffering from one of the toughes
 slug: covid-19-in-philippines-the-starving-urban-poor-what-went-wrong
 ---
 
-{{< youtubex video-id="MQ5aYS4YFlQ" >}}
+{{< youtube MQ5aYS4YFlQ >}}

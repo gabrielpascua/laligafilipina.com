@@ -12,7 +12,7 @@ description: Representation matters. In a nation as diverse as the Philippines, 
 slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 ---
 
-{{< youtubex video-id="7ZcoBFeiuA8" >}}
+{{< youtube 7ZcoBFeiuA8 >}}
 
 <br />
 <h3 class="mb-4 mt-4 font-semibold">Video Highlights</h3>
