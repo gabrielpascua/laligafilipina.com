@@ -1,0 +1,47 @@
+{
+    "issue": {
+        "number": "21002",
+        "date": "November 28, 2020"
+    },
+    "hero":{
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"https://www.latimes.com/world-nation/story/2022-11-21/disaster-philippines-volunteers-feed-the-masses\"><div class=\"hero-container\"><h1 class=\"hero-lead\">When disaster strikes in the Philippines, these volunteers rush in to feed the masses</h1> <p class=\"hero-dek\">Few countries are hit by more natural disasters than the Philippines. A volunteer group called Art Relief Mobile Kitchen is dedicated to helping victims.</p><p><small class=\"text-zinc-600\">latimes.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "the Philippine-American Alliance",
+            "title": "Fact Sheet: Vice President Harris Launches New Initiatives to Strengthen U.S.-Philippines Alliance | The White House",
+            "description": "The United States and the Philippines enjoy an alliance and partnership based on deep historical, economic, and cultural ties, and our shared democratic",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/"
+        },
+        "secondary": [{
+            "url": "https://time.com/6236010/kamala-harris-philippines-visit-china/",
+            "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China"
+        },{
+            "url": "https://newsinfo.inquirer.net/1696664/harris-us-stands-with-ph-vs-coercion-in-south-china-sea",
+            "title":"Harris: US stands with PH vs coercion in South China Sea"
+        },{
+            "url": "https://www.ibtimes.com/amid-rising-tension-china-us-military-may-return-subic-bay-philippines-3640196",
+            "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines"
+        }]
+    },
+    "carousel": [
+        {
+            "url": "https://moderndiplomacy.eu/2022/11/24/philippines-reducing-inequality-key-to-becoming-a-middle-class-society-free-of-poverty/",
+            "title": "Philippines: Reducing Inequality Key to Becoming a Middle-Class Society Free of Poverty - Modern Diplomacy",
+            "description": "Policies that support employment and workers, raise education quality and improve access, boost rural development, and strengthen social protection can reduce inequality",
+            "tag": "Social Inequality"
+        },
+        {
+            "url": "https://gothamist.com/food/filipino-food-gains-visibility-in-nyc-but-restaurateurs-point-to-a-complicated-reality",
+            "title": "Filipino food gains visibility in NYC, but restaurateurs point to a complicated reality",
+            "description": "Current and former restaurant owners, chefs, historians and diners say Filipino food has lingered far too long on the brink of the ascendancy predicted by culinary greats.",
+            "tag": "Business"
+        },
+        {
+            "url": "https://www.civilbeat.org/2022/11/a-tribe-in-the-southern-philippines-shows-that-reforestation-takes-a-village/",
+            "title": "The Talaandig Tribe Of The Southern Philippines Shows That Reforestation Takes A Village",
+            "description": "Indigenous stewardship of rainforest ecosystems in Mindanao is a potential template for successful agroforestry in other upland terrains.",
+            "tag": "Mindanao"
+        }
+    ]
+}
