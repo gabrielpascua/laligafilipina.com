@@ -1,43 +1,43 @@
 {
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It. - The New York Times</h1> <p class=\"hero-dek\">Against long odds and initially strong opposition, <span class=\"xfont-medium\">a pristine marine preserve in the Philippines has thrived for decades</span> under the care of local fishermen.</p><p><small class=\"text-zinc-600\"> nytimes.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"container mx-auto\"><a href=\"#tbd\"><div class=\"hero-container\"><h1 class=\"hero-lead\">TBDs</h1> <p class=\"hero-dek\">TBD</p><p><small class=\"text-zinc-600\"> TBD</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "Our Growing Population",
-            "title": "8 Billion: A World of Infinite Possibilities",
-            "description": "\"More than half of the projected increase in the global population up to 2050 will be concentrated in eight countries: the Democratic Republic of Congo, Egypt, Ethiopia, India, Nigeria, Pakistan, <span class=\"xfont-medium\">the Philippines</span> and the United Republic of Tanzania.\"",
-            "url": "https://www.unfpa.org/8billion"
+            "lead": "the Philippine-American Alliance",
+            "title": "Fact Sheet: Vice President Harris Launches New Initiatives to Strengthen U.S.-Philippines Alliance | The White House",
+            "description": "The United States and the Philippines enjoy an alliance and partnership based on deep historical, economic, and cultural ties, and our shared democratic",
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/"
         },
         "secondary": [{
-            "url": "https://www.philstar.com/lifestyle/on-the-radar/2022/11/15/2224020/filipino-baby-girl-symbolic-8-billionth-person-world",
-            "title":"Filipino baby girl is 'symbolic' 8 billionth person in the world"
+            "url": "https://time.com/6236010/kamala-harris-philippines-visit-china/",
+            "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China"
         },{
-            "url": "https://www.theguardian.com/world/2022/nov/17/the-school-with-18000-students-educating-the-philippines-booming-population",
-            "title":"The school with 18,000 students: educating the Philippines’ booming population | Philippines | The Guardian"
+            "url": "https://newsinfo.inquirer.net/1696664/harris-us-stands-with-ph-vs-coercion-in-south-china-sea",
+            "title":"Harris: US stands with PH vs coercion in South China Sea"
         },{
-            "url": "https://newsinfo.inquirer.net/1693300/fertility-rate-of-ph-women-plummets-to-less-than-2-children",
-            "title":"Fertility rate of PH women plummets to less than 2 children"
+            "url": "https://www.ibtimes.com/amid-rising-tension-china-us-military-may-return-subic-bay-philippines-3640196",
+            "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines"
         }]
     },
     "carousel": [
         {
-            "url": "https://www.theatlantic.com/books/archive/2022/11/rodrigo-duterte-philippines-journalist-attack-rappler-facebook/672072/",
-            "title": "Fight Fascism Before It’s Too Late - The Atlantic",
-            "description": "<span class=\"xfont-medium\">If you live in a country where democracy is still intact: Don’t wait.</span> — Maria Ressa",
-            "tag": "Politics"
+            "url": "https://www.latimes.com/world-nation/story/2022-11-21/disaster-philippines-volunteers-feed-the-masses",
+            "title": "When disaster strikes in the Philippines, these volunteers rush in to feed the masses",
+            "description": "Few countries are hit by more natural disasters than the Philippines. A volunteer group called Art Relief Mobile Kitchen is dedicated to helping victims.",
+            "tag": "Uplifting News"
         },
         {
-            "url": "https://newsinfo.inquirer.net/1694528/obesitys-heavy-toll-millions-of-filipinos-now-at-greater-health-risks",
-            "title": "Obesity’s heavy toll: Millions of Filipinos now at greater health risks",
-            "description": "MANILA, Philippines — The past two years have been almost at a standstill because of the COVID-19 crisis, but while its economic consequences were evident, most people have not heard of how <span class=\"xfont-medium\">a “silent epidemic” took its toll on millions of Filipinos.</span>",
-            "tag": "Health"
+            "url": "https://moderndiplomacy.eu/2022/11/24/philippines-reducing-inequality-key-to-becoming-a-middle-class-society-free-of-poverty/",
+            "title": "Philippines: Reducing Inequality Key to Becoming a Middle-Class Society Free of Poverty - Modern Diplomacy",
+            "description": "Policies that support employment and workers, raise education quality and improve access, boost rural development, and strengthen social protection can reduce inequality",
+            "tag": "Social Issues"
         },
         {
-            "url": "https://www.nationalgeographic.co.uk/travel/2022/11/beyond-the-beaches-five-unusual-experiences-in-the-philippines",
-            "title": "Beyond the beaches: five unusual experiences in the Philippines",
-            "description": "Although famous for its exceptional white-sand beaches and crystalline waters, <span class=\"xfont-medium\">the archipelago has myriad unique experiences waiting to be discovered</span> beyond the shore.",
-            "tag": "Travel"
+            "url": "https://gothamist.com/food/filipino-food-gains-visibility-in-nyc-but-restaurateurs-point-to-a-complicated-reality",
+            "title": "Filipino food gains visibility in NYC, but restaurateurs point to a complicated reality",
+            "description": "Current and former restaurant owners, chefs, historians and diners say Filipino food has lingered far too long on the brink of the ascendancy predicted by culinary greats.",
+            "tag": "Business"
         }
     ]
 }
