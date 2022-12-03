@@ -30,9 +30,8 @@ body {
 }
 
 .hero {
-  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0;
+  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0 bg-zinc-100;
   @apply md:pl-0 md:pb-12 md:pt-14 md:pr-0 lg:pt-20 lg:pb-20;
-  background: #f4f4f4;
 }
 
 .hero-container {
@@ -62,9 +61,8 @@ body {
 .list-arrow li::before{
   content: '-';
   position: absolute;
-  color: rgba(183, 183, 183, 0.75);
-  margin-left: -1em;
-  margin-top: 0.25em;
+  @apply text-zinc-700 text-sm;
+  margin-left: -1.25em;
 }
 
 .list-arrow .list-none::before{

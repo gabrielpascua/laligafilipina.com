@@ -20,7 +20,7 @@
                     <ul role="list" class="list-arrow ml-6 mt-2 w-[90%]">
                         <li class="pt-3 pb-4 list-none">
                             <a href="{{ .primary.url }}" class="text-base">
-                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6">{{ .primary.title }}</h3>
+                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
                                 <p class="leading-5 text-neutral-600 text-sm">{{ .primary.description | safeHTML }}</p>
                                 <span class="text-xs text-zinc-600">{{ replace $primaryUrl.Host "www." "" }}</span>
                             </a>
