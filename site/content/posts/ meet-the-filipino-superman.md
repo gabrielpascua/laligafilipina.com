@@ -1,6 +1,6 @@
 ---
 title: "Meet the Filipino Superman"
-issues: "21002"
+issues: "22002"
 labels: Featured
 tags:
   - Pop Culture

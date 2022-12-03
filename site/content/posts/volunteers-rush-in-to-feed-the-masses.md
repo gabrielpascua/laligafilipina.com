@@ -1,6 +1,6 @@
 ---
 title: "When disaster strikes in the Philippines, these volunteers rush in to feed the masses"
-issues: "21002"
+issues: "22002"
 labels: Featured
 tags:
   - Disaster Response
