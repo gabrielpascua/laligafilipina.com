@@ -15,13 +15,16 @@
         },
         "secondary": [{
             "url": "https://time.com/6236010/kamala-harris-philippines-visit-china/",
-            "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China"
+            "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China",
+            "description": "The Vice President visited Palawan Tuesday in what observers say is meant as a message to China"
         },{
             "url": "https://newsinfo.inquirer.net/1696664/harris-us-stands-with-ph-vs-coercion-in-south-china-sea",
-            "title":"Harris: US stands with PH vs coercion in South China Sea"
+            "title":"Harris: US stands with PH vs coercion in South China Sea",
+            "description": "Puerto Princesa City, Palawan, Philippines — US Vice President Kamala Harris on Tuesday afternoon visited this province closest to the West Philippine Sea, in a show of support for the"
         },{
             "url": "https://www.ibtimes.com/amid-rising-tension-china-us-military-may-return-subic-bay-philippines-3640196",
-            "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines"
+            "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines",
+            "description": "The Philippines is a key ally of the U.S. in a region with close geographical proximity to China, across the South China Sea."
         }]
     },
     "carousel": [
