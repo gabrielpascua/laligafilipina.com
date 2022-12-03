@@ -10,39 +10,35 @@
     {{ $primaryUrl := urls.Parse .primary.url }}
     <div class="md:basis-2/4">
         <div class="container mx-auto pl-4 pr-4">
-            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-700">In Current Affairs</span>
+            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-700">In Trending</span>
         </div>
         <section class="bg-light mb-2">
             <div class="container pl-4 pr-4">
                 <div class="border mt-6 pb-6 rounded">
-                    <ul role="list" class="list-arrow ml-6 mt-2 w-[90%]">
-                        <li class="pt-3 pb-4 list-none">
-                            <a href="{{ .primary.url }}" class="text-base">
-                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
-                                <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
-                                <span class="text-xs text-zinc-500">{{ replace $primaryUrl.Host "www." "" }}</span>
-                            </a>
-                        </li>
+                    <a href="{{ .primary.url }}" class="text-base p-6 block">
+                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
+                        <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
+                        <span class="text-xs text-zinc-500">{{ replace $primaryUrl.Host "www." "" }}</span>
+                    </a>
 
-                        {{ if (isset .primary "lead") }}
-                        <li class="list-none mt-2 mb-4 rounded-md bg-zinc-100 pt-2 pb-2 text-xs font-semibold text-gray-800">
-                            <span class="ml-2">More on {{ .primary.lead }}</span>
-                        </li>
-                        {{ end }}
+                    <div class="rounded-md ml-6 mr-6 p-6 pt-5 bg-zinc-50">
+                        <span class="block text-xs font-semibold text-gray-800 mb-4 border-b pb-4 text-gray-800">
+                            More on {{ .primary.lead }}
+                        </span>
 
                         {{- range .secondary }}
-                        <li class="ml-4 mb-0 pb-0 leading-3 pt-3 md:mb-2">
                             {{ $secondaryUrl := urls.Parse .url }}
-                            <a href="{{ .url }}" class="text-sm text-gray-800 decoration-gray-400 md:text-base">
-                                <strong class="font-bold capitalize">{{ .title }}</strong> <br />
-                                {{- if (isset . "description") }}
-                                    <span class="text-sm text-zinc-500">{{ .description }}</span><br />
-                                {{ end -}}
-                                <span class="text-xs text-zinc-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                            <a href="{{ .url }}" class="block text-sm decoration-gray-400 md:text-base mb-6 last:mb-0 mt-2">
+                                <p class="leading-5">
+                                    <strong class="font-bold capitalize text-gray-800 pb-2 block">{{ .title }}</strong>
+                                    {{- if (isset . "description") }}
+                                        <span class="text-sm text-zinc-500">{{ .description }}</span><br />
+                                    {{ end -}}
+                                    <span class="text-xs text-zinc-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                                </p>
                             </a>
-                        </li>
                         {{ end -}}
-                    </ul>
+                    </div>
                 </div>
             </div>
         </section>
