@@ -24,9 +24,12 @@
                     </a>
 
                     <div class="rounded-md ml-6 mr-6 p-6 pt-5 bg-zinc-50">
+                        {{- if (isset .primary "lead") }}
                         <span class="block text-xs font-semibold text-gray-800 mb-4 border-b pb-4 text-gray-800">
                             More on {{ .primary.lead }}
                         </span>
+                        {{ end -}}
+
 
                         {{- range .secondary }}
                             {{ $secondaryUrl := urls.Parse .url }}
