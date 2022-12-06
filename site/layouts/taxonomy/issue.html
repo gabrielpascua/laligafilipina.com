@@ -23,17 +23,18 @@
                         <span class="text-xs text-zinc-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                     </a>
 
-                    <div class="pl-6 pr-7 pt-6 pb-8 mb-0 bg-zinc-50">
+                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-100 border-t border-b">
                         {{- if (isset .primary "lead") }}
                         <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-zinc-300 pb-6 text-gray-800">
                             More on {{ .primary.lead }}
                         </span>
                         {{ end -}}
 
-
+                        <ul class="list-arrow ml-4">
                         {{- range .secondary }}
                             {{ $secondaryUrl := urls.Parse .url }}
-                            <a href="{{ .url }}" class="block text-sm decoration-gray-400 md:text-base mb-6 last:mb-0 mt-2">
+                            <li class="pl-4 mb-6 last:mb-0 mt-2 pr-2">
+                            <a href="{{ .url }}" class="block text-sm decoration-gray-400 md:text-base">
                                 <p class="leading-5">
                                     <strong class="font-bold capitalize text-gray-800 pb-2 block">{{ .title }}</strong>
                                     {{- if (isset . "description") }}
@@ -42,7 +43,9 @@
                                     <span class="text-xs text-zinc-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                                 </p>
                             </a>
+                            </li>
                         {{ end -}}
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -55,21 +58,23 @@
         <div class="container pl-4 pr-4">
             {{- range . }}
             {{ $sourceUrl := urls.Parse .url }}
-            <div class="container mx-auto pl-4 pr-4">
-                <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In {{ .tag }}</span>
-            </div>
-            <div class="border rounded mb-0 pt-1">
-                <a href="{{ .url }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
-                    <div class="pt-2">
-                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
-                        <p class="text-sm text-zinc-500 pl-6 pr-6">
-                            {{ .description | safeHTML }}
-                        </p>
-                        <p class="text-neutral-600 pl-6 pr-6">
-                            <span class="text-xs text-zinc-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
-                        </p>
-                    </div>
-                </a>
+            <div>
+                <div class="container mx-auto pl-4 pr-4">
+                    <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-500 md:text-zinc-700">In {{ .tag }}</span>
+                </div>
+                <div class="border rounded mb-0 pt-1">
+                    <a href="{{ .url }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
+                        <div class="pt-2">
+                            <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
+                            <p class="text-sm text-zinc-500 pl-6 pr-6">
+                                {{ .description | safeHTML }}
+                            </p>
+                            <p class="text-neutral-600 pl-6 pr-6">
+                                <span class="text-xs text-zinc-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                            </p>
+                        </div>
+                    </a>
+                </div>
             </div>
             {{ end -}}
         </div>
