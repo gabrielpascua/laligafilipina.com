@@ -5,20 +5,24 @@
     "ticker": {
         "primary": {
             "lead": "the 7.7% to 8.0% November Inflation Increase",
-            "url": "http://bit.ly/3VSIu14",
+            "url": "https://www.cnbc.com/2022/12/06/philippines-inflation-soars-to-fastest-in-14-years-more-hikes-to-come.html",
+            "shortUrl": "http://bit.ly/3VSIu14",
             "title":"Philippines’ inflation soars to 14-year high, fueling expectations of more rate hikes",
             "description": "Philippines' annual inflation data soared to 8.0%, marking the country's fastest inflation in 14-year high since November 2008."
         },
         "secondary": [{
             "url": "https://www.gmanetwork.com/news/money/economy/853620/inflation-surges-to-8-0-in-november/story/",
+            "shortUrl": "",
             "title":"Inflation surges to 8.0% in November",
             "description": "Prices of consumer goods in the Philippines continued to grow faster than targeted in November to hit the highest in 14 years, government data released Tuesday showed."
         },{
             "title": "Philippines: Inflation hits 14 year high as food inflation spikes",
             "description": "Philippine inflation hits its highest level since 2008",
-            "url": "https://think.ing.com/snaps/philippines-inflation-hits-14-year-high-as-food-inflation-spikes"
+            "url": "https://think.ing.com/snaps/philippines-inflation-hits-14-year-high-as-food-inflation-spikes",
+            "shortUrl": ""
         },{
             "url": "https://www.reuters.com/business/retail-consumer/philippine-inflation-leaps-14-year-high-november-2022-12-06/",
+            "shortUrl": "",
             "title":"Philippines inflation at 14-year high, backs case for 50 bps rate hike",
             "description": "Philippine annual inflation surged to a 14-year high in November driven mainly by higher food prices, the statistics agency said on Tuesday, with the pickup in prices seen supporting the case for a half-percentage point interest rate hike this month."
         }]
@@ -26,18 +30,21 @@
     "carousel": [
         {
             "url": "https://www.csmonitor.com/World/Asia-Pacific/2022/1201/In-the-Philippines-a-deadly-storm-holds-lessons-on-climate-resilience",
+            "shortUrl": "",
             "title": "In the Philippines, a deadly storm holds lessons on climate resilience",
             "description": "In the Philippines, one village’s struggle to rebuild in the aftermath of Tropical Storm Nalgae highlights the limits of climate resilience strategies. Does running from high-risk areas always make a community safer?",
             "tag": "Climate Change"
         },
         {
             "url": "https://www.scmp.com/week-asia/people/article/3201820/philippines-superwoman-smashes-religious-gender-stereotypes-resolve-conflicts-help-her-daughter",
+            "shortUrl": "",
             "title": "Meet the Filipino mother-daughter duo smashing stereotypes to resolve conflicts",
             "description": "As Asean prepares to launch a regional framework on promoting women’s role in peacebuilding, ‘superwoman’ Connie Dumato and her daughter Princess provide a template for female-led conflict resolution.",
             "tag": "Women's Advocacy"
         },
         {
             "url": "https://www.bbc.com/news/world-asia-63658818",
+            "shortUrl": "",
             "title": "Philippines sees a pandemic boom in child sex abuse",
             "description": "Lockdowns and school closures left children at home with poor parents, desperate to make money.",
             "tag": "Coronavirus"

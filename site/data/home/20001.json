@@ -10,15 +10,18 @@
         "primary": {
             "title": "Philippines deports US Marine convicted of killing transgender woman in 2014",
             "description": "A U.S. Marine convicted of killing a Filipino transgender woman was deported Sunday after a presidential pardon cut short his detention.",
-            "url": "https://www.usatoday.com/story/news/world/2020/09/13/joseph-scott-pemberton-marine-deported-philippines-after-killing/5785522002/"
+            "url": "https://www.usatoday.com/story/news/world/2020/09/13/joseph-scott-pemberton-marine-deported-philippines-after-killing/5785522002/",
+            "shortUrl": ""
         },
         "secondary": [
             {
                 "url": "https://heavy.com/news/2020/09/jennifer-laude-joseph-pemberton/",
+                "shortUrl": "",
                 "title": "Jennifer Laude: U.S Marine Deported After Killing Filipino Trans-Woman"
             },
             {
                 "url": "https://mb.com.ph/2020/09/12/pemberton-paid-p4-6m-civil-damages-with-his-salary-lawyer/",
+                "shortUrl": "",
                 "title": "Pemberton paid P4.6M civil damages with his salary – lawyer - Manila Bulletin"
             }
         ]
@@ -26,18 +29,21 @@
     "carousel": [
         {
             "url": "https://www.youtube.com/watch?v=yw8a8n7ZAZg",
+            "shortUrl": "",
             "title": "Why the US has so many Filipino nurses",
             "description": "The US colonized a country and built a labor supply. Filipino nurses have been disproportionately affected...",
             "tag": "Overseas Workers"
         },
         {
             "url": "https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms",
+            "shortUrl": "",
             "title": "PHOTOS: Why The Philippines Has So Many Teen Moms",
             "description": "Over a 10-year period, 1.2 million Filipina girls between the ages of 10 and 19 have had a child. The government is trying to change things. But the pandemic has made matters worse.",
             "tag": "Coronavirus"
         },
         {
             "url": "https://www.youtube.com/watch?v=7ZcoBFeiuA8",
+            "shortUrl": "",
             "title": "Rethinking Filipino Food by Going to Muslim Mindanao",
             "description": "Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’...",
             "tag": "Travel & Culture"

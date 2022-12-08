@@ -12,19 +12,23 @@
             "title": "‘I just want my husband’s remains to be returned to us’",
             "description": "COVID-19 has made it more difficult for seafarers on international fishing vessels to get medical help. The death of Stanley Jungco shows the hardships fishermen go through to provide for their families.",
             "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/03-Navotas-Fish-Port-0007.jpg?resize=600%2C315",
-            "url": "https://www.aljazeera.com/features/2020/9/28/anguished-family-members-wait-for-the-return-of-their-dead"
+            "url": "https://www.aljazeera.com/features/2020/9/28/anguished-family-members-wait-for-the-return-of-their-dead",
+            "shortUrl": ""
         },
         "secondary": [
             {
                 "url": "https://news.abs-cbn.com/news/10/01/20/nearly-480000-ofws-affected-by-covid-19-pandemic-labor-dept",
+                "shortUrl": "",
                 "title": "Unemployed overseas workers prefer to stay abroad than go home"
             },
             {
                 "url": "https://www.bloomberg.com/news/articles/2020-09-23/philippines-army-of-migrant-workers-retrains-for-life-back-home",
+                "shortUrl": "",
                 "title": "Retraining nearly 300,000 jobless Filipinos returning from abroad"
             },
             {
                 "url": "https://mb.com.ph/2020/09/29/remains-of-35-ofws-from-saudi-arabia-flown-home/",
+                "shortUrl": "",
                 "title": "Bodies of 30 OFW's who died from COVID-19 in Saudi Arabia are flown back"
             }
         ]
@@ -32,12 +36,14 @@
     "carousel": [
         {
             "url": "https://www.ozy.com/html/the-new-and-the-next/the-dirty-secret-behind-the-wests-coconut-fad/316648/",
+            "shortUrl": "",
             "title": "The Dirty Secret Behind The West's Coconut Fad",
             "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
             "tag": "Sustainability"
         },
         {
             "url": "https://www.wired.com/story/the-20-year-hunt-for-the-man-behind-the-love-bug-virus/",
+            "shortUrl": "",
             "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
             "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
             "tag": "Technology"

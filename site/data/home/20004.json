@@ -12,34 +12,41 @@
             "title": "A Christmas like no other",
             "description": "\"We isolate now, so that when we gather again, no one is missing.\"",
             "image": "https://opinion.inquirer.net/files/2020/06/JERRY-ORBOS-MOMENTS-620x324.jpeg",
-            "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other"
+            "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other",
+            "shortUrl": ""
         },
         "secondary": [{
             "url": "https://www.npr.org/sections/health-shots/2020/12/17/946700176/tis-the-season-to-celebrate-heres-how-to-do-it-safely",
+            "shortUrl": "",
             "title":"'Tis The Season To Celebrate. Here's How To Do It Safely"
         },{
             "url": "https://mb.com.ph/2020/11/29/nograles-christmas-get-togethers-limited-to-10-people-in-gcq-areas/",
+            "shortUrl": "",
             "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas"
         },{
             "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-christmas-dinner-philippines-pork/2020/12/21/2a85cb74-3a8e-11eb-aad9-8959227280c4_story.html",
+            "shortUrl": "",
             "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition."
         }]
     },
     "carousel": [
         {
             "url": "https://www.youtube.com/watch?v=MDJ0I15UFt8",
+            "shortUrl": "",
             "title": "Filipino Nurses: New York's Frontliners | 101 East",
             "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
             "tag": "Overseas Workers"
         },
         {
             "url": "https://www.yahoo.com/news/second-life-california-nurse-walks-224559714.html",
+            "shortUrl": "",
             "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
             "description": "Merlin Pambuan's recovery after several months battling COVID-19 teaches us about hope and the fight to live.",
             "tag": "Coronavirus"
         },
         {
             "url": "https://www.channelnewsasia.com/news/cnainsider/philippines-president-rodrigo-duterte-china-pivot-investments-13801780",
+            "shortUrl": "",
             "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
             "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
             "tag": "International Politics"

@@ -11,18 +11,22 @@
             "lead": "the Philippine-American Alliance",
             "title": "Fact Sheet: Vice President Harris Launches New Initiatives to Strengthen U.S.-Philippines Alliance | The White House",
             "description": "The United States and the Philippines enjoy an alliance and partnership based on deep historical, economic, and cultural ties, and our shared democratic",
-            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/"
+            "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/",
+            "shortUrl": ""
         },
         "secondary": [{
             "url": "https://time.com/6236010/kamala-harris-philippines-visit-china/",
+            "shortUrl": "",
             "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China",
             "description": "The Vice President visited Palawan Tuesday in what observers say is meant as a message to China"
         },{
             "url": "https://newsinfo.inquirer.net/1696664/harris-us-stands-with-ph-vs-coercion-in-south-china-sea",
+            "shortUrl": "",
             "title":"Harris: US stands with PH vs coercion in South China Sea",
             "description": "Puerto Princesa City, Palawan, Philippines — US Vice President Kamala Harris on Tuesday afternoon visited this province closest to the West Philippine Sea, in a show of support for the"
         },{
             "url": "https://www.ibtimes.com/amid-rising-tension-china-us-military-may-return-subic-bay-philippines-3640196",
+            "shortUrl": "",
             "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines",
             "description": "The Philippines is a key ally of the U.S. in a region with close geographical proximity to China, across the South China Sea."
         }]
@@ -30,18 +34,21 @@
     "carousel": [
         {
             "url": "https://moderndiplomacy.eu/2022/11/24/philippines-reducing-inequality-key-to-becoming-a-middle-class-society-free-of-poverty/",
+            "shortUrl": "",
             "title": "Philippines: Reducing Inequality Key to Becoming a Middle-Class Society Free of Poverty - Modern Diplomacy",
             "description": "Policies that support employment and workers, raise education quality and improve access, boost rural development, and strengthen social protection can reduce inequality",
             "tag": "Social Inequality"
         },
         {
             "url": "https://gothamist.com/food/filipino-food-gains-visibility-in-nyc-but-restaurateurs-point-to-a-complicated-reality",
+            "shortUrl": "",
             "title": "Filipino food gains visibility in NYC, but restaurateurs point to a complicated reality",
             "description": "Current and former restaurant owners, chefs, historians and diners say Filipino food has lingered far too long on the brink of the ascendancy predicted by culinary greats.",
             "tag": "Business"
         },
         {
             "url": "https://www.civilbeat.org/2022/11/a-tribe-in-the-southern-philippines-shows-that-reforestation-takes-a-village/",
+            "shortUrl": "",
             "title": "The Talaandig Tribe Of The Southern Philippines Shows That Reforestation Takes A Village",
             "description": "Indigenous stewardship of rainforest ecosystems in Mindanao is a potential template for successful agroforestry in other upland terrains.",
             "tag": "Mindanao"
