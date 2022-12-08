@@ -20,10 +20,10 @@
                     <a href="{{ .primary.url }}" class="text-base p-6 block">
                         <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
                         <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
-                        <span class="text-xs text-zinc-500">{{ replace $primaryUrl.Host "www." "" }}</span>
+                        <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                     </a>
 
-                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-100 border-t border-b">
+                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-50">
                         {{- if (isset .primary "lead") }}
                         <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-zinc-300 pb-6 text-gray-800">
                             More on {{ .primary.lead }}
@@ -40,7 +40,7 @@
                                     {{- if (isset . "description") }}
                                         <span class="text-sm text-zinc-500">{{ .description }}</span><br />
                                     {{ end -}}
-                                    <span class="text-xs text-zinc-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                                    <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                                 </p>
                             </a>
                             </li>
@@ -70,7 +70,7 @@
                                 {{ .description | safeHTML }}
                             </p>
                             <p class="text-neutral-600 pl-6 pr-6">
-                                <span class="text-xs text-zinc-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                                <span class="text-xs text-amber-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
                             </p>
                         </div>
                     </a>
