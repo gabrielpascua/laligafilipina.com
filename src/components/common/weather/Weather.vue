@@ -1,5 +1,5 @@
 <template>
-  <span class="capitalize">
+  <span class="capitalize text-zinc-700">
     {{temperature}}&deg;C
     <br />
     {{description}}
