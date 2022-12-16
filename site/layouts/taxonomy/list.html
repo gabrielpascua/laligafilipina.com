@@ -13,10 +13,13 @@
                   <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
                   <p class="text-gray-700">{{.Description | safeHTML }}</p>
                 </a>
-                <p>
-                  <span class="text-xs text-gray-500">
-                    <a href="/issues/{{ .Params.issues }}" class="">Issue: {{ .Params.issues }} | Published: {{.Date.Format "January 02, 2006"}}</a>
-                  </span>
+                <p class="text-xs text-gray-500 mt-2">
+                  <a href="/issues/{{ .Params.issues }}" class="">
+                    Issue
+                    #<span class="text-amber-500">{{ .Params.issues }}</span>
+                    |
+                    Published: {{.Date.Format "January 02, 2006"}}
+                  </a>
                 </p>
             </li>
         {{ end }}

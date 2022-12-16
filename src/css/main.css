@@ -117,6 +117,14 @@ body {
   line-height: 1.25;
 }
 
+.markdown p {
+  @apply mb-6;
+}
+
+.markdown blockquote {
+  @apply pl-8 pr-8 md:pl-12 md:pr-20;
+}
+
 /* Tailwind Utilities - prepend with "x" */
 .xfont-medium {
   @apply font-medium text-gray-900;

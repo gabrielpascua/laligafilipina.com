@@ -4,8 +4,8 @@
 
     <section class="mb-8">
       <div class="mb-2">
-        <a href="/issues/{{ .Params.issues }}" class="">
-          <small>Issue: {{ .Params.issues }}</small>
+        <a href="/issues/{{ .Params.issues }}" class="text-amber-500 font-semibold">
+          <small>Issue #{{ .Params.issues }}</small>
         </a>
       </div>
       <h1 class="text-3xl leading-9 font-extrabold text-gray-800 capitalize">
@@ -25,7 +25,7 @@
       {{- with .Params.tags }}
         {{ range . }}
           <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="mr-4">
-            <small class="font-semibold">{{ . }}</small>
+            <small class="font-semibold text-amber-500">{{ . }}</small>
           </a>
         {{ end }}
       {{ end -}}

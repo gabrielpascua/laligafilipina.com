@@ -1,60 +1,60 @@
 {
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3iYc4Ek\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet the Filipino mother - daughter duo smashing stereotypes to resolve conflicts</h1> <p class=\"hero-dek\">As Asean prepares to launch a regional framework on promoting women’s role in peacebuilding, ‘superwoman’ Connie Dumato and her daughter Princess provide a template for female-led conflict resolution.</p><p><small class=\"text-amber-500\">scmp.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.aljazeera.com/features/2022/12/16/hold-mural-painter\"><div class=\"hero-container\"><h1 class=\"hero-lead\">World Cup mural gig helps Doha artist turn hobby into lifeline</h1> <p class=\"hero-dek\">Filipino painter Michael Conjusta was hired by Qatari authorities to paint graffiti murals during the 2022 World Cup. Michael Conjusta, a Doha-based freelance artist was going about his day one August afternoon when he received an unexpected WhatsApp message with an offer to paint graffiti murals at football stadiums during the FIFA 2022 World Cup.</p><p><small class=\"text-amber-500\">aljazeera.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "the 7.7% to 8.0% November Inflation Increase",
-            "url": "https://www.cnbc.com/2022/12/06/philippines-inflation-soars-to-fastest-in-14-years-more-hikes-to-come.html",
-            "shortUrl": "https://bit.ly/3VSIu14",
-            "title":"Philippines’ inflation soars to 14-year high, fueling expectations of more rate hikes",
-            "description": "Philippines' annual inflation data soared to 8.0%, marking the country's fastest inflation in 14-year high since November 2008."
+            "lead": "Why to Decriminalize Libel",
+            "url": "https://legacy.senate.gov.ph/press_release/2022/1213_hontiveros1.asp",
+            "shortUrl": "",
+            "title":"Press Release - 'Defend Press Freedom': Hontiveros files bill to decriminalize libel",
+            "description": "Senator Risa Hontiveros on Tuesday filed Senate Bill No. 1593, a bill to decriminalize libel, highlighting how current libel laws have been used and abused to suppress freedom of the press."
         },
         "secondary": [{
-            "url": "https://www.gmanetwork.com/news/money/economy/853620/inflation-surges-to-8-0-in-november/story/",
-            "shortUrl": "https://bit.ly/3FrfRBE",
-            "title":"Inflation surges to 8.0% in November",
-            "description": "Prices of consumer goods in the Philippines continued to grow faster than targeted in November to hit the highest in 14 years, government data released Tuesday showed."
+            "url": "https://www.rappler.com/nation/hontiveros-files-bill-decriminalize-libel/",
+            "shortUrl": "",
+            "title":"Senator Hontiveros files bill seeking to decriminalize libel",
+            "description": "The announcement comes after the conviction of Baguio City journalist and Rappler contributor Frank Cimatu of cyber libel"
         },{
-            "url": "https://think.ing.com/snaps/philippines-inflation-hits-14-year-high-as-food-inflation-spikes",
-            "shortUrl": "https://bit.ly/3iVfqYz",
-            "title": "Philippines: Inflation hits 14 year high as food inflation spikes",
-            "description": "Philippine inflation hits its highest level since 2008"
+            "url": "https://www.cnnphilippines.com/news/2022/12/13/QC-RTC-Frank-Cimatu-Manny-Pinol-cyber-libel-.html",
+            "shortUrl": "",
+            "title":"Journalist Frank Cimatu convicted of cyber libel over ex-DA chief post",
+            "description": "A Quezon City regional trial court convicts Baguio-based journalist Frank Cimatu of cyber libel with up to five years of imprisonment over a 2017 Facebook post he made about former Agriculture Secretary Manny Piñol."
         },{
-            "url": "https://www.reuters.com/business/retail-consumer/philippine-inflation-leaps-14-year-high-november-2022-12-06/",
-            "shortUrl": "https://bit.ly/3FJT2KP",
-            "title":"Philippines inflation at 14-year high, backs case for 50 bps rate hike",
-            "description": "Philippine annual inflation surged to a 14-year high in November driven mainly by higher food prices, the statistics agency said on Tuesday, with the pickup in prices seen supporting the case for a half-percentage point interest rate hike this month."
+            "url": "https://www.laligafilipina.com/2022/12/transcript-senate-bill-1593/",
+            "shortUrl": "",
+            "title": " Transcript: Senate Bill 1593 Decriminalizing Libel",
+            "description": "Read the full transcript of Senate Bill 1593 introduced by Senator Risa Hontiveros to decriminalize libel. In it are provisions preventing the courts to imprison defendants accused of defamation on social media platforms."
         }]
     },
     "carousel": [
         {
-            "url": "https://www.csmonitor.com/World/Asia-Pacific/2022/1201/In-the-Philippines-a-deadly-storm-holds-lessons-on-climate-resilience",
-            "shortUrl": "https://bit.ly/3iW24vf",
-            "title": "In the Philippines, a deadly storm holds lessons on climate resilience",
-            "description": "In the Philippines, one village’s struggle to rebuild in the aftermath of Tropical Storm Nalgae highlights the limits of climate resilience strategies. Does running from high-risk areas always make a community safer?",
-            "tag": "Climate Change"
+            "url": "https://www.forbes.com/sites/daphneewingchow/2022/11/30/ube--the-uber-ingredient-of-2023/",
+            "shortUrl": "",
+            "title":"Ube — The Uber Ingredient Of 2023",
+            "description": "According to the consumer trend forecasts, ube, a purple yam that has played a central part in Filipino food culture for more than four centuries, will be a huge global hit in 2023.",
+            "tag": "Food"
         },
         {
-            "url": "https://www.bbc.com/news/world-asia-63658818",
-            "shortUrl": "https://bit.ly/3Fi78Sc",
-            "title": "Philippines sees a pandemic boom in child sex abuse",
-            "description": "Lockdowns and school closures left children at home with poor parents, desperate to make money.",
-            "tag": "Coronavirus"
+            "url": "https://www.gmanetwork.com/news/lifestyle/healthandwellness/853673/percentage-of-filipinos-who-smoke-use-tobacco-decreases-to-19-5-survey/story/",
+            "shortUrl": "",
+            "title":"Percentage of Filipinos who smoke, use tobacco decreases to 19.5% — survey",
+            "description": "The prevalence of current tobacco use and smoking among Filipinos aged 15 and above decreased in 2021 to 19.5%, according to the results of the 2021 Global Adult Tobacco Survey (GATS).",
+            "tag": "Lifestyle"
         },
         {
-            "url": "https://www.manilatimes.net/2022/12/09/news/hidilyn-bags-3-golds-in-world-championships/1869525",
-            "shortUrl": "https://bit.ly/3PmiqJM",
-            "title": "Hidilyn bags 3 golds in World Championships",
-            "description": "Hidilyn Diaz-Naranjo won three gold medals to rule the 55-kilogram category of the World Championships of the International Weightlifting Federation (IWF) in Bogota, Colombia.",
-            "tag": "Sports"
-        },
-        {
-            "url": "https://restofworld.org/2022/how-a-female-founder-convinced-tiny-stores-to-digitalize-mid-pandemic/",
-            "shortUrl": "https://bit.ly/3PgK1Me",
-            "title": "How a female founder convinced tiny stores to digitalize mid-pandemic",
-            "description": "Aiko Reyes, COO and co-founder of Peddlr, on her mission to bring the Philippines' 20 million micro and small businesses online.",
+            "url": "https://techcrunch.com/2022/11/29/gogoro-to-pilot-battery-swapping-and-smartscooters-in-philippines-next-year/",
+            "shortUrl": "",
+            "title":"Gogoro to pilot battery swapping and Smartscooters in Philippines next year",
+            "description": "Taiwanese battery swapping startup Gogoro is launching a B2B pilot with a logistics provider in Manila in the first quarter of 2023.",
             "tag": "Technology"
+        },
+        {
+            "url": "https://www.espn.com/olympics/basketball/story/_/id/35237495/manila-host-usa-basketball-men-world-cup-group-games",
+            "shortUrl": "",
+            "title":"USA Basketball men to play WC games in Manila",
+            "description": "FIBA announced Monday that USA Basketball will play all its games at the 2023 World Cup in Manila, Philippines.",
+            "tag": "Sports"
         }
     ]
 }

@@ -3,7 +3,7 @@ title: "Maria Ressa: How Social Media Uses Free Speech To Stifle Free Speech"
 issues: "22003"
 labels: Featured
 tags:
-  - Free Press
+  - Press Freedom
   - Democracy
 publishDate: 2022-12-03
 author: 
