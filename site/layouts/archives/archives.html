@@ -3,13 +3,13 @@
 {{ $section := .Site.GetPage "section" .Section }}
 <section class="pl-4 pr-4 mb-14 mt-16 max-w-screen-lg m-auto">
   <main class="pt-1 pb-1 md:pl-20 md:pr-20">
-    <h1 class="text-3xl leading-7 font-extrabold text-gray-800">{{ .Title }}</h1>
+    <h1 class="hero-lead">{{ .Title }}</h1>
     {{- .Content -}}
     <div class="mt-14">
       {{ range ($.Site.Data.home) }}
         <p class="mb-4">
           <a href="/issues/{{ .issue.number }}">
-            <span class="text-2xl font-bold mr-2 text-amber-500">{{ .issue.number }}</span>
+            <span class="text-xl font-bold mr-2 text-amber-500">{{ .issue.number }}</span>
             {{ .issue.date }} <br />
           </a>
         </p>

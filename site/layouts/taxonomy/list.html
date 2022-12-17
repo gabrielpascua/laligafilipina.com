@@ -3,17 +3,17 @@
 {{ $section := .Site.GetPage "section" .Section }}
 <section class="pl-4 pr-4 mb-14 mt-14 max-w-screen-lg m-auto">
   <main class="pt-1 pb-1 md:pl-20 md:pr-20">
-    <h1 class="text-3xl leading-7 font-extrabold text-gray-800">{{ .Title }} Stories</h1>
+    <h1 class="hero-lead">{{ .Title }} Stories</h1>
     {{- .Content -}}
     <div class="mt-14">
       <ul>
         {{ range .Pages.ByDate.Reverse }}
-            <li class="mb-8 border-t pt-8 last:border-b last:pb-12">
+            <li class="mb-8 border-t pt-8 last:border-b last:pb-12 text-sm md:text-base">
                 <a href="{{.Permalink}}">
                   <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
                   <p class="text-gray-700">{{.Description | safeHTML }}</p>
                 </a>
-                <p class="text-xs text-gray-500 mt-2">
+                <p class="text-zinc-700 mt-2 text-xs">
                   <a href="/issues/{{ .Params.issues }}" class="">
                     Issue
                     #<span class="text-amber-500">{{ .Params.issues }}</span>
