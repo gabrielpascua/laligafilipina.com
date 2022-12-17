@@ -1,0 +1,64 @@
+{
+    "issue": {
+        "number": "22005",
+        "date": "December 18, 2022"
+    },
+    "hero":{
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3V47em7\"><div class=\"hero-container\"><h1 class=\"hero-lead\">World Cup mural gig helps Doha artist turn hobby into lifeline</h1> <p class=\"hero-dek\">Filipino painter Michael Conjusta was hired by Qatari authorities to paint graffiti murals during the 2022 World Cup. Michael Conjusta, a Doha-based freelance artist was going about his day one August afternoon when he received an unexpected WhatsApp message with an offer to paint graffiti murals at football stadiums during the FIFA 2022 World Cup.</p><p><small class=\"text-amber-500\">aljazeera.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Why to Decriminalize Libel",
+            "url": "https://legacy.senate.gov.ph/press_release/2022/1213_hontiveros1.asp",
+            "shortUrl": "https://bit.ly/3jaUi0B",
+            "title":"Press Release - 'Defend Press Freedom': Hontiveros files bill to decriminalize libel",
+            "description": "Senator Risa Hontiveros on Tuesday filed Senate Bill No. 1593, a bill to decriminalize libel, highlighting how current libel laws have been used and abused to suppress freedom of the press."
+        },
+        "secondary": [{
+            "url": "https://www.rappler.com/nation/hontiveros-files-bill-decriminalize-libel/",
+            "shortUrl": "https://bit.ly/3hv4iBt",
+            "title":"Senator Hontiveros files bill seeking to decriminalize libel",
+            "description": "The announcement comes after the conviction of Baguio City journalist and Rappler contributor Frank Cimatu of cyber libel"
+        },{
+            "url": "https://www.cnnphilippines.com/news/2022/12/13/QC-RTC-Frank-Cimatu-Manny-Pinol-cyber-libel-.html",
+            "shortUrl": "https://bit.ly/3BJsVRG",
+            "title":"Journalist Frank Cimatu convicted of cyber libel over ex-DA chief post",
+            "description": "A Quezon City regional trial court convicts Baguio-based journalist Frank Cimatu of cyber libel with up to five years of imprisonment over a 2017 Facebook post he made about former Agriculture Secretary Manny Piñol."
+        },{
+            "url": "https://www.laligafilipina.com/2022/12/transcript-senate-bill-1593/",
+            "shortUrl": "https://bit.ly/3HKbEvE",
+            "title": "Transcript: Senate Bill 1593 Decriminalizing Libel",
+            "description": "Read the full transcript of Senate Bill 1593 introduced by Senator Risa Hontiveros to decriminalize libel. In it are provisions preventing the courts to imprison defendants accused of defamation on social media platforms."
+        }]
+    },
+    "carousel": [
+        {
+            "url": "https://www.forbes.com/sites/daphneewingchow/2022/11/30/ube--the-uber-ingredient-of-2023/",
+            "shortUrl": "https://bit.ly/3HOEQlb",
+            "title":"Ube — The Uber Ingredient Of 2023",
+            "description": "According to the consumer trend forecasts, ube, a purple yam that has played a central part in Filipino food culture for more than four centuries, will be a huge global hit in 2023.",
+            "tag": "Food"
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/lifestyle/healthandwellness/853673/percentage-of-filipinos-who-smoke-use-tobacco-decreases-to-19-5-survey/story/",
+            "shortUrl": "https://bit.ly/3YHsnpo",
+            "title":"Percentage of Filipinos who smoke, use tobacco decreases to 19.5% — survey",
+            "description": "The prevalence of current tobacco use and smoking among Filipinos aged 15 and above decreased in 2021 to 19.5%, according to the results of the 2021 Global Adult Tobacco Survey (GATS).",
+            "tag": "Lifestyle"
+        },
+        {
+            "url": "https://techcrunch.com/2022/11/29/gogoro-to-pilot-battery-swapping-and-smartscooters-in-philippines-next-year/",
+            "shortUrl": "https://bit.ly/3PBGCaR",
+            "title":"Gogoro to pilot battery swapping and Smartscooters in Philippines next year",
+            "description": "Taiwanese battery swapping startup Gogoro is launching a B2B pilot with a logistics provider in Manila in the first quarter of 2023.",
+            "tag": "Technology"
+        },
+        {
+            "url": "https://www.espn.com/olympics/basketball/story/_/id/35237495/manila-host-usa-basketball-men-world-cup-group-games",
+            "shortUrl": "https://bit.ly/3WkQ70g",
+            "title":"USA Basketball men to play WC games in Manila",
+            "description": "FIBA announced Monday that USA Basketball will play all its games at the 2023 World Cup in Manila, Philippines.",
+            "tag": "Sports"
+        }
+    ]
+}
