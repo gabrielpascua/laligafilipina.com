@@ -1,98 +1,101 @@
 {{- define "main" }}
 
-{{- with .Site.Data.home.latest.hero -}}
-    {{ .content | safeHTML }}
-{{- end -}}
+    {{ range last 1 $.Site.Data.home.issues }}
+        {{ $latestIssue := index $.Site.Data.home (string .) }}
 
-<div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
+        {{- with $latestIssue.hero -}}
+            {{ .content | safeHTML }}
+        {{- end -}}
 
-    {{- with .Site.Data.home.latest.ticker -}}
-    {{ $primaryUrl := urls.Parse .primary.url }}
-    <div class="md:basis-2/4">
-        <div class="container mx-auto pl-4 pr-4">
-            <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-700">In Trending</span>
-        </div>
-        <section class="bg-light mb-2">
-            <div class="container pl-4 pr-4">
-                <div class="border mt-6 rounded">
-                    {{ $primaryContentLink := .primary.url }}
-                    {{ if .primary.shortUrl }}
-                        {{ $primaryContentLink = .primary.shortUrl }}
-                    {{ end }}
-                    <a href="{{ $primaryContentLink }}" class="text-base p-6 block">
-                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
-                        <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
-                        <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
-                    </a>
-
-                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-50">
-                        {{- if (isset .primary "lead") }}
-                        <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-zinc-300 pb-6 text-gray-800">
-                            More on {{ .primary.lead }}
-                        </span>
-                        {{ end -}}
-                        
-                        <ul class="list-arrow ml-4">
-                        {{- range .secondary }}
-                            {{ $secondaryUrl := urls.Parse .url }}
-
-                            {{ $secondaryContentLink := .url }}
-                            {{ if .shortUrl }}
-                                {{ $secondaryContentLink = .shortUrl }}
-                            {{ end }}
-                            <li class="pl-4 mb-6 last:mb-0 mt-2 pr-2">
-                            <a href="{{ $secondaryContentLink }}" class="block text-sm decoration-gray-400 md:text-base">
-                                <p class="leading-5">
-                                    <strong class="font-bold capitalize text-gray-800 pb-2 block">{{ .title }}</strong>
-                                    {{- if (isset . "description") }}
-                                        <span class="text-sm text-zinc-500">{{ .description }}</span><br />
-                                    {{ end -}}
-                                    <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
-                                </p>
-                            </a>
-                            </li>
-                        {{ end -}}
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </div>
-    {{- end -}}
-
-    {{- with .Site.Data.home.latest.carousel -}}
-    <div class="md:basis-2/4 mt-6">
-        <div class="container pl-4 pr-4">
-            {{- range . }}
-            {{ $sourceUrl := urls.Parse .url }}
-
-            {{ $featuredContentLink := .url }}
-            {{ if .shortUrl }}
-                {{ $featuredContentLink = .shortUrl }}
-            {{ end }}
-            <div>
+        <div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
+            {{- with $latestIssue.ticker -}}
+            {{ $primaryUrl := urls.Parse .primary.url }}
+            <div class="md:basis-2/4">
                 <div class="container mx-auto pl-4 pr-4">
-                    <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-700">In {{ .tag }}</span>
+                    <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-700">In Trending</span>
                 </div>
-                <div class="border rounded mb-0 pt-1">
-                    <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
-                        <div class="pt-2">
-                            <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
-                            <p class="text-sm text-zinc-500 pl-6 pr-6">
-                                {{ .description | safeHTML }}
-                            </p>
-                            <p class="text-neutral-600 pl-6 pr-6">
-                                <span class="text-xs text-amber-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
-                            </p>
+                <section class="bg-light mb-2">
+                    <div class="container pl-4 pr-4">
+                        <div class="border mt-6 rounded">
+                            {{ $primaryContentLink := .primary.url }}
+                            {{ if .primary.shortUrl }}
+                                {{ $primaryContentLink = .primary.shortUrl }}
+                            {{ end }}
+                            <a href="{{ $primaryContentLink }}" class="text-base p-6 block">
+                                <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
+                                <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
+                                <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
+                            </a>
+        
+                            <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-50">
+                                {{- if (isset .primary "lead") }}
+                                <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-zinc-300 pb-6 text-gray-800">
+                                    More on {{ .primary.lead }}
+                                </span>
+                                {{ end -}}
+                                
+                                <ul class="list-arrow ml-4">
+                                {{- range .secondary }}
+                                    {{ $secondaryUrl := urls.Parse .url }}
+        
+                                    {{ $secondaryContentLink := .url }}
+                                    {{ if .shortUrl }}
+                                        {{ $secondaryContentLink = .shortUrl }}
+                                    {{ end }}
+                                    <li class="pl-4 mb-6 last:mb-0 mt-2 pr-2">
+                                    <a href="{{ $secondaryContentLink }}" class="block text-sm decoration-gray-400 md:text-base">
+                                        <p class="leading-5">
+                                            <strong class="font-bold capitalize text-gray-800 pb-2 block">{{ .title }}</strong>
+                                            {{- if (isset . "description") }}
+                                                <span class="text-sm text-zinc-500">{{ .description }}</span><br />
+                                            {{ end -}}
+                                            <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                                        </p>
+                                    </a>
+                                    </li>
+                                {{ end -}}
+                                </ul>
+                            </div>
                         </div>
-                    </a>
+                    </div>
+                </section>
+            </div>
+            {{- end -}}
+
+            {{- with $latestIssue.carousel -}}
+            <div class="md:basis-2/4 mt-6">
+                <div class="container pl-4 pr-4">
+                    {{- range . }}
+                    {{ $sourceUrl := urls.Parse .url }}
+        
+                    {{ $featuredContentLink := .url }}
+                    {{ if .shortUrl }}
+                        {{ $featuredContentLink = .shortUrl }}
+                    {{ end }}
+                    <div>
+                        <div class="container mx-auto pl-4 pr-4">
+                            <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-700">In {{ .tag }}</span>
+                        </div>
+                        <div class="border rounded mb-0 pt-1">
+                            <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
+                                <div class="pt-2">
+                                    <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
+                                    <p class="text-sm text-zinc-500 pl-6 pr-6">
+                                        {{ .description | safeHTML }}
+                                    </p>
+                                    <p class="text-neutral-600 pl-6 pr-6">
+                                        <span class="text-xs text-amber-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
+                                    </p>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    {{ end -}}
                 </div>
             </div>
-            {{ end -}}
+            {{- end -}}
         </div>
-    </div>
-    {{- end -}}
 
-</div>
+    {{ end }}
 
 {{- end -}}

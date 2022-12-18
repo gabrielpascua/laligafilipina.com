@@ -1,4 +1,8 @@
 {
+    "issue": {
+        "number": "22006",
+        "date": "December 25, 2022"
+    },
     "hero":{
         "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"#\"><div class=\"hero-container\"><h1 class=\"hero-lead\">TBD</h1> <p class=\"hero-dek\">TBD.</p><p><small class=\"text-amber-500\">tbd.com</small></p></div></a></div></section>"
     },
