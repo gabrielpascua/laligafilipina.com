@@ -1,7 +1,7 @@
 {{- define "main" }}
 
-    {{ range last 1 $.Site.Data.home.issues }}
-        {{ $latestIssue := index $.Site.Data.home (string .) }}
+    {{ range last 1 $.Site.Data.nav.issues }}
+        {{ $latestIssue := index $.Site.Data.issues (string .) }}
 
         {{- with $latestIssue.hero -}}
             {{ .content | safeHTML }}

@@ -1,6 +1,6 @@
 {{- define "main" }}
 
-{{ with (index .Site.Data.home .Data.Term) }}
+{{ with (index .Site.Data.issues .Data.Term) }}
 
     {{- with .hero -}}
         {{ .content | safeHTML }}
