@@ -8,7 +8,7 @@
     <div class="mt-14">
       {{ range sort $.Site.Data.nav.issues "value" "desc" }}
         {{ $issueData := index $.Site.Data.issues (string .) }}
-        <p class="mb-4">
+        <p class="mb-4 first:hidden">
           <a href="/issues/{{ . }}">
             <span class="text-xl font-bold mr-2 text-amber-500">
               {{ . }}
