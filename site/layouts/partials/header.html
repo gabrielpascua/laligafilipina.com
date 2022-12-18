@@ -25,10 +25,6 @@
             <small><strong>Newsletter</strong></small> -->
             <!-- <strong>Tunay at Totoo Para sa Pilipino</strong> -->
 
-            <a href="/archives/" class="text-xs ml-2 mr-2 text-amber-500 md:text-small">
-                <strong>Archives</strong>
-            </a>
-
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
             <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-gray-800 md:text-small">
@@ -36,6 +32,10 @@
             </a>
         {{ end }}
         {{- end -}}
+
+            <a href="/archives/" class="text-xs ml-2 mr-2 text-amber-500 md:text-small">
+                <strong>Archives</strong>
+            </a>
         </div>
     </div>
 </header>
