@@ -6,11 +6,14 @@
     <h1 class="hero-lead">{{ .Title }}</h1>
     {{- .Content -}}
     <div class="mt-14">
-      {{ range ($.Site.Data.home) }}
+      {{ range sort $.Site.Data.home.issues "value" "desc" }}
+        {{ $issueData := index $.Site.Data.home (string .) }}
         <p class="mb-4">
-          <a href="/issues/{{ .issue.number }}">
-            <span class="text-xl font-bold mr-2 text-amber-500">{{ .issue.number }}</span>
-            {{ .issue.date }} <br />
+          <a href="/issues/{{ . }}">
+            <span class="text-xl font-bold mr-2 text-amber-500">
+              {{ . }}
+            </span>
+            {{ $issueData.issue.date }}
           </a>
         </p>
       {{- end -}}
