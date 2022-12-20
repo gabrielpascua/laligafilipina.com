@@ -1,7 +1,7 @@
 {
     "issue": {
         "number": "22006",
-        "date": "December 25, 2022"
+        "date": "2022-12-25T05:00:00.000Z"
     },
     "hero":{
         "content": "<section class=\"hero dark\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Joma Sison on terror tag, America, and karaoke</h1> <p class=\"hero-dek\">Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union</p><p><small class=\"text-amber-500\">rappler.com</small></p></div></a></div></section>"
@@ -51,7 +51,7 @@
             "shortUrl": "",
             "title":"‘It’s been a long time coming’: The Bay Area’s Filipino baking scene is more exciting than ever",
             "description": "Ube pies, cheesy ensaymadas and so much more.",
-            "tag": "Food"
+            "tag": "Small Business"
         },
         {
             "url": "#",
