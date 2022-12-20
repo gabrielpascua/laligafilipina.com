@@ -4,7 +4,7 @@
         "date": "December 25, 2022"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"#\"><div class=\"hero-container\"><h1 class=\"hero-lead\">TBD</h1> <p class=\"hero-dek\">TBD.</p><p><small class=\"text-amber-500\">tbd.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero dark\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Joma Sison on terror tag, America, and karaoke</h1> <p class=\"hero-dek\">Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union</p><p><small class=\"text-amber-500\">rappler.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
@@ -33,25 +33,25 @@
     },
     "carousel": [
         {
+            "url": "https://www.youtube.com/watch?v=jnDPEvOa1DY",
+            "shortUrl": "",
+            "title":"The Fight Over Manila's Last Forests: Masungi Watershed | The Last Defenders | Philippines",
+            "description": "The Masungi Georeserve in the Philippines is a nature sanctuary near the capital, Metro Manila. It also serves as a vital watershed that helps prevent floods and landslides affecting over 14 million people.",
+            "tag": "Environment"
+        },
+        {
+            "url": "https://tempo.com.ph/2022/12/19/pinoy-pride-sofia-frank-2022-asian-open-figure-skating-gold-medalist/",
+            "shortUrl": "",
+            "title":"Pinoy Pride: Sofia Frank, 2022 Asian Open Figure Skating gold medalist",
+            "description": "Pinay figure skater Sofia Lexi Jacqueline Frank brought honor to the country snatching the highly-coveted gold medal at the recently concluded 2022 Asian Open Figure Skating competition held in Jakarta, Indonesia.",
+            "tag": "Sports"
+        },
+        {
             "url": "https://www.sfchronicle.com/food/restaurants/article/filipino-baking-17648852.php",
             "shortUrl": "",
             "title":"‘It’s been a long time coming’: The Bay Area’s Filipino baking scene is more exciting than ever",
             "description": "Ube pies, cheesy ensaymadas and so much more.",
             "tag": "Food"
-        },
-        {
-            "url": "#",
-            "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
-        },
-        {
-            "url": "#",
-            "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
         },
         {
             "url": "#",

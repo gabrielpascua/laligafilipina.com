@@ -51,6 +51,16 @@ body {
   text-shadow: #fff 1px 1px;
 }
 
+.hero.dark {
+  @apply bg-zinc-900;
+}
+
+.hero.dark .hero-lead,
+.hero.dark .hero-dek{
+  @apply text-neutral-200;
+  text-shadow: none;
+}
+
 .hero-clock {
   float: left;
   margin-left: -2px;
