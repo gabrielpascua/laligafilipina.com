@@ -1,7 +1,8 @@
 {
     "issue": {
         "number": "20001",
-        "date": "2020-09-21T04:00:00.000Z"
+        "date": "2020-09-21T04:00:00.000Z",
+        "theme": "light"
     },
     "hero":{
         "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.npr.org/sections/goatsandsoda/2020/08/21/787921856/photos-the-hidden-lives-of-teen-moms\"><div class=\"hero-container\"><h1 class=\"hero-lead\">He Killed a Transgender Woman in the Philippines. Why Was He Freed?</h1> <p class=\"hero-dek\">The pardon of U.S. Marine Lance Cpl. Joseph Scott Pemberton by President Rodrigo Duterte is the final chapter in a case that reignited debate over old defense treaties.</p><p><small class=\"text-amber-500\"> nytimes.com</small></p></div></a></div></section>"

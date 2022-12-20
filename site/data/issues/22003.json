@@ -1,7 +1,8 @@
 {
     "issue": {
         "number": "22003",
-        "date": "2022-12-04T05:00:00.000Z"
+        "date": "2022-12-04T05:00:00.000Z",
+        "theme": "light"
     },
     "hero":{
         "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3VQ1hum\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Indonesia and Philippines: A tale of two neighbours</h1> <p class=\"hero-dek\">Indonesia is now the world’s third-largest democracy, and is expected to feature among the world’s four largest economies, just behind China, the author notes.</p><p><small class=\"text-amber-500\"> asianews.network</small></p></div></a></div></section>"

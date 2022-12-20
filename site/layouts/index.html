@@ -3,9 +3,11 @@
     {{ range last 1 $.Site.Data.nav.issues }}
         {{ $latestIssue := index $.Site.Data.issues (string .) }}
 
+        <div class="{{ $latestIssue.issue.theme }}">
         {{- with $latestIssue.hero -}}
             {{ .content | safeHTML }}
         {{- end -}}
+        </div>
 
         <div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
             {{- with $latestIssue.ticker -}}

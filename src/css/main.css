@@ -63,14 +63,30 @@ body {
   text-shadow: #fff 1px 1px;
 }
 
-.hero.dark {
+.breadcrumb .divider {
+  @apply text-zinc-300 pl-2 pr-2;
+}
+
+.dark .hero {
   @apply bg-zinc-900;
 }
 
-.hero.dark .hero-lead,
-.hero.dark .hero-dek{
+.dark .hero-lead,
+.dark .hero-dek{
   @apply text-neutral-200;
   text-shadow: none;
+}
+
+.dark.breadcrumb {
+  @apply bg-zinc-900 text-neutral-200;
+}
+
+.dark .breadcrumb-container {
+  @apply border-b-zinc-800;
+}
+
+.dark.breadcrumb .divider{
+  @apply text-zinc-500;
 }
 
 .hero-clock {
