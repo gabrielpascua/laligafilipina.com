@@ -13,7 +13,7 @@
             <span class="text-xl font-bold mr-2 text-amber-500">
               {{ . }}
             </span>
-            {{ $issueData.issue.date }}
+            {{ $issueData.issue.date | time.Format ":date_full" }}
           </a>
         </p>
       {{- end -}}
