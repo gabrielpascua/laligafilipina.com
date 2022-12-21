@@ -1,7 +1,6 @@
 ---
 title: "COVID-19 In Philippines: The Starving Urban Poor. What Went Wrong? | Insight | Poverty In Asia"
-issues: "20003"
-labels: Featured
+issues: 20003
 publishDate: 2020-09-16T00:00:00.000Z
 author: 
 tags:

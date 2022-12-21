@@ -1,7 +1,6 @@
 ---
 title: Why the US has so many Filipino nurses
-issues: "20001"
-labels: Featured
+issues: 20001
 tags:
   - Coronavirus
   - Overseas Workers

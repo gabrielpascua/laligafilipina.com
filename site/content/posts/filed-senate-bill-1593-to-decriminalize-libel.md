@@ -1,7 +1,6 @@
 ---
 title: "Risa Hontiveros on Instagram: \"FILED Senate Bill 1593 to decriminalize libel!\""
-issues: "22005"
-labels: Featured
+issues: 22005
 tags:
   - Press Freedom
   - Democracy

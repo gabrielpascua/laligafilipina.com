@@ -1,7 +1,6 @@
 ---
 title: Meet the Philippine woman protecting a marine sanctuary in Siquijor from illegal fishermen
-issues: "20002"
-labels: Featured
+issues: 20002
 tags:
   - Environment
   - Conservation

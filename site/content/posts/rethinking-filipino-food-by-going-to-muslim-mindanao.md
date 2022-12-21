@@ -1,7 +1,6 @@
 ---
 title: Rethinking Filipino Food by Going to Muslim Mindanao
-issues: "20001"
-labels: Featured
+issues: 20001
 tags:
   - Food
   - Tourism

@@ -1,7 +1,6 @@
 ---
 title: "Transcript: Senate Bill 1593 Decriminalizing Libel"
-issues: "22005"
-labels: Featured
+issues: 22005
 tags:
   - Press Freedom
   - Democracy

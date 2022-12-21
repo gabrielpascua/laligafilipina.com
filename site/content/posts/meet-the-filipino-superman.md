@@ -1,7 +1,6 @@
 ---
 title: "Meet the Filipino Superman"
-issues: "22002"
-labels: Featured
+issues: 22002
 tags:
   - Pop Culture
   - LGBTQ

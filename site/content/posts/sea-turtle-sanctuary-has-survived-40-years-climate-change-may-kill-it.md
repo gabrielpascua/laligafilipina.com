@@ -1,7 +1,6 @@
 ---
 title: Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It
-issues: "22001"
-labels: Featured
+issues: 22001
 tags:
   - Climate Change
   - Environment

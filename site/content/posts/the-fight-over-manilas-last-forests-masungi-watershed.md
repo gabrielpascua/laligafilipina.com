@@ -1,7 +1,6 @@
 ---
 title: "The Fight Over Manila's Last Forests: Masungi Watershed | The Last Defenders | Philippines"
-issues: "22006"
-labels: Featured
+issues: 22006
 tags:
   - Environment
   - Deforestation

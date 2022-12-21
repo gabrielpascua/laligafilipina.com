@@ -1,7 +1,6 @@
 ---
 title: "Hidilyn bags 3 golds in World Championships"
-issues: "22004"
-labels: Featured
+issues: 22004
 tags:
   - Sports
 publishDate: 2022-12-09

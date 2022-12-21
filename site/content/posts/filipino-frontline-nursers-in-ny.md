@@ -1,7 +1,6 @@
 ---
 title: Filipino Frontline Nurses in New York
-issues: "20004"
-labels: Featured
+issues: 20004
 tags:
   - Coronavirus
   - Overseas Workers
