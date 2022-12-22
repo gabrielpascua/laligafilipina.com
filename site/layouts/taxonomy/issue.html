@@ -1,24 +1,55 @@
 {{- define "main" }}
 
-{{ with (index .Site.Data.issues .Data.Term) }}
+{{ $currentIssue := .Data.Term }}
+{{ $currentIssueIndex := 0 }}
+{{ $allIssues := (sort .Site.Data.nav.issues) }}
+{{ $lastIndex := 0 }}
+{{ range $index, $issue := $allIssues }}
+    {{ $lastIndex = $index }}
+    {{ if eq (int $issue) (int $currentIssue) }}
+        {{ $currentIssueIndex = $index }}
+    {{ end }}
+{{ end }}
 
+{{ $previousIndex := (sub $currentIssueIndex 1) }}
+{{ if lt $previousIndex 0 }}
+    {{ $previousIndex = 0 }}
+{{ end }}
+{{ $previousIssue := index $allIssues $previousIndex }}
+
+
+{{ $nextIndex := (add $currentIssueIndex 1) }}
+{{ $nextIssue := "" }}
+
+{{ if gt $nextIndex (sub $lastIndex 1) }}
+    {{ $nextIndex = $lastIndex }}
+    {{ $nextIssue = "" }}
+{{ else }}
+    {{ $nextIssue = index $allIssues $nextIndex }}
+{{ end }}
+
+{{ with (index .Site.Data.issues $currentIssue) }}
 <div class="pt-3 bg-zinc-100 text-xs md:text-small {{ .issue.theme }} breadcrumb">
     <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center text-zinc-400 border-b pb-3 breadcrumb-container">
         <div class="flex flex-row justify-evenly">
             <div>
-                <a href="/archives" title="Back Issues">
-                    <img src="/images/arrow-left.svg" class="h-[16px]" alt="Back Issues"/>
+                <a href="/issues/{{ $previousIssue }}" title="Back to Issue No. {{ $previousIssue }}">
+                    <img src="/images/arrow-left.svg" class="h-[16px]" alt="Back to Issue No. {{ $previousIssue }}"/>
                 </a>
             </div>
             
             <div>
                 Issue No. {{ .issue.number }}
                 <span class="divider">|</span>
-                {{ "2022-12-20T18:51:55.269Z" | time.Format ":date_medium" }}
+                {{ .issue.date | time.Format ":date_medium" }}
             </div>
 
             <div>
-                <a href="/" title="Latest Issue">
+                {{ if eq $nextIssue "" }}
+                <a href="/" title="Next Issue">
+                {{ else }}
+                <a href="issues/{{ $nextIssue }}" title="Next Issue">
+                {{ end }}
                     <img src="/images/arrow-right.svg" class="h-[16px]" alt="Latest Issue" />
                 </a>
             </div>

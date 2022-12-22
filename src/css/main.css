@@ -39,6 +39,10 @@ body {
   body.issues {
     margin-top: 115px;
   }
+
+  body.issues .hero {
+    @apply lg:pt-20;
+  }
 }
 
 .hero {
