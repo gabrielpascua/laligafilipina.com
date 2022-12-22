@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Joma Sison on terror tag, America, and karaoke</h1> <p class=\"hero-dek\">Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union</p><p><small class=\"text-amber-500\">rappler.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Joma Sison on terror tag, America, and karaoke</h1> <p class=\"hero-dek\">Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union (Rest in peace)</p><p><small class=\"text-amber-500\">rappler.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
@@ -16,20 +16,20 @@
             "description": "Perhaps no country on Earth loves Christmas more than the Philippines. Residents there celebrate the holiday for four months solid. Here's why."
         },
         "secondary": [{
-            "url": "https://www.housebeautiful.com/uk/lifestyle/a42026524/christmas-philippines-traditions/",
+            "url": "https://time.com/6242847/jose-mari-chan-christmas-philippines/",
             "shortUrl": "",
-            "title":"6 Christmas traditions that only Filipinos can relate to",
-            "description": "One thing about Filipinos is they like everything flashy at Christmas. They go big or go home."
+            "title":"Meet the Mariah Carey of the Philippines’ Christmas Season",
+            "description": "Jose Mari Chan is a 77-year-old sugar magnate and singer whose holiday hit has made him a national icon"
         },{
             "url": "https://www.philstar.com/headlines/2022/12/16/2231162/pinoy-faithful-gather-9-day-simbang-gabi",
             "shortUrl": "",
             "title":"Pinoy faithful gather for 9-day Simbang Gabi",
             "description": "The traditional pre-dawn novena masses, popularly known as “Simbang Gabi” in the Philippines, will officially start today."
         },{
-            "url": "https://www.tastingtable.com/1129413/in-the-philippines-christmas-eve-includes-a-late-night-street-food-feast/",
+            "url": "https://english.kyodonews.net/news/2022/12/d8bfa5cbb921-philippine-giant-lantern-festival-resumes-with-historical-ties-to-japan.html",
             "shortUrl": "",
-            "title":"In The Philippines Christmas Eve Includes A Late-Night Street Food Feast - Tasting Table",
-            "description": "The Philippines are known for all-out celebrations, and Christmas Eve is no different thanks to the late-night street food tradition of Noche Buena."
+            "title":"Philippine giant lantern festival resumes with historical ties to Japan",
+            "description": "A century-old giant lantern festival in the Philippines has resumed after a three-year hiatus from in-person celebrations due to COVID-19 restrictions, with spectators enjoying the festivity that has historical links with Japan."
         }]
     },
     "carousel": [
@@ -41,25 +41,18 @@
             "tag": "Environment"
         },
         {
+            "url": "https://www3.nhk.or.jp/nhkworld/en/news/20221213_41/",
+            "shortUrl": "",
+            "title":"Philippines utility considers using nuclear energy technology | NHK WORLD-JAPAN News",
+            "description": "The Philippines' largest electricity distributor has said it is in talks with the United States about possibly using a new form of nuclear energy technology.",
+            "tag": "New Energy"
+        },
+        {
             "url": "https://tempo.com.ph/2022/12/19/pinoy-pride-sofia-frank-2022-asian-open-figure-skating-gold-medalist/",
             "shortUrl": "",
             "title":"Pinoy Pride: Sofia Frank, 2022 Asian Open Figure Skating gold medalist",
             "description": "Pinay figure skater Sofia Lexi Jacqueline Frank brought honor to the country snatching the highly-coveted gold medal at the recently concluded 2022 Asian Open Figure Skating competition held in Jakarta, Indonesia.",
             "tag": "Sports"
-        },
-        {
-            "url": "https://www.sfchronicle.com/food/restaurants/article/filipino-baking-17648852.php",
-            "shortUrl": "",
-            "title":"‘It’s been a long time coming’: The Bay Area’s Filipino baking scene is more exciting than ever",
-            "description": "Ube pies, cheesy ensaymadas and so much more.",
-            "tag": "Small Business"
-        },
-        {
-            "url": "#",
-            "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
         }
     ]
 }
