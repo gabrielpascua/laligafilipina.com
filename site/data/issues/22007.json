@@ -1,0 +1,58 @@
+{
+    "issue": {
+        "number": 22007,
+        "date": "2022-12-31T05:00:00.000Z",
+        "theme": "light"
+    },
+    "hero":{
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"#\"><div class=\"hero-container\"><h1 class=\"hero-lead\">TBD</h1> <p class=\"hero-dek\">TBD</p><p><small class=\"text-amber-500\">tbd</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "TBD",
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": ""
+        },
+        "secondary": [{
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": ""
+        },{
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": ""
+        },{
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": ""
+        }]
+    },
+    "carousel": [
+        {
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": "",
+            "tag": "TBD"
+        },
+        {
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": "",
+            "tag": "TBD"
+        },
+        {
+            "url": "#",
+            "shortUrl": "",
+            "title":"",
+            "description": "",
+            "tag": "TBD"
+        }
+    ]
+}
