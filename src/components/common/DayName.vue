@@ -1,5 +1,7 @@
 <template>
-    <span class="text-zinc-700">{{ day }}<br />{{ date }}</span>
+    <a href="https://time.is/Philippines" class="text-zinc-700">
+      {{ day }}<br />{{ date }}
+    </a>
 </template>
 
 <script>

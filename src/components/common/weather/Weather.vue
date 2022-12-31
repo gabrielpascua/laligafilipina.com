@@ -1,9 +1,9 @@
 <template>
-  <span class="capitalize text-zinc-700">
+  <a href="https://www.pagasa.dost.gov.ph/weather" class="capitalize text-zinc-700">
     {{temperature}}&deg;C
     <br />
     {{description}}
-  </span>
+  </a>
 </template>
 
 <script>
