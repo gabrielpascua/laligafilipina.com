@@ -5,29 +5,29 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"#\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: 400,000 seafarers fear sailing ban</h1> <p class=\"hero-dek\">The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.</p><p><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Gaasz9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: 400,000 seafarers fear sailing ban</h1> <p class=\"hero-dek\">The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.</p><p><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "the Subscriber Identity Module (SIM) Registration Act",
             "url": "https://mb.com.ph/2022/12/26/sim-registration-commences-dec-27-dict-eyes-accomplishment-in-180-days/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3YTyoPI",
             "title":"SIM registration commences Dec. 27",
             "description": "Registration of the Subscriber Identity Module (SIM) will commence on Tuesday, Dec. 27, the Department of Information and Communications Technology (DICT) said on Monday. Dec. 26."
         },
         "secondary": [{
             "url": "https://www.manilatimes.net/2022/12/27/news/govt-telcos-ready-for-sim-registration/1871752",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3WYzvf4",
             "title":"Govt, telcos ready for SIM registration",
             "description": "The registration of all Subscriber Identification Module (SIM) cards starts today, December 27.SIM card owners have six months to register. Failure to do so could result in the card's deactivation."
         },{
             "url": "https://newsinfo.inquirer.net/1710243/sim-card-registration-a-step-by-step-guide",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3vugmGn",
             "title":"SIM card registration: A step-by-step guide",
             "description": "Manila, Philippines—While over two million SIM cards have been registered in the first two days of the listing that is mandated by law, there are still millions who are unfamiliar with the registration process."
         },{
             "url": "https://www.rappler.com/business/telecommunication-companies-may-use-data-sim-registration-marketing-purposes/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Q4WmU5",
             "title":"Watch what you consent to: Telcos may use SIM registration data for marketing",
             "description": "Digital advocates advise the public to be mindful of what information they consent to share with telcos while registering their SIM cards"
         }]
@@ -35,28 +35,28 @@
     "carousel": [
         {
             "url": "https://www.theedgemarkets.com/node/649519",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Q37cdt",
             "title":"Spending scandal at Philippine phone giant PLDT had roots in ambition",
             "description": "The day after the Philippines’ largest phone company plunged by a record 19% following an audit disclosure that shocked investors, chairman Manuel Pangilinan tweeted that his arowana, a freshwater fish, had just died.",
             "tag": "Business"
         },
         {
             "url": "https://www.bbc.com/news/world-asia-64053059",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3i1sawA",
             "title":"The Philippines' food worries amid Ukraine war and typhoons",
             "description": "The Philippines is grappling with food insecurity amid natural disasters and global price rises.",
             "tag": "Farming & Agriculture"
         },
         {
             "url": "https://asia.nikkei.com/Spotlight/Women-s-Wealth/From-Pakistan-to-the-Philippines-women-break-open-closed-industries",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3WSvcCa",
             "title":"From Pakistan to the Philippines, women break open closed industries",
             "description": "Female pioneers make their mark as combat pilots, cricketers and chip technologists",
             "tag": "Women's Advocacy"
         },
         {
             "url": "https://www.odt.co.nz/lifestyle/food-wine/flavours-philippines",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3VGs8bg",
             "title":"Flavours of Philippines",
             "description": "Filipino couple Dan and Ana Valencia are on a mission to expand Kiwis’ knowledge of the sweet and savoury delicacies of their homeland.",
             "tag": "Food"
