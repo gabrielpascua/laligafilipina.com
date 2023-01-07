@@ -6,16 +6,17 @@
     <h1 class="hero-lead">{{ .Title }}</h1>
     {{- .Content -}}
     <div class="mt-14">
-      {{ range sort $.Site.Data.nav.issues "value" "desc" }}
-        {{ $issueData := index $.Site.Data.issues (string .) }}
-        <p class="mb-4 first:hidden">
-          <a href="/issues/{{ . }}">
+      {{ range $key, $value := (first 11 (sort $.Site.Data.issues ".issue.number" "desc")) }}
+        {{- if gt $key 0 }}
+        <p class="mb-4">
+          <a href="/issues/{{ .issue.number }}">
             <span class="text-xl font-bold mr-2 text-amber-500">
-              {{ . }}
+              {{ $value.issue.number }}
             </span>
-            {{ $issueData.issue.date | time.Format ":date_full" }}
+            {{ $value.issue.date | time.Format ":date_full" }}
           </a>
         </p>
+        {{ end -}}
       {{- end -}}
     </div>
   </main>

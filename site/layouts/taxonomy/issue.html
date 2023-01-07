@@ -2,11 +2,11 @@
 
 {{ $currentIssue := .Data.Term }}
 {{ $currentIssueIndex := 0 }}
-{{ $allIssues := (sort .Site.Data.nav.issues) }}
+{{ $allIssues := sort $.Site.Data.issues ".issue.number" }}
 {{ $lastIndex := 0 }}
 {{ range $index, $issue := $allIssues }}
     {{ $lastIndex = $index }}
-    {{ if eq (int $issue) (int $currentIssue) }}
+    {{ if eq (int $issue.issue.number) (int $currentIssue) }}
         {{ $currentIssueIndex = $index }}
     {{ end }}
 {{ end }}
@@ -15,8 +15,7 @@
 {{ if lt $previousIndex 0 }}
     {{ $previousIndex = 0 }}
 {{ end }}
-{{ $previousIssue := index $allIssues $previousIndex }}
-
+{{ $previousIssue := (index $allIssues $previousIndex).issue.number }}
 
 {{ $nextIndex := (add $currentIssueIndex 1) }}
 {{ $nextIssue := "" }}
@@ -25,11 +24,11 @@
     {{ $nextIndex = $lastIndex }}
     {{ $nextIssue = "" }}
 {{ else }}
-    {{ $nextIssue = index $allIssues $nextIndex }}
+    {{ $nextIssue = (index $allIssues $nextIndex).issue.number }}
 {{ end }}
 
 {{ with (index .Site.Data.issues $currentIssue) }}
-<div class="pt-3 bg-zinc-100 text-xs md:text-small {{ .issue.theme }} breadcrumb">
+<div class="pt-3 bg-zinc-50 text-xs md:text-small {{ .issue.theme }} breadcrumb">
     <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center text-zinc-400 border-b pb-3 breadcrumb-container">
         <div class="flex flex-row justify-evenly">
             <div>

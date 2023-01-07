@@ -1,8 +1,6 @@
 {{- define "main" }}
 
-    {{ range last 1 $.Site.Data.nav.issues }}
-        {{ $latestIssue := index $.Site.Data.issues (string .) }}
-
+    {{ range $latestIssue := (first 1 (sort $.Site.Data.issues ".issue.number" "desc")) }}
         <div class="{{ $latestIssue.issue.theme }}">
         {{- with $latestIssue.hero -}}
             {{ .content | safeHTML }}
