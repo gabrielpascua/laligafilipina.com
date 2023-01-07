@@ -1,8 +1,7 @@
 ---
 title: "Hidilyn bags 3 golds in World Championships"
 issues: 22004
-tags:
-  - Sports
+tags: ["Sports"]
 publishDate: 2022-12-09
 author: 
 description: Hidilyn Diaz-Naranjo won three gold medals to rule the 55-kilogram category of the World Championships of the International Weightlifting Federation (IWF) in Bogota, Colombia.

@@ -1,10 +1,7 @@
 ---
 title: Why the US has so many Filipino nurses
 issues: 20001
-tags:
-  - Coronavirus
-  - Overseas Workers
-  - Immigration
+tags: ["Coronavirus", "Overseas Workers", "Immigration"]
 publishDate: 2020-08-30T10:50:23.819Z
 author: 
 description: Filipino nurses have been disproportionately affected by the coronavirus in the US. That’s because they make up an outsized portion of the nursing workforce. About one-third of all foreign-born nurses in the US are Filipino. 

@@ -1,9 +1,7 @@
 ---
 title: In the Philippines, revived traditions bring hope and gratitude in the new year
 issues: 23001
-tags:
-  - New Year
-  - Culture
+tags: ["New Year", "Culture"]
 publishDate: 2023-01-02
 author: 
 description: Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.
