@@ -46,7 +46,7 @@ body {
 }
 
 .hero {
-  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0 bg-zinc-100;
+  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0 bg-zinc-50;
   @apply md:pl-0 md:pb-10 md:pt-14 md:pr-0 lg:pt-24 lg:pb-20;
 }
 

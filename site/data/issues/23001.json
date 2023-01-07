@@ -5,61 +5,61 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"#tbd\"><div class=\"hero-container\"><h1 class=\"hero-lead\">TBD</h1> <p class=\"hero-dek\">TBD</p><p><small class=\"text-amber-500\">tbd</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.npr.org/2023/01/01/1146485956/in-the-philippines-revived-traditions-bring-hope-and-gratitude-in-the-new-year\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, revived traditions bring hope and gratitude in the new year</h1> <p class=\"hero-dek\">Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.</p><p><small class=\"text-amber-500\">npr.org</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
-            "lead": "TBD",
-            "url": "",
+            "lead": "the Air Traffic Management Center (ATMC) Power Outage",
+            "url": "https://www.rappler.com/business/what-we-know-philippines-air-traffic-management-system-fiasco-january-2023/",
             "shortUrl": "",
-            "title":"",
-            "description": ""
+            "title":"What we know so far: Philippines' air traffic system fiasco",
+            "description": "Here are some questions and answers surrounding the New Year's Day travel fiasco that stemmed from 'technical issues' in the country's air traffic management system"
         },
         "secondary": [{
-            "url": "",
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-main-airport-scrambles-restore-normalcy-after-power-cut-2023-01-02/",
             "shortUrl": "",
-            "title":"",
-            "description": ""
+            "title":"Philippines airport scrambles to restore normalcy after power cut",
+            "description": "The Philippines' main gateway scrambled to resume full services on Monday after a New Year power outage jolted its air traffic control and disrupted 300 flights, prompting calls from business leaders and a top senator for urgent action."
         },{
-            "url": "",
+            "url": "https://news.abs-cbn.com/news/01/02/23/3000-ofws-affected-by-new-years-day-aviation-crisis",
             "shortUrl": "",
-            "title":"",
-            "description": ""
+            "title":"3,000 OFWs affected by New Year's Day aviation crisis",
+            "description": "At least 3,000 overseas Filipino workers (OFWs) were affected by the New Year's Day crisis that grounded hundreds of flights nationwide, DMW said."
         },{
-            "url": "",
+            "url": "https://www.cnn.com/travel/article/philippines-airport-outage-government-investigation-intl-hnk/index.html",
             "shortUrl": "",
-            "title":"",
-            "description": ""
+            "title":"Philippine government vows to investigate New Year's Day airport chaos",
+            "description": "The Philippine government has announced that it will launch an official investigation into what led to a severe outage at the country's largest airport on New Year's Day that disrupted hundreds of flights and left thousands of travelers stranded."
         }]
     },
     "carousel": [
         {
-            "url": "",
+            "url": "https://marengwinniemonsod.ph/2022/12/31/onions/",
             "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
+            "title":"Onions and the DA (Department of Agriculture)",
+            "description": "Did you know, for example, Reader, that a 1997 study showed that the Philippines has a comparative advantage in onions? That means, essentially, that we should be a net exporter of onions.",
+            "tag": "Food Security"
         },
         {
-            "url": "",
+            "url": "https://opinion.inquirer.net/159820/transportation-crisis-in-the-philippines-how-much-does-convenience-cost",
             "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
+            "title":"Transportation crisis in the Philippines: How much does convenience cost?",
+            "description": "Being into “convenience” after all is an inconvenience. For most people, Christmas means merry holidays and joyous celebrations. However, for Filipino commuters, this is the most tiring time of the year.",
+            "tag": "Transportation"
         },
         {
-            "url": "",
+            "url": "https://www.theguardian.com/world/2022/dec/29/power-corruption-and-fury-the-killing-of-percy-lapid",
             "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
+            "title":"Power, corruption and fury: the killing of Percy Lapid",
+            "description": "Mystery surrounds the alleged involvement of top officials in the murder of the high-profile Philippine journalist",
+            "tag": "Press Freedom"
         },
         {
-            "url": "",
+            "url": "https://www.gmanetwork.com/news/pinoyabroad/pinoyachievers/855930/ofw-quits-job-to-start-thriving-puto-bumbong-business-in-dubai/story/",
             "shortUrl": "",
-            "title":"",
-            "description": "",
-            "tag": "TBD"
+            "title":"OFW quits job to start thriving puto bumbong business in Dubai",
+            "description": "It&rsquo;s the yuletide season all year-round in Dubai, thanks to an enterprising overseas Filipino worker from Pampanga who quit a good-paying, steady job five years ago to start a puto bubong and bibingka business.",
+            "tag": "Business"
         }
     ]
 }

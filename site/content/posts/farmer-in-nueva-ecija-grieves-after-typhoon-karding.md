@@ -3,7 +3,7 @@ title: Farmer in Nueva Ecija grieves after Typhoon Karding
 issues: 22007
 tags:
   - Farming & Agriculture
-  - Food Insecurity
+  - Food Security
   - Typhoons
 publishDate: 2022-12-28
 author: 
