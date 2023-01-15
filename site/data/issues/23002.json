@@ -5,32 +5,32 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.bbc.com/news/world-asia-64123652\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sierra Madre: Fighting to save what's left of a vital rainforest</h1> <p class=\"hero-dek\">Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.</p><p><small class=\"text-amber-500\">bbc.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3QW7VO9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sierra Madre: Fighting to save what's left of a vital rainforest</h1> <p class=\"hero-dek\">Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.</p><p><small class=\"text-amber-500\">bbc.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "the Price of Onions",
             "url": "https://time.com/6245568/philippines-onions-shortage-inflation/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3izNkCt",
             "title":"In the Philippines, Onions Are Now More Expensive Than Meat",
             "description": "Inflation recently hit a 14-year-high, but some are blaming the country’s agriculture department and price manipulators",
             "date": "2023-01-09T10:00:27.000Z"
         },
         "secondary": [{
             "url": "https://www.cnn.com/2023/01/10/business/philippines-onion-inflation-intl-hnk/index.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3GGR3Go",
             "title":"Onions are so expensive in the Philippines they're being smuggled into the country | CNN Business",
             "description": "From salads to stews, the humble onion is a key ingredient in nearly every Filipino dish. But now, the vegetable costs almost three times more than chicken in the Philippines.",
             "date": "2023-01-10T08:13:21Z"
         },{
             "url": "https://www.sunstar.com.ph/article/1950484/manila/local-news/da-approves-importation-of-over-21000-mt-of-onions",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3H6Qkj3",
             "title":"DA approves importation of over 21,000 MT of onions",
             "description": "The Department of Agriculture (DA), headed by President Ferdinand “Bongbong” Marcos Jr., has allowed the importation of 21,060 metric tons (MT) of yellow and red onions amid its skyrocketing prices in the market.",
             "date": "2023-01-10T08:20:52.000Z"
         },{
             "url": "https://www.fas.usda.gov/data/philippines-temporary-onion-import-plan-expected-fail",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3iBHLn4",
             "title":"Philippines: Temporary Onion Import Plan Expected to Fail",
             "description": "In a yet unpublished memo, the Philippine Department of Agriculture (DA) re-authorized the issuances of sanitary and phytosanitary import permits for up to to 21,060 metric tons (MT) of fresh yellow and red onions in a reported effort to stabilize retail prices of fresh onions,",
             "date": "2023-01-12T06:10:00.000Z"
@@ -39,7 +39,7 @@
     "carousel": [
         {
             "url": "https://www.youtube.com/watch?v=lZWfn9hhs2c",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3ILm3HP",
             "title":"PH inflation high fresh 14-year high due to rising veggie prices | ANC",
             "description": "The World Tonight: Philippine inflation hit a fresh 14-year high in December due mainly to higher vegetable prices.",
             "date": "2023-01-05T16:34:35.000Z",
@@ -47,7 +47,7 @@
         },
         {
             "url": "https://www.washingtonpost.com/climate-environment/2023/01/03/domestic-violence-climate-change-umoja/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3iEsWjo",
             "title":"Climate change puts more women at risk for domestic violence",
             "description": "From Kenya to the Philippines, women and girls face threats of domestic violence as climate change makes extreme weather events more intense and frequent.",
             "date": "2023-01-03T11:30:00.000Z",
@@ -55,7 +55,7 @@
         },
         {
             "url": "https://www.nytimes.com/2023/01/04/world/asia/philippines-elder-drag-queens.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3ILm7Y5",
             "title":"The ‘Golden Gays’ Return to the Stage in the Philippines",
             "description": "They formed a community meant to support and shelter gay people who had been cast aside by society. Decades later, they are still living together, hosting pageants to help make ends meet.",
             "date": "2023-01-04T14:52:12.000Z",
@@ -63,7 +63,7 @@
         },
         {
             "url": "https://www.gmanetwork.com/news/topstories/nation/856813/black-nazarene-feast-draws-over-half-a-million-faithful/story/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Xw410b",
             "title":"Black Nazarene feast draws over half a million faithful",
             "description": "The Feast of the Black Nazarene image of Jesus Christ, believed to be miraculous by Catholics, drew around 523,000 devotees on Monday, the Quiapo command center of the Philippine National Police (PNP) reported.",
             "date": "2023-01-09T11:03:28.000Z",
