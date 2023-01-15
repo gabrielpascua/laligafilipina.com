@@ -28,7 +28,7 @@
 {{ end }}
 
 {{ with (index .Site.Data.issues $currentIssue) }}
-<div class="pt-3 bg-zinc-50 text-xs md:text-small {{ .issue.theme }} breadcrumb">
+<div class="pt-3 bg-[#f4f4f4] text-xs md:text-small {{ .issue.theme }} breadcrumb">
     <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center text-zinc-400 border-b pb-3 breadcrumb-container">
         <div class="flex flex-row justify-evenly">
             <div>
@@ -62,7 +62,7 @@
     {{- end -}}
 </div>
 
-<div class="mb-8 md:flex md:mt-8 max-w-screen-lg m-auto">
+<div class="mb-8 md:flex md:mt-2 max-w-screen-lg m-auto">
 
     {{- with .ticker -}}
     {{ $primaryUrl := urls.Parse .primary.url }}
@@ -70,20 +70,25 @@
         <div class="container mx-auto pl-4 pr-4">
             <span class="text-xs min-w-[80px] bg-white relative top-9 left-4 pl-2 pr-2 text-zinc-700">In Trending</span>
         </div>
-        <section class="bg-light mb-2">
+        <section class="bg-light">
             <div class="container pl-4 pr-4">
                 <div class="border mt-6 rounded">
                     {{ $primaryContentLink := .primary.url }}
                     {{ if .primary.shortUrl }}
                         {{ $primaryContentLink = .primary.shortUrl }}
                     {{ end }}
-                    <a href="{{ $primaryContentLink }}" class="text-base p-6 block">
-                        <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
-                        <p class="leading-5 text-zinc-500 text-sm">{{ .primary.description | safeHTML }}</p>
+                    <a href="{{ $primaryContentLink }}" class="p-6 block">
+                        <h3 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
+                        <p class="text-sm leading-5 text-zinc-500">
+                            {{ .primary.description | safeHTML }}
+                            {{ if .primary.date }}
+                                <span class="text-zinc-400">&mdash; {{ .primary.date | time.Format ":date_long" }}</span>
+                            {{ end }}
+                        </p>
                         <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                     </a>
 
-                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-zinc-50">
+                    <div class="pl-6 pr-7 pt-6 pb-6 mb-8 bg-[#f8f8f8]">
                         {{- if (isset .primary "lead") }}
                         <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-zinc-300 pb-6 text-gray-800">
                             More on {{ .primary.lead }}
@@ -98,15 +103,18 @@
                             {{ if .shortUrl }}
                                 {{ $secondaryContentLink = .shortUrl }}
                             {{ end }}
-                            <li class="pl-4 mb-6 last:mb-0 mt-2 pr-2">
-                            <a href="{{ $secondaryContentLink }}" class="block text-sm decoration-gray-400 md:text-base">
-                                <p class="leading-5">
-                                    <strong class="font-bold capitalize text-gray-800 pb-2 block">{{ .title }}</strong>
+                            <li class="pl-4 mb-4 last:mb-0 mt-2 pr-2">
+                            <a href="{{ $secondaryContentLink }}" class="block decoration-gray-400">
+                                <p class="leading-5 text-sm">
+                                    <strong class="font-bold capitalize text-gray-800 pb-1 block md:text-base">{{ .title }}</strong>
                                     {{- if (isset . "description") }}
-                                        <span class="text-sm text-zinc-500">{{ .description }}</span><br />
-                                    {{ end -}}
-                                    <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
+                                        <span class="text-zinc-500">{{ .description }}</span>
+                                    {{ end }}
+                                    {{ if .date }}
+                                        <span class="text-zinc-400"> &mdash; {{ .date | time.Format ":date_long" }}</span>
+                                    {{ end }}
                                 </p>
+                                <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                             </a>
                             </li>
                         {{ end -}}
@@ -119,8 +127,8 @@
     {{- end -}}
 
     {{- with .carousel -}}
-    <div class="md:basis-2/4 mt-6">
-        <div class="container pl-4 pr-4">
+    <div class="md:basis-2/4">
+        <div class="container pl-4 pr-4 md:mt-6">
             {{- range . }}
             {{ $sourceUrl := urls.Parse .url }}
 
@@ -138,6 +146,9 @@
                             <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
                             <p class="text-sm text-zinc-500 pl-6 pr-6">
                                 {{ .description | safeHTML }}
+                                {{ if .date }}
+                                    <span class="text-zinc-400">&mdash; {{ .date | time.Format ":date_long" }}</span>
+                                {{ end }}
                             </p>
                             <p class="text-neutral-600 pl-6 pr-6">
                                 <span class="text-xs text-amber-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>

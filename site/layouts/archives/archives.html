@@ -2,20 +2,39 @@
 
 {{ $section := .Site.GetPage "section" .Section }}
 <section class="pl-4 pr-4 mb-14 mt-16 max-w-screen-lg m-auto">
-  <main class="pt-1 pb-1 md:pl-20 md:pr-20">
+  <main class="pt-1 pb-1 md:pl-28 md:pr-28">
     <h1 class="hero-lead">{{ .Title }}</h1>
     {{- .Content -}}
     <div class="mt-14">
       {{ range $key, $value := (first 11 (sort $.Site.Data.issues ".issue.number" "desc")) }}
         {{- if gt $key 0 }}
-        <p class="mb-4">
-          <a href="/issues/{{ .issue.number }}">
-            <span class="text-xl font-bold mr-2 text-amber-500">
-              {{ $value.issue.number }}
-            </span>
-            {{ $value.issue.date | time.Format ":date_full" }}
+        <div class="mb-8 md:mb-12 last:mb-0">
+          <a href="/issues/{{ .issue.number }}" class="flex">
+            <div class="">
+              <span class="text-xs text-amber-500">Issue</span><br />
+              <span class="text-xl md:text-2xl font-bold mr-2 text-amber-500">
+                {{ $value.issue.number }}
+              </span>
+            </div>
+
+            <div class="ml-3 md:ml-12 pt-2 md:pt-1">
+              <p class="text-xs mb-1 text-gray-800">
+                {{ $value.issue.date | time.Format ":date_full" }}
+              </p>
+
+              <h2 class="capitalize font-bold text-lg leading-6 mb-1">
+                {{ range (last 1 (findRE `<h1.*?>(.*?)</h1>` $value.hero.content)) }}
+                  {{ replaceRE `<[^>]*>` `` (. | safeHTML) }}
+                {{ end }}
+              </h2>
+
+              <p class="capitalize">
+                <span class="font-semibold">Trending:</span>
+                {{ $value.ticker.primary.lead }}
+              </p>
+            </div>
           </a>
-        </p>
+        </div>
         {{ end -}}
       {{- end -}}
     </div>

@@ -11,14 +11,18 @@
             <li class="mb-8 border-t pt-8 last:border-b last:pb-12 text-sm md:text-base">
                 <a href="{{.Permalink}}">
                   <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
-                  <p class="text-gray-700">{{.Description | safeHTML }}</p>
+                  <p class="text-gray-700">
+                    {{.Description | safeHTML }}
+                    <span class="text-gray-400">&mdash; {{.Date.Format "January 02, 2006"}}</span>
+                  </p>
                 </a>
                 <p class="text-zinc-700 mt-2 text-xs">
                   <a href="/issues/{{ .Params.issues }}" class="">
                     Issue No.
                     <span class="text-amber-500">{{ .Params.issues }}</span>
                     |
-                    Published: {{.Date.Format "January 02, 2006"}}
+                    Source:
+                    <span class="text-amber-500">youtube.com</span>
                   </a>
                 </p>
             </li>

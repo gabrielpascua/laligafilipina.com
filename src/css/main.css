@@ -46,8 +46,9 @@ body {
 }
 
 .hero {
-  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0 bg-zinc-50;
+  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0;
   @apply md:pl-0 md:pb-10 md:pt-14 md:pr-0 lg:pt-24 lg:pb-20;
+  background-color: #f4f4f4;
 }
 
 .hero-container {
@@ -57,12 +58,12 @@ body {
 
 .hero-lead {
   @apply text-xl leading-7 font-extrabold text-gray-800 capitalize;
-  @apply md:text-3xl md:leading-9;
+  @apply md:text-4xl;
   text-shadow: #fff 1px 1px;
 }
 
 .hero-dek {
-  @apply text-sm mt-2 mb-4 text-neutral-600;
+  @apply text-sm mt-2 mb-4 text-neutral-600 leading-6;
   @apply md:text-base md:mt-4;
   text-shadow: #fff 1px 1px;
 }
