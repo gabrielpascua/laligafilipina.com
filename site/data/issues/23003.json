@@ -1,17 +1,17 @@
 {
     "issue": {
         "number": 23003,
-        "date": "2023-01-22T00:00:00.000Z",
+        "date": "2023-01-22T06:50:10.632Z",
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://news.abs-cbn.com/ancx/culture/spotlight/01/15/23/pinoy-in-2018-thai-cave-rescue-on-living-fearlessly\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Fearless Pinoy in 2018 Thailand cave rescue now living his ‘life number 4’</h1> <p class=\"hero-dek\">While unheralded, Cedjie Aquino and his friends also risked their lives just to try and rescue the 12 young Thai athletes</p><p><small class=\"text-amber-500\">news.abs-cbn.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3HntgNd\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Fearless Pinoy in 2018 Thailand cave rescue now living his ‘life number 4’</h1> <p class=\"hero-dek\">While unheralded, Cedjie Aquino and his friends also risked their lives just to try and rescue the 12 young Thai athletes</p><p><small class=\"text-amber-500\">news.abs-cbn.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "Maria Ressa, Rappler Cleared of 2018 Tax Evation Charges",
             "url": "https://www.rappler.com/nation/philippine-tax-court-clears-nobel-laureate-maria-ressa-rappler-of-4-cases/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3iTiIMl",
             "title": "Philippine court acquits Nobel laureate Maria Ressa, Rappler of tax evasion",
             "description": "An emotional Ressa says after the verdict: 'Today, facts win, truth wins, justice wins'",
             "date": "2023-01-18T00:40:42.000Z"
@@ -19,21 +19,21 @@
         "secondary": [
             {
                 "url": "https://mb.com.ph/2023/01/18/cta-acquits-ressa-rappler-of-tax-evasion-charges/",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3XKLpd5",
                 "title": "CTA acquits Ressa, Rappler of tax evasion charges",
                 "description": "Nobel Peace Laureate Maria A. Ressa and Rappler Holdings Corporation (RHC) have been acquitted of tax evasion charges by the Court of Tax Appeals (CTA) on the P162.5 million earned by the news outfit from the 2015 issuance of shares to two foreign entities.",
                 "date": "2023-01-18T06:35:00.000Z"
             },
             {
                 "url": "https://newsinfo.inquirer.net/1717956/rappler-maria-ressa-acquitted-of-tax-evasion-charge",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3XQlm42",
                 "title": "Rappler, Maria Ressa acquitted of tax evasion charge",
                 "description": "The Court of Tax Appeals on Wednesday has acquitted Nobel Laureate Maria Ressa and Rappler Holdings Corporation  (RHC) of four counts of tax evasion.",
                 "date": "2023-01-18T17:35:07.000Z"
             },
             {
                 "url": "https://www.cnnphilippines.com/news/2023/1/18/Maria-Ressa-Rappler-acquittal-reactions.html",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3XP5Rtc",
                 "title": "‘Step towards media freedom’: Nations, groups laud tax violation acquittal of Rappler, Maria Ressa",
                 "description": "Several nations and rights groups commended the Court of Tax Appeals’ decision to clear Nobel Peace Prize winner Maria Ressa and media company Rappler in their tax violation cases, calling it an important step towards achieving press freedom in the country.",
                 "date": "2023-01-18T15:25:20.153Z"
@@ -43,7 +43,7 @@
     "carousel": [
         {
             "url": "https://thewalrus.ca/what-my-fathers-martial-arts-classes-taught-me-about-fighting-racism/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Xx9Xqq",
             "title": "What My Father’s Martial Arts Classes Taught Me about Fighting Racism | The Walrus",
             "description": "The goal of martial arts is self-defence. But what happens when the violence is as atmospheric as racism itself?",
             "date": "2023-01-16T11:30:08.000Z",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://www.nytimes.com/2023/01/08/dining/king-phojanakong-dead.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3XuUuXB",
             "title": "King Phojanakong, Pioneer of Filipino Food in New York, Dies at 54",
             "description": "His first restaurant, Kuma Inn, became destination dining despite its location on what was then a quiet stretch of the Lower East Side.",
             "date": "2023-01-08T21:27:39.000Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://hyperallergic.com/787897/woven-history-of-filipino-american-artists/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3XrJBWM",
             "title": "The Woven History of Filipino American Artists",
             "description": "A look at the myriad ways Filipino American artists are connecting, creating artistic platforms, and engaging with their history and identity.",
             "date": "2023-01-18T21:13:37.000Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://www.gq.com/story/triangle-of-sadness-dolly-de-leon-interview",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3ZTXxu1",
             "title": "'Triangle of Sadness' Breakout Dolly De Leon Is Just Getting Started",
             "description": "With Oscar buzz around her performance in Ruben Östlund’s film, De Leon is already the first Filipina actress to be nominated for a Golden Globe.",
             "date": "2023-01-13T19:01:12.857Z",
