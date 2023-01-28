@@ -10,14 +10,14 @@
         {{- if gt $key 0 }}
         <div class="mb-8 md:mb-12 last:mb-0">
           <a href="/issues/{{ .issue.number }}" class="flex">
-            <div class="">
+            <div class="basis-2/6 md:basis-1/6">
               <span class="text-xs text-amber-500">Issue</span><br />
               <span class="text-xl md:text-2xl font-bold mr-2 text-amber-500">
                 {{ $value.issue.number }}
               </span>
             </div>
 
-            <div class="ml-3 md:ml-12 pt-2 md:pt-1">
+            <div class="basis-4/6 md:basis-5/6 pt-2 md:pt-1 md:pr-2">
               <p class="text-xs mb-1 text-gray-800">
                 {{ $value.issue.date | time.Format ":date_full" }}
               </p>

@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23004,
+        "date": "2023-01-29T00:00:00.000Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.latimes.com/opinion/story/2023-01-20/philippines-history-martial-law-marcos-duterte-filipino-authoritarianism\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Op-Ed: Martial law in the Philippines was no 'golden age'</h1> <p class=\"hero-dek\">The rule of Ferdinand E. Marcos marks one of the darkest periods in the Philippines' history. Only through a mass movement can we confront the present-day threat of the Marcos-Duterte administration.</p><p><small class=\"text-amber-500\">latimes.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Jullebee Ranara's Gruesome Murder in Kuwait",
+            "url": "https://www.philstar.com/headlines/2023/01/23/2239637/philippines-working-kuwaiti-authorities-case-slain-ofw",
+            "shortUrl": "",
+            "title": "Philippines working with Kuwaiti authorities on case of slain OFW",
+            "description": "“Kuwaiti authorities have arrested the son of her employer,” the DMW said in a statement on Monday.",
+            "date": "2023-01-23T07:45:00.000Z"
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/pinoyabroad/content/858878/remains-of-slain-ofw-jullebee-ranara-arrives-in-philippines/story/",
+                "shortUrl": "",
+                "title": "Remains of slain OFW Jullebee Ranara arrives in Philippines",
+                "description": "The remains of Jullebee Ranara, the Filipina household worker who was slain in Kuwait, reached Manila on Friday night.",
+                "date": "2023-01-27T16:17:49.000Z"
+            },
+            {
+                "url": "https://www.cnnphilippines.com/news/2023/1/27/ofw-slain-kuwait-family-requests-nbi-autopsy.html",
+                "shortUrl": "",
+                "title": "Family of OFW slain in Kuwait requests for NBI autopsy",
+                "description": "The family of Jullebee Ranara — the 35-year-old OFW killed in Kuwait — has requested for the NBI to conduct an autopsy on her remains, the DMW said.",
+                "date": "2023-01-27T08:20:04.908Z"
+            },
+            {
+                "url": "https://mb.com.ph/2023/01/24/estrada-calls-for-abolition-of-kafala-system-after-killing-burning-of-ofw-in-kuwait/",
+                "shortUrl": "",
+                "title": "Estrada calls for abolition of ‘Kafala system’ after killing, burning of OFW in Kuwait",
+                "description": "Sen. Jinggoy Estrada on Tuesday, January 24 called on the government to press for the dismantling of the controversial “Kafala” system to protect overseas Filipino workers (OFWs) from Arab nations.",
+                "date": "2023-01-24T10:06:00.000Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/01/18/23/senators-slam-salt-iodization-law-for-killing-phs-salt-industry",
+            "shortUrl": "",
+            "title": "'Insanity': Senators slam salt iodization law for 'killing' PH's salt industry",
+            "description": "Two senators highlighted how a 27-year old law mandating the iodization of salt led to the deterioration, according to them, of the Philippines' salt industry.",
+            "date": "2023-01-18T13:36:38.000Z",
+            "tag": "Farming & Agriculture"
+        },
+        {
+            "url": "https://www.theguardian.com/world/2023/jan/26/onion-smuggling-rackets-thrive-as-staple-becomes-a-luxury-in-philippines",
+            "shortUrl": "",
+            "title": "Onion smuggling rackets thrive as staple becomes a luxury in Philippines",
+            "description": "Millions of dollars’ worth of onions seized by authorities as inflation crisis sees the cost of other basics soar",
+            "date": "2023-01-26T00:19:34.000Z",
+            "tag": "Food Supply"
+        },
+        {
+            "url": "https://www.bworldonline.com/infographics/2023/01/20/499764/how-the-philippines-compares-in-government-ai-readiness/",
+            "shortUrl": "",
+            "title": "How the Philippines compares in government AI readiness - BusinessWorld Online",
+            "description": "The Philippines ranked 54th out of 181 countries in the 2022 Government AI Readiness Index by Oxford Insights. It scored 55.42 out of possible 100, above the 44.61 global average score. Among its 17 peers in the East Asia, the Philippines placed ninth.",
+            "date": "2023-01-19T16:03:55.000Z",
+            "tag": "Technology"
+        },
+        {
+            "url": "https://www.eater.com/23501735/banana-ketchup-philippines-condiment-history-jufran",
+            "shortUrl": "",
+            "title": "Filipino Chefs Are Never Done With Banana Ketchup",
+            "description": "From colonization and cultural suppression, Filpinos created a condiment that allowed for constant reinvention, making it an important icon for generation after generation.",
+            "date": "2023-01-09T14:06:59.000Z",
+            "tag": "Food"
+        }
+    ]
+}
