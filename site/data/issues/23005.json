@@ -5,13 +5,13 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.ted.com/talks/jing_corpuz_5_values_for_repairing_the_harms_of_colonialism\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Jing Corpuz: 5 values for repairing the harms of colonialism</h1> <p class=\"hero-dek\">Indigenous wisdom can help solve the planetary crises that colonialism started, says lawyer Jennifer \"Jing\" Corpuz. Her ancestors, the Kankanaey-Igorot people of the Philippines, are known for creating the Banaue Rice Terraces: centuries-old irrigated mountain terraces that illustrate the magic of humanity living in harmony with nature. Corpuz shares five values that have guided her people as they successfully fought against development aggression and invites everyone to pursue a more just, sustainable world.</p><p><small class=\"text-amber-500\">ted.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3RvMG5W\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Jing Corpuz: 5 values for repairing the harms of colonialism</h1> <p class=\"hero-dek\">Indigenous wisdom can help solve the planetary crises that colonialism started, says lawyer Jennifer \"Jing\" Corpuz. Her ancestors, the Kankanaey-Igorot people of the Philippines, are known for creating the Banaue Rice Terraces: centuries-old irrigated mountain terraces that illustrate the magic of humanity living in harmony with nature. Corpuz shares five values that have guided her people as they successfully fought against development aggression and invites everyone to pursue a more just, sustainable world.</p><p><small class=\"text-amber-500\">ted.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "<abbr title=\"International Criminal Court\">ICC</abbr> to Resume Human Rights Investigations",
             "url": "https://www.icc-cpi.int/news/icc-pre-trial-chamber-i-authorises-prosecutor-resume-investigation-philippines",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3jxJVo5",
             "title": "ICC Pre-Trial Chamber I authorises Prosecutor to resume investigation in the Philippines",
             "description": "Following a careful analysis of the materials provided by the Philippines, the Chamber is not satisfied that the Philippines is undertaking relevant investigations that would warrant a deferral of the Court’s investigations on the basis of the complementarity principle.",
             "date": "2023-01-26T16:50:16.000Z"
@@ -19,21 +19,21 @@
         "secondary": [
             {
                 "url": "https://www.aljazeera.com/news/2023/1/27/icc-to-resume-investigation-into-philippiness-deadly-drug-war",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3RC7VmM",
                 "title": "ICC to resume investigation into Philippines’s deadly drug war",
                 "description": "Manila had argued it was conducting its own investigation into deaths under the controversial policy.",
                 "date": "2023-01-27T01:33:36.000Z"
             },
             {
                 "url": "https://newsinfo.inquirer.net/1725034/bong-go-ph-has-working-judicial-system-amid-icc-recent-bid-to-reopen-drug-war-probe",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3JIoiw4",
                 "title": "Bong Go: PH’s justice system works despite ICC’s drug war probe reopening",
                 "description": "MANILA, Philippines -- Following the authorization of the International Criminal Court (ICC) to resume its probe into the Philippines’ war on drugs under the previous Duterte",
                 "date": "2023-02-04T01:17:21.000Z"
             },
             {
                 "url": "https://www.abc.net.au/news/2023-02-04/philippine-forensics-expert-uncovering-truth-of-drug-war-deaths/101915064",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/40ska9k",
                 "title": "Fake death certificates, bullet holes and exhumed bodies: The forensics expert digging for the truth",
                 "description": "The truth about the tragic death of a young Philippine boy — and dozens more caught up in Rodrigo Duterte's war on drugs — has come to light thanks to one woman and a makeshift ward.",
                 "date": "2023-02-03T18:58:35.000Z"
@@ -43,7 +43,7 @@
     "carousel": [
         {
             "url": "https://asia.nikkei.com/Business/Startups/Thailand-s-first-unicorn-Flash-Express-hits-the-gas-in-Philippines",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3kZ8kTN",
             "title": "Thailand's first unicorn Flash Express hits the gas in Philippines",
             "description": "CEO Komsan Lee wants to be No. 1 courier in neighboring market by year's end",
             "date": "2023-01-29T02:10:31.000Z",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://www.dailymail.co.uk/news/article-11688145/Yangtze-Fortune-ship-stranded-Portland-Victoria-Bizarre-reason-carrier-leave.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3DHszw2",
             "title": "Bizarre reason why huge container ship is stuck off Victorian coast",
             "description": "A crew of Filipino sailors have been stranded on an abandoned ship off the south-west coast of Victoria for four months and their maritime insurance is about to end. ",
             "date": "2023-01-29T04:52:54.000Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://www.rappler.com/life-and-style/relationships/filipino-family-values-gone-wrong/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Y3rk2n",
             "title": "'Utang na loob?' Filipino family values gone wrong, and how they affect mental health",
             "description": "Does your family sweep issues under the rug, or do your parents like to compare you to your siblings? A psychologist explains how these practices can be detrimental to our growth.",
             "date": "2023-01-31T10:45:34.000Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://www.formula1.com/en/latest/article.filipino-driver-bianca-bustamante-joins-f1-academy-with-prema-racing.6wBDyU0pJCVGd8bN6sMgt2.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3jxUF5S",
             "title": "Filipino driver Bianca Bustamante joins F1 Academy with PREMA Racing | Formula 1®",
             "description": "PREMA Racing have announced that Filipino racer Bianca Bustamante will the first driver in their three-car line-up for the inaugural F1 Academy season.",
             "date": "2023-02-03T00:00:00.000Z",
