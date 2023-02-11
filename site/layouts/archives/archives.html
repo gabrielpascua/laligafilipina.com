@@ -18,7 +18,7 @@
             </div>
 
             <div class="basis-4/6 md:basis-5/6 pt-2 md:pt-1 md:pr-2">
-              <p class="text-xs mb-1 text-gray-800">
+              <p class="text-xs mb-1 text-gray-800 mt-[2px]">
                 {{ $value.issue.date | time.Format ":date_full" }}
               </p>
 
@@ -29,8 +29,8 @@
               </h2>
 
               <p class="capitalize">
-                <span class="font-semibold">Trending:</span>
-                {{ $value.ticker.primary.lead }}
+                <span class="font-semibold mr-[2px]">Trending:</span>
+                {{ $value.ticker.primary.lead | safeHTML }}
               </p>
             </div>
           </a>
