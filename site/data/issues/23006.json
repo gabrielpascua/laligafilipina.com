@@ -5,13 +5,13 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Public Service in Pink: Interview with Leni Robredo</h1> <p class=\"hero-dek\">Angat Buhay was premised on collaboration between government and the private sector. We were [present] in more than 300 communities. We partnered with about 700 private organizations.</p><p><small class=\"text-amber-500\">hir.harvard.edu</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3YtDh1w/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Public Service in Pink: Interview with Leni Robredo</h1> <p class=\"hero-dek\">Angat Buhay was premised on collaboration between government and the private sector. We were [present] in more than 300 communities. We partnered with about 700 private organizations.</p><p><small class=\"text-amber-500\">hir.harvard.edu</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "US Access to Military Bases thru <abbr title=\"Enhanced Defense Cooperation Agreement\">EDCA</abbr>",
             "url": "https://www.defense.gov/News/News-Stories/Article/Article/3286055/us-philippine-alliance-strengthens-as-it-enters-new-phase/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3RV0LtR",
             "title": "U.S.-Philippine Alliance Strengthens as it Enters New Phase",
             "description": "U.S. service members will be doing a lot more training and exercises alongside their Philippine allies, as the defense alliance between the two nations continues to grow. ",
             "date": "2023-02-02T16:05:31.000Z"
@@ -19,21 +19,21 @@
         "secondary": [
             {
                 "url": "https://www.bbc.com/news/world-asia-64479712",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3jKNJ5H",
                 "title": "US secures deal on Philippines bases to complete arc around China",
                 "description": "Washington now has more access to Philippines military bases facing the South China Sea and Taiwan.",
                 "date": "2023-02-02T16:05:31.000Z"
             },
             {
                 "url": "https://www.scmp.com/news/china/diplomacy/article/3209093/us-philippines-military-bases-deal-seen-reaction-chinas-moves-south-china-sea-over-past-decade",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3RUOkhE",
                 "title": "US-Philippines bases deal seen as reaction to China’s actions in South China Sea",
                 "description": "The US is boosting its military presence in the Philippines, Japan and South Korea – three key links in its first island chain around China’s coastline.",
                 "date": "2023-02-04T22:00:08.000Z"
             },
             {
                 "url": "https://www.nytimes.com/2023/02/07/opinion/us-philippines-china-military-curse.html",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3Ii3vy3",
                 "title": "Opinion | Dancing With America Has Been a Curse for the Philippines",
                 "description": "The news that the U.S. military is planning to expand its presence in the Philippines has been dizzying and wounding.",
                 "date": "2023-02-07T10:00:29.000Z"
@@ -43,7 +43,7 @@
     "carousel": [
         {
             "url": "https://globalnation.inquirer.net/210739/2-filipinos-confirmed-dead-in-turkey-quake",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/40NrufZ",
             "title": "2 Filipinos confirmed dead in Turkey quake",
             "description": "At least two Filipinos living in Turkey were confirmed to have died after a devastating magnitude 7.8 earthquake nearly flattened a handful of provinces in the country.",
             "date": "2023-02-11T13:34:18.000Z",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://www.philstar.com/headlines/2023/02/10/2243929/96-million-pinoys-jobless-q4-2022-sws",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3jYLf3o",
             "title": "9.6 million Pinoys jobless in Q4 of 2022 – SWS",
             "description": "An estimated 9.6 million Filipinos were jobless in the fourth quarter of 2022, according to a survey conducted by Social Weather Stations.",
             "date": "2023-02-09T16:00:00.000Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://www.dw.com/en/philippines-ending-clan-wars-crucial-to-sustaining-peace-in-muslim-south/a-64624559",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Xo17KI",
             "title": "Ending Philippines clan wars crucial to sustaining peace",
             "description": "\"Clan wars are what damage our communities the most,\" young men and women of Mindanao's Muslim region told DW. Conflict between families is driving intergenerational conflict and preventing girls from going to school.",
             "date": "2023-02-06T16:19:25.513Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://www.reuters.com/investigates/special-report/philippines-environment-turtles/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/40QZjwM",
             "title": "Love of sea turtles turns Philippine poachers into protectors",
             "description": "Armed with a wooden stick, a bucket and a headlamp, Philippine construction worker Johnny Manlugay hunts every night for the eggs of sea turtles on the pristine beaches of the northern province of La Union.",
             "date": "2023-02-02T13:45:46.000Z",
