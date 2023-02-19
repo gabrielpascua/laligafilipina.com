@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23007,
+        "date": "2023-02-19T00:00:00.000Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://hir.harvard.edu/invisible-no-more-shedding-light-on-police-violence-and-corruption-in-the-philippines/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Invisible no more: Shedding light on police violence and corruption in the Philippines</h1> <p class=\"hero-dek\">Duterte’s strategies to combat the issues faced by Filipinos have conditioned and emboldened the police. As a new president leads the country, the future of the Philippines’ criminal justice system seems committed to less violent means.</p><p><small class=\"text-amber-500\">hir.harvard.edu</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Chinese Lasers Pointed at the Philippine Coast Guard",
+            "url": "https://www.npr.org/2023/02/13/1156475789/the-philippines-accuses-a-chinese-ship-of-aiming-a-laser-at-a-filipino-boat-crew",
+            "shortUrl": "",
+            "title": "The Philippines accuses a Chinese ship of aiming a laser at a Filipino boat crew",
+            "description": "The Philippines has accused a Chinese coast guard ship of hitting a Philippine coast guard vessel with a military-grade laser and temporarily blinding some of its crew in the disputed South China Sea.",
+            "date": "2023-02-13T08:33:23.000Z"
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2023/02/14/china-alleges-pcg-vessel-intruded-chinese-waters-justifies-beaming-laser-light/",
+                "shortUrl": "",
+                "title": "China justifies beaming laser light, alleges PCG vessel intruded into its waters",
+                "description": "China has asserted that the Philippine Coast Guard (PCG) vessel, which was at the receiving end of a \"blinding\" laser light by Chinese Coast Guard, was intruding the Chinese waters sans permission.",
+                "date": "2023-02-14T04:30:00.000Z"
+            },
+            {
+                "url": "https://globalnation.inquirer.net/210975/bbm-summons-china-envoy-over-rising-chinese-actions-vs-ph-coast-guard-fishermen",
+                "shortUrl": "",
+                "title": "BBM summons China envoy over rising Chinese actions vs PH coast guard, fishermen",
+                "description": "MANILA, Philippines — President Ferdinand “Bongbong” Marcos Jr. has summoned Chinese Ambassador Huang Xilian to express “his serious concern” over the “increasing” actions by China",
+                "date": "2023-02-15T02:56:46.000Z"
+            },
+            {
+                "url": "https://www.reuters.com/world/asia-pacific/president-marcos-says-philippines-will-not-lose-an-inch-territory-2023-02-18/",
+                "shortUrl": "",
+                "title": "President Marcos says Philippines 'will not lose an inch' of territory",
+                "description": "Philippines President Ferdinand Marcos Jr said on Saturday that the country \"will not lose an inch\" of territory, his remarks coming on the heels of continuing maritime tensions with Beijing in the South China Sea.",
+                "date": "2023-02-18T05:48:32.000Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.sunstar.com.ph/article/1953486/cebu/local-news/guitars-gently-weeping-how-lapu-lapus-declining-guitar-industry-survives-in-a-pandemic-super-typhoon",
+            "shortUrl": "",
+            "title": "Guitars gently weeping: How Lapu-Lapu's guitar industry strums through pandemic, super typhoon",
+            "description": "AS THE Covid-19 pandemic persists, Lapu-Lapu's guitar industry continues to gently weep.",
+            "date": "2023-02-14T22:42:35.000Z",
+            "tag": "Business"
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/02/12/2244433/writer-activist-lualhati-bautista-dies-77",
+            "shortUrl": "",
+            "title": "Writer, activist Lualhati Bautista dies at 77",
+            "description": "She passed “peacefully” at 6 a.m. on February 11. Lualhati was 77 years old.",
+            "date": "2023-02-12T06:44:00.000Z",
+            "tag": "Art & Entertainment"
+        },
+        {
+            "url": "https://www.zawya.com/en/world/china-and-asia-pacific/remittances-hit-record-high-of-361bln-in-2022-philippines-tmnw10uh",
+            "shortUrl": "",
+            "title": "Remittances hit record high of $36.1bln in 2022: Philippines",
+            "description": "Data released by the central bank showed personal remittances increased by 3.6 percent to a record high $36.14 billion in 2022",
+            "date": "2023-02-17T09:41:14.886Z",
+            "tag": "Overseas Workers"
+        },
+        {
+            "url": "https://tempo.com.ph/2023/02/12/ph-scribes-to-fete-former-track-queen-lydia-de-vega-mercado/",
+            "shortUrl": "",
+            "title": "PH scribes to fete former track queen Lydia de Vega-Mercado",
+            "description": "The life and times of legendary sprint queen Lydia De Vega will be celebrated in the coming San Miguel Corporation-Philippine Annual Awards Night",
+            "date": "2023-02-12T19:02:57.000Z",
+            "tag": "Sports"
+        }
+    ]
+}
