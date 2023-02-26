@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23008,
+        "date": "2023-02-26T14:28:44.552Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41uXupi\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Has the Philippines Moved On From Marcos Sr.’s Dictatorship?</h1> <p class=\"hero-dek\">“This is what happens when you bring despots and their scions back to power,” says a Filipino political science professor</p><p><small class=\"text-amber-500\">time.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Cessna Plane Crash in Albay",
+            "url": "https://www.aljazeera.com/news/2023/2/21/rescuers-in-high-risk-volcano-search-for-crashed-philippine-plane",
+            "shortUrl": "https://bit.ly/3Z4ML3i",
+            "title": "Rescuers in high-risk volcano search for crashed Philippine plane",
+            "description": "Four people, including two Australians, were on board the Cessna 340 aircraft that crashed on Mount Mayon volcano.",
+            "date": "2023-02-21T10:04:03.000Z"
+        },
+        "secondary": [
+            {
+                "url": "https://www.cbsnews.com/news/plane-crash-volcano-search-and-rescue-philippines/",
+                "shortUrl": "https://bit.ly/3IUEo4H",
+                "title": "\"Very risky\" search planned as plane wreckage spotted near active Philippine volcano's crater",
+                "description": "An aerial search team spotted suspected wreckage of the small plane about 1,150 feet from the crater of Mayon Volcano.",
+                "date": "2023-02-20T12:29:53.000Z"
+            },
+            {
+                "url": "https://apnews.com/article/politics-accidents-volcanoes-australia-manila-d8dbd99f064ba9c029d2a25072ccb335",
+                "shortUrl": "https://bit.ly/3SwfaNm",
+                "title": "Search on Philippine volcano confirms 4 died in plane crash",
+                "description": "MANILA, Philippines (AP) — Searchers who hiked the slopes of a restive Philippine volcano to find the wreckage of a plane that crashed over the weekend confirmed the two Australian energy consultants and two Filipino crew members on board didn't survive, the local mayor said.",
+                "date": "2023-02-23T00:47:37.000Z"
+            },
+            {
+                "url": "https://www.cnnphilippines.com/news/2023/2/25/bodies-Cessna-plane-passenger-retrieved-.html",
+                "shortUrl": "https://bit.ly/3IT87v4",
+                "title": "Bodies of 4 passengers of crashed Cessna plane in Albay retrieved  ",
+                "description": "Authorities have retrieved the bodies of the four passengers of the Cessna plane that crashed near Mayon Volcano's crater in Albay a week ago, Camalig Mayor Carlos Baldo confirmed.",
+                "date": "2023-02-25T11:06:43.151Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/opinion/columns/pop-goes-the-world-by-jenny-ortuoste/314307508/people-power-anniversary-should-we-care.html",
+            "shortUrl": "https://bit.ly/3IX5FDU",
+            "title": "People Power Anniversary: Should we care? - Manila Standard",
+            "description": "The country celebrates the 37th anniversary of the People Power Revolution on Feb. 25 this year, and the event still remains an important and significant milestone for Philippine society.",
+            "date": "2023-02-21T16:10:00.000Z",
+            "tag": "Democracy"
+        },
+        {
+            "url": "https://thediplomat.com/2023/02/the-philippines-basic-education-crisis/",
+            "shortUrl": "https://bit.ly/3SteR61",
+            "title": "The Philippines’ Basic Education Crisis",
+            "description": "Out of the country’s 327,000-odd school buildings, less than a third are in good condition, according to government figures.",
+            "date": "2023-02-22T05:24:26.000Z",
+            "tag": "Education"
+        },
+        {
+            "url": "https://www.esquiremag.ph/politics/news/lot-10-masungi-a00203-20230221-lfrm",
+            "shortUrl": "https://bit.ly/3SDqLdG",
+            "title": "See Photos of the Site in Masungi the BuCor Wants to Build On",
+            "description": "Lot 10 of Masungi hosts fragile limestones, endangered species, and plants found nowhere else in the world.",
+            "date": "2023-02-21T04:00:00.000Z",
+            "tag": "Environment"
+        },
+        {
+            "url": "https://www.amnesty.org/en/latest/news/2023/02/philippines-leila-de-lima-detention/",
+            "shortUrl": "https://bit.ly/3IRUUm5",
+            "title": "Philippines: Six years on, arbitrary detention of former Senator Leila de Lima continues",
+            "description": "As witness after witness withdraws testimony, the Marcos administration must put an end to her ongoing persecution.",
+            "date": "2023-02-23T02:32:06.000Z",
+            "tag": "Politics"
+        }
+    ]
+}
