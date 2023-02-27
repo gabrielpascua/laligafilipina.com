@@ -25,12 +25,15 @@ header {
   z-index: 9999;
 }
 
+  header * {
+    transition: all .200s ease-out;
+  }
   header #top-nav{
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(24,24,27,0);
   }
   header #top-nav.active {
-    background-color: rgba(0,0,0,1);
-    @apply text-gray-300 border-b-zinc-800;
+    background-color: rgba(24,24,27,1);
+    @apply text-gray-300 border-b-zinc-800 pt-3 pb-3;
   }
   header #top-nav.active .logo {
     @apply text-white;
@@ -40,11 +43,11 @@ header {
   }
 
   header #sub-nav{
-    background-color: rgba(0,0,0,0);
+    background-color: rgba(24,24,27,0);
   }
   header #sub-nav.active {
-    background-color: rgba(0,0,0,1);
-    @apply text-gray-300;
+    background-color: rgba(24,24,27,1);
+    @apply text-gray-300 pt-0 pb-1;
   }
 
 body {
