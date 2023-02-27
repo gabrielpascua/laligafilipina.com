@@ -1,13 +1,13 @@
-<header>
-    <div class="pb-3 pt-4 border-b bg-white text-neutral-600">
+<header class="bg-white">
+    <div class="pb-3 pt-4 border-b text-zinc-700" id="top-nav">
         <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto">
             <div class="flex flex-row justify-between items-center">
                 <section class="text-xs md:text-small">
                     <router-view name="dayName" />
                 </section>
                 <section class="text-center logo">
-                    <a href="/">
-                        <img src="/images/full.svg" alt="La liga Filipina" width="180" class="md:w-[240px] lg:w-[270px]"/>
+                    <a href="/" class="block text-black w-[180px] h-[34px] md:w-[240px] md:h-[45px] lg:w-[270px] lg:h-[52px]">
+                        {{ partial "logo" }}
                     </a>
                 </section>
                 <section class="text-right text-xs md:text-small">
@@ -17,7 +17,7 @@
         </div>
     </div>
 
-    <div class="border-b pt-1 pb-2 bg-white">
+    <div class="border-b pt-1 pb-2 text-zinc-700" id="sub-nav">
         <div class="container text-center">
             <!-- <small class="mr-2"><strong>Archives</strong></small>
             <small class="mr-2"><strong>Search</strong></small>
@@ -27,7 +27,7 @@
 
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
-            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 text-gray-800 md:text-small">
+            <a href="/tags/{{.slug}}" class="text-xs ml-2 mr-2 md:text-small">
                 <strong>{{.label}}</strong>
             </a>
         {{ end }}

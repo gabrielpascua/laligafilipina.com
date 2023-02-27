@@ -25,6 +25,28 @@ header {
   z-index: 9999;
 }
 
+  header #top-nav{
+    background-color: rgba(0,0,0,0);
+  }
+  header #top-nav.active {
+    background-color: rgba(0,0,0,1);
+    @apply text-gray-300 border-b-zinc-800;
+  }
+  header #top-nav.active .logo {
+    @apply text-white;
+  }
+  header #top-nav.active .logo a{
+    @apply w-[180px] h-[34px] text-white md:w-[200px] md:h-[38px];
+  }
+
+  header #sub-nav{
+    background-color: rgba(0,0,0,0);
+  }
+  header #sub-nav.active {
+    background-color: rgba(0,0,0,1);
+    @apply text-gray-300;
+  }
+
 body {
   margin-top: 100px;
 }
