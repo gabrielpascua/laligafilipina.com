@@ -29,25 +29,29 @@ header {
     transition: all .200s ease-out;
   }
   header #top-nav{
-    background-color: rgba(24,24,27,0);
+    /* background-color: rgba(24,24,27,0); */
   }
   header #top-nav.active {
-    background-color: rgba(24,24,27,1);
-    @apply text-gray-300 border-b-zinc-800 pt-3 pb-3;
+    /* background-color: rgba(24,24,27,0.035); */
+    @apply pt-3 pb-3;
+    /* @apply text-gray-300 border-b-zinc-800 pt-3 pb-3; */
   }
   header #top-nav.active .logo {
-    @apply text-white;
+    /* @apply text-white; */
   }
   header #top-nav.active .logo a{
-    @apply w-[180px] h-[34px] text-white md:w-[200px] md:h-[38px];
+    /* @apply w-[180px] h-[34px] text-white md:w-[200px] md:h-[38px]; */
+    @apply w-[180px] h-[34px] md:w-[200px] md:h-[38px];
   }
 
   header #sub-nav{
     background-color: rgba(24,24,27,0);
   }
   header #sub-nav.active {
-    background-color: rgba(24,24,27,1);
-    @apply text-gray-300 pt-0 pb-1;
+    /* background-color: rgba(24,24,27,0.035); */
+    /* @apply text-gray-100 pt-0 pb-1; */
+    /* background-color: rgba(24,24,27,0.045); */
+    @apply pt-0 pb-1 bg-[#f4f4f4];
   }
 
 body {
