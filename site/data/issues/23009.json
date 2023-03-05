@@ -1,17 +1,17 @@
 {
     "issue": {
         "number": 23009,
-        "date": "2023-03-05T14:28:44.552Z",
+        "date": "2023-03-05T13:19:19.655Z",
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.dw.com/en/how-clan-wars-leave-muslim-filipino-youth-traumatized/a-64851163\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How clan wars leave Muslim Filipino youth traumatized</h1> <p class=\"hero-dek\">A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.</p><p><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Zovum3\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How clan wars leave Muslim Filipino youth traumatized</h1> <p class=\"hero-dek\">A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.<br /><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "Death of Matthew Salilig From Fraternity Hazing",
             "url": "https://newsinfo.inquirer.net/1737179/adamson-students-death-due-to-severe-blunt-force-trauma",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3yfLA5i",
             "title": "Adamson student died of ‘severe blunt force trauma’",
             "description": "MANILA, Philippines — John Matthew Salilig, an Adamson University chemical engineering student, whose battered body was found dumped in a vacant lot in Imus, Cavite, died due to “severe blunt force trauma to the lower extremities.”",
             "date": "2023-03-02T06:43:20.000Z"
@@ -19,21 +19,21 @@
         "secondary": [
             {
                 "url": "https://www.philstar.com/nation/2023/03/03/2248845/6-frat-members-saliligs-hazing-death-charged",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3ZLgkqN",
                 "title": "6 frat members in Salilig’s hazing death charged",
                 "description": "Criminal charges were filed yesterday before the Department of Justice against six fraternity members believed to be involved in the death of Adamson University chemical engineering student John Matthew Salilig during hazing rites on Feb. 18.",
                 "date": "2023-03-02T16:00:00.000Z"
             },
             {
                 "url": "https://www.cnnphilippines.com/news/2023/3/3/Person-of-interest-John-Matthew-Salilig-case-found-dead.html",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/41Qgdw2",
                 "title": "Person of interest in Adamson student's death found dead – police",
                 "description": "The person was found lifeless in his home in Taguig City earlier this week, according to Biñan, Laguna police chief Virgilio Jopia.",
                 "date": "2023-03-03T12:53:23.471Z"
             },
             {
                 "url": "https://mb.com.ph/2023/03/04/hazing-victim-john-matthew-saliliglaid-to-rest-in-zamboanga-city/",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3SOrWXw",
                 "title": "Hazing victim John Matthew Salilig laid to rest in Zamboanga City",
                 "description": "ZAMBOANGA CITY – Hazing victim John Matthew Salilig was laid to rest in a cemetery here on Saturday, March 4.",
                 "date": "2023-03-04T07:04:20.000Z"
@@ -43,7 +43,7 @@
     "carousel": [
         {
             "url": "https://www.japantimes.co.jp/news/2023/02/28/asia-pacific/philippines-jeepney-operators-cost-struggle/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3YoxJob",
             "title": "As Philippines scraps jeepney buses, operators struggle with costs",
             "description": "The government has ordered replacement of the beloved but elderly utility vehicles with greener, safer models.",
             "date": "2023-02-28T05:28:08.000Z",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://www.theguardian.com/world/2023/feb/26/they-were-shot-in-the-head-morgue-gives-up-truth-of-rodrigo-dutertes-drug-war",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3JffixF",
             "title": "‘They were shot in the head’: morgue gives up truth of Rodrigo Duterte’s drug war",
             "description": "Crusading pathologist Raquel Fortun finds evidence of multiple murder at the direction of ‘a madman’ in the exhumed remains of young Filipinos",
             "date": "2023-02-26T12:00:19.000Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://www.cbc.ca/news/canada/manitoba/philippines-health-international-nurses-1.6764854",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Ynuzkg",
             "title": "'Stop the bleeding,' Philippines health official says about international recruiting of nurses | CBC News",
             "description": "Government health officials say there's a shortage of 350,000 nurses in the Philippines. They, hospital administrators and nursing advocates are trying to find ways to make their own health-care system sustainable, even as international recruitment delegations come knocking.",
             "date": "2023-03-02T01:26:00.000Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://www.refinery29.com/en-gb/launching-an-ice-cream-business-in-lockdown",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3ZJQWlh",
             "title": "How I Started My Ice Cream Business",
             "description": "Keziah ditched her desk job to pursue her passion for ice cream. She shows us the machine that started it all.",
             "date": "2023-03-01T15:28:04.000Z",

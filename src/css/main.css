@@ -50,8 +50,8 @@ header {
   header #sub-nav.active {
     /* background-color: rgba(24,24,27,0.035); */
     /* @apply text-gray-100 pt-0 pb-1; */
-    /* background-color: rgba(24,24,27,0.045); */
-    @apply pt-0 pb-1 bg-[#f4f4f4];
+    background-color: rgba(24,24,27,0.04);
+    @apply pt-0 pb-1;
   }
 
 body {
@@ -128,6 +128,19 @@ body {
   margin-left: -2px;
   width: 15px;
   margin-right: 7px;
+}
+
+/* 2-column hero */
+.col-2 .hero-container {
+  @apply md:flex md:justify-between lg:pl-10 lg:pr-10;
+}
+
+.col-2 .hero-lead {
+  @apply md:basis-[60%] md:pt-4 lg:basis-[65%]
+}
+
+.col-2 .hero-dek{
+  @apply md:basis-[35%];
 }
 
 .list-arrow li::before{
