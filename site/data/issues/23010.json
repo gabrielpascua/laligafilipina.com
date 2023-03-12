@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23010,
+        "date": "2023-03-12T22:46:33.668Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.thenewhumanitarian.org/video/2023/03/02/philippines-marawi-siege\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines’ forgotten siege: Marawi’s long road to recovery<br /><small class=\"hero-source\">thenewhumanitarian.org</small></h1><p class=\"hero-dek\">It has been almost six years since hundreds of thousands of civilians were displaced by the country’s longest urban battle. Why have so few returned?<br /><small class=\"hero-source\">thenewhumanitarian.org</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Jeepney Drivers Strike Over Modernization Plans",
+            "url": "https://apnews.com/article/philippines-transport-strike-jeepneys-16c7ce8a35ec8e6cc661b3fafaec208d",
+            "shortUrl": "",
+            "title": "Drivers strike over plan to remove aging Philippine jeepneys",
+            "description": "MANILA, Philippines (AP) — Philippine transport groups launched a nationwide strike Monday to protest a government program drivers fear would phase out traditional jeepneys, which have become a cultural icon , and other aging public transport vehicles.",
+            "date": "2023-03-06T04:45:49Z"
+        },
+        "secondary": [
+            {
+                "url": "https://www.aljazeera.com/news/2023/3/8/jeepney-strike-drives-home-concerns-about-modernisation-plan",
+                "shortUrl": "",
+                "title": "Philippines Jeepney strike drives home modernisation concerns",
+                "description": "President instructs agencies to reconsider proposals amid concerns about the effect on drivers’ livelihoods.",
+                "date": "2023-03-08T02:41:34Z"
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/03/09/news/transport-groups-terminate-strike/1881793",
+                "shortUrl": "",
+                "title": "Transport groups terminate strike",
+                "description": "Transport groups ended their strike on Wednesday after Malacañang agreed to review the Public Utility Vehicle Modernization Program (PUVMP).",
+                "date": "2023-03-08T16:58:00.000Z"
+            },
+            {
+                "url": "https://www.nytimes.com/2023/03/09/world/asia/philippines-jeepney.html",
+                "shortUrl": "",
+                "title": "Colorful, Iconic Jeepneys May Soon Be Off the Road in the Philippines",
+                "description": "The passenger vehicles have been ubiquitous for decades. The way the government wants to replace them with pricey new minibuses is rankling operators.",
+                "date": "2023-03-09T11:17:37.000Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.theguardian.com/world/2023/mar/03/drugs-jacuzzis-and-a-horse-the-anarchic-philippines-prison-where-anything-can-be-bought",
+            "shortUrl": "",
+            "title": "Drugs, jacuzzis and a horse: the anarchic Philippines prison where anything can be bought",
+            "description": "After raids at the New Bilibid prison identified thousands of contraband goods, the management of the country’s prisons is in the spotlight",
+            "date": "2023-03-03T00:46:21.000Z",
+            "tag": "Prisons & Prisoners"
+        },
+        {
+            "url": "https://www.cnbc.com/video/2023/03/10/statistics-authority-61percent-of-foreign-workers-from-philippines-women.html",
+            "shortUrl": "",
+            "title": "About 61% of overseas foreign workers from the Philippines are women, says statistics authority",
+            "description": "Overseas foreign workers from the Philippines are often subjected to long working hours and exploitation. CNBC's JP Ong reports.",
+            "date": "2023-03-10T03:40:02.000Z",
+            "tag": "Overseas Workers"
+        },
+        {
+            "url": "https://history.howstuffworks.com/world-history/cia-vampires-communist-rebels-philippines.htm",
+            "shortUrl": "",
+            "title": "How the CIA Used 'Vampires' to Fight Communism in the Philippines",
+            "description": "Back in the Cold War craziness of the 1950s, a CIA operative in the Philippines used the local folklore myth of the blood-sucking aswang to try and scare off communist rebels. Did it work?",
+            "date": "2023-03-08T22:47:00.000Z",
+            "tag": "History"
+        },
+        {
+            "url": "https://www.kqed.org/arts/13925984/kokak-chocolates-filipino-lgbtq-castro-san-francisco",
+            "shortUrl": "",
+            "title": "SF's Queer, Filipina-Owned Chocolate Shop Celebrates Love Year-Round",
+            "description": "Kokak Chocolates makes organic truffles and bars that taste like kalamansi, pizza and even ramen.",
+            "date": "2023-03-09T17:00:16.000Z",
+            "tag": "Business"
+        }
+    ]
+}

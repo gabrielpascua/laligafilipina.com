@@ -139,8 +139,16 @@ body {
   @apply md:basis-[60%] md:pt-4 lg:basis-[65%]
 }
 
+.col-2 .hero-lead .hero-source {
+  @apply text-amber-500 text-xs lowercase font-normal relative top-[-5px] hidden md:inline;
+}
+
 .col-2 .hero-dek{
   @apply md:basis-[35%];
+}
+
+.col-2 .hero-dek .hero-source {
+  @apply text-amber-500 text-xs lowercase md:hidden;
 }
 
 .list-arrow li::before{
