@@ -1,17 +1,17 @@
 {
     "issue": {
         "number": 23011,
-        "date": "2023-03-19T22:46:33.668Z",
-        "theme": "light"
+        "date": "2023-03-19T18:38:01.495Z",
+        "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://thehill.com/opinion/congress-blog/3894652-why-im-fighting-to-pass-the-philippine-human-rights-act/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Why I’m fighting to pass the Philippine Human Rights Act<br /><small class=\"hero-source\">thehill.com</small></h1><p class=\"hero-dek\">On March 7, 2021, Filipino labor leader Manny Asuncion and eight other activists were killed by state security forces in coordinated raids across the Philippines in an event that has since become popularly known there as “Bloody Sunday.”<br /><small class=\"hero-source\">thehill.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3LBhEbY/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Why I’m fighting to pass the Philippine Human Rights Act<br /><small class=\"hero-source\">thehill.com</small></h1><p class=\"hero-dek\">On March 7, 2021, Filipino labor leader Manny Asuncion and eight other activists were killed by state security forces in coordinated raids across the Philippines in an event that has since become popularly known there as “Bloody Sunday.”<br /><small class=\"hero-source\">thehill.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "Aftermath of the Oil Spill in Mindoro",
             "url": "https://www.reuters.com/world/asia-pacific/philippines-beefs-up-efforts-contain-oil-leak-sunken-tanker-2023-03-14/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3FBlM85",
             "title": "Philippines beefs up efforts to contain oil leak from sunken tanker",
             "description": "Philippine authorities have increased efforts to contain an oil spill from a sunken fuel tanker that has affected coastal towns and was still spreading, the environment ministry said on Tuesday, as the country grapples with cleanup challenges.",
             "date": "2023-03-14T13:19:00.000Z"
@@ -19,21 +19,21 @@
         "secondary": [
             {
                 "url": "https://time.com/6262631/philippines-oil-spill-cleanup-hair/",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3JQyAJY",
                 "title": "Human Hair Is Being Used to Clean an Oil Spill in the Philippines",
                 "description": "Locals worried about the spill’s impact on their economies have rallied to help cleanup efforts—and they may have a secret weapon",
                 "date": "2023-03-14T12:30:43.000Z"
             },
             {
                 "url": "https://www.businessinsider.com/photos-oil-spill-philippine-islands-devastating-impact-on-locals-environment-2023-3",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3JS5PN8",
                 "title": "An oil spill off the Philippine coast has coated some of the world's most beautiful beaches in sludge: 'Our white sand is now black'",
                 "description": "An area estimated to be as large as 1,000 football fields has been covered in oil so far. While clean-up methods are underway, big spills are difficult to contain.",
                 "date": "2023-03-17T19:13:30.000Z"
             },
             {
                 "url": "https://www.gmanetwork.com/news/topstories/regions/864365/oil-spill-impact-on-pola-worsens-mayor-seeks-livelihood-alternative-for-residents/story/",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3LBi2aq",
                 "title": "Oil spill impact on Pola worsens; mayor seeks livelihood alternative for residents",
                 "description": "Pola, Oriental Mindoro Mayor Jennifer Cruz is appealing for an alternative livelihood program for her constituents as their area continues to suffer from the effects of the oil slick from the motor tanker that sank on February 28.",
                 "date": "2023-03-19T04:49:18.000Z"
@@ -43,7 +43,7 @@
     "carousel": [
         {
             "url": "https://www.helpage.org/newsroom/latest-news/the-food-fuel-finance-crisis-the-philippines-under-the-spotlight/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3yQpxCx",
             "title": "The food, fuel, finance crisis: The Philippines under the spotlight",
             "description": "The Philippines is not new to struggling through one crisis after another. However, the relentless shocks brought about by climate change-related disasters, combined with recent economic blows including the COVID-19 pandemic and Russia-Ukraine war, have plunged the country into inflation, debt, and crisis.",
             "date": "2023-03-15T04:58:46.000Z",
@@ -51,7 +51,7 @@
         },
         {
             "url": "https://globalnation.inquirer.net/211892/filipinos-lose-php-35-billion-annually-due-to-cancer-philippines-the-worst-in-asean-in-cancer-premature-deaths",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Z0f95K",
             "title": "Filipinos lose Php 35 billion annually due to cancer: Philippines the worst in ASEAN in cancer premature deaths",
             "description": "Filipino patients - mostly their family’s breadwinners, are driven to poverty due to cancer, losing Php35.3 billion annually, are at a greater risk of dying prematurely of breast, lung, colon, and liver cancer than their Asian counterparts",
             "date": "2023-03-13T22:03:25.000Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://news.abs-cbn.com/spotlight/03/17/23/this-mermaid-wants-marine-conservation-to-be-part-of-our-world",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3ZXDM4l",
             "title": "This \"mermaid\" wants marine conservation to be part of our world",
             "description": "Anna Oposa, 'Chief Mermaid' of Save Philippine Seas, says women's nurturing side is an advantage in marine conservation.",
             "date": "2023-03-16T15:03:32.000Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://mb.com.ph/2023/3/13/uplift-2023-jocelyn-mamar",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3JOkHMy",
             "title": "UPLIFT 2023 Awardee Jocelyn Mamar of John and Marga Nursery Farm: Helping people plant seedlings for a better tomorrow",
             "description": "This year’s UPLIFT Awardee for Agriculture is Jocelyn Mamar, owner of John and Marga Nursery Farm, which has sites in Davao del Sur, Cavite, and Bacolod. The farm’s main crop is coffee, specifically coffee seedlings.",
             "date": "2023-03-13T18:26:36.000Z",
