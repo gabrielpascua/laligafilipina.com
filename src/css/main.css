@@ -45,12 +45,12 @@ header {
   }
 
   header #sub-nav{
-    background-color: rgba(24,24,27,0);
+    /* background-color: rgba(24,24,27,0); */
   }
   header #sub-nav.active {
     /* background-color: rgba(24,24,27,0.035); */
     /* @apply text-gray-100 pt-0 pb-1; */
-    background-color: rgba(24,24,27,0.04);
+    /* background-color: rgba(24,24,27,0.04); */
     @apply pt-0 pb-1;
   }
 
