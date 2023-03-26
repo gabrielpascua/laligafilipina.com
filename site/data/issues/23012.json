@@ -5,13 +5,13 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.globalsistersreport.org/news/4-nuns-take-care-abandoned-older-women-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">4 nuns take care of abandoned older women in Philippines<br /><small class=\"hero-source\">globalsistersreport.org</small></h1><p class=\"hero-dek\">Four Sisters of St. Francis Xavier — two Filipina sisters and two sisters from Myanmar — look after 18 residents of a home in San Pedro that provides shelter to women ages 60-90 who are experiencing homelessness.<br /><small class=\"hero-source\">globalsistersreport.org</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3TN2rqe\"><div class=\"hero-container\"><h1 class=\"hero-lead\">4 nuns take care of abandoned older women in Philippines<br /><small class=\"hero-source\">globalsistersreport.org</small></h1><p class=\"hero-dek\">Four Sisters of St. Francis Xavier — two Filipina sisters and two sisters from Myanmar — look after 18 residents of a home in San Pedro that provides shelter to women ages 60-90 who are experiencing homelessness.<br /><small class=\"hero-source\">globalsistersreport.org</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
             "lead": "New Military Bases for the Americans",
             "url": "https://www.reuters.com/world/us-philippines-announce-new-edca-sites-soon-possible-us-official-2023-03-20/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3JO1Z6m",
             "title": "US, Philippines to announce new sites for U.S. military as soon as possible - U.S. official",
             "description": "The United States and Philippines will announce new sites as soon as possible for an expanded Enhanced Defense Cooperation Agreement (EDCA), which gives the Western power access to military bases in the Southeast Asian country.",
             "date": "2023-03-20T07:55:51.000Z"
@@ -19,23 +19,23 @@
         "secondary": [
             {
                 "url": "https://www.voanews.com/a/philippine-president-says-new-sites-selected-for-us-forces/7016126.html",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3JEitOw",
                 "title": "Philippine President Says New Sites Selected for US Forces",
                 "description": "Four new bases will expand US military presence in Philippines under 2014 defense cooperation agreement",
                 "date": "2023-03-22T12:23:34.000Z"
             },
             {
                 "url": "https://abcnews.go.com/US/wireStory/marcos-defends-us-military-presence-china-opposes-98034211",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3TKApvq",
                 "title": "Marcos defends US military presence, which China opposes",
                 "description": "President Ferdinand Marcos Jr. has defended his decision to allow a larger United States military presence in the country as vital to territorial defense",
                 "date": "2023-03-22T06:06:39.000Z"
             },
             {
                 "url": "https://newsinfo.inquirer.net/1747542/fwd-ano-new-edca-sites-for-ph-interests-not-us-dictated",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3z4LGxj",
                 "title": "Año: New Edca sites for PH interests, not dictated by US",
-                "description": "MANILA, Philippines — The Philippines has chosen the four new Enhanced Defense Cooperation Agreement (Edca) sites for its own national interests, not because it was dictated by",
+                "description": "MANILA, Philippines — The Philippines has chosen the four new Enhanced Defense Cooperation Agreement (Edca) sites for its own national interests, not because it was dictated by US",
                 "date": "2023-03-24T18:32:32.000Z"
             }
         ]
@@ -43,15 +43,15 @@
     "carousel": [
         {
             "url": "https://www.philstar.com/headlines/2023/03/20/2252962/pinoy-kids-eating-more-sugary-salty-fatty-food",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/42BuXiF",
             "title": "Pinoy kids eating more sugary, salty, fatty food",
             "description": "The food environment in the Philippines is failing Filipino children who eat more sugary, salty and fatty food products, driving the high prevalence of overweight kids and obesity, according to findings of the United Nations Children’s Fund.",
             "date": "2023-03-19T16:00:00.000Z",
             "tag": "Health"
         },
         {
-            "url": "http://www.cnnphilippines.com/life/culture/politics/2023/3/23/sen-risa-hontiveros-cover-story.html",
-            "shortUrl": "",
+            "url": "https://www.cnnphilippines.com/life/culture/politics/2023/3/23/sen-risa-hontiveros-cover-story.html",
+            "shortUrl": "https://bit.ly/3ZcTEPu",
             "title": "Sen. Risa Hontiveros on the Sexual Orientation and Gender Identity or Expression (SOGIE) bill, being a Pisces, and taking up space",
             "description": "Bahaghari Chairperson Reyna Valmores and filmmaker Samantha Lee talk to Senator Risa Hontiveros about  why the SOGIE bill is so important to her, being a Pisces, and the things she’s learned and unlearned over the course of her career.",
             "date": "2023-03-23T11:16:35.257Z",
@@ -59,7 +59,7 @@
         },
         {
             "url": "https://www.scmp.com/lifestyle/food-drink/article/3214375/how-asias-best-female-chef-2023-winner-johanne-siy-carved-her-own-path-and-keeps-things-very-simple",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3KjQvcB",
             "title": "How Asia’s Best Female Chef Johanne Siy flies the flag for Filipino cuisine",
             "description": "Johanne Siy, winner of Asia’s Best Female Chef 2023, talks about carving her own path in the industry, and championing her native Filipino cuisine through ‘exceptional produce very simply prepared’.",
             "date": "2023-03-22T10:15:17.000Z",
@@ -67,7 +67,7 @@
         },
         {
             "url": "https://www.youtube.com/watch?v=tkCwTo2RO5A",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3Zj4R0Z",
             "title": "Artist Louis De Guzman joins Point Forward | “I want my art to trigger imagination” | S2 E20",
             "description": "In an interview conducted on location in downtown Chicago (where else!), co-hosts Andre Iguodala and Evan Turner welcome one of the finest artists the Chi has to offer, the ultra-talented LOUIS DE GUZMAN, to the show.",
             "date": "2023-03-17T21:44:18.000Z",
