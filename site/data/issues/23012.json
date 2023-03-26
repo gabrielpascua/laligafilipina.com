@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23012,
+        "date": "2023-03-26T18:38:01.495Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.globalsistersreport.org/news/4-nuns-take-care-abandoned-older-women-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">4 nuns take care of abandoned older women in Philippines<br /><small class=\"hero-source\">globalsistersreport.org</small></h1><p class=\"hero-dek\">Four Sisters of St. Francis Xavier — two Filipina sisters and two sisters from Myanmar — look after 18 residents of a home in San Pedro that provides shelter to women ages 60-90 who are experiencing homelessness.<br /><small class=\"hero-source\">globalsistersreport.org</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "New Military Bases for the Americans",
+            "url": "",
+            "shortUrl": "",
+            "title": "",
+            "description": "",
+            "date": ""
+        },
+        "secondary": [
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2023/03/20/2252962/pinoy-kids-eating-more-sugary-salty-fatty-food",
+            "shortUrl": "",
+            "title": "Pinoy kids eating more sugary, salty, fatty food",
+            "description": "The food environment in the Philippines is failing Filipino children who eat more sugary, salty and fatty food products, driving the high prevalence of overweight kids and obesity, according to findings of the United Nations Children’s Fund.",
+            "date": "2023-03-19T16:00:00.000Z",
+            "tag": "Health"
+        },
+        {
+            "url": "http://www.cnnphilippines.com/life/culture/politics/2023/3/23/sen-risa-hontiveros-cover-story.html",
+            "shortUrl": "",
+            "title": "Sen. Risa Hontiveros on the Sexual Orientation and Gender Identity or Expression (SOGIE) bill, being a Pisces, and taking up space",
+            "description": "Bahaghari Chairperson Reyna Valmores and filmmaker Samantha Lee talk to Senator Risa Hontiveros about  why the SOGIE bill is so important to her, being a Pisces, and the things she’s learned and unlearned over the course of her career.",
+            "date": "2023-03-23T11:16:35.257Z",
+            "tag": "Politics"
+        },
+        {
+            "url": "https://www.scmp.com/lifestyle/food-drink/article/3214375/how-asias-best-female-chef-2023-winner-johanne-siy-carved-her-own-path-and-keeps-things-very-simple",
+            "shortUrl": "",
+            "title": "How Asia’s Best Female Chef Johanne Siy flies the flag for Filipino cuisine",
+            "description": "Johanne Siy, winner of Asia’s Best Female Chef 2023, talks about carving her own path in the industry, and championing her native Filipino cuisine through ‘exceptional produce very simply prepared’.",
+            "date": "2023-03-22T10:15:17.000Z",
+            "tag": "Food"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=tkCwTo2RO5A",
+            "shortUrl": "",
+            "title": "Artist Louis De Guzman joins Point Forward | “I want my art to trigger imagination” | S2 E20",
+            "description": "In an interview conducted on location in downtown Chicago (where else!), co-hosts Andre Iguodala and Evan Turner welcome one of the finest artists the Chi has to offer, the ultra-talented LOUIS DE GUZMAN, to the show.",
+            "date": "2023-03-17T21:44:18.000Z",
+            "tag": "Art"
+        }
+    ]
+}
