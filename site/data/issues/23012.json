@@ -10,33 +10,33 @@
     "ticker": {
         "primary": {
             "lead": "New Military Bases for the Americans",
-            "url": "",
+            "url": "https://www.reuters.com/world/us-philippines-announce-new-edca-sites-soon-possible-us-official-2023-03-20/",
             "shortUrl": "",
-            "title": "",
-            "description": "",
-            "date": ""
+            "title": "US, Philippines to announce new sites for U.S. military as soon as possible - U.S. official",
+            "description": "The United States and Philippines will announce new sites as soon as possible for an expanded Enhanced Defense Cooperation Agreement (EDCA), which gives the Western power access to military bases in the Southeast Asian country.",
+            "date": "2023-03-20T07:55:51.000Z"
         },
         "secondary": [
             {
-                "url": "",
+                "url": "https://www.voanews.com/a/philippine-president-says-new-sites-selected-for-us-forces/7016126.html",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": ""
+                "title": "Philippine President Says New Sites Selected for US Forces",
+                "description": "Four new bases will expand US military presence in Philippines under 2014 defense cooperation agreement",
+                "date": "2023-03-22T12:23:34.000Z"
             },
             {
-                "url": "",
+                "url": "https://abcnews.go.com/US/wireStory/marcos-defends-us-military-presence-china-opposes-98034211",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": ""
+                "title": "Marcos defends US military presence, which China opposes",
+                "description": "President Ferdinand Marcos Jr. has defended his decision to allow a larger United States military presence in the country as vital to territorial defense",
+                "date": "2023-03-22T06:06:39.000Z"
             },
             {
-                "url": "",
+                "url": "https://newsinfo.inquirer.net/1747542/fwd-ano-new-edca-sites-for-ph-interests-not-us-dictated",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": ""
+                "title": "Año: New Edca sites for PH interests, not dictated by US",
+                "description": "MANILA, Philippines — The Philippines has chosen the four new Enhanced Defense Cooperation Agreement (Edca) sites for its own national interests, not because it was dictated by",
+                "date": "2023-03-24T18:32:32.000Z"
             }
         ]
     },
