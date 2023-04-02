@@ -170,6 +170,7 @@ body {
   @apply pl-0;
 }
 
+.markdown .twitter-tweet,
 .markdown iframe.instagram-media{
   margin-left: auto !important;
   margin-right: auto !important;
