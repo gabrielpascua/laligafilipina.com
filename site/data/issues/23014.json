@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23014,
+        "date": "2023-04-09T13:05:54.759Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.aljazeera.com/economy/2023/4/3/asias-living-costs-are-rising-in-philippines-theyre-soaring\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Asia’s prices are on rise. In the Philippines, they’re soaring<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Southeast Asia’s fourth-largest economy sees inflation hit 8.6 percent, far above Thailand, Indonesia and Vietnam.<br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Holy Week Rituals & Celebrations",
+            "url": "https://www.manilatimes.net/2023/04/07/news/crucifixions-mark-good-friday-in-phbut-christ-endured-the-worst/1886160",
+            "shortUrl": "",
+            "title": "Crucifixions mark Good Friday in PH but 'Christ endured the worst'",
+            "description": "MANILA Archbishop Jose Cardinal Advincula has reminded the Catholic faithful that Jesus Christ had endured the 'worst' the world offered, referring to His crucifixion.",
+            "date": "2023-04-07T11:49:00.000Z"
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/nation/mindanao/good-friday-superstitions-shape-life-general-santos-city-soccsksargen/",
+                "shortUrl": "",
+                "title": "Deep-rooted Good Friday superstitions still shape life in rural communities",
+                "description": "Whether through amulets or traditional healing practices, superstitions continue to shape many Filipino lives, providing a sense of security in an uncertain world",
+                "date": "2023-04-07T09:10:03.000Z"
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/866275/20-000-devotees-joined-nazareno-motorcade-on-good-friday-says-quiapo-church/story/",
+                "shortUrl": "",
+                "title": "20,000 devotees joined Nazareno motorcade on Good Friday, says Quiapo Church",
+                "description": "An estimated 20,000 people participated in the motorcade and parade of the Black Nazarene image in Manila on Good Friday, according to Quiapo Church spokesperson Father Earl Valdez.",
+                "date": "2023-04-07T03:21:10.000Z"
+            },
+            {
+                "url": "https://www.esquiremag.ph/culture/from-skipping-baths-to-avoiding-injuries-the-origins-of-filipino-holy-week-beliefs-a2858-20230406-lfrm2",
+                "shortUrl": "",
+                "title": "From Skipping Baths to Avoiding Injuries: The Origins of Filipino Holy Week Beliefs",
+                "description": "\"Bawal maligo kapag Biyernes Santo kasi patay si Hesus.\"",
+                "date": "2023-04-06T04:00:00.000Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2023/04/03/2256606/new-report-shows-drastic-economic-impact-illiteracy-philippines",
+            "shortUrl": "",
+            "title": "New report shows drastic economic impact of illiteracy on the Philippines",
+            "description": "A new report by the World Literacy Foundation has found that the problem of illiteracy costs the country's economy an estimated P258 billion or $4.72 billion every year.",
+            "date": "2023-04-03T10:45:00.000Z",
+            "tag": "Education"
+        },
+        {
+            "url": "https://news.abs-cbn.com/ancx/culture/spotlight/04/05/23/young-ilongga-living-her-best-life-amid-stage-4-cancer",
+            "shortUrl": "",
+            "title": "This young Ilongga amputee fighting Stage 4 cancer is living her best life",
+            "description": "“For many years, I’ve just been trying to survive. Sabi ko sa sarili ko, ‘I shouldn’t just be surviving, I should live.’”",
+            "date": "2023-04-05T14:10:27.000Z",
+            "tag": "Culture"
+        },
+        {
+            "url": "https://apnews.com/article/overfishing-philippines-fish-seafood-climate-diet-2f2b0d2deeb1cafeea13c5b44200d636",
+            "shortUrl": "",
+            "title": "Philippines tries to bring back small fish key to rural diet",
+            "description": "Years of market pressures, lack of fisheries management and unchecked overfishing from larger commercial fishers have led to a decline in small fish such as sardines that rural coastal communities in the Philippines depend on. Data is not available for many fish, but conservation group Oceana has said more than 75% of the nation’s fishing grounds are depleted.",
+            "date": "2023-04-06T01:18:03.000Z",
+            "tag": "Climate Change"
+        },
+        {
+            "url": "https://daily.jstor.org/clemencia-lopez-and-the-philippine-struggle-for-freedom/",
+            "shortUrl": "",
+            "title": "Clemencia López and the Philippine Struggle for Freedom - JSTOR Daily",
+            "description": "López’s gender and appearance helped her contribute to anti-imperial and suffrage movements in a way her male peers couldn’t.",
+            "date": "2023-04-06T11:58:08.000Z",
+            "tag": "History"
+        }
+    ]
+}
