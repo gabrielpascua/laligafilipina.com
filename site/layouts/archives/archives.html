@@ -22,9 +22,10 @@
                 {{ $value.issue.date | time.Format ":date_full" }}
               </p>
 
-              <h2 class="capitalize font-bold text-lg leading-6 mb-1">
+              <h2 class="capitalize font-bold text-xl leading-6 mb-1">
                 {{ range (last 1 (findRE `<h1.*?>(.*?)</h1>` $value.hero.content)) }}
-                  {{ replaceRE `<[^>]*>` `` (. | safeHTML) }}
+                  {{ $heading := replaceRE `<small.*>.*<\/small>` `` (. | safeHTML) }}
+                  {{ replaceRE `<[^>]*>` `` $heading }}
                 {{ end }}
               </h2>
 
