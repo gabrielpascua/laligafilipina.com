@@ -1,0 +1,77 @@
+{
+    "issue": {
+        "number": 23015,
+        "date": "2023-04-16T13:05:54.759Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.bbc.com/news/world-asia-64634816\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The 70s nuclear relic that may open at last<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">Finished in 1986, the Bataan plant in the Philippines has never produced a kilowatt of electricity.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "National Food Authority's (NFA) Supply of Rice",
+            "url": "https://finance.yahoo.com/news/philippines-considers-330-000-tons-004001051.html",
+            "shortUrl": "",
+            "title": "Philippines Considers 330,000 Tons of Rice Imports to Boost Stockpiles",
+            "description": "(Bloomberg) -- The Philippines, one of the world’s top rice buyers, plans to import 330,000 metric tons of rice this year to boost an anticipated decline in its stockpiles.",
+            "date": "2023-04-14T06:55:14.000Z"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314321454/pbbm-rice-supply-good-da-nfa-working-to-prevent-price-increases.html",
+                "shortUrl": "",
+                "title": "PBBM: Rice supply ‘good,’ DA, NFA working to prevent price increases - Manila Standard",
+                "description": "President Ferdinand Marcos Jr. on Thursday assured the public that the country has ample supply of rice, and his administration is doing its best to control the price of the staple grain.",
+                "date": "2023-04-13T17:20:00.000Z"
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/money/economy/866882/marcos-ph-rice-supply-in-good-shape-but-nfa-buffer-stock-too-low/story/",
+                "shortUrl": "",
+                "title": "Marcos: PH rice supply in good shape but NFA buffer stock too low",
+                "description": "“Magpa-plano kami kung kailangan mag-import, kung kailangan magpahaba, magparami ng buffer stock sa NFA dahil masyado ng mababa. 'Yun lang ang nakita naming problema, mababa yung buffer stock ng NFA,” Marcos said.",
+                "date": "2023-04-13T14:11:47.000Z"
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/04/15/2259065/nfa-plan-import-330000-mt-rice-assailed",
+                "shortUrl": "",
+                "title": "NFA plan to import 330,000 MT rice assailed",
+                "description": "Former Department of Agriculture secretary Leonardo Montemayor yesterday branded as illegal the plan of the DA and National Food Authority to import 330,000 metric tons of rice, saying this violates the provision of Republic Act 11203 or the Rice Tariffication Law.",
+                "date": "2023-04-15T01:20:00.000Z"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.csmonitor.com/World/Asia-Pacific/2023/0410/How-Filipinos-are-banding-together-to-help-fishers-after-oil-spill",
+            "shortUrl": "",
+            "title": "How Filipinos are banding together to help fishers after oil spill",
+            "description": "An oil spill has effectively put life on hold in a coastal region of the Philippines. As clean-up stretches on, cooperation is critical to keep fishing communities above water.",
+            "date": "2023-04-10T19:32:43.000Z",
+            "tag": "Disaster Response"
+        },
+        {
+            "url": "https://www.sunstar.com.ph/article/1958187/tacloban/local-news/philippines-tries-to-bring-back-small-fish-key-to-rural-diet",
+            "shortUrl": "",
+            "title": "Philippines tries to bring back small fish key to rural diet",
+            "description": "TANAUAN, Leyte -- The Philippines, a nation made up of thousands of islands, is home to about 1.6 million people who work in fisheries, and the majority of those fishers are small-scale harvesters who collectively catch almost half of the nation’s fish.",
+            "date": "2023-04-10T02:14:36.000Z",
+            "tag": "Agriculture & Fisheries"
+        },
+        {
+            "url": "https://www.nytimes.com/2023/04/11/travel/boracay-philippines-overtourism.html",
+            "shortUrl": "",
+            "title": "Can the Philippine Island of Boracay Beat Overtourism?",
+            "description": "Called one of the world’s best islands, the Philippine resort was closed by the government for six months and reopened with a cap on visitors. Now, with travelers coming back, will it continue to hold the line?",
+            "date": "2023-04-11T09:00:31.000Z",
+            "tag": "Tourism"
+        },
+        {
+            "url": "https://www.bloomberg.com/news/features/2023-04-08/affordable-housing-in-san-francisco-inspired-by-filipino-design",
+            "shortUrl": "",
+            "title": "Inspired by Filipino Design, an Apartment Building Looks Homeward",
+            "description": "Modular construction and a tight budget didn’t prevent San Francisco architects from giving this affordable housing project an exuberant look, inside and out.",
+            "date": "2023-04-08T14:00:35.415Z",
+            "tag": "Design & Architecture"
+        }
+    ]
+}
