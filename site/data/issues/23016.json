@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23016,
+        "date": "2023-04-23T16:35:34.010Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.washingtonpost.com/photography/interactive/2023/philippines-city-swallowed-by-plastic-waste/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, a nation swallowed by plastic waste<br /><small class=\"hero-source\">washingtonpost.com</small></h1><p class=\"hero-dek\">Driven by poverty, plastic waste has become out of control in the island nation known for its \"sachet economy\".<br /><small class=\"hero-source\">washingtonpost.com</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Alleged Data Leak of PNP Records",
+            "url": "https://newsinfo.inquirer.net/1758456/over-1-million-records-from-nbi-pnp-other-agencies-leaked-in-huge-data-breach",
+            "shortUrl": "",
+            "title": "Over 1M records from NBI, PNP, other agencies leaked in massive data breach",
+            "description": "MANILA, Philippines —A staggering 1,279,437 records belonging to law enforcement agencies, including sensitive police employee information, have been compromised in an unprecedented data breach,",
+            "date": "2023-04-19T22:37:33.000Z",
+            "locale": ["Metro Manila"]
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/04/20/23/over-12m-records-from-ph-agencies-leaked-firm-says",
+                "shortUrl": "",
+                "title": "Over 1.2M records from PH agencies leaked, firm says",
+                "description": "Over 1.2 million records, including sensitive information of applicants and employees of government agencies in the Philippines, have been leaked, a firm said.",
+                "date": "2023-04-20T01:53:50.000Z",
+                "locale": ["Metro Manila"]
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/04/20/news/data-leak-focused-on-police-records-dict/1887944",
+                "shortUrl": "",
+                "title": "Data leak focused on police records – DICT",
+                "description": "The Department of Information and Communications Technology (DICT) expressed belief that the supposed leaked documents were records from the Philippine National Police (PNP) database which may have compromised the information of 1.2 million employees and applicants.",
+                "date": "2023-04-20T06:06:00.000Z",
+                "locale": ["Metro Manila"]
+            },
+            {
+                "url": "http://www.cnnphilippines.com/news/2023/4/21/DICT-no-hacking-incident-massive-breach-government-data.html",
+                "shortUrl": "",
+                "title": "DICT: No hacking incident, massive breach of gov’t data",
+                "description": "The Department of Information and Communications Technology on Friday gave assurance there has been no hacking incident, denying reports of a 'massive' breach of data concerning several government agencies.",
+                "date": "2023-04-21T10:44:51.909Z",
+                "locale": ["Metro Manila"]
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url":"https://www.baguiomidlandcourier.com.ph/university-of-baguio-pride-visually-impaired-passes-bar-exam-2/",
+            "shortUrl":"",
+            "title":"University of Baguio pride: Visually-impaired passes Bar exam - Baguio Midland Courier",
+            "description":"Dream, work hard, and never give up. Anthony Mark Dulawan Emocling, a graduate of the University of Baguio School of Law, made history for being the first visually-impaired to pass the Bar exams.Emocling is one of the 3,992 examinees who hurdled the 2022 Bar exams, the second edition of the computerized and regionalized test administered by the Supreme Court.",
+            "date":"2023-04-15T23:07:25.000Z",
+            "tag":"Lifestyle",
+            "locale":["Baguio"]
+        },
+        {
+            "url": "https://www.philstar.com/headlines/climate-and-environment/2023/04/15/2259119/puerto-galera-other-areas-declared-unsafe-swimming-after-oil-spill-incident",
+            "shortUrl": "",
+            "title": "Puerto Galera, other areas declared unsafe for swimming after oil spill incident",
+            "description": "Popular tourist destination Puerto Galera and nearby areas failed four of its recent consecutive water quality tests, deeming the places unsafe for swimming and other water activities.",
+            "date": "2023-04-15T08:33:00.000Z",
+            "tag": "Environment",
+            "locale": ["Oriental Mindoro"]
+        },
+        {
+            "url": "https://mb.com.ph/2023/4/19/growing-bamboo-growing-communities-continuing-the-advocacy-to-empower-locals-through-bamboo",
+            "shortUrl": "",
+            "title": "Growing bamboo, growing communities: continuing the advocacy to empower locals through bamboo",
+            "description": "Bamboo has been gaining popularity in recent years due to its various uses, benefits, and aesthetics. But for Allen Reyes, bamboo has been a lifelong passion and advocacy. His daughter, Therese Hilario shares his vision to create a bamboo park that would promote local businesses and provide a venue for leisure and relaxation.",
+            "date": "2023-04-19T05:52:00.000Z",
+            "tag": "Agriculture & Fisheries",
+            "locale": ["Nueva Ecija"]
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/867612/lto-to-issue-driver-s-license-on-paper-amid-plastic-card-shortage/story/",
+            "shortUrl": "",
+            "title": "LTO to issue driver's license on paper amid plastic card shortage",
+            "description": "\"The procurement of the licenses, na-transfer sa DOTr. Had we been able to continue with our procurement activities, we would have sufficient plastic cards right now,\" Tugade said.  DOTr Secretary Jaime Bautista responded, saying, \"Dapat pinaplano 'yan eh. Merong annual procurement plan dapat. ‘Yun ay dapat pinaplano. Hindi 'yung 'pag nauubos na saka lang mag-o-order.\"",
+            "date": "2023-04-20T13:53:41.000Z",
+            "tag": "Transportation",
+            "locale": ["Metro Manila"]
+        }
+    ]
+}
