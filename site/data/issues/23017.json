@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23017,
+        "date": "2023-04-30T22:49:17.650Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/40S3sPu/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The paradise islands caught in the US-China crosshairs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Dangerously High Heat Index",
+            "url": "https://newsinfo.inquirer.net/1762891/pagasa-heat-index-to-remain-around-40-degrees-celsius",
+            "shortUrl": "https://bit.ly/41OSfAB",
+            "title": "Heat index to remain around 40°C – Pagasa",
+            "description": "MANILA, Philippines — The heat index in Metro Manila and other parts of the country will remain around 40ºC in the next several weeks, the state weather bureau Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) said in an update on Saturday.",
+            "date": "2023-04-30T13:41:00.000Z",
+            "locale": "Metro Manila"
+        },
+        "secondary": [
+            {
+                "url": "http://www.cnnphilippines.com/news/2023/4/24/marcos-school-calendar-weather-heat.html",
+                "shortUrl": "https://bit.ly/3nc45pE",
+                "title": "Marcos: Weather, heat among considerations for moving school calendar",
+                "description": "President Ferdinand Marcos Jr. said government is studying the return to the old school calendar as the heat during the summer months becomes an obstacle to learning.",
+                "date": "2023-04-24T21:45:34.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/04/24/23/senator-urges-class-work-suspension-on-hottest-period-of-the-day",
+                "shortUrl": "https://bit.ly/3HqC0Bz",
+                "title": "Senator urges class, work suspension on hottest period of the day",
+                "description": "Among those that must be covered by temporary work suspension are construction workers, street sweepers and traffic enforcers, Sen. Pimentel said.",
+                "date": "2023-04-24T09:15:45.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314325341/power-bills-to-rise-with-strong-drier-el-nino-as-dswd-vows-to-provide-aid.html",
+                "shortUrl": "https://bit.ly/42dj6GC",
+                "title": "Power bills to rise with ‘strong, drier’ El Nino as DSWD vows to provide aid - Manila Standard",
+                "description": "The expected El Niño weather phenomenon could reach “strong” intensity by the end of the year, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) said Wednesday. The country may expect a “drier” El Niño, the weather agency said, adding that the El Niño will possibly develop in July, August, and September and might last until 2024.",
+                "date": "2023-04-26T16:50:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/868436/pink-eye-a-symptom-of-arcturus-covid-19-says-expert/story/",
+            "shortUrl": "https://bit.ly/427YQWG",
+            "title": "‘Pink eye’ a symptom of Arcturus COVID-19, says expert",
+            "description": "Dr. Rontgene Solante said individuals with &ldquo;Arcturus pink eye&rdquo; will have symptoms other symptoms associated with COVID-19. &ldquo;Sore throat, runny nose, and then may iba nag-manifest ng headache. Merong konting lagnat, at &lsquo;yung ubo and itong mga sintomas na &rsquo;to di mo nakikita sa mayroon lang pure conjunctivitis,&rdquo; Solante said.",
+            "date": "2023-04-28T14:13:56.000Z",
+            "tag": "Coronavirus",
+            "locale": ""
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/04/28/news/chinese-ph-vessels-in-near-collision/1889033",
+            "shortUrl": "https://bit.ly/3oSnhcm",
+            "title": "Chinese, PH vessels in near collision",
+            "description": "Aboard the BRP Malabrigo: A Chinese coast guard ship cut off a Philippine patrol vessel carrying journalists in the disputed South China Sea, causing a near-collision, an Agence France-Presse team on board another boat saw.",
+            "date": "2023-04-27T16:52:00.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.forbes.com/sites/jonathanburgos/2023/04/27/six-philippine-tycoons-revive-proposal-to-upgrade-manilas-congested-airport/",
+            "shortUrl": "https://bit.ly/3nh6BuF",
+            "title": "Six Philippine Tycoons Revive Proposal To Upgrade Manila’s Congested Airport",
+            "description": "A consortium backed by six Philippine tycoons has revived a proposal to upgrade the country’s main international airport in Manila at a total investment cost of over 100 billion pesos ($1.8 billion) amid a post-pandemic travel rebound.",
+            "date": "2023-04-28T03:05:11.000Z",
+            "tag": "Business",
+            "locale": "Metro Manila"
+        },
+        {
+            "url": "https://mb.com.ph/2023/4/26/how-to-make-mango-bloom-flowers-to-produce-off-season-fruits",
+            "shortUrl": "https://bit.ly/3NpVUQY",
+            "title": "How to make mango bloom flowers to produce Off-Season fruits",
+            "description": "Mango is naturally a highly seasonal crop that usually bears fruit from May to June. However, with the discovery of flower induction practices or the application of certain chemicals to initiate flower development, the mango fruit is now available year-round.",
+            "date": "2023-04-25T16:55:33.617Z",
+            "tag": "Agriculture",
+            "locale": ""
+        }
+    ]
+}
