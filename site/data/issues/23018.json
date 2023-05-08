@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23018,
+        "date": "2023-05-07T22:49:17.650Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://time.com/6275367/philippines-amerasian-children-us-military-legacy//\"><div class=\"hero-container\"><h1 class=\"hero-lead\">America’s Mixed Legacy in the Philippines<br /><small class=\"hero-source\">time.com</small></h1><p class=\"hero-dek\">As American troops return to Philippine bases, the U.S. still hasn’t reckoned with the generation of children it left behind<br /><small class=\"hero-source\">time.com</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Ninoy Aquino International Airport Woes",
+            "url": "https://newsinfo.inquirer.net/1763212/flight-delays-expected-due-to-power-outage-at-naia-terminal-3",
+            "shortUrl": "",
+            "title": "Flights delayed, canceled due to power outage at Naia Terminal 3",
+            "description": "Manila, Philippines — Several flights have been delayed or canceled due to a power failure that struck the Ninoy Aquino International Airport (Naia) Terminal 3 on Labor Day, May 1.",
+            "date": "2023-05-01T15:33:21.000Z",
+            "locale": "Metro Manila"
+        },
+        "secondary": [
+            {
+                "url": "https://www.manilatimes.net/2023/05/02/news/ph-airspace-shut-down-on-may-3-17-for-maintenance-operations/1889642",
+                "shortUrl": "",
+                "title": "PH airspace shut down on May 3, 17 for maintenance operations",
+                "description": "THE Civil Aviation Authority of the Philippines (CAAP) has announced that the country's airspace will be shut down twice this month for maintenance purposes.",
+                "date": "2023-05-02T12:43:00.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://www.cnn.com/travel/article/naia-philippines-shuts-airspace-power-outage-intl-hnk/index.html",
+                "shortUrl": "",
+                "title": "The Philippines will briefly shut its airspace later this month in a bid to tackle recent airport outages | CNN",
+                "description": "Built 75 years ago, the Ninoy Aquino International Airport (MNL) in Manila -- the country's main international gateway -- has been struggling to cope with soaring passenger traffic since flights resumed after pandemic restrictions were lifted.",
+                "date": "2023-05-03T04:21:28.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314328443/one-step-closer-to-improving-airport-services-pbbm.html",
+                "shortUrl": "",
+                "title": "‘One step closer’ to improving airport services—PBBM - Manila Standard",
+                "description": "President Ferdinand Marcos Jr. on Saturday expressed confidence that his administration is “one step closer” to attaining its goal of providing “safe, efficient, and sustainable” airport services in the country. Marcos made the remark after his meeting with officials of New York-based Global Infrastructure Partners (GIP), one of the world’s largest infrastructure investors, in London.",
+                "date": "2023-05-06T16:30:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.france24.com/en/tv-shows/revisited/20230428-philippines-after-decades-of-terror-peace-returns-to-island-of-jolo",
+            "shortUrl": "",
+            "title": "Revisited - Philippines: After decades of terror, peace returns to island of Jolo",
+            "description": "For a long time, the island of Jolo, one of the southernmost points of the Philippines archipelago, was off limits. It was the stronghold of one of the most violent terrorist movements in the world, Abu Sayyaf.",
+            "date": "2023-04-28T15:12:35.000Z",
+            "tag": "Mindanao",
+            "locale": "Sulu"
+        },
+        {
+            "url": "https://mb.com.ph/2023/4/29/Running-out-of-time-in-San-Nicolas",
+            "shortUrl": "",
+            "title": "Running out of time in San Nicolas",
+            "description": "How does this country ‘seek to maintain and nurture its environment and cultural heritage as part of its identity’ when all that matters for the companies buying up these properties (and demolishing them) is the value of the land they sit on?",
+            "date": "2023-04-29T09:43:00.000Z",
+            "tag": "Landmarks & Attractions",
+            "locale": "Metro Manila"
+        },
+        {
+            "url": "https://www.reuters.com/world/us-issues-guidelines-defending-philippines-south-china-sea-attack-2023-05-04/",
+            "shortUrl": "",
+            "title": "U.S. issues guidelines on defending Philippines from South China Sea attack",
+            "description": "The United States has laid out in clear terms the extent of its defence treaty commitments to the Philippines, issuing new guidelines that refer specifically to attacks in the South China Sea, including on its coast guard.",
+            "date": "2023-05-04T15:45:20.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.espn.com/soccer/philippines-phi/story/4938887/plucky-philippines-strike-death-deny-cambodia-historic-achievement-southeast-asian-games",
+            "shortUrl": "",
+            "title": "Plucky Philippines strike at the death to deny Cambodia historic achievement at SEA Games",
+            "description": "Cambodia have been denied a historic first at the Southeast Asian Games by a dramatic injury-time equaliser by a plucky Philippines outfit.",
+            "date": "2023-05-02T14:30:00.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
