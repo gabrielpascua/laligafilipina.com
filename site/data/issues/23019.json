@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23019,
+        "date": "2023-05-15T01:38:50.064Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3pwKr8m\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Filipino Bishop: Current basic wage in Philippines ‘unjust’ - Vatican News<br /><small class=\"hero-source\">vaticannews.va</small></h1><p class=\"hero-dek\">As prices remain high in the Philippines, a Filipino bishop backs calls for legislation to raise the minimum wage, saying the current basic wage is “insufficient for a decent living.”<br /><small class=\"hero-source\">vaticannews.va</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Second Acquital of Former Sen. Leila de Lima",
+            "url": "https://www.philstar.com/headlines/2023/05/12/2265548/muntinlupa-court-acquits-de-lima-2nd-drug-case",
+            "shortUrl": "https://bit.ly/3o3Dnjl",
+            "title": "Muntinlupa court acquits De Lima in 2nd drug case",
+            "description": "In this specific case, De Lima was accused of receiving P10 million, in two tranches, from former corrections chief Rafael Ragos. The money supposedly came from the illegal drug trade inside the New Bilibid Prison.",
+            "date": "2023-05-12T00:53:00.000Z",
+            "locale": "Metro Manila"
+        },
+        "secondary": [
+            {
+                "url": "https://www.reuters.com/world/asia-pacific/philippine-court-acquits-top-duterte-critic-after-6-years-detention-2023-05-12/",
+                "shortUrl": "https://bit.ly/3BsgdpM",
+                "title": "Philippine court acquits top critic of ex-president Duterte's 'war on drugs'",
+                "description": "A Philippine court on Friday acquitted of a drugs charge one of the fiercest critics of ex-President Rodrigo Duterte's \"war on drugs\", a move welcomed by activists who called her incarceration a vindictive effort to harass and silence her.",
+                "date": "2023-05-13T12:24:40.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/05/13/news/ex-president-duterte-de-limas-acquittal-is-flawed/1891429",
+                "shortUrl": "https://bit.ly/3M7o6pP",
+                "title": "Ex-president Duterte: De Lima's acquittal is 'flawed'",
+                "description": "Former president Rodrigo Duterte on Saturday said that the acquittal of detained former senator Leila de Lima in her second drug case is 'flawed,' insisting that 'the evidence extant supports a judgement of conviction.'",
+                "date": "2023-05-13T15:35:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.theatlantic.com/international/archive/2023/05/leila-de-lima-acquittal-philippines-duterte-marcos/674040/",
+                "shortUrl": "https://bit.ly/3BpO5DP",
+                "title": "The Price of Being Principled in the Philippines",
+                "description": "Duterte is gone, but a former secretary of justice still faces a possible life sentence for criticizing his regime.",
+                "date": "2023-05-14T11:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "http://www.cnnphilippines.com/news/2023/5/11/kuwait-suspends-visa-issuance-filipinos.html",
+            "shortUrl": "https://bit.ly/3O7TR4q",
+            "title": "Kuwait suspends issuance of visas for Filipinos",
+            "description": "Kuwait has halted the issuance of entry and work visas for Filipinos but has not yet informed the Philippines of the reason behind the decision, a Department of Foreign Affairs official says.",
+            "date": "2023-05-11T11:16:28.954Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314330088/meralco-raising-rates-fuels-up-by-p1-15-l-next-week.html",
+            "shortUrl": "https://bit.ly/3MB0DPj",
+            "title": "Meralco raising rates; fuels up by P1.15/l next week - Manila Standard",
+            "description": "Consumers can expect a double whammy of higher power rates and pump prices soon. The Manila Electric Co. (Meralco) warned that higher rates would likely continue until next month due to higher temperatures that would drive demand.",
+            "date": "2023-05-11T16:45:00.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://thenextweb.com/news/phillipines-approves-gene-editing-browning-bananas-tropic-biosciences",
+            "shortUrl":"https://bit.ly/3O9giGo",
+            "title": "Gene-editing is bringing non-browning bananas to the market",
+            "description": "A startup has tapped gene editing to banish browning bananas — and mitigate the environmental havoc that they're wreaking.",
+            "date": "2023-05-12T11:48:52.000Z",
+            "tag": "Agriculture",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/sports/05/11/23/bianca-bustamante-makes-herstory-for-ph-in-f1-academy",
+            "shortUrl": "https://bit.ly/3Od21IT",
+            "title": "Bianca Bustamante makes 'herstory' for PH in F1 Academy",
+            "description": "Not many people could pride themselves with making history at such a young age—let alone a young woman in a male-dominated sport.",
+            "date": "2023-05-10T09:08:29.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}

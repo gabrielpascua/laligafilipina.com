@@ -136,7 +136,7 @@ body {
 }
 
 .col-2 .hero-lead {
-  @apply md:basis-[60%] md:pt-4 lg:basis-[65%]
+  @apply md:basis-[60%] md:pt-4 lg:basis-[65%] lg:pr-4
 }
 
 .col-2 .hero-lead .hero-source {
