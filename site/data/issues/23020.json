@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23020,
+        "date": "2023-05-22T01:30:26.459Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3BMtSbn\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Mythos and Melodrama in the Philippines : Throughline</h1> <p class=\"hero-dek\"><br /><b>Corruption. Wealth. Authoritarianism. Torture.</b> These are the words many people associate with Ferdinand Marcos, the former dictator of the Philippines, and his wife, Imelda. But in 1965, on the day of his presidential inauguration, clad in bright white traditional Filipino clothing, Ferdinand and Imelda were the picture of hope and progress: the Camelot of the Philippines. They styled themselves as mythical figures with a divine right to rule, even as their democratic ascent reached a dictatorial peak. <br /><br />Ferdinand Marcos ruled for two decades. And then, in 2022, more than thirty years after his death, the Philippines elected a new president: Ferdinand's son, Bongbong. Both in his campaign and since taking office, Bongbong has evoked the Marcos era as a golden age — effectively, rewriting history.<br /><br />Welcome to the \"Epic of Marcos.\" In this tale of a family that's larger than life, Ferdinand Marcos is at the center. But the figures that surround him are just as important: Imelda, his muse; Bongbong, his heir; and the United States, his faithful sidekick. The story of the Marcos family is a blueprint for authoritarianism, laying out clearly how melodrama, paranoia, love, betrayal and a hunger for power collide to create a myth capable of propelling a nation. Today on the show, the rise, fall, and resurrection of a dynasty — and what that means for democracy worldwide.</p><p><small class=\"text-amber-500\">npr.org</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Vice President Sara Duterte Leaving Lakas Party",
+            "url": "https://www.yahoo.com/news/duterte-daughter-quits-party-decries-033329537.html",
+            "shortUrl": "https://bit.ly/3OwjBYz",
+            "title": "Duterte’s Daughter Quits Party, Decries ‘Political Powerplay’",
+            "description": "Philippine Vice President Sara Duterte quit the party under which she won as she denounced “political powerplay,” indicating potential rifts among President Ferdinand Marcos Jr.’s allies nearly a year into his term.",
+            "date": "2023-05-19T03:33:29.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314332509/vp-sara-quits-lakas-cmd-vows-to-serve-under-marcos.html",
+                "shortUrl": "https://bit.ly/3BMIjwf",
+                "title": "VP Sara quits Lakas-CMD, vows to serve under Marcos - Manila Standard",
+                "description": "Vice President Sara Duterte on Friday left as a member of the Lakas-Christian Muslim Democrats (Lakas-CMD) party as she lashed out at an “execrable political power play.”",
+                "date": "2023-05-19T17:05:00.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://mb.com.ph/2023/5/19/marcos-numerous-obligations-could-be-why-duterte-resigned-from-lakas-cmd",
+                "shortUrl": "https://bit.ly/3BKkOnl",
+                "title": "Marcos: Numerous obligations could be why Duterte resigned from Lakas-CMD",
+                "description": "President Ferdinand \"Bongbong\" Marcos Jr. believes that her numerous government obligations could be why Vice President Sara Duterte resigned as a member of the ruling Lakas-Christian Muslim Democrats (CMD), which she chaired.",
+                "date": "2023-05-19T19:55:46.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/05/21/2267834/sara-mum-house-squabble-gma-meet",
+                "shortUrl": "https://bit.ly/41WZYvR",
+                "title": "Sara mum on House squabble, GMA meet",
+                "description": "Vice President Sara Duterte has remained mum over the reported leadership squabble at the House of Representatives and her meeting with former president and Deputy Speaker Gloria Macapagal-Arroyo.",
+                "date": "2023-05-20T16:00:00.000Z",
+                "locale": "Metro Manila"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/business/how-generous-military-personnel-pension-pushing-philippines-fiscal-collapse/",
+            "shortUrl": "https://bit.ly/3Wnkzs6",
+            "title": "Explainer: How generous military pension is pushing Philippines to fiscal collapse",
+            "description": "Almost three decades since this system was implemented, the cracks it has caused in the government’s coffers are widening every year",
+            "date": "2023-05-16T11:18:49.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://co.chalkbeat.org/2023/5/19/23730533/international-teachers-philippines-colorado-springs-harrison-eagle-schools-shortage",
+            "shortUrl": "https://bit.ly/3ItO6uc",
+            "title": "To address its teacher shortage, this Colorado district turned to the Philippines",
+            "description": "The Harrison school district in Colorado Springs employs nine Filipino teachers this year, with 33 more set to start in the fall.",
+            "date": "2023-05-20T01:53:34.684Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.vice.com/en/article/v7bd9y/dating-philippines-filipino-chinese-great-wall-mixed-race",
+            "shortUrl": "https://bit.ly/3MMzLvy",
+            "title": "In the Philippines, Chinese-Filipino Couples Face a Great Wall",
+            "description": "Interracial marriages happen all around the world, but Chinese-Filipino couples in the Philippines face an invisible obstacle called “The Great Wall.”",
+            "date": "2023-05-15T03:41:53.909Z",
+            "tag": "Racism",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nbcnews.com/news/asian-america/ancient-writing-system-philippines-makes-unlikely-comeback-rcna84920",
+            "shortUrl": "https://bit.ly/3BMu76h",
+            "title": "An ancient writing system from the Philippines makes an unlikely comeback",
+            "description": "Baybayin, the written component of the Tagalog language, is becoming a new way for Filipinos to explore their cultural identity.",
+            "date": "2023-05-18T19:58:13.000Z",
+            "tag": "Culture",
+            "locale": ""
+        }
+    ]
+}
