@@ -1,18 +1,18 @@
 {
     "issue": {
         "number": 23021,
-        "date": "2023-05-29T01:30:26.459Z",
+        "date": "2023-05-28T19:13:05.607Z",
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.accuweather.com/en/hurricane/violent-typhoon-mawar-sets-sights-on-philippines-taiwan-and-japan-after-blow-to-guam/1532415\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam<br /><small class=\"hero-source\">accuweather.com</small></h1><p class=\"hero-dek\">The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.<br /><small class=\"hero-source\">accuweather.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3WA9fJj\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam<br /><small class=\"hero-source\">accuweather.com</small></h1><p class=\"hero-dek\">The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.<br /><small class=\"hero-source\">accuweather.com</small></p></div></a></div></section>",
         "locale": []
     },
     "ticker": {
         "primary": {
             "lead": "Huge Fire at the Manila Central Post Office",
             "url": "https://www.philstar.com/headlines/2023/05/23/2268339/fire-razes-central-post-office-national-ids-among-destroyed",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3qjgdWM",
             "title": "Fire razes central post office; National IDs among destroyed",
             "description": "A nearly eight-hour fire yesterday destroyed almost the entire Central Post Office building in Manila, a structure of historical value.",
             "date": "2023-05-22T16:00:00.000Z",
@@ -21,7 +21,7 @@
         "secondary": [
             {
                 "url": "https://apnews.com/article/philippines-post-office-fire-37af2e0a876b42240370eee6a7c1cd3a",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/43bcpWi",
                 "title": "Fire destroys main post office in Philippine capital, a nearly 100-year-old neoclassical landmark",
                 "description": "A massive fire has destroyed the main post office in the Philippine capital, a nearly 100-year-old neoclassical landmark. Firefighters said the fire started before midnight in the basement of the five-story building and was brought under control Monday morning more than seven hours later.",
                 "date": "2023-05-22T04:36:55.000Z",
@@ -29,7 +29,7 @@
             },
             {
                 "url": "https://www.bloomberg.com/news/articles/2023-05-24/filipinos-grieve-loss-of-architectural-gem-after-manila-central-post-office-fire",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3oIUuHn",
                 "title": "Filipinos Grieve Loss of Architectural Gem After Manila Post Office Inferno",
                 "description": "Calls for greater efforts to preserve Manila’s heritage buildings are growing as the Philippine landmark is destroyed once again.",
                 "date": "2023-05-24T23:00:09.667Z",
@@ -37,7 +37,7 @@
             },
             {
                 "url": "https://mb.com.ph/2023/5/26/10-things-you-may-not-know-about-the-Manila-Post-Office-building",
-                "shortUrl": "",
+                "shortUrl": "https://bit.ly/3IKfRPj",
                 "title": "10 things you may not know about the Manila Post Office building",
                 "description": "A post-fire appreciation of a landmark we never really got to appreciate.",
                 "date": "2023-05-26T20:10:00.000Z",
@@ -48,7 +48,7 @@
     "carousel": [
         {
             "url": "https://manilastandard.net/news/top-stories/314334555/kuwait-suspends-all-new-visas-for-pinoys.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3oCixb4",
             "title": "Kuwait suspends all new visas for Pinoys - Manila Standard",
             "description": "Reacting to lawmakers’ call for a total deployment ban to Kuwait, Mr. Marcos expressed opposition to the idea, saying he does not want to “burn any bridges” with the Arab nation.",
             "date": "2023-05-26T17:15:00.000Z",
@@ -56,8 +56,17 @@
             "locale": ""
         },
         {
-            "url": "http://www.cnnphilippines.com/news/2023/5/22/janet-napoles-acquitted-16-cases.html",
-            "shortUrl": "",
+            "url": "https://www.reuters.com/markets/commodities/gas-reserves-wane-philippines-faces-rising-costs-switch-lng-2023-05-24/",
+            "shortUrl": "https://bit.ly/3MYM208",
+            "title": "As gas reserves wane, Philippines faces rising costs in switch to LNG",
+            "description": "With just four years before the Philippines' only gas field is set to run dry, the country has started importing Liquefied Natural Gas (LNG), creating a fresh headache for a government struggling to curb high inflation.",
+            "date": "2023-05-24T07:33:16.000Z",
+            "tag": "Energy Supply",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/5/22/janet-napoles-acquitted-16-cases.html",
+            "shortUrl": "https://bit.ly/3OJPcpH",
             "title": "SB acquits Janet Napoles in 16 cases over PDAF scam tied to Sen. Revilla; convicts her in 4 other cases",
             "description": "The SB’s first division, in a May 22 decision, acquitted Janet Napoles of 16 counts of graft over cases of the PDAF scam tied to Sen. Bong Revilla. However, its second division convicted her of two counts each of graft and malversation in an earlier decision inked May 19.",
             "date": "2023-05-22T14:22:55.799Z",
@@ -66,21 +75,12 @@
         },
         {
             "url": "https://www.chipchick.com/2023/05/she-was-the-first-female-president-of-the-philippines-and-she-went-on-quite-a-journey-to-make-her-place-in-history.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3OII4Kc",
             "title": "She Was The First Female President Of The Philippines, And She Went On Quite A Journey To Make Her Place In History",
             "description": "It's so interesting to learn about women who were \"firsts\" in history. For example, do you know who the first female president of the Philippines was?    Her name was Corazon Aquino, and she went on quite",
             "date": "2023-05-25T13:00:46.000Z",
             "tag": "Lifestyle",
             "locale": ""
-        },
-        {
-            "url": "https://newsinfo.inquirer.net/1774690/bohol-named-phs-first-unesco-global-geopark",
-            "shortUrl": "",
-            "title": "Bohol named PH’s first Unesco ‘global geopark’",
-            "description": "Tagbilaran City - Bohol, home of the iconic Chocolate Hills and one of the world’s best diving destinations, has been recognized as the Philippines’ first global geopark by the cultural agency",
-            "date": "2023-05-26T13:17:00.000Z",
-            "tag": "Travel & Culture",
-            "locale": "Bohol"
         }
     ]
 }
