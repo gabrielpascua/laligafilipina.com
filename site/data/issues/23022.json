@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23022,
+        "date": "2023-06-04T19:13:05.607Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.japantimes.co.jp/news/2023/06/02/asia-pacific/philippines-wants-fewer-babies/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">As Asia strives to spur births, Philippines wants fewer babies<br /><small class=\"hero-source\">japantimes.co.jp</small></h1><p class=\"hero-dek\">The government of President Ferdinand Marcos Jr. has warned that the country can’t achieve broad economic success without addressing demographic challenges.<br /><small class=\"hero-source\">japantimes.co.jp</small></p></div></a></div></section>",
+        "locale": []
+    },
+    "ticker": {
+        "primary": {
+            "lead": "<abbr title=\"Philippine Atmospheric Geophysical and Astronomical Services Administration \">PAGASA</abbr> Declaring the Start of Rainy Season",
+            "url": "https://www.pagasa.dost.gov.ph/press-release/138",
+            "shortUrl": "",
+            "title": "Onset of the Rainy Season",
+            "description": "The start of the rainy season has been marked by widespread rains caused by thunderstorms, Super Typhoon \"Betty,\" and the Southwest Monsoon, though breaks in rainfall may occur. Precautionary measures are advised as the weather and climate situation continues to be monitored by PAGASA.",
+            "date": "2023-06-03T00:28:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/06/02/23/pagasa-declares-onset-of-rainy-season",
+                "shortUrl": "",
+                "title": "PAGASA declares onset of rainy season",
+                "description": "Widespread rain in the past few days over the western sections of Luzon and Visayas 'signifies the start of the rainy season in the country,' PAGASA said.",
+                "date": "2023-06-02T11:57:24.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.independent.co.uk/climate-change/news/typhoon-mawar-philippines-climate-change-b2348165.html",
+                "shortUrl": "",
+                "title": "Betty (Mawar) shows Philippines is now in constant state of climate emergency, activists say",
+                "description": "‘Super typhoons have become our new normal,’ activists say",
+                "date": "2023-05-30T12:57:57.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/06/03/2271182/betty-affects-over-104100-people-six-regions-ndrrmc",
+                "shortUrl": "",
+                "title": "'Betty' affects over 104,100 people in six regions — National Disaster Risk Reduction and Management (NDRRMC)",
+                "description": "The number individuals affected by \"Betty\" (Mawar) continue to pick up days after the former super typhoon left the Philippine area of responsibility last Thursday.",
+                "date": "2023-06-03T03:44:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1777848/mindoro-broadcaster-is-third-media-worker-killed-under-marcos-admin",
+            "shortUrl": "",
+            "title": "Mindoro broadcaster is third media worker killed under Marcos admin",
+            "description": "CITY OF CALAPAN, Oriental Mindoro, Philippines — A veteran radio broadcaster known here for his straight-talking commentary programs was shot dead by two assailants early Wednesday, becoming the",
+            "date": "2023-06-01T13:34:00.000Z",
+            "tag": "Press Freedm",
+            "locale": "Oriental Mindoro"
+        },
+        {
+            "url": "http://www.cnnphilippines.com/news/2023/5/31/house-adopts-senate-version-maharlika-bill.html",
+            "shortUrl": "",
+            "title": "Maharlika bill now up for Marcos' signature",
+            "description": "The Maharlika Investment Fund (MIF) bill is now up for signing into law by President Ferdinand Marcos Jr. after the House of Representatives officially adopted the Senate version of the controversial measure.",
+            "date": "2023-05-31T13:13:36.781Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.latimes.com/world-nation/story/2023-05-29/manila-was-ravaged-in-wwii-why-does-no-one-remember-this",
+            "shortUrl": "",
+            "title": "This city (Intramuros) was ravaged in WWII. Why do few remember the suffering and sacrifice?",
+            "description": "Even in the Philippines, the 1945 battle by American and Filipino forces to liberate Manila is largely forgotten. Researchers and historians are trying to change that.",
+            "date": "2023-05-29T16:00:24.480Z",
+            "tag": "Landmarks & Attractions",
+            "locale": "Metro Manila"
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/06/03/news/super-app-to-boost-govt-people-linkage/1894188",
+            "shortUrl": "",
+            "title": "Super App to boost govt-people linkage",
+            "description": "The government on Friday launched the eGov PH Super App, an integrated platform designed to make it easier for the public to do business with state agencies.",
+            "date": "2023-06-02T16:50:00.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
