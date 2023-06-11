@@ -97,6 +97,10 @@ body {
   text-shadow: #fff 1px 1px;
 }
 
+.hero-source {
+  @apply text-amber-500 text-xs lowercase font-normal;
+}
+
 .breadcrumb .divider {
   @apply text-zinc-300 pl-2 pr-2;
 }
@@ -140,7 +144,7 @@ body {
 }
 
 .col-2 .hero-lead .hero-source {
-  @apply text-amber-500 text-xs lowercase font-normal relative top-[-5px] hidden md:inline;
+  @apply relative top-[-5px] hidden md:inline;
 }
 
 .col-2 .hero-dek{
@@ -148,7 +152,7 @@ body {
 }
 
 .col-2 .hero-dek .hero-source {
-  @apply text-amber-500 text-xs lowercase md:hidden;
+  @apply md:hidden;
 }
 
 .list-arrow li::before{

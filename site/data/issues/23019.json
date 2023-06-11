@@ -6,7 +6,7 @@
     },
     "hero": {
         "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3pwKr8m\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Filipino Bishop: Current basic wage in Philippines ‘unjust’ - Vatican News<br /><small class=\"hero-source\">vaticannews.va</small></h1><p class=\"hero-dek\">As prices remain high in the Philippines, a Filipino bishop backs calls for legislation to raise the minimum wage, saying the current basic wage is “insufficient for a decent living.”<br /><small class=\"hero-source\">vaticannews.va</small></p></div></a></div></section>",
-        "locale": []
+        "locale": ""
     },
     "ticker": {
         "primary": {
@@ -70,7 +70,7 @@
             "title": "Gene-editing is bringing non-browning bananas to the market",
             "description": "A startup has tapped gene editing to banish browning bananas — and mitigate the environmental havoc that they're wreaking.",
             "date": "2023-05-12T11:48:52.000Z",
-            "tag": "Agriculture",
+            "tag": "Farming & Agriculture",
             "locale": ""
         },
         {

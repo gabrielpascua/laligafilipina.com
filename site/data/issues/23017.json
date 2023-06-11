@@ -6,7 +6,7 @@
     },
     "hero": {
         "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/40S3sPu/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The paradise islands caught in the US-China crosshairs<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
-        "locale": []
+        "locale": ""
     },
     "ticker": {
         "primary": {
@@ -79,7 +79,7 @@
             "title": "How to make mango bloom flowers to produce Off-Season fruits",
             "description": "Mango is naturally a highly seasonal crop that usually bears fruit from May to June. However, with the discovery of flower induction practices or the application of certain chemicals to initiate flower development, the mango fruit is now available year-round.",
             "date": "2023-04-25T16:55:33.617Z",
-            "tag": "Agriculture",
+            "tag": "Farming & Agriculture",
             "locale": ""
         }
     ]

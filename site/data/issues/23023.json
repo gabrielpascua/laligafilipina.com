@@ -1,0 +1,85 @@
+{
+    "issue": {
+        "number": 23023,
+        "date": "2023-06-11T19:13:05.607Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.bbc.com/news/world-asia-64948453\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Agutaya archipelago doctor who cared for 13,000 people on her own</h1><p class=\"hero-dek\">The pandemic was far from Dr Alena's only challenge on a far-flung archipelago in the Philippines.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Increasing Threat of a Mayon Volcano Eruption",
+            "url": "https://newsinfo.inquirer.net/1779901/increasing-unrest-in-mayon-taal-residents-relocated",
+            "shortUrl": "",
+            "title": "‘Increasing unrest’ in Mayon, Taal; residents relocated",
+            "description": "Legazpi City, Albay, Philippines — Farmers near Mayon Volcano in Albay province and residents around Taal Volcano in Batangas province were advised to keep out of the danger zones of these  two active volcanoes following their “increasing unrest” since Sunday.",
+            "date": "2023-06-06T13:30:00.000Z",
+            "locale": "Albay"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2023/06/09/2272522/mayon-alert-level-3-amid-magmatic-eruption",
+                "shortUrl": "",
+                "title": "Mayon on Alert Level 3 amid magmatic eruption",
+                "description": "The Philippine Institute of Volcanology and Seismology has raised Alert Level 3 at Mayon Volcano as it undergoes a localized magmatic eruption.",
+                "date": "2023-06-08T16:00:00.000Z",
+                "locale": "Albay"
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/regions/872480/incandescent-rockfall-from-new-lava-seen-in-mayon/story/",
+                "title": "Watch: ‘Incandescent rockfall’ from new lava seen in Mayon",
+                "description": "The Philippine Institute of Volcanology and Seismology (PHIVOLCS) has posted a video showing lava flowing from the summit of Mount Mayon late Thursday evening.",
+                "date": "2023-06-09T16:15:27.000Z",
+                "locale": "Albay"
+            },
+            {
+                "url": "https://www.aljazeera.com/gallery/2023/6/10/philippines-evacuates-thousands-after-mayon-volcano-rumbles",
+                "shortUrl": "",
+                "title": "Photos: Philippines evacuates thousands after volcano rumbles",
+                "description": "More than 6,000 villagers forced to evacuate from near the Mayon volcano’s crater in northeastern Albay province.",
+                "date": "2023-06-10T12:28:16.000Z",
+                "locale": "Albay"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.scmp.com/video/asia/3223030/waiting-10-years-divorce-filipina-woman-battles-end-unwanted-marriage",
+            "shortUrl": "",
+            "title": "Filipinos demand the right to divorce",
+            "description": "A mother of three has fought 10 years to legally terminate her marriage in the Philippines where divorce is still illegal and an annulment can can take years in courts.",
+            "date": "2023-06-05T13:14:42.000Z",
+            "tag": "Social Change",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/6/8/nueva-ecija-pumpkin-surplus.html",
+            "shortUrl": "",
+            "title": "Nueva Ecija farmers cry for help over squash surplus",
+            "description": "Hundreds of tons of pumpkins are left lying around unsold at a warehouse located in Brgy. Bugtong na Buli in Talavera, Nueva Ecija.",
+            "date": "2023-06-08T10:14:57.795Z",
+            "tag": "Farming & Agriculture",
+            "locale": "Nueva Ecija"
+        },
+        {
+            "url": "https://mb.com.ph/2023/6/6/canada-announces-visa-free-travel-to-ph-passport-holders",
+            "shortUrl": "",
+            "title": "Visa-free entry to Canada for qualified Pinoys starting June 7",
+            "description": "Philippine passport holders can now enter Canada without a Canadian visa starting June 7, 2023 (Manila time), as its government moves to make its immigration programs and services more efficient and equitable for travelers.",
+            "date": "2023-06-07T04:39:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/spotlight/06/03/23/us-expert-on-metro-manila-transportation-too-many-cars-few-mass-transit",
+            "shortUrl": "",
+            "title": "US expert on Metro Manila transportation: Too many cars, few mass transit",
+            "description": "Professor John Sidel noted the gridlock traffic caused by underinvestment in mass transit systems and people's over-reliance on cars.",
+            "date": "2023-06-03T15:32:14.000Z",
+            "tag": "Transportation",
+            "locale": "Metro Manila"
+        }
+    ]
+}
