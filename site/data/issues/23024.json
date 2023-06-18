@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23024,
+        "date": "2023-06-18T12:25:21.022Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3CyghEW\"><div class=\"hero-container\"><h1 class=\"hero-lead\">A mother thinks the worst is over after Duterte. Then her son is killed under Marcos.<br /><small class=\"hero-source\">rappler.com</small></h1><p class=\"hero-dek\">Families continue to fear for their lives as killings continue in the same poorest communities where Rodrigo Duterte unleashed his violent war on drugs in 2016<br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Criminal Complaints on 50 Cops From Shabu Seizure",
+            "url": "https://newsinfo.inquirer.net/1787700/50-cops-in-p-6-7-b-shabu-haul-charged",
+            "shortUrl": "https://bit.ly/3JjLVKr",
+            "title": "50 cops sued over P 6.7-billion ‘shabu’ haul irregularities",
+            "description": "Manila, Philippines — A total of 50 police personnel, including high-ranking officials, were named respondents in the criminal complaint filed before the Office of the Ombudsman",
+            "date": "2023-06-14T13:20:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "http://www.cnnphilippines.com/news/2023/6/13/napolcom-pnp-file-criminal-complaint-50-personnel-.html",
+                "shortUrl": "https://bit.ly/3Nyn73M",
+                "title": "Napolcom, PNP file criminal complaint vs. 50 personnel linked to 990-kilo shabu drug haul",
+                "description": "The National Police Commission and the Philippine National Police have filed a criminal complaint before the Office of the Ombudsman against 50 police personnel suspected to be involved in the 990-kilo shabu drug haul in October last year, Interior Secretary Benhur Abalos says.",
+                "date": "2023-06-13T09:25:10.224Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/article/1963914/manila/local-news/50-police-personnel-face-criminal-charges-over-990-kilos-shabu-drug-haul",
+                "shortUrl": "https://bit.ly/440TXAh",
+                "title": "50 police personnel face criminal charges over 990-kilos shabu drug haul",
+                "description": "The National Police Commission (Napolcom) and the Philippine National Police (PNP) have filed criminal complaints against 50 police personnel over the alleged irregularities in the October 8, 2022 drug operations in Manila",
+                "date": "2023-06-13T10:12:07.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/06/14/2273758/charges-filed-vs-50-cops-shabu-haul",
+                "shortUrl": "https://bit.ly/42MXQXK",
+                "title": "Charges filed vs 50 cops in shabu haul",
+                "description": "The Department of the Interior and Local Government has filed criminal charges against 50 police officers, including two police generals, for their alleged involvement in a 990-kilo shabu haul last year.",
+                "date": "2023-06-13T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://apnews.com/article/philippine-ferry-fire-coast-guard-rescue-32c224167aa9c08cf42b4c117b37ce1b",
+            "shortUrl": "https://bit.ly/46bPrAb",
+            "title": "Philippine ferry catches fire at sea, all 120 people aboard rescued",
+            "description": "All 120 passengers and crew members onboard a Philippine ferry that caught fire at sea have been rescued safely. The coast guard said the M/V Esperanza Star caught fire at dawn on Sunday while traveling from Siquijor province to Bohol province in the central Philippines.",
+            "date": "2023-06-18T03:17:48.000Z",
+            "tag": "Transportation",
+            "locale": "Bohol"
+        },
+        {
+            "url": "https://news.abs-cbn.com/life/06/11/23/juan-luna-masterpiece-found-after-long-disappearance",
+            "shortUrl": "https://bit.ly/3PkPKCW",
+            "title": "Juan Luna masterpiece found after long disappearance",
+            "description": "Juan Luna's iconic painting, 'Hymen, oh Hymeenèe,' has been rediscovered in Europe after more than a century of being lost to the public.",
+            "date": "2023-06-11T16:40:40.000Z",
+            "tag": "Art & Entertainment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.theatlantic.com/international/archive/2023/06/philippines-united-states-military-china/674418/",
+            "shortUrl": "https://bit.ly/3p2Dool",
+            "title": "The Choice the Philippines Didn’t Want to Make",
+            "description": "Thirty-two years ago, the departure of American troops from the archipelago symbolized the end of colonialism. Today, their return seems like the least bad option.",
+            "date": "2023-06-16T11:00:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314339971/mayon-volcano-unrest-can-last-for-a-few-months-says-phivolcs.html",
+            "shortUrl": "https://bit.ly/462OCto",
+            "title": "Mayon Volcano unrest can last for ‘a few months,’ says Phivolcs",
+            "description": "Lava from Mayon Volcano flowed down its south and southeast gullies to about one kilometer from the crater as scientists warned Tuesday the volcano can remain restive for “a few months.”",
+            "date": "2023-06-13T17:10:00.000Z",
+            "tag": "Natural Disaster",
+            "locale": "Albay"
+        }
+    ]
+}
