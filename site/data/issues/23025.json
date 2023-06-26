@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23025,
+        "date": "2023-06-25T21:32:40.519Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://urlr.me/XQZdh\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines' women seaweed farmers keep coastal families afloat<br /><small class=\"hero-source\">eco-business.com</small></h1><p class=\"hero-dek\">Seaweed farming in the Philippines, increasingly led by women, is a lifeline to poor coastal families often hit by disasters.<br /><small class=\"hero-source\">eco-business.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Overcrowding in <abbr title=\"Bureau of Jail Management and Penology\">BJMP</abbr> Jails",
+            "url": "https://www.gmanetwork.com/news/topstories/nation/873725/67-of-jails-over-capacity-says-coa/story/",
+            "shortUrl": "https://urlr.me/WBkLM",
+            "title": "COA: 67% of Philippines’ jails over capacity",
+            "description": "More than two-thirds or 323 of the 478 jail facilities in the country are overcrowded, with one reaching a congestion rate of 2,639%, the Commission on Audit (COA) said.",
+            "date": "2023-06-23T06:16:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "http://www.cnnphilippines.com/news/2023/6/22/jail-congestion-coa-report.html",
+                "shortUrl": "https://urlr.me/W74jb",
+                "title": "COA: 67% of PH jails remain congested",
+                "description": "The Commission on Audit said most jail facilities nationwide remain heavily congested and have failed to comply with the United Nations' standards for the treatment of prisoners.",
+                "date": "2023-06-22T08:06:16.087Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.pna.gov.ph/articles/1204186",
+                "shortUrl": "https://urlr.me/gM2j3",
+                "title": "BJMP addresses jail congestion with multipronged approach",
+                "description": "MANILA – Fresh guidelines, like relaxing rules on bail and improved access to counsels of persons deprived of liberty (PDL) are among the solutions initiated to address the congestion of the country's jails, a senior official said Friday.",
+                "date": "2023-06-23T11:30:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/06/23/23/bjmp-says-jails-being-decongested-amid-coa-findings",
+                "shortUrl": "https://urlr.me/V5Y2B",
+                "title": "BJMP says jails being decongested amid COA findings",
+                "description": "Aside from the new facilities, the BJMP is also coordinating with courts and the Public Attorney's Office to free PDLs through the Good Conduct Time Allowance.",
+                "date": "2023-06-23T11:42:23.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2023/6/17/father-raises-3-kids-with-obsolete-job",
+            "shortUrl": "https://urlr.me/TvxQ9",
+            "title": "Father raises 3 kids with ‘obsolete’ job",
+            "description": "In a busy street in Manila, an old man now known as a legend in fixing obsolete cameras, sits and continues to go on with a craft that has sent his three children to school, two of them now nurses, and the youngest waiting for the engineering board exam.",
+            "date": "2023-06-18T05:56:00.000Z",
+            "tag": "Lifestyle",
+            "locale": "Metro Manila"
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/06/25/2276468/akbayan-pushes-passage-decades-delayed-sogie-equality-bill",
+            "shortUrl": "https://urlr.me/89Spc",
+            "title": "Akbayan pushes for passage of decades-delayed SOGIE (Sexual Orientation, Gender Identity and Expression) Equality bill",
+            "description": "\"Our fight for equality and fairness when it comes to the basic rights of LGBTQIA+ persons will not diminish the rights of anyone else,\" Akbayan said.",
+            "date": "2023-06-25T03:24:00.000Z",
+            "tag": "LGBTQ",
+            "locale": ""
+        },
+        {
+            "url": "https://opinion.inquirer.net/164276/helping-ofws-return-for-good",
+            "shortUrl": "https://urlr.me/27Gs1",
+            "title": "Helping OFWs return for good",
+            "description": "In the 1990s, singer Gary Valenciano released the song “Babalik Ka Rin,” dedicated to overseas Filipino workers (OFWs) who were scattered across the world and that no matter how far they were",
+            "date": "2023-06-25T13:03:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/nation/filipino-women-highly-biased-against-own-gender/",
+            "shortUrl": "https://urlr.me/97Ty1",
+            "title": "Filipino women highly biased against own gender – study",
+            "description": "‘There’s still a lot of work to be done in transforming or shifting social norms around gender,’ says women’s rights expert Nathalie Africa-Verceles in a Rappler Talk episode",
+            "date": "2023-06-21T06:56:00.000Z",
+            "tag": "Women's Advocacy",
+            "locale": ""
+        }
+    ]
+}
