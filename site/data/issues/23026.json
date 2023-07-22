@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23026,
+        "date": "2023-07-02T21:32:40.519Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.insider.com/family-lives-in-graveyard-cemetery-philippines-cebu-sari-store-mausoleum-2023-7\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet a mother of 7 who runs a convenience store from her home in a graveyard, where the living coexist with the dead — but her family is set to be evicted in a few weeks</h1><p class=\"hero-dek\">Gesophine Grama runs a convenience store outside her home made from a mausoleum at the Chinese Cemetery in Cebu, Philippines.<br /><small class=\"hero-source\">insider.com</small></p></div></a></div></section>",
+        "locale": "Cebu"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Supreme Court Dismissal of ₱1B Ill-Gotten Wealth Case Against Marcoses",
+            "url": "https://mb.com.ph/2023/7/19/sc-affirms-dismissal-of-p1-05-b-ill-gotten-wealth-case-vs-marcoses-tantocos",
+            "shortUrl": "",
+            "title": "SC affirms dismissal of P1.05-B ‘ill-gotten’ wealth case vs Marcoses, Tantocos",
+            "description": "The Supreme Court (SC) has affirmed the Sept. 25, 2019 Sandiganbayan’s decision which dismissed the P1.05 billion ill-gotten wealth case filed in 1987 against the late former President Ferdinand E. Marcos, who was substituted by his heirs, and the late Ambassador Bienvenido Tantoco Sr. and some of his relatives.",
+            "date": "2023-07-18T20:46:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2023/07/20/2282302/imelda-cleared-p1-billion-ill-gotten-wealth-suit",
+                "shortUrl": "",
+                "title": "Imelda cleared in P1 billion ill-gotten wealth suit",
+                "description": "The Supreme Court has upheld the dismissal of a civil case against the family of the late strongman Ferdinand Marcos Sr. involving P1.052 billion in alleged ill-gotten wealth, citing insufficient evidence presented by the Presidential Commission on Good Government.",
+                "date": "2023-07-19T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/876318/sc-affirms-dismissal-of-p1-05-b-ill-gotten-wealth-case-vs-marcos-sr-others/story/",
+                "shortUrl": "",
+                "title": "SC affirms dismissal of P1.05-B ill-gotten wealth case vs Marcos Sr., others",
+                "description": "The Supreme Court (SC) has affirmed the dismissal of the forfeiture case against the late President Ferdinand Marcos Sr., his wife, Imelda, and several others, involving P1.05 billion in alleged ill-gotten wealth.",
+                "date": "2023-07-19T11:29:10.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.cnnphilippines.com/news/2023/7/20/carmma-marcos-ill-gotten-wealth-cases.html",
+                "shortUrl": "",
+                "title": "‘Emerging pattern?’ Anti-martial law group questions dismissal of Marcoses’ ill-gotten wealth cases",
+                "description": "A group lambasted the alleged “emerging pattern and scheme” in the government on the dismissal of ill-gotten wealth cases slapped against the Marcos family and their cronies.",
+                "date": "2023-07-19T17:48:51.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.bbc.com/news/world-asia-65594025",
+            "shortUrl": "",
+            "title": "Comfort women: Last of Japan's WW2 sex slaves sing 'forget us not'",
+            "description": "Their own memories fading, former World War Two sex slaves seek justice in their twilight years.",
+            "date": "2023-07-14T21:03:26.000Z",
+            "tag": "Women's Right & Advocacy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/investigative/overseas-filipino-workers-harassed-loans-forced-jobs-abroad-part-1/",
+            "shortUrl": "",
+            "title": "OFWs are harassed – Jessica got jail time – over loans they’re forced to make to get jobs abroad",
+            "description": "PCIJ’s investigation underscores the urgency of a comprehensive government solution to address the rampant fleecing by recruitment agencies of Filipinos who are desperate to find overseas jobs amid lack of opportunities in the country",
+            "date": "2023-07-22T09:16:07.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1805444/bongbong-marcos-covid-19-public-health-emergency-in-ph-lifted",
+            "shortUrl": "",
+            "title": "Bongbong Marcos: COVID-19 public health emergency in PH lifted",
+            "description": "MANILA, Philippines — President Ferdinand Marcos Jr. is lifting the COVID-19 public health emergency nationwide.",
+            "date": "2023-07-22T21:26:49.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnn.com/2023/07/20/football/philippines-first-world-cup-appearance-intl-hnk-spt-intl/index.html",
+            "shortUrl": "",
+            "title": "US diaspora helps Philippines make World Cup history with country's first ever appearance | CNN",
+            "description": "When the Philippines faced off against Switzerland in the New Zealand city of Dunedin on Friday, they became the first team of any gender from the Southeast Asian nation to play at a World Cup.",
+            "date": "2023-07-21T02:11:09.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
