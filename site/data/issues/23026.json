@@ -1,7 +1,7 @@
 {
     "issue": {
         "number": 23026,
-        "date": "2023-07-02T21:32:40.519Z",
+        "date": "2023-07-23T08:38:01.225Z",
         "theme": "dark"
     },
     "hero": {
@@ -65,21 +65,21 @@
             "locale": ""
         },
         {
+            "url": "https://sports.yahoo.com/philippines-womens-world-cup-american-players-120010167.html",
+            "shortUrl": "",
+            "title": "The making of America’s other Women’s World Cup team: The Philippines",
+            "description": "The Philippines will make its World Cup debut Friday with a women's national team made up of mostly American-born players. Here's the story of how a Chicagoland IT worker and a \"random dude\" from Michigan made it happen.",
+            "date": "2023-07-20T12:00:10.000Z",
+            "tag": "Sports",
+            "locale": ""
+        },
+        {
             "url": "https://newsinfo.inquirer.net/1805444/bongbong-marcos-covid-19-public-health-emergency-in-ph-lifted",
             "shortUrl": "",
             "title": "Bongbong Marcos: COVID-19 public health emergency in PH lifted",
             "description": "MANILA, Philippines — President Ferdinand Marcos Jr. is lifting the COVID-19 public health emergency nationwide.",
             "date": "2023-07-22T21:26:49.000Z",
-            "tag": "Health",
-            "locale": ""
-        },
-        {
-            "url": "https://www.cnn.com/2023/07/20/football/philippines-first-world-cup-appearance-intl-hnk-spt-intl/index.html",
-            "shortUrl": "",
-            "title": "US diaspora helps Philippines make World Cup history with country's first ever appearance | CNN",
-            "description": "When the Philippines faced off against Switzerland in the New Zealand city of Dunedin on Friday, they became the first team of any gender from the Southeast Asian nation to play at a World Cup.",
-            "date": "2023-07-21T02:11:09.000Z",
-            "tag": "Sports",
+            "tag": "Coronavirus",
             "locale": ""
         }
     ]
