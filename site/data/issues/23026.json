@@ -5,14 +5,14 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.insider.com/family-lives-in-graveyard-cemetery-philippines-cebu-sari-store-mausoleum-2023-7\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet a mother of 7 who runs a convenience store from her home in a graveyard, where the living coexist with the dead — but her family is set to be evicted in a few weeks</h1><p class=\"hero-dek\">Gesophine Grama runs a convenience store outside her home made from a mausoleum at the Chinese Cemetery in Cebu, Philippines.<br /><small class=\"hero-source\">insider.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://urlr.me/czGrD\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet a mother of 7 who runs a convenience store from her home in a graveyard, where the living coexist with the dead — but her family is set to be evicted in a few weeks</h1><p class=\"hero-dek\">Gesophine Grama runs a convenience store outside her home made from a mausoleum at the Chinese Cemetery in Cebu, Philippines.<br /><small class=\"hero-source\">insider.com</small></p></div></a></div></section>",
         "locale": "Cebu"
     },
     "ticker": {
         "primary": {
             "lead": "Supreme Court Dismissal of ₱1B Ill-Gotten Wealth Case Against Marcoses",
             "url": "https://mb.com.ph/2023/7/19/sc-affirms-dismissal-of-p1-05-b-ill-gotten-wealth-case-vs-marcoses-tantocos",
-            "shortUrl": "",
+            "shortUrl": "https://urlr.me/Gmc8x",
             "title": "SC affirms dismissal of P1.05-B ‘ill-gotten’ wealth case vs Marcoses, Tantocos",
             "description": "The Supreme Court (SC) has affirmed the Sept. 25, 2019 Sandiganbayan’s decision which dismissed the P1.05 billion ill-gotten wealth case filed in 1987 against the late former President Ferdinand E. Marcos, who was substituted by his heirs, and the late Ambassador Bienvenido Tantoco Sr. and some of his relatives.",
             "date": "2023-07-18T20:46:00.000Z",
@@ -21,7 +21,7 @@
         "secondary": [
             {
                 "url": "https://www.philstar.com/headlines/2023/07/20/2282302/imelda-cleared-p1-billion-ill-gotten-wealth-suit",
-                "shortUrl": "",
+                "shortUrl": "https://urlr.me/gznFK",
                 "title": "Imelda cleared in P1 billion ill-gotten wealth suit",
                 "description": "The Supreme Court has upheld the dismissal of a civil case against the family of the late strongman Ferdinand Marcos Sr. involving P1.052 billion in alleged ill-gotten wealth, citing insufficient evidence presented by the Presidential Commission on Good Government.",
                 "date": "2023-07-19T16:00:00.000Z",
@@ -29,7 +29,7 @@
             },
             {
                 "url": "https://www.gmanetwork.com/news/topstories/nation/876318/sc-affirms-dismissal-of-p1-05-b-ill-gotten-wealth-case-vs-marcos-sr-others/story/",
-                "shortUrl": "",
+                "shortUrl": "https://urlr.me/PsYCt",
                 "title": "SC affirms dismissal of P1.05-B ill-gotten wealth case vs Marcos Sr., others",
                 "description": "The Supreme Court (SC) has affirmed the dismissal of the forfeiture case against the late President Ferdinand Marcos Sr., his wife, Imelda, and several others, involving P1.05 billion in alleged ill-gotten wealth.",
                 "date": "2023-07-19T11:29:10.000Z",
@@ -37,7 +37,7 @@
             },
             {
                 "url": "https://www.cnnphilippines.com/news/2023/7/20/carmma-marcos-ill-gotten-wealth-cases.html",
-                "shortUrl": "",
+                "shortUrl": "https://urlr.me/ZntQs",
                 "title": "‘Emerging pattern?’ Anti-martial law group questions dismissal of Marcoses’ ill-gotten wealth cases",
                 "description": "A group lambasted the alleged “emerging pattern and scheme” in the government on the dismissal of ill-gotten wealth cases slapped against the Marcos family and their cronies.",
                 "date": "2023-07-19T17:48:51.000Z",
@@ -48,7 +48,7 @@
     "carousel": [
         {
             "url": "https://www.bbc.com/news/world-asia-65594025",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3NWuC3u",
             "title": "Comfort women: Last of Japan's WW2 sex slaves sing 'forget us not'",
             "description": "Their own memories fading, former World War Two sex slaves seek justice in their twilight years.",
             "date": "2023-07-14T21:03:26.000Z",
@@ -57,7 +57,7 @@
         },
         {
             "url": "https://www.rappler.com/newsbreak/investigative/overseas-filipino-workers-harassed-loans-forced-jobs-abroad-part-1/",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/3O2rmnm",
             "title": "OFWs are harassed – Jessica got jail time – over loans they’re forced to make to get jobs abroad",
             "description": "PCIJ’s investigation underscores the urgency of a comprehensive government solution to address the rampant fleecing by recruitment agencies of Filipinos who are desperate to find overseas jobs amid lack of opportunities in the country",
             "date": "2023-07-22T09:16:07.000Z",
@@ -66,7 +66,7 @@
         },
         {
             "url": "https://sports.yahoo.com/philippines-womens-world-cup-american-players-120010167.html",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/44CWwbJ",
             "title": "The making of America’s other Women’s World Cup team: The Philippines",
             "description": "The Philippines will make its World Cup debut Friday with a women's national team made up of mostly American-born players. Here's the story of how a Chicagoland IT worker and a \"random dude\" from Michigan made it happen.",
             "date": "2023-07-20T12:00:10.000Z",
@@ -75,7 +75,7 @@
         },
         {
             "url": "https://newsinfo.inquirer.net/1805444/bongbong-marcos-covid-19-public-health-emergency-in-ph-lifted",
-            "shortUrl": "",
+            "shortUrl": "https://bit.ly/44O8YW8",
             "title": "Bongbong Marcos: COVID-19 public health emergency in PH lifted",
             "description": "MANILA, Philippines — President Ferdinand Marcos Jr. is lifting the COVID-19 public health emergency nationwide.",
             "date": "2023-07-22T21:26:49.000Z",
