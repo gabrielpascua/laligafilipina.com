@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23027,
+        "date": "2023-07-30T08:38:01.225Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In Manila, a Once-Lost Masterpiece Is Back on Public View<br /><small class=\"hero-source\">hyperallergic.com</small></h1><p class=\"hero-dek\">The rediscovery of Juan Luna’s masterwork “Hymen, oh Hyménée!” offer a fresh opportunity to contemplate the role he played in the early formation of Philippine politics and culture.<br /><small class=\"hero-source\">hyperallergic.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Laguna Lake Capsized Ferry, Killing 27",
+            "url": "https://mb.com.ph/2023/7/28/pcg-capsized-boat-was-overloaded-27-confirmed-dead",
+            "shortUrl": "",
+            "title": "PCG: Capsized boat was overloaded; 27 confirmed dead",
+            "description": "According to data from the PCG, the motorbanca’s authorized carrying capacity is for 42 persons only but a total of 70 passengers and crew have already been accounted for after the incident: 27 of them died while 43 were rescued. The PCG was also confirming reports that the boat was carrying other cargoes such as motorcycles, sand, and cloth.",
+            "date": "2023-07-27T18:18:00.000Z",
+            "locale": "Rizal"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314354345/23-die-in-laguna-lake-mishap.html",
+                "shortUrl": "",
+                "title": "23 die in Laguna Lake mishap - Manila Standard",
+                "description": "Banca capsizes near Binangonan shore; 40 rescued, says PCG A motorized boat capsized in Laguna Lake off Binangonan, Rizal on Thursday, killing 23 people with six others missing, the Philippine Coast Guard (PCG) said.",
+                "date": "2023-07-27T17:10:00.000Z",
+                "locale": "Rizal"
+            },
+            {
+                "url": "https://www.channelnewsasia.com/asia/philippine-ferry-was-overloaded-when-it-flipped-over-leaving-26-dead-official-says-3661761",
+                "shortUrl": "",
+                "title": "Philippine ferry was overloaded when it flipped over, leaving 26 dead, official says",
+                "description": "MANILA, Philippines: The skipper of a Philippine ferry which flipped over in a lake in an accident that killed 26 passengers decided to sail despite knowing that his boat was filled beyond capacity, the coast guard chief said on Friday (Jul 28).",
+                "date": "2023-07-28T11:27:26.000Z",
+                "locale": "Rizal"
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/07/31/2285094/senators-set-probe-rizal-boat-tragedy",
+                "shortUrl": "",
+                "title": "Senators set probe on Rizal boat tragedy",
+                "description": "The Senate is preparing to investigate the deaths of 27 passengers who drowned on July 27 after their boat capsized in Laguna de Bay in Binangonan, Rizal at the tail end of Typhoon Egay.",
+                "date": "2023-07-30T16:00:00.000Z",
+                "locale": "Rizal"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1809161/super-typhoon-egay-half-a-million-affected-billions-in-damage-in-northern-luzon",
+            "shortUrl": "",
+            "title": "Super Typhoon Egay: Half a million affected, billions in damage in Northern Luzon",
+            "description": "MANILA, Philippines — Super Typhoon Egay, known internationally as Doksuri, has left in its wake a trail of devastation in several parts of the country, affecting over half a million people and leaving many homes and livelihoods in ruins",
+            "date": "2023-07-29T17:31:48.000Z",
+            "tag": "Disaster Response",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/economy/2023/7/25/philippines-mulls-unlicensed-nurses-as-low-pay-fuels-brain-drain",
+            "shortUrl": "",
+            "title": "Philippines to lower bar for nurses as low pay drives many abroad",
+            "description": "Exodus of nurses due to poor working conditions has prompted Manila to propose hiring unlicensed graduates.",
+            "date": "2023-07-25T04:54:28.000Z",
+            "tag": "Labor Rigths",
+            "locale": ""
+        },
+        {
+            "url": "http://www.cnnphilippines.com/news/2023/7/22/climate-change-environment-marcos-first-year.html",
+            "shortUrl": "",
+            "title": "'Race against time': Climate change and the environment a year into Marcos presidency",
+            "description": "President Ferdinand Marcos Jr. has made all attempts to hit the right points in tackling environmental issues. But did his administration make significant progress during his first year in power?",
+            "date": "2023-07-24T10:01:49.902Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/ancx/travel/destination/07/29/23/she-drove-around-the-ph-for-121-daysheres-what-happened",
+            "shortUrl": "",
+            "title": "She drove solo around the Philippines for 121 days and it was the ride of a lifetime",
+            "description": "From getting to swim with turtles every day, to setting up camp in the weirdest places. Even the hardest parts of that trip have a bit of joy in them",
+            "date": "2023-07-29T05:54:23.000Z",
+            "tag": "Travel & Culture",
+            "locale": ""
+        }
+    ]
+}
