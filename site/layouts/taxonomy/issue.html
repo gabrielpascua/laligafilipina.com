@@ -72,7 +72,7 @@
         </div>
         <section class="bg-light">
             <div class="container pl-4 pr-4">
-                <div class="border mt-6 rounded">
+                <div class="border border-gray-300 mt-6 rounded">
                     {{ $primaryContentLink := .primary.url }}
                     {{ if .primary.shortUrl }}
                         {{ $primaryContentLink = .primary.shortUrl }}
@@ -140,7 +140,7 @@
                 <div class="container mx-auto pl-4 pr-4">
                     <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-700">In {{ .tag }}</span>
                 </div>
-                <div class="border rounded mb-0 pt-1">
+                <div class="border border-gray-400 rounded mb-3 pt-1">
                     <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
                         <div class="pt-2">
                             <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>

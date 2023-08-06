@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23028,
+        "date": "2023-08-06T13:56:35.395Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://newsinfo.inquirer.net/1811682/sws-more-filipinos-experience-hunger-during-the-2nd-quarter-of-2023\"><div class=\"hero-container\"><h1 class=\"hero-lead\">SWS: More Filipinos experience hunger during the 2nd quarter of 2023<br /><small class=\"hero-source\">inquirer.net</small></h1><p class=\"hero-dek\">MANILA, Philippines — More Filipinos suffer from hunger. The June 2023 Social Weather Stations (SWS) Second Quarter study released<br /><small class=\"hero-source\">inquirer.net</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Heavy Rains & Flooding From Typhoons",
+            "url": "https://mb.com.ph/2023/7/30/180-families-evacuated-in-taguig-due-to-heavy-rains",
+            "shortUrl": "",
+            "title": "180 families evacuated in Taguig due to heavy rains ",
+            "description": "The Taguig City government preemptively evacuated 180 families due to continuous heavy rains enhanced by typhoons “Falcon” and “Egay.”",
+            "date": "2023-07-31T01:02:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314355711/leptospirosis-dengue-cases-up-amid-rainy-season-doh.html",
+                "shortUrl": "",
+                "title": "Leptospirosis, dengue cases up amid rainy season — DOH - Manila Standard",
+                "description": "The country has logged an increase in the number of leptospirosis and dengue cases amid the onset of the rainy season, the Department of Health said Monday. The DOH said 182 new leptospirosis cases were recorded from June 18 to July 1, a 42-percent jump from the 128 cases reported two weeks prior.",
+                "date": "2023-07-31T17:05:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/08/02/2285589/bulacan-pampanga-placed-under-state-calamity",
+                "shortUrl": "",
+                "title": "Bulacan, Pampanga placed under state of calamity",
+                "description": "The provinces of Bulacan and Pampanga have been placed under a state of calamity due to massive flooding and damage caused by the southwest monsoon enhanced by Typhoons Egay and Falcon.",
+                "date": "2023-08-01T16:00:00.000Z",
+                "locale": "Bulacan"
+            },
+            {
+                "url": "https://adventistreview.org/news/typhoon-doksuri-displaced-more-than-4000-families-in-the-philippines/",
+                "shortUrl": "",
+                "title": "Typhoon Doksuri Displaced More than 4,000 Families in the Philippines | Adventist Review",
+                "description": "The North Philippines region endured heavy rains and catastrophic floods as Super Typhoon Egay (international name Doksuri) swamped five regions. The disaster has impacted an estimated population of more than 35 million people.",
+                "date": "2023-08-02T09:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/nation/grounds-ombudsman-suspends-agriculture-official-anomalous-onion-deal/",
+            "shortUrl": "",
+            "title": "Ombudsman suspends gov't officials over 'anomalous' onion deal. Here's why.",
+            "description": "The respondents face charges for alleged grave misconduct, gross neglect of duty, and conduct prejudicial to the best interest of the service in relation to the government's Kadiwa program",
+            "date": "2023-08-03T11:01:57.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://news.mongabay.com/2023/08/in-philippines-climate-change-tests-indigenous-farming-like-never-before/",
+            "shortUrl": "",
+            "title": "In Philippines, climate change tests Indigenous farming like never before",
+            "description": "ILOILO, Philippines — In the mountainous village of Jayobo in the central Philippines, internet and mobile connectivity are spotty. The nearest town center is an hour’s drive along a rough, unpaved road, and electricity has only recently reached the village and remains intermittent.",
+            "date": "2023-08-04T15:41:06.000Z",
+            "tag": "Farming & Agriculture",
+            "locale": "Iloilo"
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/08/01/23/house-committee-oks-bill-for-ofws-voting-via-internet",
+            "shortUrl": "",
+            "title": "House committee OKs bill for OFWs voting via internet",
+            "description": "A House committee has approved the Overseas Voting Act of 2023, which allows OFWs to vote via the internet.",
+            "date": "2023-08-01T13:00:17.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.espn.com/basketball/story/_/id/38136642/philippines-legend-jimmy-alapag-earns-nba-role-sacramento-kings",
+            "shortUrl": "",
+            "title": "Philippines legend Alapag earns NBA role with Kings",
+            "description": "Philippines basketball legend Jimmy Alapag has been elevated to the Sacramento Kings' coaching staff ahead of the new NBA season.",
+            "date": "2023-08-05T02:45:00.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
