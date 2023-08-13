@@ -5,7 +5,12 @@ const cheerio = require('cheerio');
 (async function(){
     const ISSUES_PATH = path.join(process.cwd(), 'site/data/issues');
     const issues = await fs.readdir(ISSUES_PATH);
-    const lastIssueJson = issues.reverse().find((jsonFile) => jsonFile.endsWith('.json'));
+    const lastIssueJson = issues.reverse().find((jsonFile) => {
+        return (
+            jsonFile.startsWith((new Date()).getFullYear().toString().substring(2)) &&
+            jsonFile.endsWith('.json')
+        );
+    });
     const LAST_ISSUE_FILE = path.join(ISSUES_PATH, lastIssueJson);
 
     const lastIssue = JSON.parse(await fs.readFile(LAST_ISSUE_FILE));

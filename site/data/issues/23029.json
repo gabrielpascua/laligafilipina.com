@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23029,
+        "date": "2023-08-13T13:59:22.379Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://opinion.inquirer.net/165423/the-filipino-curse-of-puede-na\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Filipino curse of ‘puede na’</h1><p class=\"hero-dek\">For about two weeks since the start of incessant rains over Luzon last month, Filipinos’ social media timelines have been replete with lament about the aggravation of getting to and from Metro<br /><small class=\"hero-source\">inquirer.net</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Jemboy Baltazar, 17-Year Old Mistakenly Killed by Cops",
+            "url": "https://www.rappler.com/nation/timeline-killing-jemboy-baltazar-navotas/",
+            "shortUrl": "",
+            "title": "Timeline: The killing of 17-year-old Jemboy Baltazar in Navotas",
+            "description": "Jemboy's killing adds to the long list of cases of innocent individuals mercilessly slain by the police",
+            "date": "2023-08-12T11:23:55.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.bbc.com/news/world-asia-66458543",
+                "shortUrl": "",
+                "title": "Philippines: Six officers suspended after shooting teen in Manila",
+                "description": "A 17-year-old was shot dead by police after he was mistaken for a murder suspect in Manila.",
+                "date": "2023-08-10T08:20:18.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/878721/fortun-jemboy-had-defense-type-injury-on-the-hand/story/",
+                "shortUrl": "",
+                "title": "Fortun: Jemboy had defense type injury on the hand",
+                "description": "Forensic pathologist Dr. Raquel Fortun said autopsy results revealed 17-year-old Jemboy Baltazar also had a gunshot wound on his right hand, indicating that he tried to defend himself.",
+                "date": "2023-08-12T13:33:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/08/12/news/slain-teen-once-dreamed-of-becoming-a-policeman/1905159",
+                "shortUrl": "",
+                "title": "Slain teen once dreamed of becoming a policeman",
+                "description": "Jehorde 'Jemboy' Baltazar wanted to become a policeman, one of his friends said in an interview with The Manila Times at his wake in Navotas on Saturday.",
+                "date": "2023-08-12T15:02:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.usni.org/2023/08/07/video-china-coast-guard-blast-philippine-military-resupply-with-water-canons",
+            "shortUrl": "",
+            "title": "Video: China Coast Guard Blast Philippine Military Resupply with Water Cannons - USNI News",
+            "description": "China Coast Guard cutters disrupted an Armed Forces of the Philippines resupply mission to Second Thomas Shoal in the Spratly Islands, including instances where they fired water cannons, a Philippines Coast Guard spokesperson said Monday.",
+            "date": "2023-08-07T20:39:13.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/08/11/2287777/decongested-k-10-curriculum-launched",
+            "shortUrl": "",
+            "title": "‘Decongested’ K-10 curriculum launched",
+            "description": "The Department of Education will adopt a phased implementation of the revised Grade 1 to 10 curriculum, with the pilot implementation set in select schools starting this year.",
+            "date": "2023-08-10T16:00:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2023/8/8/pbbm-suspends-all-but-one-reclamation-projects-in-manila-bay",
+            "shortUrl": "",
+            "title": "PBBM suspends reclamation projects in Manila Bay; only one reviewed project OK'd",
+            "description": "President Ferdinand “Bongbong” Marcos Jr. said during a situation briefing in Malolos City, Bulacan last Monday, Aug. 7, that all reclamation projects have been suspended and are “under review.”",
+            "date": "2023-08-09T03:20:00.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/economy/2023/8/8/jollibee-philippine-icon-accused-of-exporting-poor-pay-conditions",
+            "shortUrl": "",
+            "title": "Jollibee made Filipino food global. Some say it exported exploitation too",
+            "description": "Former workers at New Jersey, US branch of fast-food chain say they were let go after demanding better conditions.",
+            "date": "2023-08-08T03:17:12.000Z",
+            "tag": "Business",
+            "locale": ""
+        }
+    ]
+}
