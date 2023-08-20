@@ -156,10 +156,10 @@ body {
 }
 
 .list-arrow li::before{
-  content: '-';
+  content: "\00B7";
   position: absolute;
-  @apply text-zinc-700 text-sm;
-  margin-left: -1.25em;
+  @apply text-zinc-700 text-3xl leading-4;
+  margin-left: -.6em;
 }
 
 .list-arrow .list-none::before{

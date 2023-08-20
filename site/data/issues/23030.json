@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23030,
+        "date": "2023-08-20T20:36:50.586Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.youtube.com/watch?v=O3aBxOv5txc\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Searching for Maura | An illustrated investigation</h1><p class=\"hero-dek\">Maura came to St. Louis from the Philippines to be put on display at the 1904 World’s Fair. She soon fell ill and died, and records suggest a world-renowned anthropologist from the Smithsonian Institution’s United States National Museum took part of her brain. Few people would know what happened to her for more than a century.<br /><small class=\"hero-source\">youtube.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Rising Prices of Rice",
+            "url": "https://www.rappler.com/nation/rice-prices-expected-rise-until-september-2023/",
+            "shortUrl": "",
+            "title": "Rice prices expected to rise until September",
+            "description": "Former agriculture chief Leonardo Montemayor says it is possible that rice prices will go up to P60 per kilo",
+            "date": "2023-08-17T12:59:42.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2023/8/17/marcos-expects-rice-prices-to-stabilize-as-harvest-starts",
+                "shortUrl": "",
+                "title": "Marcos expects more stable rice prices as harvest starts",
+                "description": "President Ferdinand \"Bongbong\" Marcos Jr. is optimistic that the price of rice will stabilize as harvest starts in major palay-producing regions.",
+                "date": "2023-08-18T00:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/08/19/2289731/rice-inventory-down-265-percent",
+                "shortUrl": "",
+                "title": "Rice inventory down 26.5 percent",
+                "description": "The country’s rice inventory continued to decline, dropping by 26.5 percent in April, according to data from the Philippine Statistics Authority.",
+                "date": "2023-08-19T01:30:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1819243/farmers-group-calls-for-abolition-of-nfa-for-always-relying-on-rice-imports",
+                "shortUrl": "",
+                "title": "Farmers’ group calls for abolition of NFA for always relying on rice imports",
+                "description": "Manila, Philippines — A large coalition of farm groups, Samahang Industriya ng Agrikultura (SINAG), has called for the abolition of the National Food Authority (NFA) for its reliance on rice",
+                "date": "2023-08-20T23:19:32.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/money/economy/878981/philippines-debt-seen-rising-to-p15-8-trillion-in-2024/story/",
+            "shortUrl": "",
+            "title": "Philippines’ debt seen rising to P15.8 trillion in 2024",
+            "description": "The country's outstanding debt is expected to increase to P15.8 trillion in 2024, National Treasurer Rosalia de Leon said on Tuesday.",
+            "date": "2023-08-15T12:19:59.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://interaksyon.philstar.com/politics-issues/2023/08/16/258412/down-the-drain-philippines-water-joint-ventures-stir-anger/",
+            "shortUrl": "",
+            "title": "Down the drain: Philippines water joint ventures stir anger",
+            "description": "Dozens of water districts sign corporate joint ventures, Consumers say services deteriorate as bills soar, More than 22 million lack safe water in the Philippines",
+            "date": "2023-08-16T17:05:34.000Z",
+            "tag": "Infrastructure",
+            "locale": ""
+        },
+        {
+            "url": "https://www.barrons.com/news/philippine-director-puts-women-at-the-heart-of-drug-war-film-8420a7a9",
+            "shortUrl": "",
+            "title": "Philippine Director Puts Women At The 'Heart' Of Drug War Film",
+            "description": "Widows and mothers are at the \"heart\" of a gritty documentary by Philippine filmmaker Sheryl Rose Andes, who turns the camera on women left behind by former president Rodrigo Duterte's deadly drug war.",
+            "date": "2023-08-10T02:38:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/8/20/metro-manila-sea-level-rise-high.html",
+            "shortUrl": "",
+            "title": "Metro Manila’s sea level rise nearly 3 times higher than global average – NAMRIA",
+            "description": "The sea level in Metro Manila is rising by nearly three times the global yearly average, according to the National Mapping and Resource Information Authority.",
+            "date": "2023-08-20T06:52:18.663Z",
+            "tag": "Environment",
+            "locale": ""
+        }
+    ]
+}
