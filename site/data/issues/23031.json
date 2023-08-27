@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23031,
+        "date": "2023-08-27T13:56:20.500Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.manilastandard.net/opinion/columns/eagle-eyes-by-tony-la-vina/314362836/power-of-sacrifice.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Power of Sacrifice</h1><p class=\"hero-dek\">“We are allowed to be upset about the devastating state of our nation; in fact, we should be” It is exactly 40 years since Ninoy Aquino was found face first and dead on the tarmac of Manila International Airport. This was later renamed Ninoy Aquino International Airport (NAIA) in commemoration of him.<br /><br /><small class=\"hero-source\">manilastandard.net</small></p></div></a></div></section>",
+        "contents": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.manilastandard.net/opinion/columns/eagle-eyes-by-tony-la-vina/314362836/power-of-sacrifice.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Power of Sacrifice<br /><small class=\"hero-source\">manilastandard.net</small></h1><p class=\"hero-dek\">“We are allowed to be upset about the devastating state of our nation; in fact, we should be” It is exactly 40 years since Ninoy Aquino was found face first and dead on the tarmac of Manila International Airport. This was later renamed Ninoy Aquino International Airport (NAIA) in commemoration of him.<br /><small class=\"hero-source\">manilastandard.net</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Intensifying Super Typhoon Goring (Saola)",
+            "url": "https://mb.com.ph/2023/8/27/goring-maintains-strength-lpa-outside-par-develops-into-tropical-depression-1",
+            "shortUrl": "",
+            "title": "'Goring' maintains strength; LPA outside PAR develops into tropical depression ",
+            "description": "Super Typhoon (STY) Goring continued to persist while moving south southeastward east-northeast of coastal waters of Casiguran, Aurora Province, the state weather bureau said on Sunday, Aug. 27.",
+            "date": "2023-08-26T23:52:15.671Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.cnnphilippines.com/news/2023/8/27/super-typhoon-goring.html",
+                "shortUrl": "",
+                "title": "Super Typhoon Goring keeps strength as it moves east of Casiguran",
+                "description": "Super Typhoon Goring has kept its strength as it moves south-southwestward east of Casiguran, Aurora.",
+                "date": "2023-08-27T10:35:28.949Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/08/27/2291799/hundreds-flee-floods-super-typhoon-goring-brushes-past-philippines",
+                "shortUrl": "",
+                "title": "Hundreds flee floods as super typhoon 'Goring' brushes past Philippines",
+                "description": "Hundreds of people fled their homes as floods unleashed by Super Typhoon Saola swept through mainly rural villages in the northeastern Philippines, rescue officials said Sunday.",
+                "date": "2023-08-27T05:28:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/article/1970986/manila/local-news/almost-2000-families-affected-by-goring",
+                "shortUrl": "",
+                "title": "Almost 2,000 families affected by ‘Goring’",
+                "description": "Nearly 2,000 persons, or 551 families were affected by the prevailing Super Typhoon Goring (Saola), the National Disaster Risk Reduction and Management Council (NDRRMC) said...",
+                "date": "2023-08-27T18:56:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.bbc.com/news/world-asia-66579853",
+            "shortUrl": "",
+            "title": "South China Sea: Philippines resupplies Spratlys shoal troops",
+            "description": "Manila claims mission success despite Beijing's attempts to \"block, harass and interfere\".",
+            "date": "2023-08-22T11:30:37.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.worldpoliticsreview.com/bangsamoro-philippines-peace-process/",
+            "shortUrl": "",
+            "title": "The Philippines’ Bangsamoro Peace Process Is Not Yet Complete",
+            "description": "A gun battle in June highlights the fragility of the peace process in fledgling Bangsamoro Autonomous Region in Muslim Mindanao.",
+            "date": "2023-08-25T12:23:44.000Z",
+            "tag": "Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://grist.org/international/can-manilas-cycling-boom-survive-a-return-to-car-traffic/",
+            "shortUrl": "",
+            "title": "Can Manila's cycling boom survive a return to car traffic?",
+            "description": "Metro Manila’s bicycling community surged early in the pandemic.",
+            "date": "2023-08-24T08:45:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.reuters.com/investigates/special-report/basketball-worldcup-philippines-fans/",
+            "shortUrl": "",
+            "title": "In FIBA World Cup host Philippines, basketball is life",
+            "description": "The Philippines' fervor for basketball is only intensifying ahead of the 2023 FIBA Basketball World Cup, which opens in Manila on Friday.",
+            "date": "2023-08-23T11:29:04.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
