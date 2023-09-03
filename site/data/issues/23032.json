@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23032,
+        "date": "2023-09-03T17:09:27.599Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Behind the AI boom, an army of overseas workers in ‘digital sweatshops’<br /><small class=\"hero-source\">washingtonpost.com</small></h1><p class=\"hero-dek\">Thousands of workers in the Philippines labor for San Francisco start-up Scale AI. Many don’t always get paid.<br /><small class=\"hero-source\">washingtonpost.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Gun-Wielding Dismissed Cop - Wilfredo Gonzales",
+            "url": "https://www.youtube.com/watch?v=sSMenCprTpM",
+            "shortUrl": "",
+            "title": "CCTV footage: What happened next after the gun was cocked in the QC road rage incident | ABS-CBN News",
+            "description": "(Translated) The CCTV footage shows another angle of the incident between a retired police officer and a cyclist at Welcome Rotonda, Quezon City on August 8.",
+            "date": "2023-08-30T14:25:45.000Z",
+            "locale": "Metro Manila"
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/newsbreak/iq/things-to-know-wilfredo-gonzales-dismissed-cop-drew-gun-unarmed-cyclist/",
+                "shortUrl": "",
+                "title": "Who is Wilfredo Gonzales, the dismissed cop who drew gun on unarmed cyclist?",
+                "description": "(1st Update) PNP spokesperson Police Colonel Jean Fajardo says Wilfredo 'Willie' Gonzales left the service with the rank of PO1 – after several demotions",
+                "date": "2023-08-29T07:03:04.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1824333/ex-cops-road-rage-costs-him-sc-job-qcpd-head-quits",
+                "shortUrl": "",
+                "title": "Ex-cop’s road rage costs him SC job; QCPD head quits",
+                "description": "MANILA, Philippines — After drawing flak for organizing an “inappropriate” press briefing for road rage suspect Wilfredo Gonzales, Quezon City Police District (QCPD) Brig. Gen. Nicolas Torre III submitted on Wednesday his courtesy resignation to Philippine National Police chief Gen. Benjamin Acorda Jr.",
+                "date": "2023-08-31T13:30:00.000Z",
+                "locale": "Metro Manila"
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/09/03/2293562/quezon-city-cops-face-raps-failure-protect-biker-gun-toting-incident",
+                "shortUrl": "",
+                "title": "Quezon City cops face raps for failure to protect biker in gun-toting incident",
+                "description": "Lawyer Raymond Fortun accused three cops from the Kamuning traffic division of oppression, irregularities in the performance of duties and incompetence in a case filed with the Quezon City People’s Law Enforcement Board (PLEB). ",
+                "date": "2023-09-03T07:31:00.000Z",
+                "locale": "Metro Manila"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://restofworld.org/2023/nickel-mining-evs-philippines-environment/",
+            "shortUrl": "",
+            "title": "Angry Philippine islanders are trying to stop the great nickel rush",
+            "description": "It’s very ironic that, in order to mitigate the impact of global warming, you have to cut down our trees … just to support the initiatives of Elon Musk.",
+            "date": "2023-08-30T10:00:00.000Z",
+            "tag": "Environment",
+            "locale": "Romblon"
+        },
+        {
+            "url": "https://www.bbc.com/news/world-asia-66668658",
+            "shortUrl": "",
+            "title": "Fishing with fear as Philippines stands up to China",
+            "description": "Fishermen are on the frontline of a worsening territorial standoff as Manila asserts itself against China.",
+            "date": "2023-08-31T16:00:20.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/880447/mike-enriquez-passes-away-at-71/story/",
+            "shortUrl": "",
+            "title": "Mike Enriquez passes away at 71",
+            "description": "GMA Network pillar Mike Enriquez has passed away. He was 71 years old.",
+            "date": "2023-08-29T11:56:54.000Z",
+            "tag": "Art & Entertainment",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/spotlight/08/31/23/why-is-espaa-in-manila-always-flooded",
+            "shortUrl": "",
+            "title": "Why is España in Manila always flooded?",
+            "description": "If there is one thing that España, Manila is notorious for, it's flooding.",
+            "date": "2023-08-31T15:39:34.000Z",
+            "tag": "Infrastructure",
+            "locale": ""
+        }
+    ]
+}
