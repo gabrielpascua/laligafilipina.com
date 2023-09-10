@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23033,
+        "date": "2023-09-10T14:00:19.968Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.vice.com/en/article/qjvz9q/inside-fliptop-the-legendary-rap-battle-league-from-the-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Inside FlipTop: The Legendary Battle Rap League From the Philippines<br /><small class=\"hero-source\">vice.com</small></h1><p class=\"hero-dek\">VICE spoke with the league’s founder and emcees about how it has shaped local hip-hop for over a decade.<br /><small class=\"hero-source\">vice.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "(In)Stability of the Country's Economy",
+            "url": "https://www.philstar.com/headlines/2023/09/06/2294131/rice-price-ceiling-underwent-thorough-study-da",
+            "shortUrl": "",
+            "title": "Rice price ceiling underwent thorough study – DA",
+            "description": "The mandated price ceiling on rice was not rushed and went through rigorous studies before implementation, Department of Agriculture-Bureau of Plant Industry director Gerald Glenn Panganiban said yesterday after some retailers complained of losses.",
+            "date": "2023-09-05T16:00:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314367346/fuel-prices-up-for-9th-week-in-a-row-dbm-sets-p3b-in-transport-subsidies.html",
+                "shortUrl": "",
+                "title": "Fuel prices up for 9th week in a row; DBM sets P3b in transport subsidies - Manila Standard",
+                "description": "Domestic pump prices for fuels went up anew on Tuesday by P1.20 per liter for diesel, P1.10 per liter for kerosene, and P0.50 per liter for gasoline — the ninth consecutive week of hikes for diesel and kerosene and the eighth for gasoline.",
+                "date": "2023-09-04T16:45:51.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.reuters.com/markets/asia/philippines-inflation-unexpectedly-quickens-53-august-2023-09-05/",
+                "shortUrl": "",
+                "title": "Philippines inflation unexpectedly quickens to 5.3% in August",
+                "description": "Philippine inflation proved stubborn after it unexpectedly quickened for the first time in seven months in August, due largely to an uptick in food and transport costs, keeping the pressure on the central bank to maintain its hawkish stance.",
+                "date": "2023-09-05T02:09:13.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://business.inquirer.net/419819/jobless-rate-rose-again-to-4-8-in-july-2023",
+                "shortUrl": "",
+                "title": "Jobless rate rose again to 4.8% in July 2023",
+                "description": "Manila  -The unemployment rate in the Philippines climbed to a five-month high of 4.8 percent in July with 2.27 million Filipinos available and looking for jobs, according to preliminary data at the Philippine Statistics Authority.",
+                "date": "2023-09-08T18:06:23.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/money/economy/881545/philippines-debt-balloons-further-to-new-record-p14-24t-as-end-july/story/",
+            "shortUrl": "",
+            "title": "Philippine debt balloons further to new record P14.24T as end-July",
+            "description": "The Philippines’ sovereign debt has swelled to a new record high as of end -July as the government ramped up its fund raising efforts in the domestic market to support budgetary requirements, data released by the Bureau of the Treasury (BTr) showed.",
+            "date": "2023-09-08T16:44:55.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/09/06/23/kasambahay-elvie-faces-off-with-alleged-abusive-employers",
+            "shortUrl": "",
+            "title": "Kasambahay Elvie faces off with alleged abusive employers",
+            "description": "In front of the Ruiz couple, Vergara again narrated her supposed ordeal in his employers’ hands.",
+            "date": "2023-09-05T08:39:30.000Z",
+            "tag": "Labor Rights",
+            "locale": ""
+        },
+        {
+            "url": "https://www.usnews.com/news/world/articles/2023-09-08/china-repeats-opposition-to-philippines-grounded-warship",
+            "shortUrl": "",
+            "title": "Philippines Condemns Chinese Harassment of Supply Boats to Disputed Atoll",
+            "description": "Beijing/Manila (Reuters) -The Philippines condemned China's coast guard and \"maritime militia\" on Friday for what it described as \"illegal, aggressive and destabilising\" behaviour towards its boats during a routine rotation and resupply mission in the South China Sea.",
+            "date": "2023-09-08T07:23:00.000Z",
+            "tag": "South China Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://news.un.org/en/story/2023/09/1140337",
+            "shortUrl": "",
+            "title": "Philippines: Indigenous knowledge takes on climate crisis",
+            "description": "In the mountainous province of Bukidnon in the southern Philippines, local indigenous groups are being forced to adapt to the alarming impacts of climate change. With UN support, communities are making significant strides, using centuries-old knowledge to forge sustainable solutions.",
+            "date": "2023-09-03T18:00:01.000Z",
+            "tag": "Environment",
+            "locale": "Bukidnon"
+        }
+    ]
+}
