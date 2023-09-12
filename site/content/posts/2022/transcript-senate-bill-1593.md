@@ -5,7 +5,6 @@ tags: ["Press Freedom", "Democracy"]
 publishDate: 2022-12-14
 author: 
 description: "Read the full transcript of Senate Bill 1593 introduced by Senator Risa Hontiveros to decriminalize libel. In it are provisions preventing the courts to imprison defendants accused of defamation on social media platforms."
-slug: transcript-senate-bill-1593
 ---
 
 <hr class="mb-10" />

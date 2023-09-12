@@ -5,7 +5,6 @@ tags: ["Food", "Tourism", "Mindanao"]
 publishDate: 2020-08-30T10:50:23.819Z
 author: 
 description: Representation matters. In a nation as diverse as the Philippines, which is home to over 7,600 islands, dozens of ethnic tribes and nearly 200 languages, it’s not easy to forge an inclusive national identity. 
-slug: rethinking-filipino-food-by-going-to-muslim-mindanao
 ---
 
 {{< youtube 7ZcoBFeiuA8 >}}
