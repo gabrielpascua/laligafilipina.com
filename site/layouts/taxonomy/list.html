@@ -1,33 +1,56 @@
 {{ define "main" }}
 
+{{ $currentYear := substr now.Year 2 }}
+{{ $currentTitle := .Title }}
+
 {{ $section := .Site.GetPage "section" .Section }}
 <section class="pl-4 pr-4 mb-14 mt-14 max-w-screen-lg m-auto">
-  <main class="pt-1 pb-1 md:pl-20 md:pr-20">
-    <h1 class="hero-lead">{{ .Title }} Stories</h1>
+  <main class="pt-1 pb-1 md:pl-8 md:pr-8">
+    <h1 class="hero-lead">{{ replace $currentTitle " and " " & " }} Stories</h1>
     {{- .Content -}}
-    <div class="mt-14">
-      <ul>
-        {{ range first 5 (.Pages.ByDate.Reverse) }}
-            <li class="mb-8 border-t pt-8 last:border-b last:pb-12 text-sm md:text-base">
-                <a href="{{.Permalink}}">
-                  <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
-                  <p class="text-gray-700">
-                    {{.Description | safeHTML }}
-                    <span class="text-gray-400">&mdash; {{.Date.Format "January 02, 2006"}}</span>
-                  </p>
-                </a>
-                <p class="text-zinc-700 mt-2 text-xs">
-                  <a href="/issues/{{ .Params.issues }}" class="">
-                    Issue No.
-                    <span class="text-amber-500">{{ .Params.issues }}</span>
-                    <!-- |
-                    Source:
-                    <span class="text-amber-500">youtube.com</span> -->
+    <div class="mt-14 md:flex md:flex-row">
+      <div class="basis-2/3 md:pr-10">
+        <ul>
+          {{ range first 5 (.Pages.ByDate.Reverse) }}
+              <li class="mb-8 border-t pt-8 last:border-b last:pb-12 text-sm md:text-base">
+                  <a href="{{.Permalink}}">
+                    <h3 class="font-bold capitalize text-gray-800 mb-1">{{.Title}}</h3>
+                    <p class="text-gray-700">
+                      {{.Description | safeHTML }}
+                      <span class="text-gray-400">&mdash; {{.Date.Format "January 02, 2006"}}</span>
+                    </p>
                   </a>
-                </p>
-            </li>
-        {{ end }}
-      </ul>
+                  <p class="text-zinc-700 mt-2 text-xs">
+                    <a href="/issues/{{ .Params.issues }}" class="">
+                      Issue No.
+                      <span class="text-amber-500">{{ .Params.issues }}</span>
+                    </a>
+                  </p>
+              </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="basis-1/3">
+        <div class="border p-4 rounded">
+          <h1>Most Recent News</h1>
+          {{/* https://gohugo.io/functions/scratch/ */}}
+          {{- $articleCount := newScratch -}}
+          {{- $articleCount.Set "count" 0 -}}
+          {{- range $key, $value := (first 52 (sort $.Site.Data.issues ".issue.number" "desc")) }}
+            {{- if strings.Contains .issue.number $currentYear }}
+              {{- range .carousel }}
+                {{- if eq .tag $currentTitle }}
+                  {{- if lt ($articleCount.Get "count") 10 }}
+                    <p><a href="{{ .url }}">{{ .title }}</a></p>
+                    <hr />
+                    {{- $articleCount.Add "count" 1 -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+            {{- end -}}
+          {{- end}}
+        </div>
+      </div>
     </div>
   </main>
 </section>
