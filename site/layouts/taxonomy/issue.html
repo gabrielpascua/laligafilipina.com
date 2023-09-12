@@ -138,7 +138,7 @@
             {{ end }}
             <div>
                 <div class="container mx-auto pl-4 pr-4">
-                    <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-700">In {{ .tag }}</span>
+                    <span class="text-xs min-w-[80px] bg-white relative top-3 left-0 pl-2 pr-2 text-zinc-700">In {{ replace .tag " and " " & " }}</span>
                 </div>
                 <div class="border border-gray-400 rounded mb-3 pt-1">
                     <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">

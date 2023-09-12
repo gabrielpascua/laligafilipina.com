@@ -25,7 +25,7 @@
       {{- with .Params.tags }}
         {{ range . }}
           <a href="{{ "tags" | absURL }}/{{ . | urlize }}" class="mr-4">
-            <small class="font-semibold text-amber-500">{{ . }}</small>
+            <small class="font-semibold text-amber-500">{{ replace . " and " " & "  }}</small>
           </a>
         {{ end }}
       {{ end -}}
