@@ -78,7 +78,7 @@
                         {{ $primaryContentLink = .primary.shortUrl }}
                     {{ end }}
                     <a href="{{ $primaryContentLink }}" class="p-6 block">
-                        <h3 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h3>
+                        <h2 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h2>
                         <p class="text-sm leading-5 text-zinc-500">
                             {{ .primary.description | safeHTML }}
                             {{ if .primary.date }}
@@ -143,7 +143,7 @@
                 <div class="border border-gray-400 rounded mb-3 pt-1">
                     <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
                         <div class="pt-2">
-                            <h3 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h3>
+                            <h2 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h2>
                             <p class="text-sm text-zinc-500 pl-6 pr-6">
                                 {{ .description | safeHTML }}
                                 {{ if .date }}
