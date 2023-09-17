@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23034,
+        "date": "2023-09-17T14:29:22.052Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.aljazeera.com/news/2023/9/13/disappearances-speak-to-dangers-of-environmental-activism-in-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Disappearances ‘speak to dangers’ of environmental activism in Philippines<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Some 15 activists and community organisers have gone missing since Ferdinand Marcos Jr took power in the Philippines.<br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Vice President's Multimillion Peso Confidential Funds",
+            "url": "https://www.philstar.com/the-freeman/opinion/2023/09/12/2295581/confidential-funds-spotlight",
+            "shortUrl": "",
+            "title": "Confidential funds in the spotlight",
+            "description": "What distinguishes confidential funds from intelligence funds?",
+            "date": "2023-09-11T16:00:00.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/1830098/vp-undaunted-by-attacks-against-her-secret-funds",
+                "shortUrl": "",
+                "title": "Sara Duterte undaunted by attacks against her secret funds",
+                "description": "Eager to put the past weeks behind her, Vice President Sara Duterte expressed hope that the criticisms over the lack of transparency in her request and use of confidential funds would “eventually lose its charm”",
+                "date": "2023-09-12T13:05:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2023/9/12/vp-duterte-explains-why-she-singled-out-castro-and-hontiveros-i-have-no-respect-for-them",
+                "shortUrl": "",
+                "title": "VP Duterte explains why she singled out Castro and Hontiveros: 'I have no respect for them'",
+                "description": "“I have no respect for them.”This was what Vice President and Education Secretary Sara Duterte said on Tuesday, Sept. 12, when asked why she singled out ACT Teachers Party-list Rep. France Castro and opposition Senator Risa Hontiveros when she issued an earlier statement against those questioning her office’s use of confidential funds in 2022.",
+                "date": "2023-09-12T14:10:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/nation/hontiveros-response-sara-duterte-confidential-funds-issue-do-not-need-your-respect/",
+                "shortUrl": "",
+                "title": "Hontiveros to Sara Duterte: No need to respect me, just account for confidential funds",
+                "description": "'Higit isang linggo na simula nang nag-hearing tungkol sa confidential funds, pero mas marami ka pang patutsada kaysa sa paliwanag,' says Senator Risa Hontiveros",
+                "date": "2023-09-14T10:29:07.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/9/14/jullebee-ranara-killer-convicted-dfa.html",
+            "shortUrl": "",
+            "title": "OFW Jullebee Ranara’s killer convicted of murder",
+            "description": "Ranara was slain by her employer’s 17-year-old son in January. Because the killer was a minor, he received a lesser sentence of 15 years of imprisonment for murder and one year behind bars for driving without a license.",
+            "date": "2023-09-14T15:49:31.476Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/09/16/news/national/8-policemen-in-jemboy-slay-axed/1910239",
+            "shortUrl": "",
+            "title": "8 policemen in Jemboy slay axed",
+            "description": "The Philippine National Police (PNP) on Friday ordered the dismissal from service of eight of its men, including two middle rank officers, allegedly involved in the death of 17-year-old Jerhode 'Jemboy' Baltazar in Caloocan City on Aug. 2, 2023.",
+            "date": "2023-09-15T16:14:00.000Z",
+            "tag": "Police and Law Enforcement",
+            "locale": ""
+
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314369831/ressa-cleared-on-5th-charge-of-tax-evasion-by-pasig-court.html",
+            "shortUrl": "",
+            "title": "Ressa cleared on 5th charge of tax evasion by Pasig court - Manila Standard",
+            "description": "Nobel laureate Maria Ressa was acquitted Tuesday of her final tax evasion charge, the latest legal victory for the veteran journalist as she battles to stay out of prison. Ressa smiled as the judge delivered the verdict in a case that has dragged on for nearly five years.",
+            "date": "2023-09-12T16:50:30.000Z",
+            "tag": "Press Freedom",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/09/13/23/walang-batang-maiiwan-masbate-teacher-feeds-clothes-and-gives-shoes-to-schoolkids",
+            "shortUrl":"",
+            "title":"Walang Batang Maiiwan: Masbate teacher feeds, clothes and gives shoes to schoolkids",
+            "description": "Anas Elementary School teacher Ronnie Valladores Jr. often wondered why so many of his students were frequently absent or suffered low academic performance.",
+            "date": "2023-09-13T11:08:53.000Z",
+            "tag": "Education",
+            "locale": "Masbate"
+        }
+    ]
+}
