@@ -1,7 +1,7 @@
 ---
 title: criminal complaints filed against 50 cops
 issues: 23024
-tags: ["War on Drugs", "Corruption", "Police"]
+tags: ["War on Drugs", "Corruption", "Police and Law Enforcement"]
 publishDate: 2023-06-13T08:48:56.962Z
 author: 
 description: The National Police Commission and the PNP file a criminal complaint vs 50 cops in relation to P6.7-B shabu mess

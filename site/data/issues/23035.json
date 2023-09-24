@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23035,
+        "date": "2023-09-24T13:51:50.325Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.philstar.com/headlines/2023/09/22/2298233/learning-poverty-philippines-linked-poor-teaching-quality-world-bank-study\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Learning poverty in the Philippines linked to poor teaching quality – World Bank study<br /><small class=\"hero-source\">philstar.com</small></h1><p class=\"hero-dek\">A new World Bank report found the Philippines to have one of the most ineffective teaching practices in Southeast Asia, and past teacher training programs have failed to improve mastery of content.<br /><small class=\"hero-source\">philstar.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Abducted Manila Bay Environmental Activists",
+            "url": "https://www.cnnphilippines.com/news/2023/9/19/Environmental-activists-deny-surrender-military-.html",
+            "shortUrl": "",
+            "title": "Environmental activists deny surrendering to authorities, claim military abducted them",
+            "description": "The NTF-ELCAC officials says that they felt \"betrayed\" by Tamano's and Castro's statements, insisting that the two just \"parroted the propaganda lines of Leftist groups on their supposed abduction by security forces.\"",
+            "date": "2023-09-19T14:24:21.043Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.benarnews.org/english/news/philippine/activists-speak-09192023150128.html",
+                "shortUrl": "",
+                "title": "Filipina environmental activists freed from detention claim military abducted them",
+                "description": "Officials insisted the duo voluntarily surrendered to the military.",
+                "date": "2023-09-19T19:03:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.aljazeera.com/news/2023/9/21/two-activists-freed-in-philippines-after-being-abducted-by-the-military",
+                "shortUrl": "",
+                "title": "Two activists freed in Philippines after being ‘abducted by the military’",
+                "description": "Jonila Castro and Jhed Tamano disappeared while working with communities opposed to Manila Bay reclamation projects.",
+                "date": "2023-09-21T04:12:40.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/nation/afp-wants-perjury-charges-against-environmental-activists/",
+                "shortUrl": "",
+                "title": "AFP wants perjury charges against 2 environmental activists",
+                "description": "(3rd UPDATE) Just the day before, environmental activists Jhed Tamano and Jonila Castro said – in the presence of government and military officials – they were abducted by the military",
+                "date": "2023-09-20T14:32:52.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://opinion.inquirer.net/166370/urgency-of-land-use-act",
+            "shortUrl": "",
+            "title": "Urgency of Land Use Act",
+            "description": "The devastation brought about by heavy rains in Cebu and Mandaue cities this week should be a cautionary tale on what unregulated and unsustainable urbanization can do. Major areas in the two cities were transformed into waterways with floods rising to as high as two meters or about 6.5 feet.",
+            "date": "2023-09-17T13:03:00.000Z",
+            "tag": "Infrastructure",
+            "locale": ""
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/09/23/news/smog-cloaks-metro-manila/1911335",
+            "shortUrl": "",
+            "title": "Smog cloaks Metro Manila",
+            "description": "Smog — a gray cloud of atmospheric pollutants from vehicle emissions — blanketed most of Metro Manila and neighboring communities on Friday, forcing the suspension of classes and prompting authorities to advise the wearing of face masks outdoors.",
+            "date": "2023-09-22T16:42:00.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/article/1973500/manila/local-news/over-15000-barangays-with-unopposed-bets",
+            "shortUrl": "",
+            "title": "Over 15,000 barangays with unopposed bets",
+            "description": "More than 15,000 candidates in the October 30 Barangay and Sangguniang Kabataan Elections (BSKE) are likely to have a breeze going through Election Day. This as a total of 15,283 barangay and SK candidates for chairpersons were found to be unopposed",
+            "date": "2023-09-23T00:38:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2023/9/17/dep-ed-to-pilot-matatag-curriculum-in-35-schools-7-regions-starting-sept-25",
+            "shortUrl": "",
+            "title": "DepEd to pilot MATATAG Curriculum in 35 schools, 7 regions starting Sept. 25",
+            "description": "The Department of Education (DepEd) on Sunday, Sept. 17, released the list of schools that will participate in the pilot implementation of the revised K to 10 curriculum this school year.",
+            "date": "2023-09-17T07:07:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        }
+    ]
+}

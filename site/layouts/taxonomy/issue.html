@@ -28,7 +28,7 @@
 {{ end }}
 
 {{ with (index .Site.Data.issues $currentIssue) }}
-<div class="pt-3 bg-[#f4f4f4] text-xs md:text-small {{ .issue.theme }} breadcrumb">
+<div class="pt-3 bg-[#f9f9f9] text-xs md:text-small {{ .issue.theme }} breadcrumb">
     <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center text-zinc-400 border-b pb-3 breadcrumb-container">
         <div class="flex flex-row justify-evenly">
             <div>
@@ -88,7 +88,7 @@
                         <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                     </a>
 
-                    <div class="pl-6 pr-7 pt-6 pb-10 bg-[#f8f8f8] rounded-b">
+                    <div class="pl-6 pr-7 pt-6 pb-10 bg-[#f9f9f9] rounded-b">
                         {{- if (isset .primary "lead") }}
                         <span class="block text-xs font-bold text-gray-800 mb-6 border-b border-b-gray-300 pb-6 text-gray-800">
                             More on {{ .primary.lead | safeHTML}}
