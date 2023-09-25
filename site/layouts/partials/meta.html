@@ -1,5 +1,26 @@
-<title>{{ $.Site.Title }}{{- if not $.IsHome -}} - {{ $.Title }}{{- end -}}</title>
-<meta name="description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{$.Description}}{{end}}" />
-<meta property="og:title" content="{{$.Title}}" />
-<meta property="og:description" content="{{if .IsHome}}{{ $.Site.Params.description }}{{else}}{{$.Description}}{{end}}" />
+{{- if .IsHome }}
+<title>{{ $.Site.Title }}</title>
+<meta property="og:title" content="{{$.Site.Title}}" />
+<meta name="description" content="{{ $.Site.Params.description }}" />
+<meta property="og:description" content="{{ $.Site.Params.description }}" />
+
+{{- else if eq $.Type "tags" }}
+<title>{{ $.Site.Title }} - {{ $.Title }}</title>
+<meta property="og:title" content="{{ $.Site.Title }} - {{$.Title}}" />
+<meta name="description" content="{{$.Title}} stories around the Philippines" />
+<meta property="og:description" content="{{$.Title}} stories around the Philippines" />
+
+{{- else if eq $.Type "issues" }}
+<title>{{ $.Site.Title }} - Archives</title>
+<meta property="og:title" content="{{ $.Site.Title }} - Archives" />
+<meta name="description" content="Issue #{{$.Title}}" />
+<meta property="og:description" content="Issue #{{$.Title}}" />
+
+{{- else }}
+<title>{{ $.Site.Title }} - {{ $.Title }}</title>
+<meta property="og:title" content="{{ $.Site.Title }} - {{$.Title}}" />
+<meta name="description" content="{{$.Description}}" />
+<meta property="og:description" content="{{$.Description}}" />
+{{ end  -}}
+
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
