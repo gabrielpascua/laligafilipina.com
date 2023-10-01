@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23036,
+        "date": "2023-10-01T13:51:50.325Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://qz.com/rich-countries-are-importing-a-solution-to-their-nursin-1850691166\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Rich countries are importing a solution to their nursing shortages—and poor countries are paying the price<br /><small class=\"hero-source\">qz.com</small></h1><p class=\"hero-dek\">As US healthcare workers quit in droves, record numbers of migrant nurses from the Philippines and elsewhere are filling the void<br /><small class=\"hero-source\">qz.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Floating Barrier By China in Scarborough Shoal",
+            "url": "https://globalnation.inquirer.net/219702/china-installs-floating-barrier-in-southeast-bajo-de-masinloc-shoal-pcg-says",
+            "shortUrl": "",
+            "title": "PCG: China installs floating barrier southeast of Bajo de Masinloc",
+            "description": "Manila, Philippines — The Chinese Coast Guard (CCG) has installed a floating barrier southeast of Bajo de Masinloc, also known as Panatag Shoal or Scarborough Shoal, the Philippine Coast Guard (PCG) revealed Sunday.",
+            "date": "2023-09-24T21:17:14.000Z",
+            "tag": "West Philippine Sea",
+            "locale": "Zambales"
+        },
+        "secondary": [
+            {
+                "url": "https://www.npr.org/2023/09/25/1201453587/manila-vows-to-remove-barrier-placed-by-chinas-coast-guard-at-a-disputed-site",
+                "shortUrl": "",
+                "title": "Manila vows to remove barrier placed by China's coast guard at a disputed site",
+                "description": "Philippine officials vowed Monday to remove a floating barrier placed by China's coast guard to prevent Filipino fishing boats from entering a disputed lagoon in the South China Sea.",
+                "date": "2023-09-25T07:56:50.000Z",
+                "locale": "Zambales"
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314374045/pcg-removes-china-barrier.html",
+                "shortUrl": "",
+                "title": "PCG removes China barrier - Manila Standard",
+                "description": "The Philippine Coast Guard (PCG) on Monday removed the floating barriers installed by China at a shoal in the West Philippine Sea that blocked Filipino fishermen from the fish-rich area, following the orders of the President and the direction on National Security Adviser Eduardo Ano.",
+                "date": "2023-09-25T17:00:10.000Z",
+                "locale": "Zambales"
+            },
+            {
+                "url": "https://www.reuters.com/world/asia-pacific/what-is-risk-conflict-disputed-scarborough-shoal-2023-09-26/",
+                "shortUrl": "",
+                "title": "What is Scarborough Shoal in the South China Sea and why are China and the Philippines disputing it?",
+                "description": "The Philippines on Tuesday vowed not to back down against a Chinese move to block its fishermen from a hotly contested area of the South China Sea, as Beijing warned against provocations after Manila severed its floating barrier.",
+                "date": "2023-09-27T04:51:55.000Z",
+                "locale": "Zambales"
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2023/9/25/p125-m-ovp-confidential-funds-were-spent-in-just-11-days-not-19-says-quimbo",
+            "shortUrl": "",
+            "title": "₱125-M OVP confidential funds were spent in just 11 days, not 19, says Quimbo",
+            "description": "Quimbo said COA has committed to finish its audit of the ₱125 million by Nov. 15 this year.",
+            "date": "2023-09-25T05:43:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://interaksyon.philstar.com/politics-issues/2023/09/28/261422/for-filipino-wartime-rape-survivors-a-last-hope-for-reparations/",
+            "shortUrl": "",
+            "title": "For Filipino wartime rape survivors, a last hope for reparations",
+            "description": "Women raped by Imperial Japanese soldiers in 1944, UN body calls for reparations from Philippines government, Remaining survivors pin hopes for fund on President Marcos",
+            "date": "2023-09-28T10:55:10.000Z",
+            "tag": "Women's Rights and Advocacy",
+            "locale": "Pampanga"
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/09/30/news/marcos-okays-p127-b-financial-aid-to-rice-farmers/1912559",
+            "shortUrl": "",
+            "title": "Marcos okays ₱12.7-B financial aid to rice farmers",
+            "description": "President Ferdinand Marcos Jr. has approved and ordered the release of ₱12.7 billion for the Rice Farmers Financial Assistance (RFFA) to help about 2.3 million small rice farmers amid some agricultural challenges in the country, Malacañang announced Saturday.",
+            "date": "2023-09-30T02:33:00.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/9/25/philhealth-hack-medusa-ransomware-hacker-price.html",
+            "shortUrl": "",
+            "title": "Hackers demand $300,000 for compromised PhilHealth database",
+            "description": "Hackers have asked for $300,000 or roughly P17 million from the government after the database of state insurer PhilHealth was hacked through the Medusa ransomware, according to the Department of Information and Communications Technology.",
+            "date": "2023-09-25T23:02:15.123Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}

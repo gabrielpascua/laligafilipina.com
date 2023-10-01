@@ -6,7 +6,7 @@
 {{ $section := .Site.GetPage "section" .Section }}
 <section class="pl-4 pr-4 md:pl-2 md:pr-2 mb-14 mt-14 max-w-screen-lg m-auto">
   <main class="pt-1 pb-1 md:pl-8 md:pr-8 md:pt-8">
-    <h1 class="hero-lead">{{ replace $currentTitle " and " " & " }} Stories</h1>
+    <h1 class="hero-lead">{{ replace $currentTitle " and " " & " }}</h1>
     {{- .Content -}}
     <div class="mt-14 md:flex md:flex-row">
       <div class="basis-2/3 md:pr-12">
