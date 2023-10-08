@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23037,
+        "date": "2023-10-08T12:55:47.011Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.npr.org/2023/10/06/1201087955/philippines-water-shortage-dam\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines' capital is running out of water. Is building a dam the solution?<br /><small class=\"hero-source\">npr.org</small></h1><p class=\"hero-dek\">Officials say the Kaliwa Dam will help alleviate an impending water shortage in the capital that's being exacerbated by climate change. But the project is plagued with controversies and questions.<br /><small class=\"hero-source\">npr.org</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "₱1 Provisional Jeepney Fare Hike",
+            "url": "https://mb.com.ph/2023/10/3/ltfrb-approves-p1-provisional-fare-increase-for-modern-traditional-jeepneys-starting-oct-8",
+            "shortUrl": "",
+            "title": "LTFRB approves P1 provisional fare increase for modern, traditional jeepneys starting Oct. 8",
+            "description": "Starting Sunday, Oct. 8, the minimum fare for all passenger jeepneys across the country will increase by P1 following the approval of the Land Transportation Franchising and Regulatory Board (LTFRB) amid the series of oil price hikes in the past weeks.",
+            "date": "2023-10-02T09:43:59.691Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/884025/ltfrb-oks-p1-provisional-fare-hike-for-pujs/story/",
+                "shortUrl": "",
+                "title": "Effective Oct. 8: LTFRB OKs P1 provisional fare hike for PUJs",
+                "description": "The Land Transportation Franchising and Regulatory Board (LTFRB) on Tuesday approved a P1 provisional increase in the minimum fare for public utility jeepneys (PUJs) effective Sunday, October 8.",
+                "date": "2023-10-03T07:58:11.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1840597/jeepney-fares-up-by-p1-starting-oct-8-ltfrb",
+                "shortUrl": "",
+                "title": "Jeepney fares up by P1 starting Oct. 8 — LTFRB",
+                "description": "Fares for traditional and modern jeepneys nationwide will increase by P1 starting Oct. 8 after the Land Transportation Franchising and Regulatory Board (LTFRB) approved on Tuesday a petition filed by transport groups for a provisional increase.",
+                "date": "2023-10-04T13:55:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://interaksyon.philstar.com/trends-spotlights/2023/10/06/261933/p1-fare-hike-on-jeepneys-only-a-short-term-solution-says-transport-group/",
+                "shortUrl": "",
+                "title": "P1 fare hike on jeepneys 'only a short-term solution,' says transport group",
+                "description": "A group of mobility advocates called for better sustainable options than fare hikes to benefit both commuters and jeepney drivers. expressed this in a statement following the LTFRB’s approval of the P1 increase in jeepney rides.",
+                "date": "2023-10-06T01:22:41.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://foreignpolicy.com/2023/10/07/imelda-marcos-philippines-dictatorship-ferdinand-bongbong-history-memory/",
+            "shortUrl": "",
+            "title": "The Fabulous Mythmaking of Imelda Marcos",
+            "description": "A new novel claws back history from a family that would otherwise have it disappear.",
+            "date": "2023-10-07T06:00:45.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/10/06/23/deadly-ramming-incident-in-west-ph-sea-leaves-survivors-devastated",
+            "shortUrl": "",
+            "title": "Deadly ramming incident in West PH Sea leaves survivors devastated",
+            "description": "Monday's ramming incident in the West Philippine Sea has had a significant impact on the lives of the fishermen involved.",
+            "date": "2023-10-05T17:03:55.000Z",
+            "tag": "West Philippine Sea",
+            "locale": "Pangasinan"
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/10/3/philhealth-members-info-leaked.html",
+            "shortUrl": "",
+            "title": "Hackers begin publishing PhilHealth data on dark web – DICT",
+            "description": "PhilHealth says it is still determining if hackers were able to obtain members’ information.",
+            "date": "2023-10-04T04:12:30.396Z",
+            "tag": "Technology",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314377332/inflation-rises-anew-to-6-1.html",
+            "shortUrl": "",
+            "title": "Inflation rises anew to 6.1% - Manila Standard",
+            "description": "Rice, drinks propel prices of goods to four-month high, over gov’t target Inflation hit a four-month high of 6.1 percent in September, up from 5.3 percent a month ago due to faster increases in the prices of food, especially rice, and non-alcoholic beverages, the Philippine Statistic Authority (PSA) said Thursday.",
+            "date": "2023-10-05T17:30:02.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}
