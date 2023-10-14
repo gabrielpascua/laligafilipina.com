@@ -16,7 +16,8 @@
             "title": "Flights delayed, canceled due to power outage at Naia Terminal 3",
             "description": "Manila, Philippines — Several flights have been delayed or canceled due to a power failure that struck the Ninoy Aquino International Airport (Naia) Terminal 3 on Labor Day, May 1.",
             "date": "2023-05-01T15:33:21.000Z",
-            "locale": "Metro Manila"
+            "locale": "Metro Manila",
+            "tag": "Transportation"
         },
         "secondary": [
             {
