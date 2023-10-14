@@ -11,6 +11,8 @@
     <div class="mt-14 md:flex md:flex-row">
       <div class="basis-2/3 md:pr-12">
         <ul>
+          {{- $internalContentCount := newScratch -}}
+          {{- $internalContentCount.Set "count" 0 -}}
           {{ range first 5 (.Pages.ByDate.Reverse) }}
               <li class="mb-8 border-t pt-8 md:last:border-b last:pb-12 text-sm md:text-base">
                   <a href="{{.Permalink}}">
@@ -29,6 +31,7 @@
                     </a>
                   </p>
               </li>
+              {{- $internalContentCount.Add "count" 1 -}}
           {{ end }}
         </ul>
       </div>
@@ -41,31 +44,19 @@
           {{- $articleCount := newScratch -}}
           {{- $articleCount.Set "count" 0 -}}
           {{- range $key, $value := (first 52 (sort $.Site.Data.issues ".issue.number" "desc")) }}
+              {{- if eq .ticker.primary.tag $currentTitle }}
+                {{- with .ticker.primary -}}
+                {{- if lt ($articleCount.Get "count") (mul ($internalContentCount.Get "count") 2) }}
+                  {{ partial "list-news" . }}
+                  {{- $articleCount.Add "count" 1 -}}
+                {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
               {{- range .carousel }}
                 {{- if eq .tag $currentTitle }}
-                  {{- if lt ($articleCount.Get "count") 10 }}
-                    <a href="{{ .url }}" title={{ .title }} class="block pt-3 pb-3 border-t last:m-b-6">
-                      <h3 class="text-base text-sm text-gray-800 leading-4 mb-1 md:leading-5 capitalize flex">
-                        <div class="pr-2 ml-4">
-                          <span class="font-semibold">
-                            {{ .title }}
-                          </span>
-                          {{ if .date }}
-                          <span class="text-zinc-400">
-                            - {{ .date | time.Format ":date_long" }}
-                          </span>
-                          {{- end -}}
-                          <br />
-                          <span class="text-xs text-amber-500 block mt-1 lowercase">
-                            {{ $articleUrl := urls.Parse .url }}
-                            {{ replace $articleUrl.Host "www." "" }}
-                          </span>
-                        </div>
-                        <span class="font-bold pl-2 pt-1 pr-3">
-                          {{ partial "external-link" }}
-                        </span>
-                      </h3>
-                    </a>
+                  {{- if lt ($articleCount.Get "count") (mul ($internalContentCount.Get "count") 2) }}
+                    {{ partial "list-news" . }}
                     {{- $articleCount.Add "count" 1 -}}
                   {{- end -}}
                 {{- end -}}
