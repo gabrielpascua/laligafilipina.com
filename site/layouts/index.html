@@ -23,10 +23,10 @@
                             {{ end }}
                             <a href="{{ $primaryContentLink }}" class="p-6 block">
                                 <h2 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h2>
-                                <p class="text-sm leading-5 text-zinc-500">
+                                <p class="text-sm leading-5 text-zinc-600">
                                     {{ .primary.description | safeHTML }}
                                     {{ if .primary.date }}
-                                        <span class="text-zinc-400">&mdash; {{ .primary.date | time.Format ":date_long" }}</span>
+                                        <span class="text-zinc-500">&mdash; {{ .primary.date | time.Format ":date_long" }}</span>
                                     {{ end }}
                                 </p>
                                 <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
@@ -54,10 +54,10 @@
                                         <p class="leading-5 text-sm">
                                             <strong class="font-bold capitalize text-gray-800 pb-1 block md:text-base">{{ .title }}</strong>
                                             {{- if (isset . "description") }}
-                                                <span class="text-zinc-500">{{ .description }}</span>
+                                                <span class="text-zinc-600">{{ .description }}</span>
                                             {{ end }}
                                             {{ if .date }}
-                                                <span class="text-zinc-400"> &mdash; {{ .date | time.Format ":date_long" }}</span>
+                                                <span class="text-zinc-500"> &mdash; {{ .date | time.Format ":date_long" }}</span>
                                             {{ end }}
                                         </p>
                                         <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
@@ -90,10 +90,10 @@
                             <a href="{{ $featuredContentLink }}" class="flex items-start mb-1 pb-4 pt-2 last:border-0 relative">
                                 <div class="pt-2">
                                     <h2 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title }}</h2>
-                                    <p class="text-sm text-zinc-500 pl-6 pr-6">
+                                    <p class="text-sm text-zinc-600 pl-6 pr-6">
                                         {{ .description | safeHTML }}
                                         {{ if .date }}
-                                            <span class="text-zinc-400">&mdash; {{ .date | time.Format ":date_long" }}</span>
+                                            <span class="text-zinc-500">&mdash; {{ .date | time.Format ":date_long" }}</span>
                                         {{ end }}
                                     </p>
                                     <p class="text-neutral-600 pl-6 pr-6">
