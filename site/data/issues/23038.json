@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23038,
+        "date": "2023-10-15T12:55:47.011Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/nation/philippines-dominates-global-ocean-plastic-pollution-chart-at-36-shows-study/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines dominates global ocean plastic pollution chart at 36%, shows study</h1><p class=\"hero-dek\">While the Philippines holds the top rank as a plastic polluter in the study, the group Utility Bidder cites the country's efforts to mitigate the likelihood of plastic waste emissions<br /><br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Filipinos in Israel Caught Amidst the Hamas Attacks",
+            "url": "https://news.abs-cbn.com/news/10/09/23/22-filipinos-rescued-7-missing-in-israel-hamas-war",
+            "shortUrl": "",
+            "title": "22 Filipinos rescued, 7 missing in Israel-Hamas war",
+            "description": "A total of 22 Filipinos have been rescued by Israeli security forces, with seven others still missing, after Hamas militants attacked Israeli communities",
+            "date": "2023-10-09T05:34:31.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2023/10/14/2303598/negrense-caregiver-confirmed-3rd-philippines-fatality",
+                "shortUrl": "",
+                "title": "Negrense caregiver confirmed as 3rd Philippines fatality",
+                "description": "Another Filipina – also a caregiver – has been confirmed to be among the casualties in attacks by the militant Hamas group in Israel, the Department of Migrant Workers said yesterday.",
+                "date": "2023-10-13T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314379879/ofws-coming-home-monday.html",
+                "shortUrl": "",
+                "title": "OFWs coming home Monday - Manila Standard",
+                "description": "The first batch of Filipinos fleeing the war in Israel will head for home on Oct. 16, the Department of Foreign Affairs (DFA) said, as it confirmed a third Filipino casualty Friday.",
+                "date": "2023-10-13T17:10:33.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/885227/dfa-calls-for-mandatory-repatriation-in-gaza-as-alert-level-4-raised/story/",
+                "title": "DFA calls for mandatory repatriation in Gaza as Alert Level 4 raised",
+                "description": "The Philippines has raised Alert Level 4 in Gaza City, meaning evacuation for Filipinos there is now mandatory, the Department of Foreign Affairs announced Sunday.",
+                "date": "2023-10-15T15:37:27.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.manilatimes.net/2023/10/12/news/house-realigns-p123b-in-confidential-funds/1914399",
+            "shortUrl": "",
+            "title": "House realigns P1.23B in confidential funds",
+            "description": "The House of Representatives has realigned a total of 1.23 billion in confidential funds from various government agencies, Marikina City 2nd District Rep. Stella Luz Quimbo said on Wednesday.",
+            "date": "2023-10-11T17:53:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/cebu/local-news/ph-has-most-children-displaced-in-world-due-to-climate-change",
+            "shortUrl": "",
+            "title": "PH has most children displaced in world due to climate change",
+            "description": "Weather-related disasters caused 43.1 million internal displacements of children in 44 countries over a six-year period — or approximately 20,000 child displace",
+            "date": "2023-10-08T00:30:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2023/10/9/manibela-to-hold-nationwide-transport-strike-on-oct-16",
+            "shortUrl": "",
+            "title": "Manibela to hold nationwide transport strike on Oct. 16",
+            "description": "Transport group Manibela will conduct a nationwide strike on Oct. 16 to protest the alleged corruption in the approval of the franchise for public utility vehicles (PUVs).",
+            "date": "2023-10-09T09:04:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1845639/marcos-dropping-edsa-anniv-from-holidays-a-distortion-of-martial-laws-evils-lagman",
+            "shortUrl": "",
+            "title": "Marcos dropping Edsa anniv from holidays a distortion of martial law’s evils — Lagman",
+            "description": "Manila, Philippines — Liberal Party president and First District of Albay Representative Edcel Lagman on Saturday condemned President Ferdinand \"Bongbong\" Marcos Jr.’s administration for failing to include February 25 in the regular holidays in 2024.",
+            "date": "2023-10-15T00:24:20.000Z",
+            "tag": "History",
+            "locale": ""
+        }
+    ]
+}
