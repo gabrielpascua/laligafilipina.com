@@ -25,6 +25,9 @@
 * Sitemap.xml
 * Code split vue
 * Fix Mobile wrapping
+* Books Page
+    * Forgiving Imelda Marcos
+    * Some People Need Killing
 
 ### Frontmatter
 * T - title
