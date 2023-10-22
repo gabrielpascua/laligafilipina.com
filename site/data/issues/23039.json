@@ -1,0 +1,86 @@
+{
+    "issue": {
+        "number": 23039,
+        "date": "2023-10-22T14:07:03.439Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.abc.net.au/news/2023-10-18/rise-of-bongbong-marcos-take-me-to-your-leader/102840572\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How this son of a dictator pulled off one of the biggest political makeovers in recent history</h1><p class=\"hero-dek\">Thirty-seven years after his family fled Manilla in disgrace, Ferdinand Marcos Jr is running the country that his family had \"plundered\".<br /><br /><small class=\"hero-source\">abc.net.au</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Death of Ahldryn Lery Chua Bravante from Fraternity Hazing",
+            "url": "https://www.cnnphilippines.com/news/2023/10/17/criminology-student-hazing-death.html",
+            "shortUrl": "",
+            "title": "Criminology student dies after alleged hazing",
+            "description": "A 4th year criminology student died allegedly due to fraternity hazing in Quezon City on Monday.",
+            "date": "2023-10-17T06:05:07.546Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2023/10/17/2304486/another-student-dies-suspected-tau-gamma-hazing-rites",
+                "shortUrl": "",
+                "title": "Another student dies from suspected Tau Gamma hazing rites",
+                "description": "A graduating student of the Philippine College of Criminology died on Monday evening from hazing-related injuries he allegedly sustained during the initiation rites of the Tau Gamma Phi fraternity.",
+                "date": "2023-10-17T08:21:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/police-identify-12-suspects-in-fatal-hazing-incident",
+                "shortUrl": "",
+                "title": "Police identify 12 suspects in fatal hazing incident",
+                "description": "The Quezon City Police District (QCPD) has identified 12 individuals allegedly involved in the hazing-related death of a 25-year-old student of the Philippine College of Criminology (PCC).",
+                "date": "2023-10-17T08:17:46.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2023/10/18/another-suspect-in-hazing-death-of-criminology-student-surrenders-to-cops",
+                "title": "Another suspect in hazing death of criminology student surrenders",
+                "description": "Another suspect in the hazing incident that led to the death of Ahldryn Leary Bravante, a criminology student, has surrendered to the authorities, Quezon City Police District (QCPD) Director Brig. Gen. Redrico Maranan confirmed.",
+                "date": "2023-10-19T02:21:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/10/21/23/remains-of-ofw-killed-in-israel-arrive-in-naia",
+            "shortUrl": "",
+            "title": "Remains of OFW killed in Israel arrive in NAIA",
+            "description": "The remains of the third overseas Filipino worker killed in Hamas militants' attack in Israel arrived Saturday at the NAIA complex cargo terminal.",
+            "date": "2023-10-21T01:43:30",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.npr.org/2023/10/22/1207856107/philippines-says-chinese-vessels-hit-two-of-its-boats-near-disputed-shoal",
+            "shortUrl": "",
+            "title": "Philippines says Chinese vessels hit two of its boats near disputed shoal",
+            "description": "A Chinese coast guard ship and one of its militia vessels separately bumped a Philippine coast guard ship and a military-run supply boat Sunday off a disputed shoal, Philippine officials said.",
+            "date": "2023-10-22T08:29:39.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.newyorker.com/news/q-and-a/a-journalist-exposes-the-philippines-extralegal-killings",
+            "shortUrl": "",
+            "title": "A Journalist Exposes the Philippines’ Extralegal Killings",
+            "description": "The reporter Patricia Evangelista discusses the country’s drug wars, Rodrigo Duterte’s murderous rhetoric, and how she manages the difficulties of covering trauma.",
+            "date": "2023-10-17T10:00:00.000Z",
+            "tag": "Press Freedom",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1848099/philhealth-spends-p14m-for-new-antivirus-system",
+            "shortUrl": "",
+            "title": "PhilHealth spends P14M for new anti-virus system",
+            "description": "Manila, Philippines — The Philippine Health Insurance Corp. (PhilHealth) is expecting the delivery this week of the P14-million antivirus system it recently procured to provide a wall of protection against various forms of malware attacks",
+            "date": "2023-10-19T13:54:00.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
