@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23040,
+        "date": "2023-10-29T18:30:37.740Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.theguardian.com/news/2023/oct/26/how-filipino-domestic-workers-become-trapped\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘They treated me like an animal’: how Filipino domestic workers become trapped<br /><small class=\"hero-source\">theguardian.com</small></h1><p class=\"hero-dek\">The long read: Migrants from the Philippines make up a huge percentage of domestic workers around the world. But when their employers are abusive, visa restrictions force them to choose between enduring more suffering or becoming illegal<br /><small class=\"hero-source\">theguardian.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Barangay and Sangguniang Kabataan Elections",
+            "url": "https://www.gmanetwork.com/news/topstories/specialreports/886581/why-filipinos-run-for-barangay-chairmanship/story/",
+            "shortUrl": "",
+            "title": "Public Service or Perks? Why Filipinos run for barangay chairmanship",
+            "description": "The upcoming polls hold promise for the Filipinos who can now exercise their right to vote anew and at the same time, a warning that whatever its outcome would dictate the future of their communities in the next two years.",
+            "date": "2023-10-27T18:54:41.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2023/10/28/comelec-holds-bske-poll-chief-dilg-suggests-1-week-transition-for-winning-candidates",
+                "shortUrl": "",
+                "title": "Comelec holds barangay, SK elections 2023",
+                "description": "Over 91 million Filipinos are expected to troop to various poll precincts nationwide on Monday, October 30 to participate in the Barangay and Sangguniang Kabataan Elections for 2023.",
+                "date": "2023-10-29T03:18:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.cnnphilippines.com/news/2023/10/29/2023-bske-begins-monday-october-30.html",
+                "shortUrl": "",
+                "title": "What can Filipinos expect on BSKE on Monday?",
+                "description": "Five years after the 2018 Barangay and Sangguniang Kabataan Elections, Filipinos will once again select a new set of village and youth officials on Monday, Oct. 30. What can they expect on Election Day?",
+                "date": "2023-10-29T16:00:28.633Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314385311/experts-identify-5-biggest-roles-of-barangays.html",
+                "shortUrl": "",
+                "title": "Experts identify 5 biggest roles of barangays - Manila Standard",
+                "description": "By Cherry Salazar / PCIJ The barangay is the smallest political unit in the Philippines. But for Filipinos, the barangay represents more than just a government identity. It is also the smallest territorial unit that embodies a community.",
+                "date": "2023-10-29T16:45:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/newsbreak/in-depth/dahas-project-count-drug-war-deaths-bongbong-marcos-jr-rodrigo-duterte/",
+            "shortUrl": "",
+            "title": "When Duterte left, this team kept on counting the dead",
+            "description": "Dahas Project is one of the last remaining efforts to document the unprecedented drug-related killings in the Philippines that continues even after Rodrigo Duterte. It hopes to serve as a permanent record for the future.",
+            "date": "2023-10-23T11:00:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.esquiremag.ph/long-reads/features/marawi-siege-displaced-persons-struggle-a2056-20231023-lfrm3",
+            "shortUrl": "",
+            "title": "“Paano Kami Makakabangon Ulit?” Inside the Long, Painful Struggle of Displaced Marawi Residents to Return to Normal Life",
+            "description": "'Kambalingan' is a Maranao word that means to return home, and this is exactly the dream for many residents who were forced out of their homes because of the Marawi siege in 2017.",
+            "date": "2023-10-23T17:00:00.000Z",
+            "tag": "Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://www.timesofisrael.com/filipino-caregiver-paid-off-terrorist-saved-herself-and-95-year-old-employer/",
+            "shortUrl": "",
+            "title": "Filipino caregiver paid off terrorist, saved herself and 95-year-old employer",
+            "description": "Camille Jesalva opened wallet, handed over $370 intended for a trip home, and smartphone",
+            "date": "2023-10-25T13:36:01.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.straitstimes.com/multimedia/graphics/2023/10/asia-extreme-lake-kayangan/index.html",
+            "shortUrl": "",
+            "title": "Extreme Asia: The little-known Filipino tribe picking up after dirty tourists in Asia’s cleanest lake",
+            "description": "Take an intimate look into what goes on behind the scenes in the making and maintaining of some of Asia’s most fascinating extremes.",
+            "date": "2023-10-28T16:00:00.000Z",
+            "tag": "Tourism",
+            "locale": "Palawan"
+        }
+    ]
+}
