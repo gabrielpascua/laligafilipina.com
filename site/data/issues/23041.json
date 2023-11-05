@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23041,
+        "date": "2023-11-05T16:53:26.714Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content":  "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.nytimes.com/2023/11/04/world/asia/philippines-divorce-illegal-legislation.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘Just Like Medicine’: A New Push for Divorce in a Nation Where It’s Illegal<br /><small class=\"hero-source\">nytimes.com</small></h1><p class=\"hero-dek\">A campaign in the Philippines that frames divorce as a basic human right is gaining momentum, despite systemic and religious barriers.<br /><small class=\"hero-source\">nytimes.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "All Saints Day (Undas) Celebrations",
+            "url": "https://www.cnnphilippines.com/news/2023/11/1/filipinos-flock-cemeteries-undas-2023.html",
+            "shortUrl": "",
+            "title": "Filipinos flock to cemeteries for All Saints’ Day",
+            "description": "Despite the drizzle, thousands of Filipinos trooped to cemeteries on Wednesday to remember their dead on All Saints’ Day.",
+            "date": "2023-11-01T06:30:22.391Z",
+            "tag": "Culture",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://usa.inquirer.net/138915/sleeping-at-cemeteries-and-other-filipino-all-souls-day-traditions",
+                "shortUrl": "",
+                "title": "Sleeping at cemeteries and other Filipino All Souls Day traditions",
+                "description": "Filipino traditions that are observed during All Souls Day include prayer, offering food to the dead, and sometimes, staying with them overnight.",
+                "date": "2023-10-30T14:00:59.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2023/10/31/undas-very-pinoy-way-of-remembering-the-dead",
+                "shortUrl": "",
+                "title": "‘Undas’: Very Pinoy way of remembering the dead",
+                "description": "Every year, a day after Halloween (or Hallow’s eve), in many countries, Nov. 1 is a public holiday to commemorate All Saints’ Day, with Nov. 2 also observed by those with Christian heritage as a holiday called All Souls’ Day.",
+                "date": "2023-11-01T03:05:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://interaksyon.philstar.com/trends-spotlights/2023/11/02/263926/undas-2023-visitors-mindful-stray-animals/",
+                "shortUrl": "",
+                "title": "&#039;Life is sacred&#039;: Undas cemetery visitors urged to be mindful of stray animals",
+                "description": "A community of animal stray feeders advised cemetery visitors to be mindful of dogs and cats in the vicinities as Filipinos observe All Souls&#039; Day today.",
+                "date": "2023-11-02T03:18:01.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/11/01/23/nearly-half-of-filipino-families-feel-poor-sws",
+            "shortUrl": "",
+            "title": "Nearly half of Filipino families feel poor: SWS",
+            "description": "Almost half of Filipino families feel poor, according to a Social Weather Stations survey.",
+            "date": "2023-11-01T02:32:58.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/opinion-barangay-elections-2023-money-manipulation-mayhem/",
+            "shortUrl": "",
+            "title": "[Pastilan] Barangay elections 2023: Money, manipulation, and mayhem",
+            "description": "&#039;What we just saw was a carnival of chaos, a festival of folly, and a reminder that when it comes to elections, we&#039;ve still got a long way to go before we can truly call it a democratic process&#039;",
+            "date": "2023-11-02T10:15:46.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/opinion/editorial/314385928/exodus-of-nurses.html",
+            "shortUrl": "",
+            "title": "Exodus of nurses - Manila Standard",
+            "description": "Don't look now, but we're likely to lose nearly 30,000 of our nurses to hospitals in the United States soon. That's because there's likely to be a fresh wave of mass migration of Filipino nurses seeking the proverbial greener pastures primarily to the United States.",
+            "date": "2023-11-01T16:15:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.manilatimes.net/2023/11/01/regions/iloilo-named-creative-city-of-gastronomy-by-unesco/1917657",
+            "shortUrl": "",
+            "title": "Iloilo named 'Creative City of Gastronomy' by Unesco",
+            "description": "Manila, Philippines: Iloilo City was named among the United Nations Educational, Scientific and Cultural Organization's (Unesco) Creative Cities Network (UCCN), which was released on Tuesday, as part of World Cities Day.",
+            "date": "2023-11-01T15:59:00.000Z",
+            "tag": "Food",
+            "locale": "Iloilo"
+        }
+    ]
+}

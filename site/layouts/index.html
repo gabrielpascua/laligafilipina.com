@@ -22,7 +22,7 @@
                                 {{ $primaryContentLink = .primary.shortUrl }}
                             {{ end }}
                             <a href="{{ $primaryContentLink }}" class="p-6 block">
-                                <h2 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title }}</h2>
+                                <h2 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title | safeHTML }}</h2>
                                 <p class="text-sm leading-5 text-zinc-600">
                                     {{ .primary.description | safeHTML }}
                                     {{ if .primary.date }}
@@ -52,9 +52,9 @@
                                     <li class="pl-4 mb-4 last:mb-0 mt-2 pr-2">
                                     <a href="{{ $secondaryContentLink }}" class="block decoration-gray-400">
                                         <p class="leading-5 text-sm">
-                                            <strong class="font-bold capitalize text-gray-800 pb-1 block md:text-base">{{ .title }}</strong>
+                                            <strong class="font-bold capitalize text-gray-800 pb-1 block md:text-base">{{ .title | safeHTML }}</strong>
                                             {{- if (isset . "description") }}
-                                                <span class="text-zinc-600">{{ .description }}</span>
+                                                <span class="text-zinc-600">{{ .description | safeHTML }}</span>
                                             {{ end }}
                                             {{ if .date }}
                                                 <span class="text-zinc-500"> &mdash; {{ .date | time.Format ":date_long" }}</span>
