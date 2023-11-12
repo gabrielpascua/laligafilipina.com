@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23042,
+        "date": "2023-11-12T19:22:18.067Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://foreignpolicy.com/2023/11/09/philippines-marcos-disappeared-activists-duterte-tamano-castro/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Activists Keep Disappearing <br />in Marcos’s Philippines</h1><p class=\"hero-dek\">Military kidnappings have produced a public outcry.<br /><br /><small class=\"hero-source\">foreignpolicy.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Second Chinese Water Cannon Incident on Resupply Ships",
+            "url": "https://www.nytimes.com/2023/11/11/world/asia/philippines-sierra-madre-south-china-sea.html",
+            "shortUrl": "",
+            "title": "How a Decaying Warship Beached on a Tiny Shoal Provoked China’s Ire",
+            "description": "After multiple maritime clashes, the Philippines invited journalists on a mission to resupply the Sierra Madre. A reporter for The Times was given rare access.",
+            "date": "2023-11-11T16:39:11.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2023/11/11/2310549/china-blasts-philippine-vessel-anew-water-cannon",
+                "shortUrl": "",
+                "title": "China blasts Philippine vessel anew with water cannon",
+                "description": "China Coast Guard and militia vessels again used water cannons and made dangerous maneuvers in an attempt yesterday to block a Philippine resupply mission for troops stationed on the BRP Sierra Madre in Ayungin (Second Thomas) Shoal.",
+                "date": "2023-11-11T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/11/11/news/water-cannon-used-anew-on-supply-boat/1919167",
+                "shortUrl": "",
+                "title": "The Philippine government has accused a China Coast Guard (CCG) vessel of firing a water cannon at a Philippine boat on a resupply mission to Ayungin Shoal on Friday morning.",
+                "description": "Water cannon used anew on supply boat",
+                "date": "2023-11-10T16:25:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/in-depth/philippine-resupply-mission-ayungin-shoal-november-10-2023/",
+                "shortUrl": "",
+                "title": "5 versus 11: PH makes it past China’s blocking tactics and into Ayungin Shoal",
+                "description": "While only 11 Chinese ships conducted ‘dangerous maneuvers’ and actively tried to block five Philippine ships en route to Ayungin Shoal on a resupply mission to the BRP Sierra Madre, over 38 Chinese ships – from their coast guard, maritime militia, and even their navy – were monitored in the area",
+                "date": "2023-11-12T09:04:47.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/spotlight/11/06/23/10-years-after-yolanda-tacloban-rises-from-the-ruins",
+            "shortUrl": "",
+            "title": "10 years after Yolanda, Tacloban rises from the ruins",
+            "description": "As the Philippines prepares to commemorate the 10th anniversary of Haiyan, Mayor Alfred Romualdez said survivors had 'moved on' from the disaster.",
+            "date": "2023-11-06T07:41:06.000Z",
+            "tag": "Climate Change",
+            "locale": "Leyte"
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/fully-jabbed-kids-in-ph-on-a-decline",
+            "shortUrl": "",
+            "title": "Fully jabbed kids in PH on a decline",
+            "description": "The Department of Health (DOH) on Friday, November 10, 2023, sounded the alarm over the stark decline in the number of fully immunized children (FIC) over the past three years",
+            "date": "2023-11-10T09:13:19.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.hrw.org/news/2023/11/07/philippine-journalist-shot-dead-live-air",
+            "shortUrl": "",
+            "title": "Philippine Journalist Shot Dead Live on Air",
+            "description": "The murder was brazen and swift: two men entered the home of Juan Jumalon in the town of Calamba in the southern Philippines while the radio journalist was broadcasting live on his on Sunday morning show on 94.7 Gold FM.",
+            "date": "2023-11-06T22:04:21.000Z",
+            "tag": "Press Freedom",
+            "locale": "Misamis Occidental"
+        },
+        {
+            "url": "https://manilastandard.net/news/314388076/unemployment-rate-rose-to-4-5-driven-by-inflation-interest-rates.html",
+            "shortUrl": "",
+            "title": "Unemployment rate rose to 4.5% driven by inflation, interest rates - Manila Standard",
+            "description": "The country’s unemployment rate in September 2023 slightly increased to 4.5 percent from 4.4 percent a month ago, partly driven by elevated inflation and higher interest rates, data from the Philippine Statistics Authority (PSA) showed.",
+            "date": "2023-11-08T15:50:00.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}

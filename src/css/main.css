@@ -115,6 +115,11 @@ body {
   text-shadow: none;
 }
 
+.centered .hero-lead,
+.centered .hero-dek {
+  text-align: center;
+}
+
 .dark.breadcrumb {
   @apply bg-zinc-900 text-neutral-200;
 }
