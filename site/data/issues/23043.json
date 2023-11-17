@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23043,
+        "date": "2023-11-19T19:22:18.067Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.theguardian.com/environment/2023/nov/16/artificial-upwelling-climate-foundation-seaweed-farms-blue-carbon-geoengineering\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘Like a 40-metre pizza’: the seaweed farms that could feed us all – at a cost</h1><p class=\"hero-dek\">Mammoth seaweed farms are springing up in the Philippines and beyond, and they’re in line for Elon Musk’s ‘largest incentive prize in history’. Meddling with the ocean to grow them, however, has some scientists troubled<br /><br /><small class=\"hero-source\">theguardian.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Ex-Senator Leila de Lima Granted Bail After 7 Years in Jail",
+            "url": "https://www.npr.org/2023/11/13/1212588681/long-jailed-former-philippine-senator-who-fought-drug-crackdown-is-granted-bail",
+            "shortUrl": "",
+            "title": "Long-jailed former Philippine senator who fought drug crackdown is granted bail",
+            "description": "The European Union Parliament, some U.S. lawmakers and U.N. human rights experts have long demanded the release of Leila de Lima, who was detained as an opposition senator in February 2017.",
+            "date": "2023-11-13T08:24:28.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/1859273/timeline-the-ordeal-of-leila-de-lima",
+                "shortUrl": "",
+                "title": "Timeline: The ordeal of Leila de Lima",
+                "description": "Manila, Philippines — Following is a timeline of the key events in the prosecution of former Sen. Leila de Lima 2016 Aug. 17 – Then President Rodrigo Duterte links a senator to the illegal",
+                "date": "2023-11-14T13:31:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": "",
+                "locale": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": "",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.thenation.com/article/activism/apec-summit-san-francisco/",
+            "shortUrl": "",
+            "title": "The Forces That Nearly Murdered Me Are Meeting In San Francisco Today",
+            "description": "I was almost killed by Philippine troops upholding the global economic order on display at this week’s APEC Summit.",
+            "date": "2023-11-15T15:41:26.000Z",
+            "tag": "Activism",
+            "locale": ""
+        },
+        {
+            "url": "",
+            "shortUrl": "",
+            "title": "",
+            "description": "",
+            "date": "",
+            "tag": "",
+            "locale": ""
+        },
+        {
+            "url": "",
+            "shortUrl": "",
+            "title": "",
+            "description": "",
+            "date": "",
+            "tag": "",
+            "locale": ""
+        },
+        {
+            "url": "",
+            "shortUrl": "",
+            "title": "",
+            "description": "",
+            "date": "",
+            "tag": "",
+            "locale": ""
+        }
+    ]
+}
