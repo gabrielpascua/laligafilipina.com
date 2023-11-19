@@ -1,7 +1,7 @@
 ---
 title: First Responders Arrive at Capsized Passenger Ferry in the Philippines
 issues: 23027
-tags: ["Disaster Response", "Typhoons"]
+tags: ["Disasters and Response", "Typhoons"]
 publishDate: 2023-07-28T05:25:37.824Z
 author: 
 description: "Strong winds from Typhoon Doksuri capsized the vessel, killing dozens of people. The Philippine Coast Guard said they rescued at least 40."

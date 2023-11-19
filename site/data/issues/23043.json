@@ -1,7 +1,7 @@
 {
     "issue": {
         "number": 23043,
-        "date": "2023-11-19T19:22:18.067Z",
+        "date": "2023-11-19T16:06:39.629Z",
         "theme": "light"
     },
     "hero": {
@@ -10,7 +10,7 @@
     },
     "ticker": {
         "primary": {
-            "lead": "Ex-Senator Leila de Lima Granted Bail After 7 Years in Jail",
+            "lead": "Ex-Senator Leila de Lima Granted Bail After Years in Jail",
             "url": "https://www.npr.org/2023/11/13/1212588681/long-jailed-former-philippine-senator-who-fought-drug-crackdown-is-granted-bail",
             "shortUrl": "",
             "title": "Long-jailed former Philippine senator who fought drug crackdown is granted bail",
@@ -29,19 +29,19 @@
                 "locale": ""
             },
             {
-                "url": "",
+                "url": "https://www.cnn.com/2023/11/13/asia/philippines-leila-de-lima-drug-charges-bail-intl-hnk/index.html",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": "",
+                "title": "Leila de Lima: Philippine court grants bail to fierce ‘war on drugs’ critic after six years in custody | CNN",
+                "description": "A Philippine court has granted bail for Leila De Lima, one of the most vocal critics of ex-President Rodrigo Duterte’s bloody “war on drugs” after being held in police custody for over six years.new",
+                "date": "2023-11-13T08:03:13.542Z",
                 "locale": ""
             },
             {
-                "url": "",
+                "url": "https://www.philstar.com/headlines/2023/11/18/2312347/robredo-arranges-de-lima-meeting-amnesty-international-rep",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": "",
+                "title": "Robredo arranges De Lima meeting with Amnesty International rep",
+                "description": "Former vice president Leni Robredo introduced former senator Leila de Lima to a representative from Amnesty International during their reunion in Naga, Camarines Sur on Thursday morning.",
+                "date": "2023-11-18T08:00:00.000Z",
                 "locale": ""
             }
         ]
@@ -57,30 +57,30 @@
             "locale": ""
         },
         {
-            "url": "",
+            "url": "https://news.abs-cbn.com/news/11/17/23/cotabato-trench-movement-caused-m68-davao-occidental-quake-phivolcs",
             "shortUrl": "",
-            "title": "",
-            "description": "",
-            "date": "",
-            "tag": "",
+            "title": "Cotabato Trench movement caused M6.8 Davao Occidental quake: Phivolcs",
+            "description": "Bacolcol said the Cotabato Trench is the same earthquake generator that caused the 1976 Moro Gulf earthquake.",
+            "date": "2023-11-17T11:24:48.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Davao Occidental"
+        },
+        {
+            "url": "https://mb.com.ph/2023/11/17/marcos-discussions-on-wps-row-a-work-in-progress",
+            "shortUrl": "",
+            "title": "Marcos meets with Xi; discussions on WPS row a ‘work in progress’",
+            "description": "President Marcos said the discussions about the tensions in the West Philippine Sea (WPS) are a “work in progress” following his meeting with Chinese President Xi Jinping.",
+            "date": "2023-11-17T09:46:00.000Z",
+            "tag": "West Philippine Sea",
             "locale": ""
         },
         {
-            "url": "",
+            "url": "https://www.rappler.com/philippines/opposition-hawaii-prepares-protest-marcos-jr-return-november-2023/",
             "shortUrl": "",
-            "title": "",
-            "description": "",
-            "date": "",
-            "tag": "",
-            "locale": ""
-        },
-        {
-            "url": "",
-            "shortUrl": "",
-            "title": "",
-            "description": "",
-            "date": "",
-            "tag": "",
+            "title": "In Hawaii, &#039;vocal minority&#039; pushes back on Marcos return decades after exile",
+            "description": "Hawaii is known to have a Filipino diaspora that is strongly supportive of the Marcos family. But some migrants want to show there are still voices of dissent as the President marks his return to the island.",
+            "date": "2023-11-17T12:58:44.000Z",
+            "tag": "Politics",
             "locale": ""
         }
     ]
