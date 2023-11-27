@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23044,
+        "date": "2023-11-26T16:06:39.629Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://news.abs-cbn.com/spotlight/11/26/23/why-a-teacher-chose-to-serve-in-a-last-mile-school\"><div class=\"hero-container\" style=\"max-width: 780px\"><h1 class=\"hero-lead\">Why a teacher chose to serve in a &#39;last-mile school&#39;</h1><p class=\"hero-dek\">Situated in the far-flung area with limited public transportation, this school has been identified by the DepEd, as one of the country’s last mile schools.<br /><br /><small class=\"hero-source\">news.abs-cbn.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "<abbr title=\"International Criminal Court\">ICC</abbr>'s Help Rejected by President Bongbong Marcos",
+            "url": "https://time.com/6339369/philippines-marcos-duterte-drug-war-icc-probe/",
+            "shortUrl": "",
+            "title": "Philippines’ Marcos Rejects Helping ICC Investigate Duterte&#x27;s Drug War",
+            "description": "President Ferdinand Marcos Jr. stood by his position against an international probe on former leader Rodrigo Duterte’s drug war, underlining his efforts to keep the ruling alliance intact.",
+            "date": "2023-11-24T08:05:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://globalnation.inquirer.net/223340/fwd-marcos-on-ph-icc-return",
+                "shortUrl": "",
+                "title": "Bongbong Marcos: Gov’t studying possible return to ICC",
+                "description": "Updated on November 24, 2023 at 12:25 p.m. MANILA, Philippines — President Ferdinand Marcos Jr. said on Friday that the government is considering resuming its membership to the International",
+                "date": "2023-11-24T18:51:57.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.manilatimes.net/2023/11/26/news/icc-entering-ph-not-a-surrender-of-sovereignty-lagman/1921593",
+                "shortUrl": "",
+                "title": "ICC entering PH not a surrender of sovereignty - Lagman",
+                "description": "Manila, Philippines: Albay First District Rep. Edcel Lagman said that the entry of the International Criminal Court into the country to investigate alleged crimes related to the previous administration's war on drugs would not constitute a 'surrender of sovereignty' but an exercise of it.",
+                "date": "2023-11-26T08:49:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/opinion/314393584/will-congress-let-the-icc-in.html",
+                "shortUrl": "",
+                "title": "Will Congress let the ICC in? - Manila Standard",
+                "description": "There&#8217;s going to be a monumental shift in official policy if the House of Representatives approves resolutions calling on government to allow the International Criminal Court to enter the country and investigate the Duterte administration’s bloody war on illegal drugs from 2016 to 2019.",
+                "date": "2023-11-26T16:15:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.aljazeera.com/news/2023/11/22/10-years-after-haiyan-are-mangroves-protecting-philippine-coastal-areas",
+            "shortUrl": "",
+            "title": "10 years after Haiyan, are mangroves protecting Philippine coastal areas?",
+            "description": "Mangroves create a natural breakwater but Manila is focused on man-made interventions to protect against future storms.",
+            "date": "2023-11-22T00:04:01.000Z",
+            "tag": "Climate Change",
+            "locale": "Leyte"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cjjpyn3e8z8o",
+            "shortUrl": "",
+            "title": "Solar boat for Philippines developed in Orkney",
+            "description": "Stromness-based Aquatera says the boat is the first of its kind to be powered by renewables.",
+            "date": "2023-11-24T17:39:25.612Z",
+            "tag": "Technology",
+            "locale": "Palawan"
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/11/21/2313014/scarborough-1st-appeared-maps-philippine-waters-1750s",
+            "shortUrl": "",
+            "title": "Scarborough 1st appeared on maps of Philippine waters in 1750s",
+            "description": "On the night of Sept. 12, 1748Â the British East India Co. ship ScarboroughÂ struck the now-famous reef of the same name while on its way from England to China.",
+            "date": "2023-11-21T05:00:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2023/11/21/17-filipino-crew-among-taken-hostage-in-red-sea-dfa",
+            "shortUrl": "",
+            "title": "17 Filipino crew members taken hostage in Red Sea — DFA",
+            "description": "At least 17 Filipino crew members aboard a cargo ship in the Red Sea were among those taken hostage&amp;nbsp;by Yemen-based Houthi Rebels, a Department of Foreign Affairs (DFA) official confirmed Wednesday, Nov. 22.",
+            "date": "2023-11-22T04:02:04.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        }
+    ]
+}
