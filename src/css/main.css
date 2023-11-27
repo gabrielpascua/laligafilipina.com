@@ -224,6 +224,10 @@ body {
   @apply mb-6;
 }
 
+.markdown a {
+  @apply text-amber-500;
+}
+
 .markdown blockquote {
   @apply pl-8 pr-8 md:pl-12 md:pr-20;
 }
