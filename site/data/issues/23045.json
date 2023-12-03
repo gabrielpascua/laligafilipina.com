@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23045,
+        "date": "2023-12-03T16:06:39.629Z",
+        "theme": "dark"
+    },
+    "hero": {
+        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://www.theatlantic.com/international/archive/2023/12/south-china-sea-philippines-dispute-explained/676218/\"><div class=\"hero-container\" style=\"max-width: 780px\"><h1 class=\"hero-lead\">The Most Dangerous Conflict No One Is Talking About</h1><p class=\"hero-dek\">Of all the world’s hot spots, the South China Sea is one of the least remarked on and most potentially explosive.<br /><br /><small class=\"hero-source\">theatlantic.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Mindanao State University Bombing",
+            "url": "https://newsinfo.inquirer.net/1869757/msu-bombing-claims-4-lives-hurts-50-others-confirms-pnp",
+            "shortUrl": "",
+            "title": "MSU bombing claims 4 lives, hurts 50 others, confirms PNP",
+            "description": "Manila, Philippines — Four people were confirmed dead while 50 others were injured in a bomb that ripped through the Dimaporo Gym inside the Mindanao State University (MSU) campus in Marawi",
+            "date": "2023-12-03T23:23:36.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": "Lanao del Sur"
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2023/12/2/explosion-rocks-school-gymnasium-in-marawi-4-dead-dozens-hurt",
+                "shortUrl": "",
+                "title": "Explosion rocks school gymnasium in Marawi; 4 dead, dozens hurt",
+                "description": "&quot;As far as I know, this is probably the [most violent attack] since the Marawi siege,&quot; Major General Gabriel Viray III, commander of the 1st Infantry Division (1ID), says.",
+                "date": "2023-12-03T07:48:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314395868/marcos-foreign-terrorists-behind-deadly-marawi-bomb-attack.html",
+                "shortUrl": "",
+                "title": "Marcos: Foreign terrorists behind deadly Marawi bomb attack - Manila Standard",
+                "description": "President Ferdinand Marcos Jr. on Sunday called for calm in the wake of a bomb attack, blaming “foreign terrorists” for the explosion that left four dead and scores more injured at a gymnasium inside the Mindanao State University (MSU) in Marawi City, where people were hearing Mass.",
+                "date": "2023-12-03T16:50:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2023/12/04/2316298/terrorists-eyed-msu-bombing",
+                "shortUrl": "",
+                "title": "Terrorists eyed in MSU bombing",
+                "description": "Authorities are eyeing the involvement of a terrorist group in the explosion that killed four people and left 45 injured during a Catholic mass inside the Mindanao State University (MSU) gymnasium in Marawi City, Lanao del Sur yesterday morning.",
+                "date": "2023-12-04T05:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/environment/sardines-plenty-fishers-are-not-san-vicente-northern-samar/",
+            "shortUrl": "",
+            "title": "In a Northern Samar town, sardines are aplenty, but their fishers aren’t",
+            "description": "Part 1: While fishing is the town’s main industry, not many fishermen are enticed to catch sardines due to lack of advanced gear",
+            "date": "2023-12-01T02:16:11.000Z",
+            "tag": "Environment",
+            "locale": "Northern Samar"
+        },
+        {
+            "url": "https://www.sunstar.com.ph/cebu/more-big-quakes-hit-surigao",
+            "shortUrl": "",
+            "title": "Surigao earthquake was magnitude 7.4; more big quakes follow",
+            "description": "The Philippine Institute of Volcanology and Seismology (Phivolcs) on Sunday morning upgraded to magnitude 7.4 (from the earlier reported 6.9) the power of the earthquake that struck 30 kilometers northeast of Hinatuan, Surigao del Sur at 10:37 p.m.",
+            "date": "2023-12-02T19:19:58.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Surigao del Sur"
+        },
+        {
+            "url": "https://www.bbc.com/news/world-asia-67563146",
+            "shortUrl": "",
+            "title": "Philippines: World&#x27;s &#x27;saddest&#x27; elephant dies in Manila zoo",
+            "description": "Bittersweet tributes pour in for Mali, who spent more than four decades all by herself.",
+            "date": "2023-11-29T07:27:58.000Z",
+            "tag": "Animal Rights",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/11/28/senate-resolution-icc-drug-war--probe.html",
+            "shortUrl": "",
+            "title": "Hontiveros urges Marcos admin to work with ICC on drug war probe; Duterte allies undermine reso",
+            "description": "Former Senate President Franklin Drilon says concurrence of the upper chamber is no longer needed if President Ferdinand Marcos Jr. decides to rejoin the International Criminal Court — a view that runs counter to Senator Bato dela Rosa's statement.",
+            "date": "2023-11-28T06:01:33.699Z",
+            "tag": "Politics",
+            "locale": ""
+        }
+    ]
+}
