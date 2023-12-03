@@ -17,17 +17,17 @@
         </div>
     </div>
 
-    <div class="border-b text-zinc-700 pl-4 pr-4 pt-3 pb-3 md:pt-1 md:pb-1" id="sub-nav">
+    <div class="border-b text-zinc-800 pl-4 pr-4 pt-3 pb-3 md:pt-1 md:pb-1 font-medium" id="sub-nav">
         <div class="flex max-[400px]:justify-between min-[400px]:container min-[400px]:justify-center md:pt-2 md:pb-2">
         {{- with .Site.Data.nav.tags -}}
         {{ range .}}
             <a href="/tags/{{.slug}}" class="text-xs md:text-small min-[400px]:pl-2 min-[400px]:pr-2">
-                <strong>{{.label}}</strong>
+                {{.label}}
             </a>
         {{ end }}
         {{- end -}}
-            <a href="/archives/" class="text-xs text-amber-500 md:text-small min-[400px]:pl-2 min-[400px]:pr-2">
-                <strong>Archives</strong>
+            <a href="/archives/" class="text-xs md:text-small min-[400px]:pl-2 min-[400px]:pr-2">
+                Archives
             </a>
         </div>
     </div>
