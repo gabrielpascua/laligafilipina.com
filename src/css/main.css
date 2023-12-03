@@ -51,7 +51,7 @@ header {
     /* background-color: rgba(24,24,27,0.035); */
     /* @apply text-gray-100 pt-0 pb-1; */
     /* background-color: rgba(24,24,27,0.04); */
-    @apply pt-0 pb-1;
+    @apply pt-2 pb-2 md:pt-0 md:pb-0;
   }
 
 body {
@@ -66,7 +66,7 @@ body {
 
 @media (min-width: 1024px) {
   body.issues {
-    margin-top: 115px;
+    margin-top: 120px;
   }
 
   body.issues .hero {
@@ -75,7 +75,7 @@ body {
 }
 
 .hero {
-  @apply pt-12 pb-12 pl-10 pr-10 border-b mb-0;
+  @apply pt-16 pb-12 pl-10 pr-10 border-b mb-0;
   @apply md:pl-0 md:pb-10 md:pt-14 md:pr-0 lg:pt-24 lg:pb-20;
   background-color: #f8f8f8;
 }
@@ -86,14 +86,14 @@ body {
 }
 
 .hero-lead {
-  @apply text-xl leading-7 font-extrabold text-gray-800 capitalize;
+  @apply text-2xl leading-7 font-extrabold text-gray-800 capitalize;
   @apply md:text-4xl;
   text-shadow: #fff 1px 1px;
 }
 
 .hero-dek {
-  @apply text-sm mt-2 mb-4 text-neutral-600 leading-6;
-  @apply md:text-base md:mt-4;
+  @apply text-sm mt-2 mb-4 text-neutral-600 leading-5;
+  @apply md:text-base md:mt-4 md:leading-6;
   text-shadow: #fff 1px 1px;
 }
 
@@ -164,7 +164,7 @@ body {
   content: "\00B7";
   position: absolute;
   @apply text-zinc-700 text-3xl leading-4;
-  margin-left: -.6em;
+  margin-left: -20px;
 }
 
 .list-arrow .list-none::before{
