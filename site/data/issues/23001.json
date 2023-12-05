@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3ikxNWQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, revived traditions bring hope and gratitude in the new year</h1> <p class=\"hero-dek\">Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.</p><p><small class=\"text-amber-500\">npr.org</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3ikxNWQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, revived traditions bring hope and gratitude in the new year</h1> <p class=\"hero-dek\">Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.</p><p><small class=\"hero-source\">npr.org</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

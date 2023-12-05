@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3YtDh1w/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Public Service in Pink: Interview with Leni Robredo</h1> <p class=\"hero-dek\">Angat Buhay was premised on collaboration between government and the private sector. We were [present] in more than 300 communities. We partnered with about 700 private organizations.</p><p><small class=\"text-amber-500\">hir.harvard.edu</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3YtDh1w/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Public Service in Pink: Interview with Leni Robredo</h1> <p class=\"hero-dek\">Angat Buhay was premised on collaboration between government and the private sector. We were [present] in more than 300 communities. We partnered with about 700 private organizations.</p><p><small class=\"hero-source\">hir.harvard.edu</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

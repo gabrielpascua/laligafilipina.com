@@ -29,7 +29,7 @@
 
 {{ with (index .Site.Data.issues $currentIssue) }}
 <div class="pt-3 bg-[#f9f9f9] text-xs md:text-small {{ .issue.theme }} breadcrumb">
-    <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center text-zinc-400 border-b pb-3 breadcrumb-container">
+    <div class="container md:pl-6 md:pr-6 lg:pl-10 lg:pr-10 max-w-screen-lg m-auto text-center border-b pb-3 breadcrumb-container">
         <div class="flex flex-row justify-evenly">
             <div>
                 <a href="/issues/{{ $previousIssue }}" title="Back to Issue No. {{ $previousIssue }}">

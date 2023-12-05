@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.youtube.com/watch?v=MQ5aYS4YFlQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">COVID-19 In Philippines: The Starving Urban Poor. What Went Wrong? | Insight | Poverty In Asia</h1><p class='hero-dek'>The people in the Philippines are suffering from one of the toughest and longest lockdowns in the world. As the government struggles to deal with the spread of the COVID-19 outbreak, the ultra-strict quarantine and social distancing measures which have now stretched to more than half a year, have left the economy on its knees. The move has also left millions of people jobless and hungry.</p><p><small class=\"text-amber-500\"> youtube.com</small></p></div></a</div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.youtube.com/watch?v=MQ5aYS4YFlQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">COVID-19 In Philippines: The Starving Urban Poor. What Went Wrong? | Insight | Poverty In Asia</h1><p class='hero-dek'>The people in the Philippines are suffering from one of the toughest and longest lockdowns in the world. As the government struggles to deal with the spread of the COVID-19 outbreak, the ultra-strict quarantine and social distancing measures which have now stretched to more than half a year, have left the economy on its knees. The move has also left millions of people jobless and hungry.</p><p><small class=\"hero-source\"> youtube.com</small></p></div></a</div></section>"
     },
     "ticker": {
         "primary": {

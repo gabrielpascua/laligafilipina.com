@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3XXePF0\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Op-Ed: Martial law in the Philippines was no 'golden age'</h1> <p class=\"hero-dek\">The rule of Ferdinand E. Marcos marks one of the darkest periods in the Philippines' history. Only through a mass movement can we confront the present-day threat of the Marcos-Duterte administration.</p><p><small class=\"text-amber-500\">latimes.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3XXePF0\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Op-Ed: Martial law in the Philippines was no 'golden age'</h1> <p class=\"hero-dek\">The rule of Ferdinand E. Marcos marks one of the darkest periods in the Philippines' history. Only through a mass movement can we confront the present-day threat of the Marcos-Duterte administration.</p><p><small class=\"hero-source\">latimes.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

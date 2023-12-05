@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41uXupi\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Has the Philippines Moved On From Marcos Sr.’s Dictatorship?</h1> <p class=\"hero-dek\">“This is what happens when you bring despots and their scions back to power,” says a Filipino political science professor</p><p><small class=\"text-amber-500\">time.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41uXupi\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Has the Philippines Moved On From Marcos Sr.’s Dictatorship?</h1> <p class=\"hero-dek\">“This is what happens when you bring despots and their scions back to power,” says a Filipino political science professor</p><p><small class=\"hero-source\">time.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

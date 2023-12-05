@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Zovum3\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How clan wars leave Muslim Filipino youth traumatized</h1> <p class=\"hero-dek\">A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.<br /><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Zovum3\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How clan wars leave Muslim Filipino youth traumatized<br /><small class=\"hero-source\">dw.com</small></h1><p class=\"hero-dek\">A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.<br /><br /><small class=\"hero-source\">dw.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

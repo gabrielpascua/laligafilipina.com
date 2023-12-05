@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Gaasz9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: 400,000 seafarers fear sailing ban</h1> <p class=\"hero-dek\">The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.</p><p><small class=\"text-amber-500\">dw.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Gaasz9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: 400,000 seafarers fear sailing ban</h1> <p class=\"hero-dek\">The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.</p><p><small class=\"hero-source\">dw.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

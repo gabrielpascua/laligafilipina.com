@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3l8QKxe\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines’ forgotten siege: Marawi’s long road to recovery<br /><small class=\"hero-source\">thenewhumanitarian.org</small></h1><p class=\"hero-dek\">It has been almost six years since hundreds of thousands of civilians were displaced by the country’s longest urban battle. Why have so few returned?<br /><small class=\"hero-source\">thenewhumanitarian.org</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3l8QKxe\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines’ forgotten siege: Marawi’s long road to recovery<br /><small class=\"hero-source\">thenewhumanitarian.org</small></h1><p class=\"hero-dek\">It has been almost six years since hundreds of thousands of civilians were displaced by the country’s longest urban battle. Why have so few returned?<br /><br /><small class=\"hero-source\">thenewhumanitarian.org</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

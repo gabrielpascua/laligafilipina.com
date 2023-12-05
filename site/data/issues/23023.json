@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3N4TyVQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Agutaya archipelago doctor who cared for 13,000 people on her own</h1><p class=\"hero-dek\">The pandemic was far from Dr Alena's only challenge on a far-flung archipelago in the Philippines.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3N4TyVQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Agutaya archipelago doctor who cared for 13,000 people on her own</h1><p class=\"hero-dek\">The pandemic was far from Dr Alena's only challenge on a far-flung archipelago in the Philippines.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

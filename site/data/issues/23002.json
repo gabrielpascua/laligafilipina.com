@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3QW7VO9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sierra Madre: Fighting to save what's left of a vital rainforest</h1> <p class=\"hero-dek\">Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.</p><p><small class=\"text-amber-500\">bbc.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3QW7VO9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sierra Madre: Fighting to save what's left of a vital rainforest</h1> <p class=\"hero-dek\">Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.</p><p><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

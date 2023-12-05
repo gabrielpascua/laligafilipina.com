@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.youtube.com/watch?v=O3aBxOv5txc\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Searching for Maura | An illustrated investigation</h1><p class=\"hero-dek\">Maura came to St. Louis from the Philippines to be put on display at the 1904 World’s Fair. She soon fell ill and died, and records suggest a world-renowned anthropologist from the Smithsonian Institution’s United States National Museum took part of her brain. Few people would know what happened to her for more than a century.<br /><small class=\"hero-source\">youtube.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.youtube.com/watch?v=O3aBxOv5txc\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Searching for Maura | An illustrated investigation</h1><p class=\"hero-dek\">Maura came to St. Louis from the Philippines to be put on display at the 1904 World’s Fair. She soon fell ill and died, and records suggest a world-renowned anthropologist from the Smithsonian Institution’s United States National Museum took part of her brain. Few people would know what happened to her for more than a century.<br /><br /><small class=\"hero-source\">youtube.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

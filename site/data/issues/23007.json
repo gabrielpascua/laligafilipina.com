@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KiFLeI/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Invisible no more: Shedding light on police violence and corruption in the Philippines</h1> <p class=\"hero-dek\">Duterte’s strategies to combat the issues faced by Filipinos have conditioned and emboldened the police. As a new president leads the country, the future of the Philippines’ criminal justice system seems committed to less violent means.</p><p><small class=\"text-amber-500\">hir.harvard.edu</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KiFLeI/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Invisible no more: Shedding light on police violence and corruption in the Philippines</h1> <p class=\"hero-dek\">Duterte’s strategies to combat the issues faced by Filipinos have conditioned and emboldened the police. As a new president leads the country, the future of the Philippines’ criminal justice system seems committed to less violent means.</p><p><small class=\"hero-source\">hir.harvard.edu</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

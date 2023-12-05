@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://urlr.me/czGrD\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet a mother of 7 who runs a convenience store from her home in a graveyard, where the living coexist with the dead — but her family is set to be evicted in a few weeks</h1><p class=\"hero-dek\">Gesophine Grama runs a convenience store outside her home made from a mausoleum at the Chinese Cemetery in Cebu, Philippines.<br /><small class=\"hero-source\">insider.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://urlr.me/czGrD\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Meet a mother of 7 who runs a convenience store from her home in a graveyard, where the living coexist with the dead — but her family is set to be evicted in a few weeks</h1><p class=\"hero-dek\">Gesophine Grama runs a convenience store outside her home made from a mausoleum at the Chinese Cemetery in Cebu, Philippines.<br /><br /><small class=\"hero-source\">insider.com</small></p></div></a></div></section>",
         "locale": "Cebu"
     },
     "ticker": {
