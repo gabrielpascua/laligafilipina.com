@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3CyghEW\"><div class=\"hero-container\"><h1 class=\"hero-lead\">A mother thinks the worst is over after Duterte. Then her son is killed under Marcos.<br /><small class=\"hero-source\">rappler.com</small></h1><p class=\"hero-dek\">Families continue to fear for their lives as killings continue in the same poorest communities where Rodrigo Duterte unleashed his violent war on drugs in 2016<br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3CyghEW\"><div class=\"hero-container\"><h1 class=\"hero-lead\">A mother thinks the worst is over after Duterte. Then her son is killed under Marcos.<br /><small class=\"hero-source\">rappler.com</small></h1><p class=\"hero-dek\">Families continue to fear for their lives as killings continue in the same poorest communities where Rodrigo Duterte unleashed his violent war on drugs in 2016<br /><br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

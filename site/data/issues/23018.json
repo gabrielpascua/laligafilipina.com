@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3nwiJIx\"><div class=\"hero-container\"><h1 class=\"hero-lead\">America’s Mixed Legacy in the Philippines<br /><small class=\"hero-source\">time.com</small></h1><p class=\"hero-dek\">As American troops return to Philippine bases, the U.S. still hasn’t reckoned with the generation of children it left behind<br /><small class=\"hero-source\">time.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3nwiJIx\"><div class=\"hero-container\"><h1 class=\"hero-lead\">America’s Mixed Legacy in the Philippines<br /><small class=\"hero-source\">time.com</small></h1><p class=\"hero-dek\">As American troops return to Philippine bases, the U.S. still hasn’t reckoned with the generation of children it left behind<br /><br /><small class=\"hero-source\">time.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

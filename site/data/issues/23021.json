@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3WA9fJj\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam<br /><small class=\"hero-source\">accuweather.com</small></h1><p class=\"hero-dek\">The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.<br /><small class=\"hero-source\">accuweather.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3WA9fJj\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam<br /><small class=\"hero-source\">accuweather.com</small></h1><p class=\"hero-dek\">The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.<br /><br /><small class=\"hero-source\">accuweather.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

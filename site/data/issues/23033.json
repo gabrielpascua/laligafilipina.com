@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.vice.com/en/article/qjvz9q/inside-fliptop-the-legendary-rap-battle-league-from-the-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Inside FlipTop: The Legendary Battle Rap League From the Philippines<br /><small class=\"hero-source\">vice.com</small></h1><p class=\"hero-dek\">VICE spoke with the league’s founder and emcees about how it has shaped local hip-hop for over a decade.<br /><small class=\"hero-source\">vice.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.vice.com/en/article/qjvz9q/inside-fliptop-the-legendary-rap-battle-league-from-the-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Inside FlipTop: The Legendary Battle Rap League From the Philippines<br /><small class=\"hero-source\">vice.com</small></h1><p class=\"hero-dek\">VICE spoke with the league’s founder and emcees about how it has shaped local hip-hop for over a decade.<br /><br /><small class=\"hero-source\">vice.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

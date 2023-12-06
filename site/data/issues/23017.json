@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/40S3sPu/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The paradise islands caught in the US-China crosshairs<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/40S3sPu/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The paradise islands caught in the US-China crosshairs<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

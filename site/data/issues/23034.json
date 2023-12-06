@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.aljazeera.com/news/2023/9/13/disappearances-speak-to-dangers-of-environmental-activism-in-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Disappearances ‘speak to dangers’ of environmental activism in Philippines<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Some 15 activists and community organisers have gone missing since Ferdinand Marcos Jr took power in the Philippines.<br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.aljazeera.com/news/2023/9/13/disappearances-speak-to-dangers-of-environmental-activism-in-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Disappearances ‘speak to dangers’ of environmental activism in Philippines<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Some 15 activists and community organisers have gone missing since Ferdinand Marcos Jr took power in the Philippines.<br /><br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

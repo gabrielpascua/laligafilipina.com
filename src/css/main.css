@@ -102,8 +102,8 @@ body {
 }
 
 .hero-source {
-  @apply text-white font-semibold;
-  @apply text-xs lowercase font-normal bg-orange-400;
+  @apply text-gray-600 font-semibold;
+  @apply text-xs lowercase font-normal bg-gray-200;
   border-radius: 6px;
   padding: 2px 8px 4px 8px;
   text-shadow: none;
@@ -128,7 +128,7 @@ body {
 }
 
 .dark .hero-source {
-  @apply text-white bg-amber-600;
+  @apply text-gray-300 bg-gray-600;
 }
 
 

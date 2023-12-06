@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.npr.org/2023/10/06/1201087955/philippines-water-shortage-dam\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines' capital is running out of water. Is building a dam the solution?<br /><small class=\"hero-source\">npr.org</small></h1><p class=\"hero-dek\">Officials say the Kaliwa Dam will help alleviate an impending water shortage in the capital that's being exacerbated by climate change. But the project is plagued with controversies and questions.<br /><small class=\"hero-source\">npr.org</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.npr.org/2023/10/06/1201087955/philippines-water-shortage-dam\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Philippines' capital is running out of water. Is building a dam the solution?<br /><small class=\"hero-source\">npr.org</small></h1><p class=\"hero-dek\">Officials say the Kaliwa Dam will help alleviate an impending water shortage in the capital that's being exacerbated by climate change. But the project is plagued with controversies and questions.<br /><br /><small class=\"hero-source\">npr.org</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

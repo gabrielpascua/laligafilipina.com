@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3o3LdZG\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Asia’s prices are on rise. In the Philippines, they’re soaring<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Southeast Asia’s fourth-largest economy sees inflation hit 8.6 percent, far above Thailand, Indonesia and Vietnam.<br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3o3LdZG\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Asia’s prices are on rise. In the Philippines, they’re soaring<br /><small class=\"hero-source\">aljazeera.com</small></h1><p class=\"hero-dek\">Southeast Asia’s fourth-largest economy sees inflation hit 8.6 percent, far above Thailand, Indonesia and Vietnam.<br /><br /><small class=\"hero-source\">aljazeera.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {

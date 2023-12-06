@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41SShqR/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, a nation swallowed by plastic waste<br /><small class=\"hero-source\">washingtonpost.com</small></h1><p class=\"hero-dek\">Driven by poverty, plastic waste has become out of control in the island nation known for its \"sachet economy\".<br /><small class=\"hero-source\">washingtonpost.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41SShqR/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, a nation swallowed by plastic waste<br /><small class=\"hero-source\">washingtonpost.com</small></h1><p class=\"hero-dek\">Driven by poverty, plastic waste has become out of control in the island nation known for its \"sachet economy\".<br /><br /><small class=\"hero-source\">washingtonpost.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

@@ -5,7 +5,7 @@
         "theme": "light"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.theguardian.com/news/2023/oct/26/how-filipino-domestic-workers-become-trapped\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘They treated me like an animal’: how Filipino domestic workers become trapped<br /><small class=\"hero-source\">theguardian.com</small></h1><p class=\"hero-dek\">The long read: Migrants from the Philippines make up a huge percentage of domestic workers around the world. But when their employers are abusive, visa restrictions force them to choose between enduring more suffering or becoming illegal<br /><small class=\"hero-source\">theguardian.com</small></p></div></a></div></section>",
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.theguardian.com/news/2023/oct/26/how-filipino-domestic-workers-become-trapped\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘They treated me like an animal’: how Filipino domestic workers become trapped<br /><small class=\"hero-source\">theguardian.com</small></h1><p class=\"hero-dek\">The long read: Migrants from the Philippines make up a huge percentage of domestic workers around the world. But when their employers are abusive, visa restrictions force them to choose between enduring more suffering or becoming illegal<br /><br /><small class=\"hero-source\">theguardian.com</small></p></div></a></div></section>",
         "locale": ""
     },
     "ticker": {

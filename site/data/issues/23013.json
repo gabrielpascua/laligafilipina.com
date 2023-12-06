@@ -5,7 +5,7 @@
         "theme": "dark"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KqPn6G\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Filipino islanders who weave their dreams<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">For more than 300 years, women residing around a turquoise lake have woven textiles from visions they say were bestowed to them by a goddess in their dreams.<br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KqPn6G\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Filipino islanders who weave their dreams<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">For more than 300 years, women residing around a turquoise lake have woven textiles from visions they say were bestowed to them by a goddess in their dreams.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
     },
     "ticker": {
         "primary": {
