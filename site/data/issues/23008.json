@@ -2,10 +2,16 @@
     "issue": {
         "number": 23008,
         "date": "2023-02-26T14:28:44.552Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/41uXupi\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Has the Philippines Moved On From Marcos Sr.’s Dictatorship?</h1> <p class=\"hero-dek\">“This is what happens when you bring despots and their scions back to power,” says a Filipino political science professor</p><p><small class=\"hero-source\">time.com</small></p></div></a></div></section>"
+        "url": "https://time.com/6257017/philippines-bongbong-marcos-people-power-revolution/",
+        "shortUrl": "https://bit.ly/41uXupi",
+        "title": "Has the Philippines Moved On From Marcos Sr.’s Dictatorship?",
+        "description": "“This is what happens when you bring despots and their scions back to power,” says a Filipino political science professor",
+        "date": "2023-02-22T02:30:13.000Z",
+        "tag": "Politics",
+        "locale": ""
     },
     "ticker": {
         "primary": {

@@ -2,10 +2,16 @@
     "issue": {
         "number": 23007,
         "date": "2023-02-19T00:00:00.000Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KiFLeI/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Invisible no more: Shedding light on police violence and corruption in the Philippines</h1> <p class=\"hero-dek\">Duterte’s strategies to combat the issues faced by Filipinos have conditioned and emboldened the police. As a new president leads the country, the future of the Philippines’ criminal justice system seems committed to less violent means.</p><p><small class=\"hero-source\">hir.harvard.edu</small></p></div></a></div></section>"
+        "url": "https://hir.harvard.edu/invisible-no-more-shedding-light-on-police-violence-and-corruption-in-the-philippines/",
+        "shortUrl": "https://bit.ly/3KiFLeI",
+        "title": "Invisible no more: Shedding light on police violence and corruption in the Philippines",
+        "description": "Duterte’s strategies to combat the issues faced by Filipinos have conditioned and emboldened the police. As a new president leads the country, the future of the Philippines’ criminal justice system seems committed to less violent means.",
+        "date": "2023-02-15T14:00:00.000Z",
+        "tag": "Human Rights",
+        "locale": ""
     },
     "ticker": {
         "primary": {

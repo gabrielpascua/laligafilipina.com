@@ -2,10 +2,16 @@
     "issue": {
         "number": 23009,
         "date": "2023-03-05T13:19:19.655Z",
-        "theme": "light"
+        "theme": "light two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Zovum3\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How clan wars leave Muslim Filipino youth traumatized<br /><small class=\"hero-source\">dw.com</small></h1><p class=\"hero-dek\">A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.<br /><br /><small class=\"hero-source\">dw.com</small></p></div></a></div></section>"
+        "url": "https://www.dw.com/en/how-clan-wars-leave-muslim-filipino-youth-traumatized/a-64851163",
+        "shortUrl": "https://bit.ly/3Zovum3",
+        "title": "How clan wars leave Muslim Filipino youth traumatized",
+        "description": "A peace deal between the government and the Philippines' largest Muslim separatist movement has offered a glimmer of hope to youngsters still affected by cyclical violence of clan wars.",
+        "date": "2023-03-01T15:05:19.019Z",
+        "tag": "Muslim Mindanao",
+        "locale": ""
     },
     "ticker": {
         "primary": {
