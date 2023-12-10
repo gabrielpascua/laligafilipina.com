@@ -2,11 +2,16 @@
     "issue": {
         "number": 23023,
         "date": "2023-06-11T12:25:21.022Z",
-        "theme": "dark"
+        "theme": "dark left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3N4TyVQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Agutaya archipelago doctor who cared for 13,000 people on her own</h1><p class=\"hero-dek\">The pandemic was far from Dr Alena's only challenge on a far-flung archipelago in the Philippines.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://www.bbc.com/news/world-asia-64948453",
+        "shortUrl": "https://bit.ly/3N4TyVQ",
+        "title": "Agutaya archipelago doctor who cared for 13,000 people on her own",
+        "description": "The pandemic was far from Dr Alena's only challenge on a far-flung archipelago in the Philippines.",
+        "date": "2023-06-09T23:40:12.000Z",
+        "tag": "Women's Rights and Advocacy",
+        "locale": "Palawan"
     },
     "ticker": {
         "primary": {

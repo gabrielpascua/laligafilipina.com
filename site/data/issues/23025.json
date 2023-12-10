@@ -2,11 +2,16 @@
     "issue": {
         "number": 23025,
         "date": "2023-06-25T21:32:40.519Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://urlr.me/XQZdh\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines' women seaweed farmers keep coastal families afloat<br /><small class=\"hero-source\">eco-business.com</small></h1><p class=\"hero-dek\">Seaweed farming in the Philippines, increasingly led by women, is a lifeline to poor coastal families often hit by disasters.<br /><br /><small class=\"hero-source\">eco-business.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://www.eco-business.com/news/philippines-women-seaweed-farmers-keep-coastal-families-afloat/",
+        "shortUrl": "https://urlr.me/XQZdh",
+        "title": "Philippines' women seaweed farmers keep coastal families afloat",
+        "description": "Seaweed farming in the Philippines, increasingly led by women, is a lifeline to poor coastal families often hit by disasters.",
+        "date": "2023-06-23T13:50:00.000Z",
+        "tag": "Environment",
+        "locale": "Palawan"
     },
     "ticker": {
         "primary": {

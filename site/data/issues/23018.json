@@ -2,11 +2,16 @@
     "issue": {
         "number": 23018,
         "date": "2023-05-08T00:56:01.124Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3nwiJIx\"><div class=\"hero-container\"><h1 class=\"hero-lead\">America’s Mixed Legacy in the Philippines<br /><small class=\"hero-source\">time.com</small></h1><p class=\"hero-dek\">As American troops return to Philippine bases, the U.S. still hasn’t reckoned with the generation of children it left behind<br /><br /><small class=\"hero-source\">time.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://time.com/6275367/philippines-amerasian-children-us-military-legacy/",
+        "shortUrl": "https://bit.ly/3nwiJIx",
+        "title": "America’s Mixed Legacy in the Philippines",
+        "description": "As American troops return to Philippine bases, the U.S. still hasn’t reckoned with the generation of children it left behind",
+        "date": "2023-05-01T00:00:15.000Z",
+        "tag": "United States",
+        "locale": "Zambales"
     },
     "ticker": {
         "primary": {

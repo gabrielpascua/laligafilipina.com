@@ -2,11 +2,16 @@
     "issue": {
         "number": 23017,
         "date": "2023-04-30T22:49:17.650Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/40S3sPu/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The paradise islands caught in the US-China crosshairs<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://www.bbc.com/news/world-asia-65370413",
+        "shortUrl": "https://bit.ly/40S3sPu",
+        "title": "Philippines: The paradise islands caught in the US-China crosshairs",
+        "description": "The BBC travels to far-flung Philippine islands that find themselves caught in a US-China flashpoint.",
+        "date": "2023-04-26T21:00:31.000Z",
+        "tag": "China",
+        "locale": "Batanes"
     },
     "ticker": {
         "primary": {

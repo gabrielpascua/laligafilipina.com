@@ -2,10 +2,15 @@
     "issue": {
         "number": 23024,
         "date": "2023-06-18T12:25:21.022Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3CyghEW\"><div class=\"hero-container\"><h1 class=\"hero-lead\">A mother thinks the worst is over after Duterte. Then her son is killed under Marcos.<br /><small class=\"hero-source\">rappler.com</small></h1><p class=\"hero-dek\">Families continue to fear for their lives as killings continue in the same poorest communities where Rodrigo Duterte unleashed his violent war on drugs in 2016<br /><br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+        "url": "https://www.rappler.com/newsbreak/in-depth/mother-thinks-worst-over-after-duterte-drug-war-son-killed-ferdinand-marcos-jr/",
+        "shortUrl": "https://bit.ly/3CyghEW",
+        "title": "A mother thinks the worst is over after Duterte. Then her son is killed under Marcos.",
+        "description": "Families continue to fear for their lives as killings continue in the same poorest communities where Rodrigo Duterte unleashed his violent war on drugs in 2016",
+        "date": "2023-06-11T11:00:00.000Z",
+        "tag": "War on Drugs",
         "locale": ""
     },
     "ticker": {

@@ -2,10 +2,15 @@
     "issue": {
         "number": 23022,
         "date": "2023-06-04T19:13:05.607Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/43GrE9z\"><div class=\"hero-container\"><h1 class=\"hero-lead\">As Asia strives to spur births, Philippines wants fewer babies<br /><small class=\"hero-source\">japantimes.co.jp</small></h1><p class=\"hero-dek\">The government of President Ferdinand Marcos Jr. has warned that the country can’t achieve broad economic success without addressing demographic challenges.<br /><br /><small class=\"hero-source\">japantimes.co.jp</small></p></div></a></div></section>",
+        "url": "https://www.japantimes.co.jp/news/2023/06/02/asia-pacific/philippines-wants-fewer-babies/",
+        "shortUrl": "https://bit.ly/43GrE9z",
+        "title": "As Asia strives to spur births, Philippines wants fewer babies",
+        "description": "The government of President Ferdinand Marcos Jr. has warned that the country can’t achieve broad economic success without addressing demographic challenges.",
+        "date": "2023-06-02T14:44:55.000Z",
+        "tag": "Demographics and Population",
         "locale": ""
     },
     "ticker": {

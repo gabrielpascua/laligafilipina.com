@@ -2,10 +2,15 @@
     "issue": {
         "number": 23021,
         "date": "2023-05-28T19:13:05.607Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3WA9fJj\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam<br /><small class=\"hero-source\">accuweather.com</small></h1><p class=\"hero-dek\">The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.<br /><br /><small class=\"hero-source\">accuweather.com</small></p></div></a></div></section>",
+        "url": "https://www.accuweather.com/en/hurricane/violent-typhoon-mawar-sets-sights-on-philippines-taiwan-and-japan-after-blow-to-guam/1532415",
+        "shortUrl": "https://bit.ly/3WA9fJj",
+        "title": "Violent Typhoon Mawar (Betty) sets sights on Philippines, Taiwan and Japan after blow to Guam",
+        "description": "The powerhouse typhoon is now at the equivalent of a very strong Category 4 hurricane as it approaches the northernmost island of the Philippines before turning to the north, continuing its damaging path.",
+        "date": "2023-05-26T17:06:00.000Z",
+        "tag": "Typhoons",
         "locale": ""
     },
     "ticker": {
