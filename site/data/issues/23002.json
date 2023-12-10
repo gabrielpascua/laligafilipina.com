@@ -2,10 +2,16 @@
     "issue": {
         "number": 23002,
         "date": "2023-01-15T00:00:00.000Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3QW7VO9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sierra Madre: Fighting to save what's left of a vital rainforest</h1> <p class=\"hero-dek\">Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.</p><p><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
+        "url": "https://www.bbc.com/news/world-asia-64123652",
+        "shortUrl": "https://bit.ly/3QW7VO9",
+        "title": "Sierra Madre: Fighting to save what's left of a vital rainforest",
+        "description": "Around 90% of the Sierra Madre, which protects the Philippines from the worst of climate change, is gone.",
+        "date": "2023-01-05T21:59:12.000Z",
+        "tag": "Climate Change",
+        "locale": "Cagayan"
     },
     "ticker": {
         "primary": {

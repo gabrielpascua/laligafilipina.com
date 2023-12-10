@@ -2,10 +2,16 @@
     "issue": {
         "number": 23003,
         "date": "2023-01-22T06:50:10.632Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3HntgNd\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Fearless Pinoy in 2018 Thailand cave rescue now living his ‘life number 4’</h1> <p class=\"hero-dek\">While unheralded, Cedjie Aquino and his friends also risked their lives just to try and rescue the 12 young Thai athletes</p><p><small class=\"hero-source\">news.abs-cbn.com</small></p></div></a></div></section>"
+        "url": "https://news.abs-cbn.com/ancx/culture/spotlight/01/15/23/pinoy-in-2018-thai-cave-rescue-on-living-fearlessly",
+        "shortUrl": "https://bit.ly/3HntgNd",
+        "title": "Fearless Pinoy in 2018 Thailand cave rescue now living his ‘life number 4’",
+        "description": "While unheralded, Cedjie Aquino and his friends also risked their lives just to try and rescue the 12 young Thai athletes",
+        "date": "2023-01-15T15:37:24.000Z",
+        "tag": "Culture",
+        "locale": ""
     },
     "ticker": {
         "primary": {

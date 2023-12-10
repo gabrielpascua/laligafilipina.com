@@ -2,10 +2,16 @@
     "issue": {
         "number": 23001,
         "date": "2023-01-08T13:43:12.961Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3ikxNWQ\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In the Philippines, revived traditions bring hope and gratitude in the new year</h1> <p class=\"hero-dek\">Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.</p><p><small class=\"hero-source\">npr.org</small></p></div></a></div></section>"
+        "url": "https://www.npr.org/2023/01/01/1146485956/in-the-philippines-revived-traditions-bring-hope-and-gratitude-in-the-new-year",
+        "shortUrl": "https://bit.ly/3ikxNWQ",
+        "title": "In the Philippines, revived traditions bring hope and gratitude in the new year",
+        "description": "Life around the world is returning to pre-pandemic normal this winter. In the Philippines, people are looking forward to the New Year with hope that they will stay healthy and happy.",
+        "date": "2023-01-01T11:55:37.000Z",
+        "tag": "Culture",
+        "locale": ""
     },
     "ticker": {
         "primary": {
