@@ -2,10 +2,15 @@
     "issue": {
         "number": 22001,
         "date": "2022-11-21T05:00:00.000Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It. - The New York Times</h1> <p class=\"hero-dek\">Against long odds and initially strong opposition, <span class=\"xfont-medium\">a pristine marine preserve in the Philippines has thrived for decades</span> under the care of local fishermen.</p><p><small class=\"hero-source\"> nytimes.com</small></p></div></a></div></section>"
+        "url": "https://www.nytimes.com/2022/11/09/world/asia/sea-turtle-sanctuary-philippines.html",
+        "shortUrl": "",
+        "title": "Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It. - The New York Times",
+        "description": "Against long odds and initially strong opposition, <span class=\"xfont-medium\">a pristine marine preserve in the Philippines has thrived for decades</span> under the care of local fishermen.",
+        "tag": "Environment",
+        "locale": "Negros Oriental"
     },
     "ticker": {
         "primary": {

@@ -2,10 +2,18 @@
     "issue": {
         "number": 22006,
         "date": "2022-12-25T05:00:00.000Z",
-        "theme": "dark"
+        "theme": "dark left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3FVA3vB\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Joma Sison on terror tag, America, and karaoke</h1> <p class=\"hero-dek\">Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union (Rest in peace)</p><p><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>"
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"\"><div class=\"hero-container\"><h1 class=\"hero-lead\"></h1> <p class=\"hero-dek\"></p><p><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+
+        "url": "https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/",
+        "shortUrl": "https://bit.ly/3FVA3vB",
+        "title": "Joma Sison on terror tag, America, and karaoke",
+        "description": "Two decades ago, the world seemed to close in on the exiled chief of the Communist Party of the Philippines, who was then declared a terrorist by the European Union (Rest in peace)",
+        "date": "2022-12-17T11:00:00.000Z",
+        "tag": "Obituaries",
+        "locale": ""
     },
     "ticker": {
         "primary": {

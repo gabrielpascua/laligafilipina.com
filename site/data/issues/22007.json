@@ -2,10 +2,16 @@
     "issue": {
         "number": 22007,
         "date": "2022-12-31T05:00:00.000Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3Gaasz9\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: 400,000 seafarers fear sailing ban</h1> <p class=\"hero-dek\">The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.</p><p><small class=\"hero-source\">dw.com</small></p></div></a></div></section>"
+        "url": "https://www.dw.com/en/philippines-400000-seafarers-at-risk-of-sailing-ban/a-64213556",
+        "shortUrl": "https://bit.ly/3Gaasz9",
+        "title": "Philippines: 400,000 seafarers fear sailing ban",
+        "description": "The fate of hundreds of thousands of Filipino seafarers hangs in the balance as they await a crucial European Commission decision. It follows an audit indicating that the Philippines is in breach of maritime standards.",
+        "date": "2022-12-26T13:54:25.087Z",
+        "tag": "Overseas Workers",
+        "locale": ""
     },
     "ticker": {
         "primary": {

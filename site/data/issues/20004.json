@@ -2,10 +2,16 @@
     "issue": {
         "number": 20004,
         "date": "2020-12-21T05:00:00.000Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://youtube.com/watch?v=L9BgO1DRbXc\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion</h1> <p class=\"hero-dek\">Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.</p><p><small class=\"hero-source\"> youtube.com</small></p></div></a></div></section>"
+        "url": "https://youtube.com/watch?v=L9BgO1DRbXc",
+        "shortUrl": "",
+        "title": "Rosary: A Dance-Crazy Nurse Who Left Retirement to Fight the Pandemic | Cause of Life - NYT Opinion",
+        "description": "Rosary Castro-Olega was a retired nurse who returned to the frontlines to fight the virus, ultimately becoming one of the Filipino-American nurses who were disproportionately killed by the virus.",
+        "date": "2020-12-21T21:00:10.000Z",
+        "tag": "Coronavirus",
+        "locale": ""
     },
     "ticker": {
         "primary": {
