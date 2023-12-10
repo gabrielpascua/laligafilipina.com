@@ -1,7 +1,7 @@
 ---
 title: NAIA Screening Officer Allegedly Stole $300 by swallowing
 issues: 23035
-tags: ["Travel and Culture", "Transportation", "Crime"]
+tags: ["Transportation", "Crime"]
 publishDate: 2023-09-21T11:37:52.000Z
 author: 
 description: Airport surveillance video shows a Ninoy Aquino Internation Airport screening officer ingesting what appears to be the alleged $300 cash stolen from a passenger

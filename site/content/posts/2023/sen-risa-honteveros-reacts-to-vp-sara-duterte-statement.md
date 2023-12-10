@@ -1,7 +1,7 @@
 ---
 title: Sen. Risa Honteveros Reacts to VP Sara Duterte Statement
 issues: 23034
-tags: ["Politics", "Government", "Department of Education"]
+tags: ["Politics", "Government", "Education"]
 publishDate: 2023-09-11T12:06:00.000Z
 author: 
 description: "Senator Risa Hontiveros reacts to Vice President Sara Duterte's stament thanking officials who helped approved her office's ₱125M Confidential Fund in 2022"
