@@ -1,7 +1,7 @@
 ---
 title: Incandescent rockfall shed from new fluidal lava at the summit of Mayon Volcano
 issues: 23023
-tags: ["Natural Disaster", "Mayon Volcano"]
+tags: ["Disasters and Response", "Mayon Volcano"]
 publishDate: 2023-06-08T15:07:00.000Z
 author: 
 description: "LOOK: Incandescent rockfall shed from new fluidal lava at the summit of Mayon Volcano, taken @ around 9:27 PM, 8 June 2023."
