@@ -2,10 +2,15 @@
     "issue": {
         "number": 23045,
         "date": "2023-12-03T21:59:08.410Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://www.theatlantic.com/international/archive/2023/12/south-china-sea-philippines-dispute-explained/676218/\"><div class=\"hero-container\" style=\"max-width: 780px\"><h1 class=\"hero-lead\">The Most Dangerous Conflict No One Is Talking About</h1><p class=\"hero-dek\">Of all the world’s hot spots, the South China Sea is one of the least remarked on and most potentially explosive.<br /><br /><small class=\"hero-source\">theatlantic.com</small></p></div></a></div></section>",
+        "url": "https://www.theatlantic.com/international/archive/2023/12/south-china-sea-philippines-dispute-explained/676218/",
+        "shortUrl": "",
+        "title": "The Most Dangerous Conflict No One Is Talking About",
+        "description": "Of all the world’s hot spots, the South China Sea is one of the least remarked on and most potentially explosive.",
+        "date": "2023-12-02T13:00:00.000Z",
+        "tag": "West Philippine Sea",
         "locale": ""
     },
     "ticker": {

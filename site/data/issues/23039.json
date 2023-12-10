@@ -2,10 +2,15 @@
     "issue": {
         "number": 23039,
         "date": "2023-10-22T14:07:03.439Z",
-        "theme": "light"
+        "theme": "light left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.abc.net.au/news/2023-10-18/rise-of-bongbong-marcos-take-me-to-your-leader/102840572\"><div class=\"hero-container\"><h1 class=\"hero-lead\">How this son of a dictator pulled off one of the biggest political makeovers in recent history</h1><p class=\"hero-dek\">Thirty-seven years after his family fled Manilla in disgrace, Ferdinand Marcos Jr is running the country that his family had \"plundered\".<br /><br /><small class=\"hero-source\">abc.net.au</small></p></div></a></div></section>",
+        "url": "https://www.abc.net.au/news/2023-10-18/rise-of-bongbong-marcos-take-me-to-your-leader/102840572",
+        "shortUrl": "",
+        "title": "How this son of a dictator pulled off one of the biggest political makeovers in recent history",
+        "description": "Thirty-seven years after his family fled Manilla in disgrace, Ferdinand Marcos Jr is running the country that his family had \"plundered\".",
+        "date": "2023-10-17T18:00:00.000Z",
+        "tag": "Politics",
         "locale": ""
     },
     "ticker": {

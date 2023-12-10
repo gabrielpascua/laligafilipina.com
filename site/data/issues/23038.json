@@ -2,10 +2,15 @@
     "issue": {
         "number": 23038,
         "date": "2023-10-15T12:55:47.011Z",
-        "theme": "light"
+        "theme": "light two-column"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.rappler.com/nation/philippines-dominates-global-ocean-plastic-pollution-chart-at-36-shows-study/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines dominates global ocean plastic pollution chart at 36%, shows study</h1><p class=\"hero-dek\">While the Philippines holds the top rank as a plastic polluter in the study, the group Utility Bidder cites the country's efforts to mitigate the likelihood of plastic waste emissions<br /><br /><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
+        "url": "https://www.rappler.com/nation/philippines-dominates-global-ocean-plastic-pollution-chart-at-36-shows-study/",
+        "shortUrl": "",
+        "title": "Philippines dominates global ocean plastic pollution chart at 36%, shows study",
+        "description": "While the Philippines holds the top rank as a plastic polluter in the study, the group Utility Bidder cites the country's efforts to mitigate the likelihood of plastic waste emissions",
+        "date": "2023-10-10T04:36:16.000Z",
+        "tag": "Environment",
         "locale": ""
     },
     "ticker": {

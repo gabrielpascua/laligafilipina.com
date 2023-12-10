@@ -2,10 +2,15 @@
     "issue": {
         "number": 23042,
         "date": "2023-11-12T19:22:18.067Z",
-        "theme": "dark"
+        "theme": "dark centered"
     },
     "hero": {
-        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://foreignpolicy.com/2023/11/09/philippines-marcos-disappeared-activists-duterte-tamano-castro/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Activists Keep Disappearing <br />in Marcos’s Philippines</h1><p class=\"hero-dek\">Military kidnappings have produced a public outcry.<br /><br /><small class=\"hero-source\">foreignpolicy.com</small></p></div></a></div></section>",
+        "url": "https://foreignpolicy.com/2023/11/09/philippines-marcos-disappeared-activists-duterte-tamano-castro/",
+        "shortUrl": "",
+        "title": "Activists Keep Disappearing in Marcos’s Philippines",
+        "description": "Military kidnappings have produced a public outcry.",
+        "date": "2023-11-09T14:59:11.000Z",
+        "tag": "Activism",
         "locale": ""
     },
     "ticker": {

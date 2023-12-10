@@ -2,10 +2,15 @@
     "issue": {
         "number": 23043,
         "date": "2023-11-19T16:06:39.629Z",
-        "theme": "light"
+        "theme": "light two-column"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.theguardian.com/environment/2023/nov/16/artificial-upwelling-climate-foundation-seaweed-farms-blue-carbon-geoengineering\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘Like a 40-metre pizza’: the seaweed farms that could feed us all – at a cost</h1><p class=\"hero-dek\">Mammoth seaweed farms are springing up in the Philippines and beyond, and they’re in line for Elon Musk’s ‘largest incentive prize in history’. Meddling with the ocean to grow them, however, has some scientists troubled<br /><br /><small class=\"hero-source\">theguardian.com</small></p></div></a></div></section>",
+        "url": "https://www.theguardian.com/environment/2023/nov/16/artificial-upwelling-climate-foundation-seaweed-farms-blue-carbon-geoengineering",
+        "shortUrl": "",
+        "title": "‘Like a 40-metre pizza’: the seaweed farms that could feed us all – at a cost",
+        "description": "Mammoth seaweed farms are springing up in the Philippines and beyond, and they’re in line for Elon Musk’s ‘largest incentive prize in history’. Meddling with the ocean to grow them, however, has some scientists troubled",
+        "date": "2023-11-17T18:07:25.000Z",
+        "tag": "Sustainability",
         "locale": ""
     },
     "ticker": {

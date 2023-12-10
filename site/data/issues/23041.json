@@ -5,7 +5,12 @@
         "theme": "dark"
     },
     "hero": {
-        "content":  "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.nytimes.com/2023/11/04/world/asia/philippines-divorce-illegal-legislation.html\"><div class=\"hero-container\"><h1 class=\"hero-lead\">‘Just Like Medicine’: A New Push for Divorce in a Nation Where It’s Illegal<br /><small class=\"hero-source\">nytimes.com</small></h1><p class=\"hero-dek\">A campaign in the Philippines that frames divorce as a basic human right is gaining momentum, despite systemic and religious barriers.<br /><br /><small class=\"hero-source\">nytimes.com</small></p></div></a></div></section>",
+        "url": "https://www.nytimes.com/2023/11/04/world/asia/philippines-divorce-illegal-legislation.html",
+        "shortUrl": "",
+        "title": "‘Just Like Medicine’: A New Push for Divorce in a Nation Where It’s Illegal",
+        "description": "A campaign in the Philippines that frames divorce as a basic human right is gaining momentum, despite systemic and religious barriers.",
+        "date": "2023-11-04T06:07:10.000Z",
+        "tag": "Law and Legislation",
         "locale": ""
     },
     "ticker": {

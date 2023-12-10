@@ -2,11 +2,16 @@
     "issue": {
         "number": 23044,
         "date": "2023-11-26T16:06:39.629Z",
-        "theme": "light"
+        "theme": "light centered"
     },
     "hero": {
-        "content": "<section class=\"centered hero\"><div class=\"mx-auto\"><a href=\"https://news.abs-cbn.com/spotlight/11/26/23/why-a-teacher-chose-to-serve-in-a-last-mile-school\"><div class=\"hero-container\" style=\"max-width: 780px\"><h1 class=\"hero-lead\">Why a teacher chose to serve in a 'last-mile school'</h1><p class=\"hero-dek\">Situated in the far-flung area with limited public transportation, this school has been identified by the DepEd, as one of the country’s last mile schools.<br /><br /><small class=\"hero-source\">news.abs-cbn.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://news.abs-cbn.com/spotlight/11/26/23/why-a-teacher-chose-to-serve-in-a-last-mile-school",
+        "shortUrl": "",
+        "title": "Why a teacher chose to serve in a 'last-mile school'",
+        "description": "Situated in the far-flung area with limited public transportation, this school has been identified by the DepEd, as one of the country’s last mile schools.",
+        "date": "2023-11-25T16:27:39.000Z",
+        "tag": "Education",
+        "locale": "Sorsogon"
     },
     "ticker": {
         "primary": {

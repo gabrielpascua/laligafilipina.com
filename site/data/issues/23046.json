@@ -2,11 +2,16 @@
     "issue": {
         "number": 23046,
         "date": "2023-12-10T21:59:08.410Z",
-        "theme": "light"
+        "theme": "light centered"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.bbc.com/future/article/20231130-the-floating-homes-built-for-floods\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The houses built to survive floods</h1><p class=\"hero-dek\">The Manobo indigenous people live and thrive on a vast wetland in the Philippines – despite dealing with dozens of storms and floods per year. What can we learn from them?<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
-        "locale": ""
+        "url": "https://www.bbc.com/future/article/20231130-the-floating-homes-built-for-floods",
+        "shortUrl": "",
+        "title": "The houses built to survive floods",
+        "description": "The Manobo indigenous people live and thrive on a vast wetland in the Philippines – despite dealing with dozens of storms and floods per year. What can we learn from them?",
+        "date": "2023-12-05T14:00:00.000Z",
+        "tag": "Climate Change",
+        "locale": "Agusan del Sur"
     },
     "ticker": {
         "primary": {
