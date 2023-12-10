@@ -2,7 +2,7 @@
     "issue": {
         "number": 22006,
         "date": "2022-12-25T05:00:00.000Z",
-        "theme": "dark left-aligned"
+        "theme": "dark two-column"
     },
     "hero":{
         "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"\"><div class=\"hero-container\"><h1 class=\"hero-lead\"></h1> <p class=\"hero-dek\"></p><p><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
