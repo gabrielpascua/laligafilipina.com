@@ -2,10 +2,15 @@
     "issue": {
         "number": 23033,
         "date": "2023-09-10T14:00:19.968Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.vice.com/en/article/qjvz9q/inside-fliptop-the-legendary-rap-battle-league-from-the-philippines\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Inside FlipTop: The Legendary Battle Rap League From the Philippines<br /><small class=\"hero-source\">vice.com</small></h1><p class=\"hero-dek\">VICE spoke with the league’s founder and emcees about how it has shaped local hip-hop for over a decade.<br /><br /><small class=\"hero-source\">vice.com</small></p></div></a></div></section>",
+        "url": "https://www.vice.com/en/article/qjvz9q/inside-fliptop-the-legendary-rap-battle-league-from-the-philippines",
+        "shortUrl": "",
+        "title": "Inside FlipTop: The Legendary Battle Rap League From the Philippines",
+        "description": "VICE spoke with the league’s founder and emcees about how it has shaped local hip-hop for over a decade.",
+        "date": "2023-08-30T07:18:17.226Z",
+        "tag": "Art and Entertainment",
         "locale": ""
     },
     "ticker": {

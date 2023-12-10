@@ -2,10 +2,15 @@
     "issue": {
         "number": 23028,
         "date": "2023-08-06T13:56:35.395Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://newsinfo.inquirer.net/1811682/sws-more-filipinos-experience-hunger-during-the-2nd-quarter-of-2023\"><div class=\"hero-container\"><h1 class=\"hero-lead\">SWS: More Filipinos experience hunger during the 2nd quarter of 2023<br /><small class=\"hero-source\">inquirer.net</small></h1><p class=\"hero-dek\">MANILA, Philippines — More Filipinos suffer from hunger. The June 2023 Social Weather Stations (SWS) Second Quarter study released<br /><br /><small class=\"hero-source\">inquirer.net</small></p></div></a></div></section>",
+        "url": "https://newsinfo.inquirer.net/1811682/sws-more-filipinos-experience-hunger-during-the-2nd-quarter-of-2023",
+        "shortUrl": "",
+        "title": "SWS: More Filipinos experience hunger during the 2nd quarter of 2023",
+        "description": "Manila, Philippines — More Filipinos suffer from hunger. The June 2023 Social Weather Stations (SWS) Second Quarter study released",
+        "date": "2023-08-03T20:03:31.000Z",
+        "tag": "Poverty",
         "locale": ""
     },
     "ticker": {

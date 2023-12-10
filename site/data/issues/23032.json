@@ -2,10 +2,15 @@
     "issue": {
         "number": 23032,
         "date": "2023-09-03T17:09:27.599Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Behind the AI boom, an army of overseas workers in ‘digital sweatshops’<br /><small class=\"hero-source\">washingtonpost.com</small></h1><p class=\"hero-dek\">Thousands of workers in the Philippines labor for San Francisco start-up Scale AI. Many don’t always get paid.<br /><br /><small class=\"hero-source\">washingtonpost.com</small></p></div></a></div></section>",
+        "url": "https://www.washingtonpost.com/world/2023/08/28/scale-ai-remotasks-philippines-artificial-intelligence/",
+        "shortUrl": "",
+        "title": "Behind the AI boom, an army of overseas workers in ‘digital sweatshops’",
+        "description": "Thousands of workers in the Philippines labor for San Francisco start-up Scale AI. Many don’t always get paid.",
+        "date": "2023-08-28T06:00:00.000Z",
+        "tag": "Technology",
         "locale": ""
     },
     "ticker": {

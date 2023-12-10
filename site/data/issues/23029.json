@@ -2,10 +2,15 @@
     "issue": {
         "number": 23029,
         "date": "2023-08-13T13:59:22.379Z",
-        "theme": "dark"
+        "theme": "dark left-aligned"
     },
     "hero": {
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://opinion.inquirer.net/165423/the-filipino-curse-of-puede-na\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Filipino curse of ‘puede na’</h1><p class=\"hero-dek\">For about two weeks since the start of incessant rains over Luzon last month, Filipinos’ social media timelines have been replete with lament about the aggravation of getting to and from Metro<br /><br /><small class=\"hero-source\">inquirer.net</small></p></div></a></div></section>",
+        "url": "https://opinion.inquirer.net/165423/the-filipino-curse-of-puede-na",
+        "shortUrl": "",
+        "title": "The Filipino curse of ‘puede na’",
+        "description": "For about two weeks since the start of incessant rains over Luzon last month, Filipinos’ social media timelines have been replete with lament about the aggravation of getting to and from Metro",
+        "date": "2023-08-09T12:45:00.000Z",
+        "tag": "Culture",
         "locale": ""
     },
     "ticker": {

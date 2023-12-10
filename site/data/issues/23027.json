@@ -2,10 +2,15 @@
     "issue": {
         "number": 23027,
         "date": "2023-07-30T23:10:09.344Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">In Manila, a Once-Lost Masterpiece Is Back on Public View<br /><small class=\"hero-source\">hyperallergic.com</small></h1><p class=\"hero-dek\">The rediscovery of Juan Luna’s masterwork “Hymen, oh Hyménée!” offer a fresh opportunity to contemplate the role he played in the early formation of Philippine politics and culture.<br /><br /><small class=\"hero-source\">hyperallergic.com</small></p></div></a></div></section>",
+        "url": "https://hyperallergic.com/834568/in-manila-a-once-lost-juan-luna-masterpiece-is-back-on-public-view/",
+        "shortUrl": "",
+        "title": "In Manila, a Once-Lost Masterpiece Is Back on Public View",
+        "description": "The rediscovery of Juan Luna’s masterwork “Hymen, oh Hyménée!” offer a fresh opportunity to contemplate the role he played in the early formation of Philippine politics and culture.",
+        "date": "2023-07-23T20:04:00.000Z",
+        "tag": "Art and Entertainment",
         "locale": ""
     },
     "ticker": {
