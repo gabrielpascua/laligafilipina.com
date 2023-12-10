@@ -20,23 +20,27 @@
             "shortUrl": "https://bit.ly/3VSIu14",
             "title":"Philippines’ inflation soars to 14-year high, fueling expectations of more rate hikes",
             "description": "Philippines' annual inflation data soared to 8.0%, marking the country's fastest inflation in 14-year high since November 2008.",
+            "date": "2022-12-06T08:00:05.000Z",
             "tag": "Economy"
         },
         "secondary": [{
             "url": "https://www.gmanetwork.com/news/money/economy/853620/inflation-surges-to-8-0-in-november/story/",
             "shortUrl": "https://bit.ly/3FrfRBE",
             "title":"Inflation surges to 8.0% in November",
-            "description": "Prices of consumer goods in the Philippines continued to grow faster than targeted in November to hit the highest in 14 years, government data released Tuesday showed."
+            "description": "Prices of consumer goods in the Philippines continued to grow faster than targeted in November to hit the highest in 14 years, government data released Tuesday showed.",
+            "date": "2022-12-06T01:09:20.000Z"
         },{
             "url": "https://think.ing.com/snaps/philippines-inflation-hits-14-year-high-as-food-inflation-spikes",
             "shortUrl": "https://bit.ly/3iVfqYz",
             "title": "Philippines: Inflation hits 14 year high as food inflation spikes",
-            "description": "Philippine inflation hits its highest level since 2008"
+            "description": "Philippine inflation hits its highest level since 2008",
+            "date": "2022-12-06T00:00:00.000Z"
         },{
             "url": "https://www.reuters.com/business/retail-consumer/philippine-inflation-leaps-14-year-high-november-2022-12-06/",
             "shortUrl": "https://bit.ly/3FJT2KP",
             "title":"Philippines inflation at 14-year high, backs case for 50 bps rate hike",
-            "description": "Philippine annual inflation surged to a 14-year high in November driven mainly by higher food prices, the statistics agency said on Tuesday, with the pickup in prices seen supporting the case for a half-percentage point interest rate hike this month."
+            "description": "Philippine annual inflation surged to a 14-year high in November driven mainly by higher food prices, the statistics agency said on Tuesday, with the pickup in prices seen supporting the case for a half-percentage point interest rate hike this month.",
+            "date": "2022-12-06T02:44:23.000Z"
         }]
     },
     "carousel": [
@@ -45,6 +49,7 @@
             "shortUrl": "https://bit.ly/3iW24vf",
             "title": "In the Philippines, a deadly storm holds lessons on climate resilience",
             "description": "In the Philippines, one village’s struggle to rebuild in the aftermath of Tropical Storm Nalgae highlights the limits of climate resilience strategies. Does running from high-risk areas always make a community safer?",
+            "date": "2022-12-01T21:15:00.000Z",
             "tag": "Climate Change"
         },
         {
@@ -52,6 +57,7 @@
             "shortUrl": "https://bit.ly/3Fi78Sc",
             "title": "Philippines sees a pandemic boom in child sex abuse",
             "description": "Lockdowns and school closures left children at home with poor parents, desperate to make money.",
+            "date": "2022-11-29T00:13:34.000Z",
             "tag": "Coronavirus"
         },
         {
@@ -59,6 +65,7 @@
             "shortUrl": "https://bit.ly/3PmiqJM",
             "title": "Hidilyn bags 3 golds in World Championships",
             "description": "Hidilyn Diaz-Naranjo won three gold medals to rule the 55-kilogram category of the World Championships of the International Weightlifting Federation (IWF) in Bogota, Colombia.",
+            "date": "2022-12-09T05:28:00.000Z",
             "tag": "Sports"
         },
         {
@@ -66,6 +73,7 @@
             "shortUrl": "https://bit.ly/3PgK1Me",
             "title": "How a female founder convinced tiny stores to digitalize mid-pandemic",
             "description": "Aiko Reyes, COO and co-founder of Peddlr, on her mission to bring the Philippines' 20 million micro and small businesses online.",
+            "date": "2022-11-29T11:00:00.000Z",
             "tag": "Technology"
         }
     ]

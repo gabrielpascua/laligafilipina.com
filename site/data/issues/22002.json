@@ -20,23 +20,27 @@
             "description": "The United States and the Philippines enjoy an alliance and partnership based on deep historical, economic, and cultural ties, and our shared democratic",
             "url": "https://www.whitehouse.gov/briefing-room/statements-releases/2022/11/20/fact-sheet-vice-president-harris-launches-new-initiatives-to-strengthen-u-s-philippines-alliance/",
             "shortUrl": "",
+            "date": "2022-11-20T22:04:19.000Z",
             "tag": "United States"
         },
         "secondary": [{
             "url": "https://time.com/6236010/kamala-harris-philippines-visit-china/",
             "shortUrl": "",
             "title":"Kamala Harris’ Visit Puts the Philippines in a Tight Spot with China",
-            "description": "The Vice President visited Palawan Tuesday in what observers say is meant as a message to China"
+            "description": "The Vice President visited Palawan Tuesday in what observers say is meant as a message to China",
+            "date": "2022-11-22T09:30:07.000Z"
         },{
             "url": "https://newsinfo.inquirer.net/1696664/harris-us-stands-with-ph-vs-coercion-in-south-china-sea",
             "shortUrl": "",
             "title":"Harris: US stands with PH vs coercion in South China Sea",
-            "description": "Puerto Princesa City, Palawan, Philippines — US Vice President Kamala Harris on Tuesday afternoon visited this province closest to the West Philippine Sea, in a show of support for the"
+            "description": "Puerto Princesa City, Palawan, Philippines — US Vice President Kamala Harris on Tuesday afternoon visited this province closest to the West Philippine Sea, in a show of support for the",
+            "date": "2022-11-23T13:45:00.000Z"
         },{
             "url": "https://www.ibtimes.com/amid-rising-tension-china-us-military-may-return-subic-bay-philippines-3640196",
             "shortUrl": "",
             "title":"Amid Rising Tension With China, US Military May Return To Subic Bay, Philippines",
-            "description": "The Philippines is a key ally of the U.S. in a region with close geographical proximity to China, across the South China Sea."
+            "description": "The Philippines is a key ally of the U.S. in a region with close geographical proximity to China, across the South China Sea.",
+            "date": "2022-11-25T06:18:36.000Z"
         }]
     },
     "carousel": [
@@ -45,6 +49,7 @@
             "shortUrl": "",
             "title": "Philippines: Reducing Inequality Key to Becoming a Middle-Class Society Free of Poverty - Modern Diplomacy",
             "description": "Policies that support employment and workers, raise education quality and improve access, boost rural development, and strengthen social protection can reduce inequality",
+            "date": "2022-11-24T21:30:54.000Z",
             "tag": "Social Change"
         },
         {
@@ -52,6 +57,7 @@
             "shortUrl": "",
             "title": "Filipino food gains visibility in NYC, but restaurateurs point to a complicated reality",
             "description": "Current and former restaurant owners, chefs, historians and diners say Filipino food has lingered far too long on the brink of the ascendancy predicted by culinary greats.",
+            "date": "2022-11-23T22:47:00.000Z",
             "tag": "Business"
         },
         {
@@ -59,6 +65,7 @@
             "shortUrl": "",
             "title": "The Talaandig Tribe Of The Southern Philippines Shows That Reforestation Takes A Village",
             "description": "Indigenous stewardship of rainforest ecosystems in Mindanao is a potential template for successful agroforestry in other upland terrains.",
+            "date": "2022-11-23T10:01:59.000Z",
             "tag": "Climate Change"
         }
     ]

@@ -5,8 +5,6 @@
         "theme": "dark two-column"
     },
     "hero":{
-        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"\"><div class=\"hero-container\"><h1 class=\"hero-lead\"></h1> <p class=\"hero-dek\"></p><p><small class=\"hero-source\">rappler.com</small></p></div></a></div></section>",
-
         "url": "https://www.rappler.com/newsbreak/in-depth/joma-sison-on-terror-tag-america-and-karaoke/",
         "shortUrl": "https://bit.ly/3FVA3vB",
         "title": "Joma Sison on terror tag, America, and karaoke",
@@ -22,23 +20,27 @@
             "shortUrl": "https://bit.ly/3PSsWIS",
             "title":"The Philippines Has the World's Longest Christmas Celebration",
             "description": "Perhaps no country on Earth loves Christmas more than the Philippines. Residents there celebrate the holiday for four months solid. Here's why.",
+            "date": "2022-12-01T13:00:00.000Z",
             "tag": "Culture"
         },
         "secondary": [{
             "url": "https://time.com/6242847/jose-mari-chan-christmas-philippines/",
             "shortUrl": "https://bit.ly/3vdCWTp",
             "title":"Meet the Mariah Carey of the Philippines’ Christmas Season",
-            "description": "Jose Mari Chan is a 77-year-old sugar magnate and singer whose holiday hit has made him a national icon"
+            "description": "Jose Mari Chan is a 77-year-old sugar magnate and singer whose holiday hit has made him a national icon",
+            "date": "2022-12-22T01:30:07.000Z"
         },{
             "url": "https://www.philstar.com/headlines/2022/12/16/2231162/pinoy-faithful-gather-9-day-simbang-gabi",
             "shortUrl": "https://bit.ly/3Vvqaus",
             "title":"Pinoy faithful gather for 9-day Simbang Gabi",
-            "description": "The traditional pre-dawn novena masses, popularly known as “Simbang Gabi” in the Philippines, will officially start today."
+            "description": "The traditional pre-dawn novena masses, popularly known as “Simbang Gabi” in the Philippines, will officially start today.",
+            "date": "2022-12-16T05:00:00.000Z"
         },{
             "url": "https://english.kyodonews.net/news/2022/12/d8bfa5cbb921-philippine-giant-lantern-festival-resumes-with-historical-ties-to-japan.html",
             "shortUrl": "https://bit.ly/3VpjHAS",
             "title":"Philippine giant lantern festival resumes with historical ties to Japan",
-            "description": "A century-old giant lantern festival in the Philippines has resumed after a three-year hiatus from in-person celebrations due to COVID-19 restrictions, with spectators enjoying the festivity that has historical links with Japan."
+            "description": "A century-old giant lantern festival in the Philippines has resumed after a three-year hiatus from in-person celebrations due to COVID-19 restrictions, with spectators enjoying the festivity that has historical links with Japan.",
+            "date": "2022-12-22T13:25:00.000Z"
         }]
     },
     "carousel": [
@@ -55,7 +57,7 @@
             "shortUrl": "https://bit.ly/3YNHmOr",
             "title":"Philippines utility considers using nuclear energy technology | NHK WORLD-JAPAN News",
             "description": "The Philippines' largest electricity distributor has said it is in talks with the United States about possibly using a new form of nuclear energy technology.",
-            "date":"2022-03-04T10:18:42.000Z",
+            "date":"2022-12-13T11:48:00.000Z",
             "tag": "Energy Supply"
         },
         {
@@ -63,6 +65,7 @@
             "shortUrl": "https://bit.ly/3PNzBEh",
             "title":"Pinoy Pride: Sofia Frank, 2022 Asian Open Figure Skating gold medalist",
             "description": "Pinay figure skater Sofia Lexi Jacqueline Frank brought honor to the country snatching the highly-coveted gold medal at the recently concluded 2022 Asian Open Figure Skating competition held in Jakarta, Indonesia.",
+            "date": "2022-12-19T09:02:05.000Z",
             "tag": "Sports"
         }
     ]

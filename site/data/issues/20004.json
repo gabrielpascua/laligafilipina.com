@@ -21,20 +21,27 @@
             "image": "https://opinion.inquirer.net/files/2020/06/JERRY-ORBOS-MOMENTS-620x324.jpeg",
             "url": "https://opinion.inquirer.net/136291/a-christmas-like-no-other",
             "shortUrl": "",
+            "date": "2020-12-20T13:05:24.000Z",
             "tag": "Coronavirus"
         },
         "secondary": [{
             "url": "https://www.npr.org/sections/health-shots/2020/12/17/946700176/tis-the-season-to-celebrate-heres-how-to-do-it-safely",
             "shortUrl": "",
-            "title":"'Tis The Season To Celebrate. Here's How To Do It Safely"
+            "title":"'Tis The Season To Celebrate. Here's How To Do It Safely",
+            "description": "Many favorite holiday traditions could be treacherous this year because of the coronavirus. Here's how experts view the risks — and some creative, safer alternatives to keep up a festive mood.",
+            "date": "2020-12-17T16:01:00.000Z"
         },{
             "url": "https://mb.com.ph/2020/11/29/nograles-christmas-get-togethers-limited-to-10-people-in-gcq-areas/",
             "shortUrl": "",
-            "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas"
+            "title":"Nograles: Christmas get-togethers limited to 10 people in GCQ areas",
+            "description": "Cabinet Secretary Karlo Nograles reminded those living in areas under the general community quarantine (GCQ) that mass gatherings are still prohibited, thus, Christmas events like parties and family get-togethers will still be limited to 10 people.",
+            "date": "2020-11-29T09:11:00.000Z"
         },{
             "url": "https://www.washingtonpost.com/world/asia_pacific/coronavirus-christmas-dinner-philippines-pork/2020/12/21/2a85cb74-3a8e-11eb-aad9-8959227280c4_story.html",
             "shortUrl": "",
-            "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition."
+            "title":"Filipinos go the whole hog at Christmas. But coronavirus is crimping a yuletide tradition.",
+            "description": "Pandemic hardships put a brake on festive feasts in one of the world’s most Christian countries.",
+            "date": "2020-12-21T10:00:00.000Z"
         }]
     },
     "carousel": [
@@ -43,6 +50,7 @@
             "shortUrl": "",
             "title": "Filipino Nurses: New York's Frontliners | 101 East",
             "description": "A look at how Filipinos are exposed everyday from the virus thru lives of New York nurses",
+            "date": "2020-07-16T13:12:49.000Z",
             "tag": "Overseas Workers"
         },
         {
@@ -50,6 +58,7 @@
             "shortUrl": "",
             "title": "'My second life': California nurse walks out of hospital after 8-month COVID-19 ordeal",
             "description": "Merlin Pambuan's recovery after several months battling COVID-19 teaches us about hope and the fight to live.",
+            "date": "2020-12-22T22:45:59.000Z",
             "tag": "Coronavirus"
         },
         {
@@ -57,6 +66,7 @@
             "shortUrl": "",
             "title": "‘They’re taking him for a ride’: Has Philippines gained from Duterte’s China pivot?",
             "description": "4 years from 2016 and the country still waits for Chinese projects and investments to materialize.",
+            "date": "2020-12-19T05:15:00.000Z",
             "tag": "International Politics"
         }
     ]

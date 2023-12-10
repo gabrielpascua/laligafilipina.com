@@ -20,23 +20,27 @@
             "shortUrl": "https://bit.ly/3inNzjO",
             "title":"What we know so far: Philippines' air traffic system fiasco",
             "description": "Here are some questions and answers surrounding the New Year's Day travel fiasco that stemmed from 'technical issues' in the country's air traffic management system",
+            "date": "2023-01-02T11:51:30.000Z",
             "tag": "Transportation"
         },
         "secondary": [{
             "url": "https://www.reuters.com/world/asia-pacific/philippines-main-airport-scrambles-restore-normalcy-after-power-cut-2023-01-02/",
             "shortUrl": "https://bit.ly/3Iu2eER",
             "title":"Philippines airport scrambles to restore normalcy after power cut",
-            "description": "The Philippines' main gateway scrambled to resume full services on Monday after a New Year power outage jolted its air traffic control and disrupted 300 flights, prompting calls from business leaders and a top senator for urgent action."
+            "description": "The Philippines' main gateway scrambled to resume full services on Monday after a New Year power outage jolted its air traffic control and disrupted 300 flights, prompting calls from business leaders and a top senator for urgent action.",
+            "date": "2023-01-02T09:17:21.000Z"
         },{
             "url": "https://news.abs-cbn.com/news/01/02/23/3000-ofws-affected-by-new-years-day-aviation-crisis",
             "shortUrl": "https://bit.ly/3VVpn69",
             "title":"3,000 OFWs affected by New Year's Day aviation crisis",
-            "description": "At least 3,000 overseas Filipino workers (OFWs) were affected by the New Year's Day crisis that grounded hundreds of flights nationwide, DMW said."
+            "description": "At least 3,000 overseas Filipino workers (OFWs) were affected by the New Year's Day crisis that grounded hundreds of flights nationwide, DMW said.",
+            "date": "2023-01-02T17:36:00.000Z"
         },{
             "url": "https://www.cnn.com/travel/article/philippines-airport-outage-government-investigation-intl-hnk/index.html",
             "shortUrl": "https://bit.ly/3VTixOj",
             "title":"Philippine government vows to investigate New Year's Day airport chaos",
-            "description": "The Philippine government has announced that it will launch an official investigation into what led to a severe outage at the country's largest airport on New Year's Day that disrupted hundreds of flights and left thousands of travelers stranded."
+            "description": "The Philippine government has announced that it will launch an official investigation into what led to a severe outage at the country's largest airport on New Year's Day that disrupted hundreds of flights and left thousands of travelers stranded.",
+            "date": "2023-01-04T01:23:00.000Z"
         }]
     },
     "carousel": [
@@ -45,6 +49,7 @@
             "shortUrl": "https://bit.ly/3VU2O1E",
             "title":"Onions and the DA (Department of Agriculture) - Mareng Winnie",
             "description": "Did you know, for example, Reader, that a 1997 study showed that the Philippines has a comparative advantage in onions? That means, essentially, that we should be a net exporter of onions.",
+            "date": "2022-12-30T23:00:00.000Z",
             "tag": "Food Supply"
         },
         {
@@ -52,6 +57,7 @@
             "shortUrl": "https://bit.ly/3XhGMqv",
             "title":"Transportation crisis in the Philippines: How much does convenience cost?",
             "description": "Being into “convenience” after all is an inconvenience. For most people, Christmas means merry holidays and joyous celebrations. However, for Filipino commuters, this is the most tiring time of the year.",
+            "date": "2022-12-27T13:01:00.000Z",
             "tag": "Transportation"
         },
         {
@@ -59,6 +65,7 @@
             "shortUrl": "https://bit.ly/3iky5wU",
             "title":"Power, corruption and fury: the killing of Percy Lapid",
             "description": "Mystery surrounds the alleged involvement of top officials in the murder of the high-profile Philippine journalist",
+            "date": "2022-12-29T09:05:34.000Z",
             "tag": "Press Freedom"
         },
         {
@@ -66,6 +73,7 @@
             "shortUrl": "https://bit.ly/3w5WdXD",
             "title":"OFW quits job to start thriving puto bumbong business in Dubai",
             "description": "It&rsquo;s the yuletide season all year-round in Dubai, thanks to an enterprising overseas Filipino worker from Pampanga who quit a good-paying, steady job five years ago to start a puto bubong and bibingka business.",
+            "date": "2022-12-31T15:08:27.000Z",
             "tag": "Business"
         }
     ]

@@ -20,23 +20,27 @@
             "shortUrl": "https://bit.ly/3jaUi0B",
             "title":"Press Release - 'Defend Press Freedom': Hontiveros files bill to decriminalize libel",
             "description": "Senator Risa Hontiveros on Tuesday filed Senate Bill No. 1593, a bill to decriminalize libel, highlighting how current libel laws have been used and abused to suppress freedom of the press.",
+            "date": "2022-12-13T05:00:00.000Z",
             "tag": "Press Freedom"
         },
         "secondary": [{
             "url": "https://www.rappler.com/nation/hontiveros-files-bill-decriminalize-libel/",
             "shortUrl": "https://bit.ly/3hv4iBt",
             "title":"Senator Hontiveros files bill seeking to decriminalize libel",
-            "description": "The announcement comes after the conviction of Baguio City journalist and Rappler contributor Frank Cimatu of cyber libel"
+            "description": "The announcement comes after the conviction of Baguio City journalist and Rappler contributor Frank Cimatu of cyber libel",
+            "date": "2022-12-13T06:38:45.000Z"
         },{
             "url": "https://www.cnnphilippines.com/news/2022/12/13/QC-RTC-Frank-Cimatu-Manny-Pinol-cyber-libel-.html",
             "shortUrl": "https://bit.ly/3BJsVRG",
             "title":"Journalist Frank Cimatu convicted of cyber libel over ex-DA chief post",
-            "description": "A Quezon City regional trial court convicts Baguio-based journalist Frank Cimatu of cyber libel with up to five years of imprisonment over a 2017 Facebook post he made about former Agriculture Secretary Manny Piñol."
+            "description": "A Quezon City regional trial court convicts Baguio-based journalist Frank Cimatu of cyber libel with up to five years of imprisonment over a 2017 Facebook post he made about former Agriculture Secretary Manny Piñol.",
+            "date": "2023-01-06T04:13:13.970Z"
         },{
             "url": "https://www.laligafilipina.com/2022/12/transcript-senate-bill-1593/",
             "shortUrl": "https://bit.ly/3HKbEvE",
             "title": "Transcript: Senate Bill 1593 Decriminalizing Libel",
-            "description": "Read the full transcript of Senate Bill 1593 introduced by Senator Risa Hontiveros to decriminalize libel. In it are provisions preventing the courts to imprison defendants accused of defamation on social media platforms."
+            "description": "Read the full transcript of Senate Bill 1593 introduced by Senator Risa Hontiveros to decriminalize libel. In it are provisions preventing the courts to imprison defendants accused of defamation on social media platforms.",
+            "date": "2022-12-14T00:00:00.000Z"
         }]
     },
     "carousel": [
@@ -45,6 +49,7 @@
             "shortUrl": "https://bit.ly/3HOEQlb",
             "title":"Ube — The Uber Ingredient Of 2023",
             "description": "According to the consumer trend forecasts, ube, a purple yam that has played a central part in Filipino food culture for more than four centuries, will be a huge global hit in 2023.",
+            "date": "2022-11-30T00:00:00.000Z",
             "tag": "Food"
         },
         {
@@ -52,6 +57,7 @@
             "shortUrl": "https://bit.ly/3YHsnpo",
             "title":"Percentage of Filipinos who smoke, use tobacco decreases to 19.5% — survey",
             "description": "The prevalence of current tobacco use and smoking among Filipinos aged 15 and above decreased in 2021 to 19.5%, according to the results of the 2021 Global Adult Tobacco Survey (GATS).",
+            "date": "2022-12-06T10:53:53.000Z",
             "tag": "Lifestyle"
         },
         {
@@ -59,6 +65,7 @@
             "shortUrl": "https://bit.ly/3PBGCaR",
             "title":"Gogoro to pilot battery swapping and Smartscooters in Philippines next year",
             "description": "Taiwanese battery swapping startup Gogoro is launching a B2B pilot with a logistics provider in Manila in the first quarter of 2023.",
+            "date": "2022-11-30T03:21:25.000Z",
             "tag": "Technology"
         },
         {
@@ -66,6 +73,7 @@
             "shortUrl": "https://bit.ly/3WkQ70g",
             "title":"USA Basketball men to play WC games in Manila",
             "description": "FIBA announced Monday that USA Basketball will play all its games at the 2023 World Cup in Manila, Philippines.",
+            "date": "2022-12-12T12:41:00.000Z",
             "tag": "Sports"
         }
     ]

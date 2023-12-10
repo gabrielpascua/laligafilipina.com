@@ -20,23 +20,27 @@
             "shortUrl": "https://bit.ly/3YTyoPI",
             "title":"SIM registration commences Dec. 27",
             "description": "Registration of the Subscriber Identity Module (SIM) will commence on Tuesday, Dec. 27, the Department of Information and Communications Technology (DICT) said on Monday. Dec. 26.",
+            "date": "2022-12-26T14:21:00.000Z",
             "tag": "Technology"
         },
         "secondary": [{
             "url": "https://www.manilatimes.net/2022/12/27/news/govt-telcos-ready-for-sim-registration/1871752",
             "shortUrl": "https://bit.ly/3WYzvf4",
             "title":"Govt, telcos ready for SIM registration",
-            "description": "The registration of all Subscriber Identification Module (SIM) cards starts today, December 27.SIM card owners have six months to register. Failure to do so could result in the card's deactivation."
+            "description": "The registration of all Subscriber Identification Module (SIM) cards starts today, December 27.SIM card owners have six months to register. Failure to do so could result in the card's deactivation.",
+            "date": "2022-12-26T16:00:00.000Z"
         },{
             "url": "https://newsinfo.inquirer.net/1710243/sim-card-registration-a-step-by-step-guide",
             "shortUrl": "https://bit.ly/3vugmGn",
             "title":"SIM card registration: A step-by-step guide",
-            "description": "Manila, Philippines—While over two million SIM cards have been registered in the first two days of the listing that is mandated by law, there are still millions who are unfamiliar with the registration process."
+            "description": "Manila, Philippines—While over two million SIM cards have been registered in the first two days of the listing that is mandated by law, there are still millions who are unfamiliar with the registration process.",
+            "date": "2022-12-29T23:51:34.000Z"
         },{
             "url": "https://www.rappler.com/business/telecommunication-companies-may-use-data-sim-registration-marketing-purposes/",
             "shortUrl": "https://bit.ly/3Q4WmU5",
             "title":"Watch what you consent to: Telcos may use SIM registration data for marketing",
-            "description": "Digital advocates advise the public to be mindful of what information they consent to share with telcos while registering their SIM cards"
+            "description": "Digital advocates advise the public to be mindful of what information they consent to share with telcos while registering their SIM cards",
+            "date": "2022-12-29T12:07:09.000Z"
         }]
     },
     "carousel": [
@@ -45,6 +49,7 @@
             "shortUrl": "https://bit.ly/3Q37cdt",
             "title":"Spending scandal at Philippine phone giant PLDT had roots in ambition",
             "description": "The day after the Philippines’ largest phone company plunged by a record 19% following an audit disclosure that shocked investors, chairman Manuel Pangilinan tweeted that his arowana, a freshwater fish, had just died.",
+            "date": "2022-12-24T10:42:12.000Z",
             "tag": "Business"
         },
         {
@@ -52,6 +57,7 @@
             "shortUrl": "https://bit.ly/3i1sawA",
             "title":"The Philippines' food worries amid Ukraine war and typhoons",
             "description": "The Philippines is grappling with food insecurity amid natural disasters and global price rises.",
+            "date": "2022-12-27T23:24:44.000Z",
             "tag": "Farming and Agriculture"
         },
         {
@@ -59,6 +65,7 @@
             "shortUrl": "https://bit.ly/3WSvcCa",
             "title":"From Pakistan to the Philippines, women break open closed industries",
             "description": "Female pioneers make their mark as combat pilots, cricketers and chip technologists",
+            "date": "2022-12-07T08:00:41.000Z",
             "tag": "Women's Rights and Advocacy"
         },
         {
@@ -66,6 +73,7 @@
             "shortUrl": "https://bit.ly/3VGs8bg",
             "title":"Flavours of Philippines",
             "description": "Filipino couple Dan and Ana Valencia are on a mission to expand Kiwis’ knowledge of the sweet and savoury delicacies of their homeland.",
+            "date": "2022-12-20T14:30:00.000Z",
             "tag": "Food"
         }
     ]

@@ -21,19 +21,26 @@
             "image": "https://newsinfo.inquirer.net/files/2020/09/Regions82710-620x402.jpg",
             "url": "https://newsinfo.inquirer.net/1340602/benguet-flower-growers-wont-wilt-in-pandemic",
             "shortUrl": "",
+            "date": "2020-09-27T13:00:56.000Z",
             "tag": "Coronavirus"
         },
         "secondary": [{
             "url": "https://www.nbcnews.com/tech/security/we-don-t-have-choice-amazon-ring-call-center-workers-n1243439",
             "shortUrl": "",
-            "title":"Amazon Ring call center workers are 'scared' to go to work"
+            "title":"Amazon Ring call center workers are 'scared' to go to work",
+            "description": "Workers at the call center say that six months after they first complained, things have only gotten worse.",
+            "date": "2020-10-15T14:16:00.000Z"
         },{
             "url": "https://mb.com.ph/2020/09/27/a-new-school-year-starts-in-millions-of-homes/",
             "shortUrl": "",
-            "title":"A new school year starts in millions of homes of public school students"
+            "title":"A new school year starts in millions of homes of public school students",
+            "description": "On Oct. 5, 2020, school year 2020-2021 will open in all public schools around the country.",
+            "date": "2020-09-27T08:22:00.000Z"
         },{
             "url": "https://thediplomat.com/2020/10/amid-a-pandemic-evictions-plague-the-philippines/",
-            "title":"Evictions in poor communities continue to happen amid the pandemic"
+            "title":"Evictions in poor communities continue to happen amid the pandemic",
+            "description": "How can Filipinos, especially low-income families, stay at home when they are being forced into homelessness? ",
+            "date": "2020-10-09T23:27:00.000Z"
         }]
     },
     "carousel": [
@@ -42,6 +49,7 @@
             "shortUrl": "",
             "title": "Erik Spoelstra and the lack of Asian coaches in the NBA",
             "description": "Spoelstra of the NBA's Miami Heat leads the way for Asian coaches trying to break the cultural stereotypes in American sports",
+            "date": "2020-10-09T11:36:25.000Z",
             "tag": "Sports"
         },
         {
@@ -49,6 +57,7 @@
             "shortUrl": "",
             "title": "Philippines Troll Patrol: The woman taking on trolls on their own turf",
             "description": "Facebook's inability to enforce rules against disinformation makes some to counter the messages on the same internet boards where the trolls proliferate",
+            "date": "2020-09-25T23:52:50.000Z",
             "tag": "Technology"
         },
         {
@@ -56,6 +65,7 @@
             "shortUrl": "",
             "title": "Forty-eight years since Marcos declared martial law in the Philippines",
             "description": "Remembering the lessons from then president Ferdinand Marcos's Martial Law and what the country can learn to avoid another authoritarian regime",
+            "date": "2020-09-23T04:00:00.000Z",
             "tag": "Politics"
         }
     ]

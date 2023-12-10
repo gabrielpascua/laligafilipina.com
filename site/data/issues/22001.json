@@ -9,6 +9,7 @@
         "shortUrl": "",
         "title": "Sea Turtle Sanctuary Has Survived 40 Years. Climate Change May Kill It. - The New York Times",
         "description": "Against long odds and initially strong opposition, <span class=\"xfont-medium\">a pristine marine preserve in the Philippines has thrived for decades</span> under the care of local fishermen.",
+        "date": "2022-11-09T10:00:52.000Z",
         "tag": "Environment",
         "locale": "Negros Oriental"
     },
@@ -19,23 +20,27 @@
             "description": "\"More than half of the projected increase in the global population up to 2050 will be concentrated in eight countries: the Democratic Republic of Congo, Egypt, Ethiopia, India, Nigeria, Pakistan, <span class=\"xfont-medium\">the Philippines</span> and the United Republic of Tanzania.\"",
             "url": "https://www.unfpa.org/8billion",
             "shortUrl": "",
+            "date": "2022-11-01T17:37:12.000Z",
             "tag": "Demographics and Population"
         },
         "secondary": [{
             "url": "https://www.philstar.com/lifestyle/on-the-radar/2022/11/15/2224020/filipino-baby-girl-symbolic-8-billionth-person-world",
             "shortUrl": "",
             "title":"Filipino baby girl is 'symbolic' 8 billionth person in the world",
-            "description": "A baby girl born at the Dr. Jose Fabella Memorial Hospital in Manila in the early hours of November 15 has been designated as the \"symbolic\" eight billionth person born."
+            "description": "A baby girl born at the Dr. Jose Fabella Memorial Hospital in Manila in the early hours of November 15 has been designated as the \"symbolic\" eight billionth person born.",
+            "date": "2022-11-15T09:32:00.000Z"
         },{
             "url": "https://www.theguardian.com/world/2022/nov/17/the-school-with-18000-students-educating-the-philippines-booming-population",
             "shortUrl": "",
             "title":"The school with 18,000 students: educating the Philippines’ booming population | Philippines | The Guardian",
-            "description": "The Philippines young population and changing demographics could present crucial new opportunities for economic growth"
+            "description": "The Philippines young population and changing demographics could present crucial new opportunities for economic growth",
+            "date": "2022-11-17T05:00:39.000Z"
         },{
             "url": "https://newsinfo.inquirer.net/1693300/fertility-rate-of-ph-women-plummets-to-less-than-2-children",
             "shortUrl": "",
             "title":"Fertility rate of PH women plummets to less than 2 children",
-            "description": "As the world’s population reached 8 billion, the Philippines saw its fertility rate plummet to less than two offspring per woman, which according to population officials signaled a “demographic transition.”"
+            "description": "As the world’s population reached 8 billion, the Philippines saw its fertility rate plummet to less than two offspring per woman, which according to population officials signaled a “demographic transition.”",
+            "date": "2022-11-15T13:30:00.000Z"
         }]
     },
     "carousel": [
@@ -44,6 +49,7 @@
             "shortUrl": "",
             "title": "Fight Fascism Before It’s Too Late - The Atlantic",
             "description": "<span class=\"xfont-medium\">If you live in a country where democracy is still intact: Don’t wait.</span> — Maria Ressa",
+            "date": "2022-11-14T13:00:00.000Z",
             "tag": "Politics"
         },
         {
@@ -51,6 +57,7 @@
             "shortUrl": "",
             "title": "Obesity’s heavy toll: Millions of Filipinos now at greater health risks",
             "description": "MANILA, Philippines — The past two years have been almost at a standstill because of the COVID-19 crisis, but while its economic consequences were evident, most people have not heard of how <span class=\"xfont-medium\">a “silent epidemic” took its toll on millions of Filipinos.</span>",
+            "date": "2022-11-17T19:38:51.000Z",
             "tag": "Health"
         },
         {
@@ -58,6 +65,7 @@
             "shortUrl": "",
             "title": "Beyond the beaches: five unusual experiences in the Philippines",
             "description": "Although famous for its exceptional white-sand beaches and crystalline waters, <span class=\"xfont-medium\">the archipelago has myriad unique experiences waiting to be discovered</span> beyond the shore.",
+            "date": "2022-11-18T15:00:00.000Z",
             "tag": "Tourism"
         }
     ]

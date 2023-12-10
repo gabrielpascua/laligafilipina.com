@@ -21,23 +21,30 @@
             "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/03-Navotas-Fish-Port-0007.jpg?resize=600%2C315",
             "url": "https://www.aljazeera.com/features/2020/9/28/anguished-family-members-wait-for-the-return-of-their-dead",
             "shortUrl": "",
+            "date": "2020-09-28T23:26:59.000Z",
             "tag": "Coronavirus"
         },
         "secondary": [
             {
                 "url": "https://news.abs-cbn.com/news/10/01/20/nearly-480000-ofws-affected-by-covid-19-pandemic-labor-dept",
                 "shortUrl": "",
-                "title": "Unemployed overseas workers prefer to stay abroad than go home"
+                "title": "Unemployed overseas workers prefer to stay abroad than go home",
+                "description": "The coronavirus pandemic has affected 478,839 overseas Filipino workers, the Department of Labor and Employment said on Thursday.",
+                "date": "2020-10-01T19:43:00.000Z"
             },
             {
                 "url": "https://www.bloomberg.com/news/articles/2020-09-23/philippines-army-of-migrant-workers-retrains-for-life-back-home",
                 "shortUrl": "",
-                "title": "Retraining nearly 300,000 jobless Filipinos returning from abroad"
+                "title": "Retraining nearly 300,000 jobless Filipinos returning from abroad",
+                "description": "The Philippine government is trying to retrain hundreds of thousands of Filipino workers who are returning jobless from overseas as the pandemic batters economies around the globe.",
+                "date": "2020-09-23T21:00:00.000Z"
             },
             {
                 "url": "https://mb.com.ph/2020/09/29/remains-of-35-ofws-from-saudi-arabia-flown-home/",
                 "shortUrl": "",
-                "title": "Bodies of 30 OFW's who died from COVID-19 in Saudi Arabia are flown back"
+                "title": "Bodies of 30 OFW's who died from COVID-19 in Saudi Arabia are flown back",
+                "description": "The remains of 35 Overseas Filipino Workers (OFWS) from the Kingdom of Saudi Arabia were flown home on Tuesday.",
+                "date": "2020-09-29T13:29:00.000Z"
             }
         ]
     },
@@ -47,6 +54,7 @@
             "shortUrl": "",
             "title": "The Dirty Secret Behind The West's Coconut Fad",
             "description": "Farmers receive pennies on the dollar from the palm oil industry as demands for coconut products boom in the west",
+            "date": "2020-08-26T22:00:00.000Z",
             "tag": "Sustainability"
         },
         {
@@ -54,6 +62,7 @@
             "shortUrl": "",
             "title": "The 20-Year Hunt for the Man Behind the Love Bug Virus",
             "description": "43 year-old Onel de Guzman, answers what made him write the virus in his college years that infected millions of Windows computers.",
+            "date": "2020-09-12T11:00:00.000Z",
             "tag": "Technology"
         }
     ]
