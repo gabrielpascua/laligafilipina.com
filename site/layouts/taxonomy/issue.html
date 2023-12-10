@@ -56,9 +56,9 @@
     </div>
 </div>
 
-<div class="{{ .issue.theme }}">
+<div class="{{ .issue.theme }} issue-{{.issue.number}}">
     {{- with .hero -}}
-        {{ .content | safeHTML }}
+        {{ partial "hero" . }}
     {{- end -}}
 </div>
 

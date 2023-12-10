@@ -1,19 +1,24 @@
-<section className="hero">
-    <div className="mx-auto">
-        <a href="{{ .url }}">
-            <div className="hero-container">
-                <h1 className="hero-lead">
+<section class="hero">
+    <div class="mx-auto">
+        {{ $heroLink := .url }}
+        {{ if .shortUrl }}
+            {{ $heroLink = .shortUrl }}
+        {{ end }}
+
+        <a href="{{ $heroLink }}">
+            <div class="hero-container">
+                <h1 class="hero-lead">
                     {{ .title | safeHTML }}
 
                     {{ $articleUrl := urls.Parse .url }}
-                    <p className="hero-source">
+                    <p class="hero-source">
                         {{ replace $articleUrl.Host "www." "" }}
                     </p>
                 </h1>
-                <p className="hero-dek">
+                <p class="hero-dek">
                     {{ .description | safeHTML }}
                 </p>
-                <p className="hero-source">
+                <p class="hero-source">
                     {{ replace $articleUrl.Host "www." "" }}
                 </p>
             </div>
