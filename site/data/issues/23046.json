@@ -1,0 +1,87 @@
+{
+    "issue": {
+        "number": 23046,
+        "date": "2023-12-10T21:59:08.410Z",
+        "theme": "light"
+    },
+    "hero": {
+        "content": "<section class=\"hero\"><div class=\"mx-auto\"><a href=\"https://www.bbc.com/future/article/20231130-the-floating-homes-built-for-floods\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The houses built to survive floods</h1><p class=\"hero-dek\">The Manobo indigenous people live and thrive on a vast wetland in the Philippines – despite dealing with dozens of storms and floods per year. What can we learn from them?<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Filipino Students Learning Scores Below the <abbr title=\"Organisation for Economic Co-operation and Development\">OECD</abbr> Average",
+            "url": "https://newsinfo.inquirer.net/1871900/pisa-shows-ph-students-5-to-6-years-behind",
+            "shortUrl": "",
+            "title": "PISA shows PH students ‘5 to 6 years’ behind",
+            "description": "Manila, Philippines — Based on the results of the 2022 Programme for International Student Assessment (Pisa), the Filipino students who took part were five to six years behind in mathematics, science, and reading",
+            "date": "2023-12-07T13:32:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.oecd.org/publication/pisa-2022-results/country-notes/philippines-a0882a2d/",
+                "shortUrl": "",
+                "title": "Philippines | Factsheets | OECD PISA 2022 results",
+                "description": "The Programme for International Student Assessment (PISA) assesses the knowledge and skills of 15-year-old students in mathematics, reading and science. The tests explore how well students can solve complex problems, think critically and communicate effectively. This gives insights into how well education systems are preparing students for real life challenges and future success.",
+                "date": "2023-12-05T05:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/890577/vp-sara-pisa-2022-results-show-uncomfortable-truth-in-ph-education/story/?utm_source=pocket_saves",
+                "shortUrl": "",
+                "title": "VP Sara: PISA score an ‘uncomfortable truth’ in PH education",
+                "description": "Vice President and Education Secretary Sara Duterte on Wednesday lamented the Philippines&rsquo; poor performance based on the 2022 Programme for International Student Assessment (PISA) results, saying that a collective effort must be made to address such a problem.",
+                "date": "2023-12-06T09:11:02.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2023/12/9/pisa-2022-results-not-surprising-teachers",
+                "shortUrl": "",
+                "title": "PISA 2022 results 'not surprising' --- teachers",
+                "description": "For a group of teachers, the result of the 2022 Programme for International Student Assessment (PISA) “does not come as a surprise” anymore as problems in the country’s education system continue to persist.",
+                "date": "2023-12-09T02:03:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/news/314397436/troops-arrest-marawi-bomb-attack-suspect.html",
+            "shortUrl": "",
+            "title": "Troops arrest Marawi bomb attack suspect - Manila Standard",
+            "description": "Suspected terrorists caught on CCTV before explosion Troops and police have captured a suspected accomplice in the bombing at Mindanao State University (MSU) last week, the Armed Forces of the Philippines (AFP) said Friday.",
+            "date": "2023-12-08T17:05:00.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2023/12/9/china-water-cannon-bfar-vessels.html",
+            "shortUrl": "",
+            "title": "China fires water cannons at BFAR vessels on humanitarian mission in WPS",
+            "description": "A number of countries have denounced China’s latest water cannon attack in the West Philippine Sea, which they said not only violates international law but also endangers lives.",
+            "date": "2023-12-09T10:36:54.045Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/12/05/2316694/breaking-age-barriers-62-year-old-aces-bar-exam-first-try",
+            "shortUrl": "",
+            "title": "Breaking age barriers: 62-year-old aces Bar exam on first try",
+            "description": "Age doesn't matter does not only apply to relationships, but also in one of the hardest exams in the Philippines",
+            "date": "2023-12-06T00:30:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.theverge.com/2023/12/8/23993427/artificial-intelligence-presto-automation-fast-food-drive-thru-philippines-workers",
+            "shortUrl": "",
+            "title": "An ‘AI’ fast food drive-thru is mostly just human workers in the Philippines",
+            "description": "Human workers step in for over 70 percent of orders.",
+            "date": "2023-12-08T15:44:51.124Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}

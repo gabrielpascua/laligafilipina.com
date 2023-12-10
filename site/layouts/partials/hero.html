@@ -1,0 +1,22 @@
+<section className="hero">
+    <div className="mx-auto">
+        <a href="{{ .url }}">
+            <div className="hero-container">
+                <h1 className="hero-lead">
+                    {{ .title | safeHTML }}
+
+                    {{ $articleUrl := urls.Parse .url }}
+                    <p className="hero-source">
+                        {{ replace $articleUrl.Host "www." "" }}
+                    </p>
+                </h1>
+                <p className="hero-dek">
+                    {{ .description | safeHTML }}
+                </p>
+                <p className="hero-source">
+                    {{ replace $articleUrl.Host "www." "" }}
+                </p>
+            </div>
+        </a>
+    </div>
+</section>

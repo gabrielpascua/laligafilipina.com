@@ -20,21 +20,3 @@
 * https://corona-virus-stats.herokuapp.com/api/v1/cases/general-stats
 * Mortality Rate: Deaths / Confirmed  (Average)
 * Recovery Rate: Recovered / Confirmed (Average)
-
-### TODO
-* Sitemap.xml
-* Code split vue
-* Fix Mobile wrapping
-* Books Page
-    * Forgiving Imelda Marcos
-    * Some People Need Killing
-
-### Frontmatter
-* T - title
-* I - issues
-* L - labels
-* T - tags
-* P - publishDate
-* A - author
-* D - description
-* S - slug
