@@ -23,10 +23,7 @@
               </p>
 
               <h2 class="capitalize font-extrabold text-xl leading-7 mb-1">
-                {{ range (last 1 (findRE `<h1.*?>(.*?)</h1>` $value.hero.content)) }}
-                  {{ $heading := replaceRE `<small.*>.*<\/small>` `` (. | safeHTML) }}
-                  {{ replaceRE `<[^>]*>` `` $heading }}
-                {{ end }}
+                {{ $value.hero.title | safeHTML }}
               </h2>
 
               <p class="capitalize">
