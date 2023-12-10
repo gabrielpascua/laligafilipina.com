@@ -2,10 +2,16 @@
     "issue": {
         "number": 23015,
         "date": "2023-04-16T16:35:34.010Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3MNeAtH\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Philippines: The 70s nuclear relic that may open at last<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">Finished in 1986, the Bataan plant in the Philippines has never produced a kilowatt of electricity.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
+        "url": "https://www.bbc.com/news/world-asia-64634816",
+        "shortUrl": "https://bit.ly/3MNeAtH",
+        "title": "Philippines: The 70s nuclear relic that may open at last",
+        "description": "Finished in 1986, the Bataan plant in the Philippines has never produced a kilowatt of electricity.",
+        "date": "2023-03-29T21:07:57.000Z",
+        "tag": "Energy Supply",
+        "locale": "Bataan"
     },
     "ticker": {
         "primary": {

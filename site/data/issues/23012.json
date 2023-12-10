@@ -2,10 +2,16 @@
     "issue": {
         "number": 23012,
         "date": "2023-03-26T19:59:15.407Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3TN2rqe\"><div class=\"hero-container\"><h1 class=\"hero-lead\">4 nuns take care of abandoned older women in Philippines<br /><small class=\"hero-source\">globalsistersreport.org</small></h1><p class=\"hero-dek\">Four Sisters of St. Francis Xavier — two Filipina sisters and two sisters from Myanmar — look after 18 residents of a home in San Pedro that provides shelter to women ages 60-90 who are experiencing homelessness.<br /><br /><small class=\"hero-source\">globalsistersreport.org</small></p></div></a></div></section>"
+        "url": "https://www.globalsistersreport.org/news/4-nuns-take-care-abandoned-older-women-philippines",
+        "shortUrl": "https://bit.ly/3TN2rqe",
+        "title": "4 nuns take care of abandoned older women in Philippines",
+        "description": "Four Sisters of St. Francis Xavier — two Filipina sisters and two sisters from Myanmar — look after 18 residents of a home in San Pedro that provides shelter to women ages 60-90 who are experiencing homelessness.",
+        "date": "2023-03-20T04:00:00.000Z",
+        "tag": "Ministry",
+        "locale": ""
     },
     "ticker": {
         "primary": {

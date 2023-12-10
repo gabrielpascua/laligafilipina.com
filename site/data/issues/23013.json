@@ -2,10 +2,16 @@
     "issue": {
         "number": 23013,
         "date": "2023-04-02T12:58:32.012Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3KqPn6G\"><div class=\"hero-container\"><h1 class=\"hero-lead\">The Filipino islanders who weave their dreams<br /><small class=\"hero-source\">bbc.com</small></h1><p class=\"hero-dek\">For more than 300 years, women residing around a turquoise lake have woven textiles from visions they say were bestowed to them by a goddess in their dreams.<br /><br /><small class=\"hero-source\">bbc.com</small></p></div></a></div></section>"
+        "url": "https://www.bbc.com/travel/article/20230328-the-filipino-islanders-who-weave-their-dreams",
+        "shortUrl": "https://bit.ly/3KqPn6G",
+        "title": "The Filipino islanders who weave their dreams",
+        "description": "For more than 300 years, women residing around a turquoise lake have woven textiles from visions they say were bestowed to them by a goddess in their dreams.",
+        "date": "2023-03-29T10:58:54.000Z",
+        "tag": "Culture",
+        "locale": "South Cotabato"
     },
     "ticker": {
         "primary": {

@@ -2,10 +2,16 @@
     "issue": {
         "number": 23011,
         "date": "2023-03-19T18:38:01.495Z",
-        "theme": "dark"
+        "theme": "dark two-column"
     },
     "hero": {
-        "content": "<section class=\"hero col-2\"><div class=\"mx-auto\"><a href=\"https://bit.ly/3LBhEbY/\"><div class=\"hero-container\"><h1 class=\"hero-lead\">Why I’m fighting to pass the Philippine Human Rights Act<br /><small class=\"hero-source\">thehill.com</small></h1><p class=\"hero-dek\">On March 7, 2021, Filipino labor leader Manny Asuncion and eight other activists were killed by state security forces in coordinated raids across the Philippines in an event that has since become popularly known there as “Bloody Sunday.”<br /><br /><small class=\"hero-source\">thehill.com</small></p></div></a></div></section>"
+        "url": "https://thehill.com/opinion/congress-blog/3894652-why-im-fighting-to-pass-the-philippine-human-rights-act/",
+        "shortUrl": "https://bit.ly/3LBhEbY",
+        "title": "Why I’m fighting to pass the Philippine Human Rights Act",
+        "description": "On March 7, 2021, Filipino labor leader Manny Asuncion and eight other activists were killed by state security forces in coordinated raids across the Philippines in an event that has since become popularly known there as “Bloody Sunday.”",
+        "date": "2023-03-10T23:00:00.000Z",
+        "tag": "Human Rights",
+        "locale": ""
     },
     "ticker": {
         "primary": {
