@@ -81,9 +81,7 @@
                         <h2 class="text-base font-bold text-gray-800 leading-5 mb-1 md:leading-6 capitalize">{{ .primary.title | safeHTML }}</h2>
                         <p class="text-sm leading-5 text-zinc-600">
                             {{ .primary.description | safeHTML }}
-                            {{ if .primary.date }}
-                                <span class="text-zinc-500">&mdash; {{ .primary.date | time.Format ":date_long" }}</span>
-                            {{ end }}
+                            <span class="text-zinc-500">&mdash; {{ .primary.date | time.Format ":date_long" }}</span>
                         </p>
                         <span class="text-xs text-amber-500">{{ replace $primaryUrl.Host "www." "" }}</span>
                     </a>
@@ -107,12 +105,8 @@
                             <a href="{{ $secondaryContentLink }}" class="block decoration-gray-400">
                                 <p class="leading-5 text-sm">
                                     <strong class="font-bold capitalize text-gray-800 pb-1 block md:text-base">{{ .title | safeHTML }}</strong>
-                                    {{- if (isset . "description") }}
-                                        <span class="text-zinc-600">{{ .description | safeHTML }}</span>
-                                    {{ end }}
-                                    {{ if .date }}
-                                        <span class="text-zinc-500"> &mdash; {{ .date | time.Format ":date_long" }}</span>
-                                    {{ end }}
+                                    <span class="text-zinc-600">{{ .description | safeHTML }}</span>
+                                    <span class="text-zinc-500"> &mdash; {{ .date | time.Format ":date_long" }}</span>
                                 </p>
                                 <span class="text-xs text-amber-500">{{ replace $secondaryUrl.Host "www." ""}}</span>
                             </a>
@@ -146,9 +140,7 @@
                             <h2 class="font-bold text-base text-gray-800 leading-5 mb-1 pl-6 pr-6 md:leading-6 capitalize">{{ .title | safeHTML }}</h2>
                             <p class="text-sm text-zinc-600 pl-6 pr-6">
                                 {{ .description | safeHTML }}
-                                {{ if .date }}
-                                    <span class="text-zinc-500">&mdash; {{ .date | time.Format ":date_long" }}</span>
-                                {{ end }}
+                                <span class="text-zinc-500">&mdash; {{ .date | time.Format ":date_long" }}</span>
                             </p>
                             <p class="text-neutral-600 pl-6 pr-6">
                                 <span class="text-xs text-amber-500 mt-2">{{ replace $sourceUrl.Host "www." "" }}</span>
