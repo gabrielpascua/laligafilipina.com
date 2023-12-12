@@ -44,6 +44,16 @@
           {{- $articleCount := newScratch -}}
           {{- $articleCount.Set "count" 0 -}}
           {{- range $key, $value := (first 52 (sort $.Site.Data.issues ".issue.number" "desc")) }}
+
+              {{- if eq .hero.tag $currentTitle }}
+                {{- with .hero -}}
+                {{- if lt ($articleCount.Get "count") (mul ($internalContentCount.Get "count") 2) }}
+                  {{ partial "list-news" . }}
+                  {{- $articleCount.Add "count" 1 -}}
+                {{- end -}}
+                {{- end -}}
+              {{- end -}}
+
               {{- if eq .ticker.primary.tag $currentTitle }}
                 {{- with .ticker.primary -}}
                 {{- if lt ($articleCount.Get "count") (mul ($internalContentCount.Get "count") 2) }}
