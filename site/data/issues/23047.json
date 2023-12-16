@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 23047,
+        "date": "2023-12-17T08:25:35.511Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.wsj.com/story/on-a-tiny-island-250-people-are-fending-off-china-abb1eee4",
+        "shortUrl": "",
+        "title": "On a Tiny Island, 250 People Are Fending Off China",
+        "description": "From the remote speck of land they call home, the residents of Thitu Island have watched China’s presence creep closer, and grow more assertive, over the past decade",
+        "date": "2023-12-14T23:00:58.987Z",
+        "tag": "West Philippine Sea",
+        "locale": "Palawan"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Textbooks and Instructional Materials Transpac Kept Back",
+            "url": "https://www.rappler.com/philippines/transpac-releases-learning-materials-december-2023/",
+            "shortUrl": "",
+            "title": "Transpac releases &#039;hostaged&#039; DepEd learning materials",
+            "description": "Days after a Rappler exposé, the education department says it&#039;s been &#039;suddenly&#039; informed by Transpac that it &#039;may now haul the goods&#039; stored in warehouses",
+            "date": "2023-12-15T07:30:13.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2023/12/14/learning-resources-withheld-by-supplier-to-be-distributed-soon-dep-ed",
+                "shortUrl": "",
+                "title": "Learning resources withheld by supplier to be distributed soon --- DepEd",
+                "description": "The Department of Education (DepEd) on Friday, Dec. 15, announced that the learning materials allegedly held “hostage” by a service supplier will soon be distributed to public schools nationwide.",
+                "date": "2023-12-15T03:15:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1875759/fwd-deped-on-undistributed-learning-materials",
+                "shortUrl": "",
+                "title": "DepEd to distribute ‘hostaged’ learning resources to public schools soon",
+                "description": "Manila, Philippines — All learning resources supposedly “held hostage” by a service supplier might be overhauled and delivered to public schools in the next few weeks, the Department of Education (DepEd) said on Friday.",
+                "date": "2023-12-15T19:43:21.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314398869/solon-probe-transpacs-failure-to-deliver-deped-materials.html",
+                "shortUrl": "",
+                "title": "Solon: Probe Transpac’s failure to deliver DepEd materials - Manila Standard",
+                "description": "A militant lawmaker on Wednesday urged the House of Representatives to probe allegations that Transpac Cargo Logistics Inc. is holding hostage billions worth of learning materials of the Department of Education.",
+                "date": "2023-12-13T14:20:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2023/12/11/2318080/behind-philippines-poor-pisa-performance-worst-long-term-absenteeism-world",
+            "shortUrl": "",
+            "title": "Behind Philippines' poor PISA performance: Worst long-term absenteeism in the world",
+            "description": "The Philippines has the highest rate of long-term absenteeism among students compared to all nations, the latest PISA results showed, pointing to one of the factors contributing to the country's flatlining performance in the international assessment.",
+            "date": "2023-12-11T15:16:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/12/12/23/covid-cases-in-ph-up-by-36-percent-to-1821",
+            "shortUrl": "",
+            "title": "COVID cases in PH up by 36 percent to 1,821",
+            "description": "Coronavirus cases in the Philippines increased by 36 percent to 1,821, according to the Department of Health, which also recorded 13 new COVID deaths.",
+            "date": "2023-12-12T09:49:10.000Z",
+            "tag": "Coronavirus",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/transportation/2023/12/15/ltfrb-january-1-revocation-permits-unconsolidated.html",
+            "shortUrl": "",
+            "title": "Permits of unconsolidated PUV operators to be revoked on New Year's Day – LTFRB",
+            "description": "Transport regulators have issued a memorandum circular revoking on Jan. 1 the permits of those who fail to comply with franchise consolidation, officially rejecting calls from transport groups against the Dec. 31 deadline to consolidate.",
+            "date": "2023-12-15T09:36:40.531Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/ph-to-serve-as-climate-change-loss-and-damage-fund-board-member",
+            "shortUrl": "",
+            "title": "PH to serve as climate change Loss and Damage Fund Board member",
+            "description": "The Philippines has secured a seat in the inaugural Loss and Damage Fund Board at the 28th United Nations Climate Change Conference (COP28) in Dubai, President Ferdinand Marcos Jr. announced on Thursday, December 14, 2023.",
+            "date": "2023-12-14T06:08:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        }
+    ]
+}
