@@ -2,6 +2,15 @@ const fs = require('fs/promises');
 const path = require('path');
 // const cheerio = require('cheerio');
 
+function resetKey(key, object) {
+    const MIN_DATE = new Date('1970-01-01Z00:00:00:000');
+    if (key === 'date') {
+        object[key] = MIN_DATE;
+    } else {
+        object[key] = '';
+    }
+}
+
 (async function(){
     const ISSUES_PATH = path.join(process.cwd(), 'site/data/issues');
     const issues = await fs.readdir(ISSUES_PATH);
@@ -28,18 +37,19 @@ const path = require('path');
     // $('.hero-dek').text('TBD');
     // $('p > small').text('tbd.com')
     // hero.content = $('body').html();
-    Object.keys(hero).forEach(k => hero[k] = '');
+    Object.keys(hero).forEach(k => resetKey(k, hero));
 
     // Empty Tickers
     let { primary, secondary } = ticker;
-    Object.keys(primary).forEach(k => primary[k] = '');
+
+    Object.keys(primary).forEach(k => resetKey(k, primary));
     secondary.forEach(sec => {
-        Object.keys(sec).forEach(s => sec[s] = '');
+        Object.keys(sec).forEach(s => resetKey(s, sec));
     });
 
     // Empty Carousel
     carousel.forEach(car => {
-        Object.keys(car).forEach(c => car[c] = '');
+        Object.keys(car).forEach(c => resetKey(c, car));
     });
 
     const newIssuePath = path.join(ISSUES_PATH, `${issue.number}.json`);
