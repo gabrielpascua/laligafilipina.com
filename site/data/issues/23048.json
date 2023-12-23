@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 23048,
+        "date": "2023-12-24T13:58:39.063Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://time.com/6550091/philippines-golden-gays-elderly-homeless-drag-queens/",
+        "shortUrl": "",
+        "title": "Manila’s Elderly Drag Queens’ Search for a Home",
+        "description": "It’s not easy to be old, gay, or poor in the Philippines. The Golden Gays are all three.",
+        "date": "2023-12-22T08:00:00.000Z",
+        "tag": "LGBTQ",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "895,260 Filipinos out of Poverty in 2023 According to <abbr title=\"Philippine Statistics Authority\">PSA</abbr>",
+            "url": "https://www.bworldonline.com/top-stories/2023/12/22/565310/philippines-records-22-4-poverty-rate-in-first-half/",
+            "shortUrl": "",
+            "title": "Philippines records 22.4% poverty rate in first half  - BusinessWorld Online",
+            "description": "By Andrea C. Abestano Researcher, The Philippines&#8217; poverty rate for the first half of 2023 decreased to 22.4% from 23.7% in the same period of 2021, the local statistics agency said on Friday. The poor population declined by 895,260 to 25.242 million from 26.137 million in the January to June period of 2021",
+            "date": "2023-12-22T08:37:05.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314401678/900k-pinoys-beat-poverty-in-first-half-of-2023-psa.html",
+                "shortUrl": "",
+                "title": "900k Pinoys beat poverty in first half of 2023—PSA",
+                "description": "Fewer poor seen as economy opens up post-pandemic Almost 900,000 Filipinos escaped from poverty in the first half of 2023 as the income of poor Filipinos improved with the opening of the economy following the pandemic. The Philippine Statistics Authority (PSA) said Friday poverty incidence among the population or the proportion of poor Filipinos",
+                "date": "2023-12-22T17:30:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://pco.gov.ph/news_releases/pbbm-admin-commits-to-further-reduce-poverty-after-psa-reports-declining-number-of-poor-filipinos/",
+                "shortUrl": "",
+                "title": "News Releases - PBBM admin commits to further reduce poverty after PSA reports declining number of poor Filipinos",
+                "description": "The Marcos administration on Friday welcomed the report of the Philippine Statistics Authority (PSA) showing a decline in poverty incidence in the first semester of 2023",
+                "date": "2023-12-21T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2023/12/23/high-inflation-traps-over-7-m-filipinos-in-poverty-1",
+                "shortUrl": "",
+                "title": "High inflation traps over 7 M Filipinos in poverty",
+                "description": "The National Economic and Development Authority (NEDA) has estimated that over seven million Filipinos could have escaped poverty if inflation had remained within the government&#x27;s target over the last two years.",
+                "date": "2023-12-22T16:48:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/newsbreak/investigative/project-power-globally-china-has-become-superpower-seafood/",
+            "shortUrl": "",
+            "title": "To project power globally, China has become the superpower of seafood",
+            "description": "A four-year investigation from The Outlaw Ocean Project shows that workers of a Chinese distant-water squid fleet are often held captive in inhumane conditions on Chinese fishing ships. Migrant workers from the Philippines and Indonesia comprise most of the crew aboard.",
+            "date": "2023-12-22T12:46:38.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2023/12/23/2320850/fewer-pinoys-expect-more-prosperous-christmas",
+            "shortUrl": "",
+            "title": "Fewer Pinoys expect more prosperous Christmas",
+            "description": "While most Filipinos say they are ready to face the coming year with hope, only one in three anticipates a “more prosperous” celebration of the holiday season, a recent survey conducted by Pulse Asia showed.",
+            "date": "2023-12-23T05:00:00.000Z",
+            "tag": "Holidays",
+            "locale": ""
+        },
+        {
+            "url": "https://opinion.inquirer.net/169124/health-care-for-the-few",
+            "shortUrl": "",
+            "title": "Health care for the few",
+            "description": "A perpetual torment for working Filipinos today is the thought that they’re just one medical bill away from poverty. Sadly, this anxiety is well-founded, as a World Health Organization (WHO) report has shown",
+            "date": "2023-12-19T12:35:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/spotlight/12/21/23/filipina-shares-glimpse-of-living-on-mars",
+            "shortUrl": "",
+            "title": "Filipina shares glimpse of living on Mars",
+            "description": "Filipina nutritionist Kristine Jane Atienza embarked on a groundbreaking mission that reached beyond the confines of our planet.",
+            "date": "2023-12-21T09:12:43.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
