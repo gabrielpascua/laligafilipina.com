@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 23049,
+        "date": "2023-12-31T13:58:39.063Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.aljazeera.com/news/2023/12/27/mary-jane-veloso-case-unresolved-as-jokowi-prepares-to-leave-office",
+        "shortUrl": "",
+        "title": "Mary Jane Veloso case unresolved as Jokowi prepares to leave office",
+        "description": "The Filipina, whose supporters say is a victim of human trafficking, was sentenced to death in Indonesia in late 2010.",
+        "date": "2023-12-27T00:34:15.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "",
+            "url": "",
+            "shortUrl": "",
+            "title": "",
+            "description": "",
+            "date": "1970-01-01T00:00:00.000Z",
+            "tag": "",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": "1970-01-01T00:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": "1970-01-01T00:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "",
+                "shortUrl": "",
+                "title": "",
+                "description": "",
+                "date": "1970-01-01T00:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.telegraph.co.uk/global-health/women-and-girls/philippines-divorce-catholicism-domestic-abuse-infidelity/",
+            "shortUrl": "",
+            "title": "‘My husband beat me over and over – I still can’t legally divorce him’",
+            "description": "The Philippines is the only place outside the Vatican that bans divorce, trapping thousands in abusive marriages. But change is coming",
+            "date": "2023-12-28T10:23:00.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nytimes.com/2023/12/30/business/philippine-economy-colonial-legacy.html",
+            "shortUrl": "",
+            "title": "‘There’s No Other Job’: The Colonial Roots of Philippine Poverty",
+            "description": "Decades after independence, the Philippines lacks the kind of factory economy that has lifted up other Asian nations, tying millions to farm work.",
+            "date": "2023-12-30T05:01:55.000Z",
+            "tag": "Farming and Agriculture",
+            "locale": ""
+        },
+        {
+            "url": "https://www.scmp.com/week-asia/article/3246762/philippines-iconic-jeepneys-face-final-stop-drivers-strike-against-ill-thought-out-jan-1-phase-out",
+            "shortUrl": "",
+            "title": "Final destination: Philippines’ jeepney drivers protest phase-out plan",
+            "description": "Jeepney drivers across Manila went on strike on Friday to protest the government’s phase-out plan, fearing job loss and financial burden.",
+            "date": "2023-12-30T11:04:59.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cntraveller.com/article/siargao-island",
+            "shortUrl": "",
+            "title": "This unsung, surf-ready island in the Philippines is the perfect winter-sun destination",
+            "description": "After the devastation of super typhoon Odette, the surf-ready Filipino island of Siargao is back with a hopeful new vision",
+            "date": "2023-12-27T07:00:00.000Z",
+            "tag": "Tourism",
+            "locale": "Surigao del Norte"
+        }
+    ]
+}
