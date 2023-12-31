@@ -1,7 +1,7 @@
 {
     "issue": {
         "number": 23049,
-        "date": "2023-12-31T13:58:39.063Z",
+        "date": "2023-12-31T20:41:46.810Z",
         "theme": "light centered"
     },
     "hero": {
@@ -15,38 +15,38 @@
     },
     "ticker": {
         "primary": {
-            "lead": "",
-            "url": "",
+            "lead": "New Year 2024 Celebrations",
+            "url": "https://www.cnnphilippines.com/news/2023/12/30/filipinos-rush-transpo-hubs-nye-2023.html",
             "shortUrl": "",
-            "title": "",
-            "description": "",
-            "date": "1970-01-01T00:00:00.000Z",
-            "tag": "",
+            "title": "Thousands of Pinoys rush to transport hubs ahead of NY festivities",
+            "description": "A sheer number of people rushed to transport hubs to beat the expected influx of passengers a day before the country celebrates New Year’s eve on Sunday.",
+            "date": "2023-12-31T00:47:58.000Z",
+            "tag": "Holidays",
             "locale": ""
         },
         "secondary": [
             {
-                "url": "",
+                "url": "https://news.abs-cbn.com/video/news/12/30/23/hospitals-prepare-for-patients-during-new-year",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": "1970-01-01T00:00:00.000Z",
+                "title": "Hospitals prepare for patients during New Year",
+                "description": "Hospitals across the Philippines are placed under code white in preparation for a possible surge of emergency cases on New Year’s Eve.",
+                "date": "2023-12-29T17:07:13.000Z",
                 "locale": ""
             },
             {
-                "url": "",
+                "url": "https://www.gmanetwork.com/news/topstories/regions/892685/bocaue-fireworks-shops-see-brisk-sales-ahead-of-new-year-s-eve/story/",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": "1970-01-01T00:00:00.000Z",
-                "locale": ""
+                "title": "Bocaue fireworks shops see brisk sales ahead of New Year's Eve",
+                "description": "A day before New Year&#39;s Eve, several individuals rushed to buy firecrackers despite the authorities&#39; recommendation to use alternative noisemakers to mark the celebration.",
+                "date": "2023-12-30T14:05:10.000Z",
+                "locale": "Bulacan"
             },
             {
-                "url": "",
+                "url": "https://www.philstar.com/headlines/2023/12/31/2322576/boy-loses-fingers-firecracker-injury-cases-rise-115",
                 "shortUrl": "",
-                "title": "",
-                "description": "",
-                "date": "1970-01-01T00:00:00.000Z",
+                "title": "Boy loses fingers as firecracker injury cases rise to 115",
+                "description": "Eight more people, including a boy who was forced to undergo amputation, were injured by firecrackers, the Department of Health reported on New Year's Eve.",
+                "date": "2023-12-31T17:48:00.000Z",
                 "locale": ""
             }
         ]
@@ -60,6 +60,15 @@
             "date": "2023-12-28T10:23:00.000Z",
             "tag": "Law and Legislation",
             "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/environment/documentary-small-fishers-fear-losing-municipal-waters-big-operators/",
+            "shortUrl": "",
+            "title": "[Documentary] Our 15 kilometers: Small fishers fear losing municipal waters to big operators",
+            "description": "Small fisherfolk enjoy exclusive access to 15-kilometer municipal waters, but proposals to amend the Philippine Fisheries Code are causing them to worry over their livelihood.",
+            "date": "2023-12-31T11:09:08.000Z",
+            "tag": "Environment",
+            "locale": "Northern Samar"
         },
         {
             "url": "https://www.nytimes.com/2023/12/30/business/philippine-economy-colonial-legacy.html",
@@ -78,15 +87,6 @@
             "date": "2023-12-30T11:04:59.000Z",
             "tag": "Transportation",
             "locale": ""
-        },
-        {
-            "url": "https://www.cntraveller.com/article/siargao-island",
-            "shortUrl": "",
-            "title": "This unsung, surf-ready island in the Philippines is the perfect winter-sun destination",
-            "description": "After the devastation of super typhoon Odette, the surf-ready Filipino island of Siargao is back with a hopeful new vision",
-            "date": "2023-12-27T07:00:00.000Z",
-            "tag": "Tourism",
-            "locale": "Surigao del Norte"
         }
     ]
 }
