@@ -71,11 +71,6 @@ module.exports = {
   },
 
   plugins: [
-    new webpack.ProvidePlugin({
-      fetch:
-        "imports-loader?this=>global!exports-loader?global.fetch!whatwg-fetch",
-    }),
-
     new AssetsPlugin({
       filename: "webpack.json",
       path: path.join(process.cwd(), "site/data"),
