@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24001,
+        "date": "2024-01-07T20:41:46.810Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.bbc.com/news/world-asia-67825685",
+        "shortUrl": "",
+        "title": "Philippines: Bone diggers seek justice for dead in Duterte's drug war",
+        "description": "A priest and a forensic pathologist are collecting evidence that may one day be used in court.",
+        "date": "2024-01-03T22:17:48.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Panay Island, Western Visayas Four-Day Power Outage",
+            "url": "https://business.inquirer.net/439333/panay-island-power-plants-down",
+            "shortUrl": "",
+            "title": "Panay Island power plants down",
+            "description": "Households in Panay Island were plunged into darkness on Tuesday afternoon after multiple power plants shut down,  National Grid Corp. of the Philippines (NGCP) said. NGCP spokesperson Cynthia explained that 302 megawatts (MW) of power was lost to the Visayas grid",
+            "date": "2024-01-03T01:40:14.000Z",
+            "tag": "Energy Supply",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/1/5/ngcp-denies-fault-for-panay-island-power-outage",
+                "shortUrl": "",
+                "title": "NGCP denies fault for Panay Island power outage",
+                "description": "The National Grid Corp. of the Philippines (NGCP) defended itself against claims of failing to stabilize the transmission system in Panay Island, stating that it followed the necessary protocols.",
+                "date": "2024-01-04T19:49:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314404695/lawmakers-seek-probe-into-power-outages-in-panay-parts-of-negros.html",
+                "shortUrl": "",
+                "title": "Lawmakers seek probe into power outages in Panay, parts of Negros - Manila Standard",
+                "description": "Lawmakers on Thursday sought a congressional inquiry into the power outages that sent the entire Panay Island and portions of Negros Island into darkness since Wednesday, and said the National Grid Corporation of the Philippines (NGCP) should be held accountable.",
+                "date": "2024-01-04T16:55:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/01/06/2323901/electricity-restored-panay-island-power-plant-resumes-operation-erc",
+                "shortUrl": "",
+                "title": "Electricity restored in Panay Island as power plant resumes operation — ERC",
+                "description": "The Energy Regulatory Commission confirmed on Saturday the restoration of power supply in Panay Island, Western Visayas, after the successful reactivation of a power plant on Friday.",
+                "date": "2024-01-06T19:37:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.scmp.com/news/hong-kong/society/article/3247496/if-you-send-me-home-im-going-die-hong-kong-unions-call-safeguards-against-sacking-seriously-ill",
+            "shortUrl": "",
+            "title": "Hong Kong unions call for safeguards against sacking seriously ill helpers",
+            "description": "Helpers and labour unions cite cases of employers sacking domestic workers who develop serious health conditions and forcing them to leave Hong Kong.",
+            "date": "2024-01-06T04:00:17.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/01/06/24/sc-dismisses-ampatuan-contempt-petition-vs-abs-cbn",
+            "shortUrl": "",
+            "title": "SC dismisses Ampatuan contempt petition vs. ABS-CBN",
+            "description": "“Our power to punish for contempt should never be wielded to stifle comments on public interest,” the Supreme Court said in the decision.",
+            "date": "2024-01-06T10:04:26.000Z",
+            "tag": "Press Freedom",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/in-depth/chr-investigation-afp-intelligence-fake-surrender-case/",
+            "shortUrl": "",
+            "title": "In pattern of &#039;fake surrenders,&#039; 1 case links abduction to military intel service",
+            "description": "EXCLUSIVE: <abbr title=\"Commission on Human Rights\">CHR</abbr> investigators have sent summons to the armed forces after discovering that one person and a motorcycle involved in the abduction are in the records of the Intelligence Service",
+            "date": "2024-01-06T07:48:51.000Z",
+            "tag": "Activism",
+            "locale": ""
+        },
+        {
+            "url": "https://www.reuters.com/world/asia-pacific/two-chinese-vessels-shadowed-philippine-us-ships-philippine-military-2024-01-04/",
+            "shortUrl": "",
+            "title": "Two Chinese vessels shadowed Philippine, US ships - Philippine military",
+            "description": "Two Chinese navy vessels shadowed Philippines and U.S. ships conducting joint patrols in the South China Sea, the Philippine military said on Thursday, as tensions flare in the region over disputed territorial claims.",
+            "date": "2024-01-04T14:03:15.641Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
