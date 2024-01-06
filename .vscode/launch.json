@@ -5,6 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "newIssue",
+            "request": "launch",
+            "runtimeArgs": [
+                "run-script",
+                "newIssue"
+            ],
+            "runtimeExecutable": "npm",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "type": "node"
+        },
+        {
             "name": "build-webpack",
             "request": "launch",
             "runtimeArgs": [
