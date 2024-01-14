@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24002,
+        "date": "2024-01-14T12:47:57.415Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://verafiles.org/articles/the-2023-dahas-report-the-casualties-of-marcoss-bloodless-drug-war",
+        "shortUrl": "",
+        "title": "The 2023 Dahas Report: The casualties of Marcos’s “bloodless” drug war",
+        "description": "The key hotspots for the killings are Davao del Sur, 61; Cebu, 52; Metro Manila, 41; Negros Occidental, 31; and Iloilo, 22.",
+        "date": "2024-01-11T07:49:09.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Charter Change to Amend the 1987 Constitution",
+            "url": "https://news.abs-cbn.com/spotlight/01/08/24/charter-change-through-peoples-initiative-what-is-it",
+            "shortUrl": "",
+            "title": "Charter change through People's Initiative: What is it?",
+            "description": "There is a renewed push for amending the constitution allegedly through people's initiative. What exactly is people's initiative and how does it work?",
+            "date": "2024-01-08T07:27:43.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/1887381/pirma-is-back-cha-cha-drive-on-air-on-ground",
+                "shortUrl": "",
+                "title": "<abbr title=\"People’s Initiative for Reform Modernization and Action\">Pirma</abbr> is back: Charter change drive on air, on ground",
+                "description": "Manila, Philippines — Television viewers were bombarded on Tuesday night with the repeated airing of a commercial that sought to discredit the Constitution and the Edsa People Power Revolution",
+                "date": "2024-01-11T13:30:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/1/12/how-to-properly-change-the-constitution",
+                "shortUrl": "",
+                "title": "How to properly change the Constitution",
+                "description": "The issues surrounding the latest attempt at Chacha",
+                "date": "2024-01-13T03:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/charter-change-people-initiative-areas/",
+                "shortUrl": "",
+                "title": "Are signatures for charter change being collected in your area?",
+                "description": "For the people’s initiative to succeed, signatures of at least 3% of registered voters of every congressional district should be collected",
+                "date": "2024-01-13T06:20:48.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.scmp.com/week-asia/people/article/3248003/filipino-drug-convict-mary-jane-velosos-family-pleads-indonesia-leader-grant-her-gift-freedom?utm_source=pocket_saves",
+            "shortUrl": "",
+            "title": "‘She is a victim’: family begs Indonesia to free Filipino on death row",
+            "description": "Drug convict Mary Jane Veloso has been on death row in Indonesia since 2010. Her parents hope President Joko Widodo will grant her freedom as he visits Manila.",
+            "date": "2024-01-11T03:00:18.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2024/01/14/2325664/traffic-index-25-mins-30-secs-travel-10-kms-metro-manila",
+            "shortUrl": "",
+            "title": "Traffic index: 25 mins, 30 secs to travel 10 kms in Metro Manila",
+            "description": "Traffic further worsened in Metro Manila in 2023, resulting in an estimated 117 hours – almost five days – lost in traffic congestion last year by every Filipino who had to deal with rush hour every working day.",
+            "date": "2024-01-13T16:00:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/davao/sardines-surge-in-davao",
+            "shortUrl": "",
+            "title": "Sardines surge in Davao",
+            "description": "The Bureau of Fisheries and Aquatic Resources-Davao Region (Bfar-Davao Region) reported a significant surge of juvenile sardines, known as lupoy, washing ashore at Km. 11, DavSam Port, Sasa in Davao City for the fourth consecutive day.",
+            "date": "2024-01-12T09:33:45.000Z",
+            "tag": "Environment",
+            "locale": "Davao del Sur"
+        },
+        {
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-black-nazarene-feast-draws-hundreds-thousands-devotees-2024-01-09/",
+            "shortUrl": "",
+            "title": "Millions of Filipino Catholics join Black Nazarene procession",
+            "description": "More than six million Catholic devotees in the Philippines turned up for this year's procession to honour the Black Nazarene, turning the streets of the capital into a sea of maroon and yellow, in a grand display of religious devotion.",
+            "date": "2024-01-09T18:28:12.000Z",
+            "tag": "Culture",
+            "locale": ""
+        }
+    ]
+}
