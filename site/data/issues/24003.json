@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24003,
+        "date": "2024-01-21T14:27:05.437Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.channelnewsasia.com/commentary/philippines-population-fertility-rate-global-economy-domestic-helper-4059766",
+        "shortUrl": "",
+        "title": "Commentary: Philippines’ fertility decline will be the global economy’s problem",
+        "description": "Reining in the population is great news for Manila and a challenge for the rest of us. The world needs to prepare now for a time when exports of labour become a trickle, says Daniel Moss for Bloomberg Opinion.",
+        "date": "2024-01-20T22:00:00.000Z",
+        "tag": "Demographics and Population",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Sandiganbayan Convicts Jinggoy of Bribery, not Plunder",
+            "url": "https://newsinfo.inquirer.net/1891325/jinggoy-estrada-acquitted-of-plunder-convicted-of-bribery",
+            "shortUrl": "",
+            "title": "Jinggoy Estrada acquitted of plunder, convicted of bribery",
+            "description": "Manila, Philippines — Senator Jinggoy Estrada and businesswoman Janet Lim-Napoles were acquitted of plunder by the Sandiganbayan Fifth Division on Friday in connection with the infamous pork barrel scam",
+            "date": "2024-01-19T17:25:28.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/894714/full-text-of-sandiganbayan-ruling-on-sen-jinggoy-estrada-s-pork-barrel-scam-case/story/",
+                "shortUrl": "",
+                "title": "Read: Full text of Sandiganbayan ruling on Sen. Jinggoy Estrada's pork barrel scam case",
+                "description": "The following is the ruling of the Sandiganbayan Fifth Division acquitting Senator Jinggoy Estrada of plunder but finding him guilty of direct and indirect bribery in connection with the pork barrel scam.",
+                "date": "2024-01-19T04:24:04.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/1/18/jinggoy-vows-to-exhaust-all-legal-options-in-bribery-conviction",
+                "shortUrl": "",
+                "title": "Jinggoy vows to exhaust all legal options in bribery conviction",
+                "description": "Sen. Jinggoy Estrada said he will instruct his lawyers to exhaust \"all legal options, all legal remedies\" as he is surprised at the verdict because no charges of bribery or indirect bribery have been filed against him in connection with the pork barrel fund scam",
+                "date": "2024-01-19T04:29:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/explainers/jinggoy-estrada-convicted-bribery-pork-barrel-what-happens-now/",
+                "shortUrl": "",
+                "title": "After Jinggoy Estrada’s bribery conviction due to pork barrel, what happens now?",
+                "description": "Senate President Zubiri and Estrada's lawyer say the senator will remain in his position since the decision is not yet final nor immediately executory",
+                "date": "2024-01-19T10:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2024/01/19/2326926/630-cities-towns-submit-cha-cha-signatures",
+            "shortUrl": "",
+            "title": "630 cities, towns submit Cha-cha signatures",
+            "description": "Up to 630 cities and municipalities have so far submitted to the Commission on Elections the required signature forms for the people's initiative to amend the Constitution.",
+            "date": "2024-01-18T16:00:00.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnn.com/2024/01/16/asia/philippines-jeepney-phase-out-strikes-intl-hnk/index.html",
+            "shortUrl": "",
+            "title": "Philippines jeepneys: Will the loud, colorful vehicles soon disappear from the roads? | CNN",
+            "description": "They rattle through neighborhoods all over the Philippines decked out in gaudy hand-painted liveries featuring everything from the Virgin Mary to NBA stars, shuttling millions of people on their daily commutes to the tune of blaring horns and rumbling engines.",
+            "date": "2024-01-16T05:16:46.600Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://time.com/6564338/philippines-onions-prices-imports/",
+            "shortUrl": "",
+            "title": "In the Philippines, Onions Are Now Too Cheap",
+            "description": "It’s a complete 180 from the Southeast Asian nation’s problems a year ago—when dwindling supply was causing prices to become more expensive than beef.",
+            "date": "2024-01-19T09:30:00.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/01/18/24/pcso-viral-lotto-winners-photo-was-edited",
+            "shortUrl": "",
+            "title": "PCSO: Viral lotto winner&#39;s photo was edited",
+            "description": "The viral photo of a recent lotto winner was edited to conceal the new multi-millionaire's identity, the Philippine Charity Sweepstakes Office said.",
+            "date": "2024-01-18T14:14:45.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
