@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24004,
+        "date": "2024-01-28T14:50:43.877Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.aljazeera.com/economy/2024/1/26/these-filipinos-paid-thousands-for-a-job-in-poland-now-they-feel-cheated",
+        "shortUrl": "",
+        "title": "These Filipinos paid thousands for a job in Poland. Now they feel cheated",
+        "description": "(One of) Two-part Al Jazeera investigation reveals claims of deception by recruiters working across multiple countries.",
+        "date": "2024-01-26T00:25:47.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "United Nations Rapporteur Irene Khan Arrival in Manila",
+            "url": "https://manilastandard.net/news/top-stories/314409530/special-rapporteur-khan-arrives-starts-12-day-tour-of-ph.html",
+            "shortUrl": "",
+            "title": "Special Rapporteur Khan arrives, starts 12-day tour of PH - Manila Standard",
+            "description": "United Nations Special Rapporteur (UNSR) on Freedom of Opinion and Expression Irene Khan arrived in Manila for a 12-day visit on the invitation of the Philippine government. Khan landed at the Ninoy Aquino International Airport (NAIA) Terminal 1 onboard flight MH806 from Kuala Lumpur, Malaysia around 12:30 p.m. Monday, Jan. 22.",
+            "date": "2024-01-22T17:00:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/bato-dela-rosa-tells-ferdinand-marcos-jr-man-enough-icc-probe/",
+                "shortUrl": "",
+                "title": "Dela Rosa tells Marcos: Be man enough. Tell us if you allowed ICC to enter PH.",
+                "description": "'Please Tell Us What Is The Real Score', says Senator Bato dela Rosa",
+                "date": "2024-01-22T09:09:46.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.benarnews.org/english/news/philippine/marcos-duterte-icc-investigation-drug-war-01232024123623.html",
+                "shortUrl": "",
+                "title": "Marcos: Philippines ‘will not lift a finger’ to help ICC drug-war probe",
+                "description": "International Criminal Court investigators can enter the country but government officials will keep an eye on them, president says.",
+                "date": "2024-01-23T17:42:07.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/01/27/2328992/un-rapporteur-visits-3-red-tagged-political-prisoners-tacloban",
+                "shortUrl": "",
+                "title": "UN rapporteur visits 3 red-tagged political prisoners in Tacloban",
+                "description": "Human rights group Karapatan lauded the United Nations (UN) expert on freedom of expression for visiting a progressive journalist and two activists currently behind bars at the Tacloban City Jail this Saturday.",
+                "date": "2024-01-27T10:39:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.aljazeera.com/news/2024/1/27/filipinos-in-hong-kong-were-promised-a-new-life-in-poland-it-never-came",
+            "shortUrl": "",
+            "title": "Filipinos in Hong Kong were promised a new life in Poland. It never came",
+            "description": "(Two of) Two-part Al Jazeera investigation reveals claims of deception by recruiters working across multiple countries.",
+            "date": "2024-01-27T00:08:56.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnnphilippines.com/news/2024/1/27/9-marawi-bombing-suspects-killed.html",
+            "shortUrl": "",
+            "title": "9 suspects in Marawi bombing killed in clash with soldiers",
+            "description": "Nine alleged terrorists tagged as suspects in the December 2023 bombing in the Mindanao State University in Marawi were killed by troops in Lanao del Sur, the Philippine Army reported.",
+            "date": "2024-01-27T09:03:13.446Z",
+            "tag": "Muslim Mindanao",
+            "locale": "Lanao del Sur"
+        },
+        {
+            "url": "https://www.reuters.com/world/asia-pacific/philippines-vietnam-sign-coastguard-deal-risking-chinas-ire-2024-01-25/",
+            "shortUrl": "",
+            "title": "Philippines, Vietnam to sign coastguard deal risking China&#x27;s ire",
+            "description": "The Philippines and Vietnam will agree to boost coastguard cooperation during a visit to Hanoi next week by Philippine President Ferdinand Marcos Jr, officials said, a move that risks angering China.",
+            "date": "2024-01-25T10:42:14.073Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://business.inquirer.net/442885/cnn-philippines-shutting-down-as-losses-exceed-p5b",
+            "shortUrl": "",
+            "title": "CNN Philippines shutting down as losses exceed P5B",
+            "description": "Manila — CNN Philippines is going off the air nearly nine years after debuting into the local broadcasting industry as its local franchise holder decided to pull the plug after accumulating",
+            "date": "2024-01-27T20:03:58.000Z",
+            "tag": "Business",
+            "locale": ""
+        }
+    ]
+}
