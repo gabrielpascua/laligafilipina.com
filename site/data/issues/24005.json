@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24005,
+        "date": "2024-02-04T20:53:37.456Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.context.news/money-power-people/flown-back-and-forgotten-filipino-migrants-face-tough-homecoming",
+        "shortUrl": "",
+        "title": "Flown back and forgotten: Filipino migrants face tough homecoming | Context",
+        "description": "Repatriated migrant workers want more government support as they struggle to rebuild their lives back in the Philippines",
+        "date": "2024-02-04T01:00:00.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "UN Report on Free Speech, Red Tagging & <abbr title=\"National Task Force to End Local Communist Armed Conflict\">NTF-ELCAC</abbr>",
+            "url": "https://interaksyon.philstar.com/politics-issues/2024/02/02/269669/u-n-expert-tells-philippines-to-act-on-media-killings-abolish-ntf-elcac/",
+            "shortUrl": "",
+            "title": "U.N. expert tells Philippines to act on media killings, abolish NTF-ELCAC",
+            "description": "Manila — A United Nations expert urged the Philippines on Friday to do more to curb the killings of journalists and supported abolishing an anti-communism",
+            "date": "2024-02-02T18:40:07.000Z",
+            "tag": "Press Freedom",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.dw.com/en/un-urges-philippines-to-curb-killings-of-journalists/a-68153459",
+                "shortUrl": "",
+                "title": "UN urges Philippines to curb killings of journalists – DW – 02/02/2024",
+                "description": "The UN&#x27;s rapporteur for freedom of expression has also described the so-called &quot;red-tagging&quot; of government critics and called for the abolition of an anti-communism task force.",
+                "date": "2024-02-02T12:27:51.844Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.pbs.org/newshour/world/un-expert-says-more-needs-to-be-done-to-address-human-rights-abuses-in-the-philippines",
+                "shortUrl": "",
+                "title": "UN expert says more needs to be done to address human rights abuses in the Philippines",
+                "description": "A U.N. expert says steps have been taken under Philippine President Ferdinand Marcos Jr. to address human rights abuses such as the killings of journalists and rights activists.",
+                "date": "2024-02-03T01:12:08.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/2/3/groups-urge-marcos-jr-to-heed-call-to-abolish-ntf-elcac-1538",
+                "shortUrl": "",
+                "title": "Groups urge Marcos Jr. to heed call to abolish NTF-ELCAC",
+                "description": "AlterMidya&#x27;s Raymund Villanueva called on Marcos Jr. to personally address the recommendations of Irene Khan.",
+                "date": "2024-02-03T07:46:36.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/newsbreak/inside-track/marcos-bagong-pilipinas-rally-cost-millions-pesos-2024/",
+            "shortUrl": "",
+            "title": "To Promise A 'Bagong Pilipinas,' Marcos Held A Concert That Cost At Least P16 Million",
+            "description": "(2nd UPDATE) In Sunday's speech, Marcos said, 'Sa Bagong Pilipinas, bawal ang waldas.' The rental of tech equipment alone for the concert cost P15.9 million.",
+            "date": "2024-01-30T00:45:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.benarnews.org/english/news/philippine/violence-concerns-02012024123627.html",
+            "shortUrl": "",
+            "title": "5 years after its birth, Bangsamoro autonomous region struggles to control violence",
+            "description": "Leader of Muslim region in Mindanao says Philippine government has been slow to fund local programs.",
+            "date": "2024-02-01T17:37:20.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1897769/look-through-the-future-of-traditional-jeepneys-and-its-drivers",
+            "shortUrl": "",
+            "title": "Look Through: The future of traditional jeepneys and its drivers",
+            "description": "The Public Utility Vehicle Modernization Program has left many jeepney drivers and operators uncertain about their livelihood.",
+            "date": "2024-02-02T02:51:45.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/1/30/ph-economy-grows-5-6-last-year",
+            "shortUrl": "",
+            "title": "Philippine economy grew 5.6% in 2023",
+            "description": "The country’s economic growth fell short of the government&#x27;s target last year, largely due to higher consumer prices that discouraged spending, data from the Philippine Statistics Authority (PSA) showed.",
+            "date": "2024-01-31T02:02:00.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}
