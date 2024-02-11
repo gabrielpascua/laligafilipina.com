@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24006,
+        "date": "2024-02-11T15:22:00.493Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://mb.com.ph/2024/2/10/how-pcg-dog-appa-helped-in-rescue-of-3-year-old-landslide-survivor-in-davao-de-oro",
+        "shortUrl": "",
+        "title": "How PCG dog &#x27;Appa&#x27; helped in rescue of 3-year-old landslide survivor in Davao de Oro",
+        "description":"A dog is not only a man&#x27;s best friend, at times it is also its savior.",
+        "date": "2024-02-09T20:59:00.000Z",
+        "tag": "Disasters and Response",
+        "locale": "Davao de Oro"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Maco, Davao de Oro Landslide",
+            "url": "https://newsinfo.inquirer.net/1901090/landslide-in-davao-de-oro-mining-village-affects-300-families",
+            "shortUrl": "",
+            "title": "Landslide in Davao de Oro mining village affects 300 families",
+            "description": "MANILA, Philippines — Some 300 families or 2,000 individuals were affected by the landslide in a mining village in Davao de Oro's Maco town, Civil Defense Administrator Ariel Nepomuceno",
+            "date": "2024-02-08T05:52:30.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Davao de Oro"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/death-toll-in-maco-landslide-rises-to-11-over-100-missing",
+                "shortUrl": "",
+                "title": "Death toll in Maco landslide rises to 11, over 100 missing",
+                "description": "Rescuers dug out more bodies from a landslide-hit village of Masara in Maco town, Davao de Oro in Mindanao on Thursday, February 8, 2024, bringing the death tol",
+                "date": "2024-02-09T03:13:14.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/2/10/27-bodies-recovered-from-davao-de-oro-landslide-site-1424",
+                "shortUrl": "",
+                "title": "28 bodies recovered from Davao De Oro landslide site",
+                "description": "(Updated) The landslide in Davao De Oro has left 28 dead and 33 injured, as of Saturday.",
+                "date": "2024-02-10T06:39:48.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/02/11/2332580/ndrrmc-p738m-infrastructure-damage-mindanao-floods-landslides",
+                "shortUrl": "",
+                "title": "NDRRMC: P738M infrastructure damage in Mindanao floods, landslides",
+                "description": "According to the latest report from the NDRRMC, infrastructure damage in Caraga and Davao region was estimated at P473 million and 265.6 million, respectively.",
+                "date": "2024-02-11T07:13:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/896760/only-1-public-school-in-ncr-got-passing-mark-in-2022-pisa/story/",
+            "shortUrl": "",
+            "title": "Only 1 public school in NCR got passing mark in 2022 PISA",
+            "description": "Only one public school in Metro Manila scored above the minimum proficiency level in the Programme for International Student Assessment (PISA) 2022 global comprehension survey, a Department of Education (DepEd) official said Wednesday.",
+            "date": "2024-02-07T09:55:57.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-sugar-high-prices-end-users-agonize/",
+            "shortUrl": "",
+            "title": "[Vantage Point] When sugar turns sour: End users agonize from high prices",
+            "description": "The Marcos government should now give priority to the Filipino stakeholders of the Philippine sugar industry",
+            "date": "2024-02-06T06:00:00.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/2/6/prospects-shaky-for-philippines-government-and-communist-peace-talks",
+            "shortUrl": "",
+            "title": "Prospects shaky for Philippines’ government and communist peace talks",
+            "description": "The two sides agreed to start talks this month, but continued fighting and mutual distrust have undermined process.",
+            "date": "2024-02-06T00:33:27.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/business/314413728/january-inflation-fell-to-2-8.html",
+            "shortUrl": "",
+            "title": "January inflation fell to 2.8%",
+            "description": "Inflation dropped to 2.8% in January 2024, marking its slowest pace in over three years, the Philippine Statistics Authority said Tuesday. “This is the lowest recorded since the 2.3% inflation rate registered in October 2020,” said the PSA.",
+            "date": "2024-02-06T02:02:56.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}
