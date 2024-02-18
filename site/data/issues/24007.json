@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24007,
+        "date": "2024-02-18T14:16:48.569Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.crisisgroup.org/asia/south-east-asia/philippines/philippines-bangsamoros-village-elections-point-long-path-peace",
+        "shortUrl": "",
+        "title": "Philippines: Bangsamoro’s Village Elections Point to a Long Path to Peace | Crisis Group",
+        "description": "Village elections in the southern Philippines tend to be hard-fought and violent. Crisis Group expert Georgi Engelbrecht travelled there to understand what the most recent showdowns mean for regional polls scheduled for 2025 and for the peace process in an area historically racked by conflict.",
+        "date": "2024-02-16T14:52:05.000Z",
+        "tag": "Muslim Mindanao",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "San Miguel, Consortium Wins ₱170B ($3B) <abbr title=\"Ninoy Aquino International Airport\">NAIA</abbr> Bid",
+            "url": "https://www.gmanetwork.com/news/money/companies/897687/san-miguel-led-consortium-bags-naia-privatization-project/story/",
+            "shortUrl": "",
+            "title": "San Miguel-led consortium bags NAIA privatization project",
+            "description": "The group led by diversified conglomerate San Miguel Corp. (SMC) bagged the privatization project of the Ninoy Aquino International Airport's (NAIA) operations and maintenance.",
+            "date": "2024-02-16T03:42:34.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/2/16/renaming-naia-not-in-privatization-proposal-do-tr",
+                "shortUrl": "",
+                "title": "Renaming NAIA not in privatization proposal -- <abbr title=\"Department of Transportation\">DOTr</abbr>",
+                "description": "Now that the Ninoy Aquino International Airport (NAIA) will be privately operated and maintained by the San Miguel Corporation (SMC)-SAP and Company Consortium, the divisive question of whether the airport will be renamed have once again resurfaced.",
+                "date": "2024-02-15T19:27:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/business/2024/02/18/2334109/tough-task-ahead",
+                "shortUrl": "",
+                "title": "Tough task ahead",
+                "description": "Finance Secretary Ralph Recto has welcomed the Manila International Airport Authority board's move to award to the San Miguel Corp-SAC and Co. consortium the contract for the rehabilitation of the Ninoy Aquino International Airport, the largest solicited public-private partnership project under the administration of President Marcos.",
+                "date": "2024-02-17T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1905640/solons-split-on-smc-bagging-naia-project-salceda-says-its-best-ppp-deal-herrera-cautious",
+                "shortUrl": "",
+                "title": "Solons upbeat on San Miguel Corp's Naia rehab contract",
+                "description": "Manila, Philippines — Several lawmakers on Friday aired their optimism over the contract awarded to San Miguel Corporation (SMC) for the rehabilitation of the Ninoy",
+                "date": "2024-02-17T06:03:31.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/2024/2/15/masara-landslide-death-toll-rises-to-85-survivors-moving-to-tent-city-1215",
+            "shortUrl": "",
+            "title": "Masara landslide death toll rises to 90; survivors moving to &#x27;tent city&#x27;",
+            "description": "The same report noted that 37 remain missing following the landslide that hit the gold-mining village of Masara on Feb. 6.",
+            "date": "2024-02-14T15:19:00.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Davao de Oro"
+        },
+        {
+            "url": "https://www.rappler.com/nation/metro-manila/students-protest-bills-polytechnic-univerisity-philippines-privatization/",
+            "shortUrl": "",
+            "title": "Students protest bills on PUP privatization, commercialization",
+            "description": "<abbr title=\"Sandigan ng Mag-aaral para sa Sambayanan Polytechnic University of the Philippines\">SAMASA PUP</abbr> chairperson Ronjay-C Mendiola says the proposed provision will allow the national government to 'escape its responsibility' of prioritizing funds for state universities and colleges",
+            "date": "2024-02-17T06:01:18.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314417544/sc-nixes-wps-oil-pact-with-china-vietnam.html",
+            "shortUrl": "",
+            "title": "<abbr title=\"Supreme Court\">SC</abbr> nixes WPS oil pact with China, Vietnam - Manila Standard",
+            "description": "Denies final appeal by gov’t agencies for exploration deal The Supreme Court has affirmed with finality its January 10, 2023 decision on the unconstitutionality of a tripartite partnership with Chinese and Vietnamese state-owned firms to explore a portion of the West Philippine Sea for oil and gas.",
+            "date": "2024-02-16T17:40:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.scmp.com/week-asia/lifestyle-culture/article/3251838/philippine-drag-culture-rise-will-it-usher-lgbtq-acceptance",
+            "shortUrl": "",
+            "title": "Philippine drag culture is on the rise, but will it usher in LGBTQ acceptance?",
+            "description": "Once confined to queer spaces, drag culture is crossing into the mainstream through shows such as Drag Race Philippines and Drag Den.",
+            "date": "2024-02-13T08:30:17.000Z",
+            "tag": "LGBTQ",
+            "locale": ""
+        }
+    ]
+}
