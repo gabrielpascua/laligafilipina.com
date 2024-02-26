@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24008,
+        "date": "2024-02-26T01:17:51.676Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.philstar.com/business/2024/02/16/2333626/worse-we-thought",
+        "shortUrl": "",
+        "title": "Worse than we thought",
+        "description": "Our crisis in education is apparently worse than we thought.",
+        "date": "2024-02-15T16:00:00.000Z",
+        "tag": "Education",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "38th Anniversary of the EDSA Revolution",
+            "url": "https://manilastandard.net/opinion/columns/pop-goes-the-world-by-jenny-ortuoste/314418756/people-power-day-not-a-2024-holiday.html",
+            "shortUrl": "",
+            "title": "‘People Power Day’ not a 2024 holiday - Manila Standard",
+            "description": "“People Power Day serves as a reminder of the collective power of the people in shaping the nation’s destiny and upholding democratic principles”",
+            "date": "2024-02-21T16:00:00.000Z",
+            "tag": "History",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/ph-commemorates-38th-edsa-people-power-revolution-anniversary",
+                "shortUrl": "",
+                "title": "PH commemorates 38th Edsa People Power Revolution anniversary",
+                "description": "Filipinos commemorated on Sunday, February 25, 2024, the 38th anniversary of the Edsa People Power Revolution.",
+                "date": "2024-02-25T08:45:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/inside-track/marcos-government-offers-muted-celebration-edsa-people-power-anniversary-2024/",
+                "shortUrl": "",
+                "title": "Marcos Gov't Offers Muted Celebration Of EDSA People Power's 38th Anniversary",
+                "description": "There was no statement from Marcos Jr. this year, but in a vlog posted on the anniversary of the People Power Revolution, he advises a student to be more discerning amid widespread disinformation. Didn't scholars say his family benefited from that?",
+                "date": "2024-02-25T11:23:53.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1909457/edsa-rites-see-battle-on-two-fronts-revisionism-cha-cha",
+                "shortUrl": "",
+                "title": "Edsa rites see battle on two fronts: Revisionism, Cha-cha",
+                "description": "On the 38th year of the 1986 Edsa People Power Revolution, groups and personalities who resisted the dictatorship that it toppled are fighting on two fronts to keep its legacy alive",
+                "date": "2024-02-25T13:32:49.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://time.com/6722170/apollo-quiboloy-fbi-us-philippines/",
+            "shortUrl": "",
+            "title": "Why a Filipino Megachurch Founder Is on the Run, Claiming the U.S. Wants Him Dead",
+            "description": "Philippine televangelist Apollo Quiboloy faces multiple charges in the U.S. in relation to an alleged sex trafficking scheme.",
+            "date": "2024-02-21T17:41:04.000Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/2/21/kuwait-appellate-court-affirms-conviction-of-ranara-killer-dmw-to-pursue-civil-case-for-damages",
+            "shortUrl": "",
+            "title": "Kuwait Appellate Court affirms conviction of Ranara killer, DMW to pursue case for civil damages ",
+            "description": "Following the conviction of the Kuwaiti tagged in the brutal murder of overseas Filipino worker Jullebee Ranara, the Department of Migrant Workers (DMW) is now pursuing civil action for damages against the father of her killer.",
+            "date": "2024-02-23T10:24:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/2024/2/19/nsc-probes-alleged-cyanide-fishing-at-bajo-de-masinloc-1547",
+            "shortUrl": "",
+            "title": "NSC probes alleged cyanide fishing at Bajo de Masinloc",
+            "description": "The National Security Council said it was looking into a report that Chinese fishermen were using cyanide to destroy the resource-rich shoal.",
+            "date": "2024-02-19T07:53:06.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/898522/naia-ranked-4th-worst-airport-in-asia-by-uk-website/story/",
+            "shortUrl": "",
+            "title": "NAIA ranked '4th worst airport in Asia' by UK website",
+            "description": "NAIA was ranked fourth worst airport in Asia in a survey done by a website based in the United Kingdom.",
+            "date": "2024-02-24T11:24:29.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        }
+    ]
+}
