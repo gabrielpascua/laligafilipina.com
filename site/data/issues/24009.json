@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24009,
+        "date": "2024-03-03T15:28:23.256Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.straitstimes.com/multimedia/graphics/2024/03/chinese-investment-philippines/index.html",
+        "shortUrl": "",
+        "title": "A new dam threatens this Filipino tribe. It's just one of the country's stalled China-funded projects",
+        "description": "Manila's pivot to Beijing during the previous administration yielded more than a dozen infrastructure deals, but most of them remain mired in delays and protests.",
+        "date": "2024-03-02T16:00:00.000Z",
+        "tag": "China",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Metro Manila e-Bikes and e-Trikes Ban",
+            "url": "https://mb.com.ph/2024/2/26/regulation-is-the-key-mayor-francis-wants-regulation-of-e-bikes-e-trikes",
+            "shortUrl": "",
+            "title": "Zamora eyes unified regulation of e-bikes, e-trikes in NCR",
+            "description": "San Juan City Mayor and Metro Manila Council (MMC) President Francis Zamora is eyeing a unified regulation of e-trikes and e-bikes in the National Capital Region (NCR) following the exponential growth of such vehicles that are being used even in national roads where they are not allowed.",
+            "date": "2024-02-26T07:27:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/1911479/mmc-passes-resolution-banning-e-bikes-on-major-roads",
+                "shortUrl": "",
+                "title": "MMC passes resolution banning e-bikes on major roads",
+                "description": "Manila, Philippines — The Metro Manila Council (MMC) on Wednesday passed a resolution banning electric bikes / trikes on national roads under the jurisdiction of the Metropolitan Manila",
+                "date": "2024-02-28T22:45:15.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/2/29/why-mmda-banned-e-bikes-e-trikes-along-edsa-other-major-roads-839",
+                "shortUrl": "",
+                "title": "Why MMDA banned e-bikes, e-trikes along EDSA, other major roads",
+                "description": "Why did the Metro Manila Council prohibit the use of e-vehicles, such as e-bikes and e-trikes, along major thoroughfares in the metro?",
+                "date": "2024-02-29T05:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/02/28/2336835/transpo-advocates-question-legality-lack-consultation-e-vehicle-ban-policy",
+                "shortUrl": "",
+                "title": "Transpo advocates question legality, lack of consultation in e-vehicle ban policy",
+                "description": "Transportation advocates criticized the Metro Manila Council's latest resolution penalizing the use of electronic bikes and trikes along major roads in Metro Manila, citing possible legal and mobility issues alongside \"lack of consultation.\"",
+                "date": "2024-02-28T10:56:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/newsbreak/explainers/why-did-court-hand-down-lighter-punishment-cops-jemboy-baltazar-killing/",
+            "shortUrl": "",
+            "title": "Explainer: Why did court hand down lighter punishment vs cops in Jemboy killing?",
+            "description": "Of the six accused, only one cop is found guilty, not of murder, but of homicide. The four face much lighter penalties, while one cop is now free from the murder charge.",
+            "date": "2024-03-02T04:59:14.000Z",
+            "tag": "Police and Law Enforcement",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314421534/ph-tops-36-countries-with-12b-in-climate-damages.html",
+            "shortUrl": "",
+            "title": "PH tops 36 countries with $12b in climate damages - Manila Standard",
+            "description": "Zurich—The Philippines is the country suffering the highest annual economic losses from the impact of four major weather perils studied—floods, tropical cyclones, winter storms and severe thunderstorms—at three percent of its gross domestic product (GDP) or about US$12 billion (P673 billion).",
+            "date": "2024-02-29T17:05:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://malaya.com.ph/news_news/extraordinary-turnout-in-voter-list-up-comelec/",
+            "shortUrl": "",
+            "title": "‘Extraordinary’ turnout in voter list-up – Comelec",
+            "description": "LESS than a month into the voter registration period for the May 2025 national and local polls, the Commission on Elections (Comelec) has already managed to reach more than a quarter of its projected three million applicants.",
+            "date": "2024-02-29T17:34:20.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.esquiremag.ph/politics/news/metro-manila-subway-project-hits-40-percent-completion-mark-a00203-20240229",
+            "shortUrl": "",
+            "title": "Metro Manila Subway Project Hits 40 Percent Completion Mark",
+            "description": "Officials project that the subway will significantly reduce the travel time from Valenzuela to NAIA from 1 hour and 30 minutes to just 35 minutes, and serve approximately 519,000 passengers on a daily basis.",
+            "date": "2024-02-29T12:28:03.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        }
+    ]
+}
