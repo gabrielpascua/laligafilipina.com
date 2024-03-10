@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24010,
+        "date": "2024-03-10T15:28:23.256Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.theguardian.com/environment/2024/mar/05/if-we-cant-fish-any-more-were-going-to-die-the-volunteer-sea-patrols-protecting-precious-philippine-waters",
+        "shortUrl": "",
+        "title": "‘If we can’t fish any more, we’re going to die’: the volunteer sea patrols protecting precious Philippine waters",
+        "description": "Dedicated groups called Bantay Dagat aim to conserve the abundant marine life surrounding their thousands of islands, which has been under pressure for years from intensive overfishing",
+        "date": "2024-03-05T05:00:59.000Z",
+        "tag": "Environment",
+        "locale": "Negros Oriental"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Chinese Coast Guards \"Dangerous Blocking Manuevers\"",
+            "url": "https://apnews.com/article/philippines-china-south-china-sea-collision-e69d9506e85d1d23685db4f220b50d71",
+            "shortUrl": "",
+            "title": "Philippine and Chinese vessels collide in disputed South China Sea and 4 Filipino crew are injured",
+            "description": "The long-simmering territorial disputes in the South China Sea are expected to be discussed at a summit of leaders of the Association of Southeast Asian Nations in Melbourne.",
+            "date": "2024-03-05T08:29:52.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://abcnews.go.com/International/video/chinas-coast-guard-caused-collision-sea-philippines-107799951",
+                "shortUrl": "",
+                "title": "Video China’s coast guard caused collision at sea, Philippines says",
+                "description": "The Philippines accused China&#x27;s coast guard of carrying out &quot;dangerous manoeuvres&quot; that led to a collision between its coast guard ship and a Chinese vessel in the South China Sea.",
+                "date": "2024-03-05T05:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://malaya.com.ph/news_news/2-ph-ships-damaged-4-crewmen-injured-china-fires-water-cannons-anew/",
+                "shortUrl": "",
+                "title": "2 PH ships damaged, 4 crewmen injured: China fires water cannons anew",
+                "description": "Two Philippine vessels were damaged and four Navy men were injured yesterday as China harassed anew a rotation and reprovisioning mission at Ayungin Shoal",
+                "date": "2024-03-05T21:56:56.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/opinion/2024/03/10/2339386/actions-speak-louder-words",
+                "shortUrl": "",
+                "title": "Actions speak louder than words",
+                "description": "The recent incident involving China Coast Guard ships and one of our supply boats is yet again another example of the disgraceful, dangerous and aggressive behavior that shows China's propensity to doublespeak.",
+                "date": "2024-03-09T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://globalnation.inquirer.net/227199/2-filipinos-killed-2-severely-hurt-after-missile-attack-vs-cargo-vessel",
+            "shortUrl": "",
+            "title": "2 Filipino sailors killed, 2 severely hurt in Houthi missile attack",
+            "description": "Manila, Philippines — Two Filipinos have been killed while two were severely injured following a missile strike on a cargo vessel off Yemen, the Department of Migrant Workers (DMW)",
+            "date": "2024-03-07T22:18:55.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/inside-track/marcos-flustered-question-family-plunder-australian-television-interview/",
+            "shortUrl": "",
+            "title": "‘Why is that funny?’: Flustered Marcos laughs when asked about family’s plunder",
+            "description": "On Australian television, Marcos downplays as propaganda the PCGG&#039;s findings about his family&#039;s ill-gotten wealth, even though this is well-documented",
+            "date": "2024-03-05T16:12:33.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/cebu/rising-teenage-pregnancies-a-concern",
+            "shortUrl": "",
+            "title": "Rising teenage pregnancies a concern",
+            "description": "As more young women in the region are entering motherhood at an early age, the Commission on Population and Development (CPD) is urging local government units to establish their own local adolescents and teen centers",
+            "date": "2024-03-05T22:13:00.000Z",
+            "tag": "Demographics and Population",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/3/5/left-behind-families-look-to-icc-for-philippines-drug-war-justice",
+            "shortUrl": "",
+            "title": "With ‘no chance for justice’ in the Philippines, drug war families eye ICC",
+            "description": "Ferdinand Marcos Jr has shown little interest in helping families find justice, as drug war killings continue.",
+            "date": "2024-03-05T23:30:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
