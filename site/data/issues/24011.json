@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24011,
+        "date": "2024-03-17T14:03:47.197Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.youtube.com/watch?v=xr9oCVHc6P4",
+        "shortUrl": "",
+        "title": "The Green Report: Biking 120 kilometers to tell a story",
+        "description": "Is Metro Manila bike-friendly? That’s the question that Rappler’s environment cluster set out to answer in their latest documentary",
+        "date": "2024-03-16T09:50:49.000Z",
+        "tag": "Transportation",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Viral Resort on Chocolate Hills Protected Area in Bohol",
+            "url": "https://www.sunstar.com.ph/cebu/resort-fuels-outrage-sparks-action",
+            "shortUrl": "",
+            "title": "Resort fuels outrage, sparks action",
+            "description": "The Bohol Provincial Government is set to create a new committee that will oversee developments in the province’s renowned Chocolate Hills",
+            "date": "2024-03-14T22:00:00.000Z",
+            "tag": "Environment",
+            "locale": "Bohol"
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/2024/3/13/manager-admits-controversial-chocolate-hills-resort-has-no-environment-certificate-722",
+                "shortUrl": "",
+                "title": "Manager of controversial Chocolate Hills resort admits not being able to acquire environment certificate; workers prepare for jobless days ahead",
+                "description": "The manager of controversial Captain’s Peak Resort at the foot of the Chocolate Hills in the town of Sagbayan, Bohol claimed on Wednesday evening, that they were allowed to operate despite lacking an Environment Compliance Certificate (ECC).",
+                "date": "2024-03-14T00:30:47.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/nation/visayas/why-is-there-resort-built-chocolate-hills/",
+                "shortUrl": "",
+                "title": "How messy governance, paperwork allowed a resort in Chocolate Hills",
+                "description": "The Department of Environment and Natural Resources has yet to answer why the resort continued operations despite a temporary closure order issued in September 2023",
+                "date": "2024-03-14T12:43:23.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/03/17/2341127/dilg-creates-chocolate-hills-task-force",
+                "shortUrl": "",
+                "title": "DILG creates Chocolate Hills task force",
+                "description": "Department of the Interior and Local Government Secretary Benjamin Abalos Jr. has ordered the creation of a special investigation team to determine the liability of local government officials responsible for the issuance of permit to a private group for the construction and operation of a resort at the Chocolate Hills in Bohol.",
+                "date": "2024-03-17T01:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1919300/cancer-patientsin-ph-falling-for-alternative-cures",
+            "shortUrl": "",
+            "title": "Cancer patients in PH falling for alternative ‘cures’",
+            "description": "Filipino single mother Mary Ann Eduarte delayed chemotherapy for her breast cancer for several years and instead took food supplements falsely promoted on social media as cures for the deadly",
+            "date": "2024-03-16T13:25:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/900435/over-800-pinoys-foreign-nationals-rescued-in-tarlac-pogo-hub-allegedly-behind-scamming-ops/story/",
+            "shortUrl": "",
+            "title": "Over 800 Pinoys, foreign nationals rescued in Tarlac POGO hub allegedly behind scamming ops",
+            "description": "More than 800 Filipinos and foreigners were rescued at a large Philippine Offshore Gaming Operator (POGO) firm in Bamban, Tarlac after it was raided for alleged illegal activities",
+            "date": "2024-03-13T14:07:58.000Z",
+            "tag": "Crime",
+            "locale": "Tarlac"
+        },
+        {
+            "url": "https://www.nytimes.com/2024/03/16/world/asia/philippines-south-china-sea.html",
+            "shortUrl": "",
+            "title": "Standing Up to China, Philippine Leader Courts New Network of Partners",
+            "description": "Escalating tensions in the South China Sea, President Ferdinand R. Marcos Jr. says, are not only a regional issue, but a global one.",
+            "date": "2024-03-16T04:01:13.000Z",
+            "tag":"West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.newscientist.com/article/mg26134821-100-saving-the-worlds-largest-flowers-in-the-philippines/",
+            "shortUrl": "",
+            "title": "Saving the world&#039;s largest flowers in the Philippines",
+            "description": "These stunning photographs, taken by botanist Chris Thorogood, chart the quest to protect species of Rafflesia, which are on the brink of extinction in the Philippines",
+            "date": "2024-03-13T18:00:00.000Z",
+            "tag": "Environment",
+            "locale": "La Union"
+        }
+    ]
+}
