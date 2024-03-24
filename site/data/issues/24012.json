@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24012,
+        "date": "2024-03-24T14:19:40.971Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.nytimes.com/2024/03/18/technology/crypto-video-games-philippines.html",
+        "shortUrl": "",
+        "title": "What Meltdown? Crypto Comes Roaring Back in the Philippines.",
+        "description": "Two years after the cryptocurrency market crashed, internet cafes for playing crypto-earning video games are opening and farmers have started harvesting virtual crops from the games for income.",
+        "date": "2024-03-18T04:00:22.000Z",
+        "tag": "Technology",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "China's Water Cannon Attack on Resupply Boat Unaiza May 4",
+            "url": "https://news.abs-cbn.com/news/2024/3/23/china-coast-guard-used-water-cannon-on-resupply-boat-afp-2143",
+            "shortUrl": "",
+            "title": "China Coast Guard used water cannon on resupply boat — AFP",
+            "description": "The AFP said China Coast Guard vessel BN21551 also used &quot;dangerous maneuvers&quot; against civilian resupply boat Unaiza May 4.",
+            "date": "2024-03-23T02:56:25.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/03/24/2342925/philippines-resupply-boat-heavily-damaged",
+                "shortUrl": "",
+                "title": "Philippines resupply boat heavily damaged",
+                "description": "Again, using water cannons and executing dangerous maneuvers, the Chinese coast guard made another attempt yesterday to block Filipino vessels from resupplying a military outpost on the BRP Sierra Madre in Ayungin Shoal, causing “major damage” and triggering condemnation from the US, the European Union and Japan.",
+                "date": "2024-03-23T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/china-statement-after-ayungin-harassment/",
+                "shortUrl": "",
+                "title": "After Ayungin harassment, China tells PH: Prepare &#039;to bear all potential consequences&#039;",
+                "description": "The Philippines, meanwhile, says it &#039;will not be deterred – by veiled threats or hostility – from exercising our legal rights&#039;",
+                "date": "2024-03-23T13:17:18.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://globalnation.inquirer.net/229137/ph-condemns-chinas-irresponsible-actions-in-west-philippine-sea",
+                "shortUrl": "",
+                "title": "PH condemns China’s ‘irresponsible’ actions in West Philippine Sea",
+                "description": "Manila, Philippines — The National Task Force for the West Philippine Sea (NTF-WPS) on Saturday said China engages in “irresponsible” actions in the West Philippine Sea, counter to its",
+                "date": "2024-03-24T02:12:15.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://timesofindia.indiatimes.com/world/rest-of-world/mail-order-brides-how-filipino-women-are-being-trafficked-to-china/articleshow/108638896.cms",
+            "shortUrl": "",
+            "title": "Mail-order brides: How Filipino women are being trafficked to China - Times of India",
+            "description": "Rest of World News: New Delhi: A recent alert from the Philippine immigration authority has highlighted an elaborate ruse to traffic Filipino women to China under the guise of marriage",
+            "date": "2024-03-20T07:30:00.000Z",
+            "tag": "Immigration",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/901179/transport-terminals-gird-for-holy-week-2024-exodus/story/",
+            "shortUrl": "",
+            "title": "Transport terminals gird for Holy Week 2024 exodus",
+            "description": "Whether it&#39;s travel by land, sea, or air, operators of transport terminals are ramping up preparations to accommodate millions of Filipino travelers expected to flock to bus stations, piers, and airports for next week&#39;s Holy Week break.",
+            "date": "2024-03-20T16:46:27.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314429055/hiv-cases-may-reach-500k-in-next-six-years-doh-predicts.html",
+            "shortUrl": "",
+            "title": "HIV cases may reach 500K in next six years, DOH predicts - Manila Standard",
+            "description": "Human immunodeficiency virus (HIV) cases in the country would reach at least 500,000 over the next six years, with men comprising most of the patients, the Department of Health (DOH) said Saturday. DOH Undersecretary Eric Tayag said from six cases a day, HIV cases in the country have increased to 50 new cases daily.",
+            "date": "2024-03-23T14:35:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.dw.com/en/philippines-drug-war-what-changed-under-president-marcos/a-68635719",
+            "shortUrl": "",
+            "title": "Under Marcos, the Philippines drug war drags on – DW – 03/21/2024",
+            "description": "Drug-related killings under President Ferdinand Marcos remain as high as they were during the final year in office of his predecessor, Rodrigo Duterte, whose bloody anti-drug campaign left thousands of people dead.",
+            "date": "2024-03-21T16:36:41.502Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
