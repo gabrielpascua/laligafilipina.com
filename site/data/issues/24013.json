@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24013,
+        "date": "2024-03-31T12:02:38.201Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1922872/feeding-one-hungry-child-at-a-time",
+        "shortUrl": "",
+        "title": "Feeding one hungry child at a time",
+        "description": "Bacolod City — Had Millie Kilayko pursued a career in journalism or marketing, it would have given her financial success. Instead, she gave up opportunities in the corporate world to ride buses bound for the countryside",
+        "date": "2024-03-26T12:35:00.000Z",
+        "tag": "Lifestyle",
+        "locale": "Negros Occidental"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "In Observance of Holy Week",
+            "url": "https://news.abs-cbn.com/news/2024/3/26/lenten-traditions-how-filipinos-observe-holy-week-1758",
+            "shortUrl": "",
+            "title": "Lenten traditions: How Filipinos observe Holy Week",
+            "description": "In Catholicism’s Asian capital, Holy Week or the end of Lent is marked with praying, fasting, and giving alms to the poor.",
+            "date": "2024-03-27T23:03:03.000Z",
+            "tag": "Culture",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314430253/5m-to-head-out-of-metro.html",
+                "shortUrl": "",
+                "title": "5m to head out of Metro - Manila Standard",
+                "description": "Agencies brace for Holy Week exodus; Pag-asa warns of high heat index Around 5 million people are heading to their home provinces via land, sea, and air this year for the annual Holy Week exodus, government and transport officials said Tuesday. But travelers and “staycationers” alike must deal with the rising temperatures of summer",
+                "date": "2024-03-26T17:10:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/3/29/long-weekend-pagasa-warns-of-persistent-hot-humid-weather-ahead",
+                "shortUrl": "",
+                "title": "Long weekend: PAGASA warns of persistent &#x27;hot, humid&#x27; weather ahead",
+                "description": "Hot and humid weather will continue to persist in Metro Manila and in some key cities of the country in the coming days, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA).",
+                "date": "2024-03-29T01:06:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/dole-issues-pay-rules-for-holy-week-holidays",
+                "shortUrl": "",
+                "title": "DOLE issues pay rules for Holy Week holidays",
+                "description": "EMPLOYEES set to continue working during the Holy Week holidays are entitled to get additional pay, the Department of Labor and Employment (DOLE) said.",
+                "date": "2024-03-27T11:38:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.aljazeera.com/features/2024/3/27/trapped-abandoned-filipino-workers-lured-to-poland-by-shadowy-agents",
+            "shortUrl": "",
+            "title": "Trapped, abandoned: Filipino workers lured to Poland by shadowy agents",
+            "description": "Filipinos pay large sums to unofficial recruitment companies, only to find themselves at the sharp end of Polish law.",
+            "date": "2024-03-27T12:41:30.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/environment/critical-facilities-risk-flooding-sipalay-city-negros-occidental/",
+            "shortUrl": "",
+            "title": "Flood-prone lifelines: Critical facilities at risk of flooding in Negros Occidental town",
+            "description": "Part 1: Rappler&#039;s data analysis of HazardHunterPH data shows that Sipalay has the most number of schools that double as evacuation centers during disasters, with a very high risk of flooding in Negros Occidental",
+            "date": "2024-03-28T00:30:00.000Z",
+            "tag": "Environment",
+            "locale": "Negros Occidental"
+        },
+        {
+            "url": "https://www.philstar.com/business/2024/03/28/2343789/killua",
+            "shortUrl": "",
+            "title": "Killua",
+            "description": "News on the brutal killing of Killua, the Golden Retriever from Bato, Camarines Sur, has ignited a wave of public outcry, particularly among animal-loving Filipinos.",
+            "date": "2024-03-27T16:00:00.000Z",
+            "tag": "Animal Welfare",
+            "locale": ""
+        },
+        {
+            "url": "https://www.benarnews.org/english/news/philippine/drug-war-03262024131502.html",
+            "shortUrl": "",
+            "title": "Like father, like son? Ex-Philippine president’s son warns he’ll ‘kill’ drug dealers",
+            "description": "The declaration by Davao Mayor Sebastian Duterte alarms human rights advocates.",
+            "date": "2024-03-26T17:17:11.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
