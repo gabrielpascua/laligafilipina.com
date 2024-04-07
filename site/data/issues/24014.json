@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24014,
+        "date": "2024-04-07T20:06:07.848Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.straitstimes.com/multimedia/graphics/2024/04/philippines-migrant-workers/index.html",
+        "shortUrl": "",
+        "title": "Mama, come home: Can the Philippines bring back its migrant workers?",
+        "description": "Better salaries have drawn millions of Filipinos to work overseas, but the growing diaspora will be detrimental to the Philippines in the long run.",
+        "date": "2024-04-05T16:00:00.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Dangerously High Heat Index in Parts of the Country",
+            "url": "https://tribune.net.ph/2024/04/02/dangerous-heat-levels-affect-11-areas",
+            "shortUrl": "",
+            "title": "Dangerous heat levels affect 11 areas",
+            "description": "Eleven areas in the country were forecast to experience an “init factor” of 42 degrees Celsius and above yesterday, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) reported.",
+            "date": "2024-04-02T23:58:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314431440/hundreds-of-philippine-schools-suspend-classes-over-heat-danger.html",
+                "shortUrl": "",
+                "title": "Heat scorches Metro - Manila Standard",
+                "description": "11 provinces suffer higher temperatures Hundreds of schools across the country, including dozens in Metro Manila, suspended in-person classes on Tuesday due to dangerous levels of heat, with the Department of Health warning against heat-related illnesses such as heat cramps and heat stroke.",
+                "date": "2024-04-02T17:10:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1926068/heat-index-in-7-areas-on-april-4-says-pagasa",
+                "shortUrl": "",
+                "title": "Pagasa sees 42°C to 43°C ‘danger’ level heat index in 7 areas on April 4",
+                "description": "According to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa), this “danger category” heat indication will be in the following places",
+                "date": "2024-04-04T16:50:16.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/4/4/extreme-heat-affects-2-4-million-students-nationwide-says-dep-ed",
+                "shortUrl": "",
+                "title": "Extreme heat affects 2.4 million students nationwide, says DepEd",
+                "description": "Over 2.4 million students in more than 4,000 schools nationwide are affected by scorching heat as schools suspend face-to-face classes and shift to alternative delivery modes (ADM), according to the Department of Education (DepEd) on Thursday, April 4.",
+                "date": "2024-04-04T09:53:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/newsbreak/investigative/officials-private-interests-spoil-effort-track-big-fishers/",
+            "shortUrl": "",
+            "title": "Top officials with private interests spoil effort to track big fishers",
+            "description": "Exclusive: Part 1 | Gamaliel Cordoba, who headed the NTC under Duterte, has a personal stake in commercial fishing because of his family’s business. During his time, the commission stopped issuing service numbers for trackers that would prevent unregulated fishing.",
+            "date": "2024-04-05T06:13:46.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/business/2024/04/01/2344294/edsa-busway-privatization-next-dotrs-do-list",
+            "shortUrl": "",
+            "title": "EDSA busway privatization next in DOTr's to do list",
+            "description": "After signing the concession agreement for the Ninoy Aquino International Airport (NAIA), the Department of Transportation (DOTr) is set to embark on the privatization of another big-ticket infrastructure: the busway in the busiest thoroughfare in Metro Manila.",
+            "date": "2024-03-31T16:00:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.theguardian.com/global-development/2024/apr/02/the-suitcase-sized-kit-helping-to-rid-the-philippines-of-one-of-historys-great-killers",
+            "shortUrl": "",
+            "title": "The suitcase-sized kit helping to rid the Philippines of one of history’s great killers",
+            "description": "Tuberculosis has plagued the world for thousands of years and remains a leading cause of death",
+            "date": "2024-04-02T07:00:29.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnn.com/travel/bataan-death-march-intl-hnk-ml-dst/index.html",
+            "shortUrl": "",
+            "title": "A double dose of hell: The Bataan Death March and what came next | CNN",
+            "description": "On the grounds of an elementary school in a small Philippine village, the fuse was lit on one of the worst war crimes of the 20th century while at the same time setting in motion one of the greatest survival stories in US military history.",
+            "date": "2024-04-03T02:06:18.026Z",
+            "tag": "History",
+            "locale": ""
+        }
+    ]
+}
