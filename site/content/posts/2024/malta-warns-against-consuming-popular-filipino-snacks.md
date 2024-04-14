@@ -1,6 +1,6 @@
 ---
 title: Malta Warns Against Consuming Popular Filipino Snacks
-issues: 23014
+issues: 24014
 tags: ["Food", "Health"]
 publishDate: 2024-03-31T10:40:00.000Z
 author: 

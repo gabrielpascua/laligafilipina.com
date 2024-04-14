@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24015,
+        "date": "2024-04-14T20:06:07.848Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.aljazeera.com/features/longform/2024/4/9/indigenous-people-in-philippiness-north-ready-to-fight-as-tensions-rise",
+        "shortUrl": "",
+        "title": "Indigenous people in Philippines’s north ‘ready to fight’ as tensions rise",
+        "description": "The remote island of Itbayat is in the eye of any conflict with China and its residents are preparing themselves.",
+        "date": "2024-04-09T00:01:42.000Z",
+        "tag": "West Philippine Sea",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Gentleman's Agreement Between Duterte and China",
+            "url": "https://globalnation.inquirer.net/231491/china-on-gentlemans-agreement",
+            "shortUrl": "",
+            "title": "China insists ‘gentleman’s agreement’ under Duterte administration",
+            "description": "Manila, Philippines — China on Thursday insisted on the existence of a “gentleman’s agreement” made during former president Rodrigo Duterte’s tenure.",
+            "date": "2024-04-12T06:39:58.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://qa.philstar.com/opinion/2024/04/10/2346501/not-so-gentlemens-agreement",
+                "shortUrl": "",
+                "title": "A not so gentlemen’s agreement",
+                "description": "For the past several weeks, Beijing has making hay over the supposed “official commitment” of the Philippine government to tow BRP Sierra Madre out of the Ayungin Shoal.",
+                "date": "2024-04-09T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/4/12/duterte-denies-gentleman-s-agreement-with-china-s-xi-1029",
+                "shortUrl": "",
+                "title": "Duterte admits deal with Xi on West Philippine Sea status quo",
+                "description": "Former President Rodrigo Duterte on Thursday admitted that he had agreed with Chinese President Xi Jinping to maintain the status quo in the West Philippine Sea.",
+                "date": "2024-04-12T02:45:42.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/4/12/fprrd-denies-gentlemen-s-agreement-with-china-on-west-philippine-sea",
+                "shortUrl": "",
+                "title": "<abbr title=\"Former President Rodrigo R. Duterte\">FPRRD</abbr> denies ‘gentleman’s agreement’ with China on West Philippine Sea",
+                "description": "Davao City – Former President Rodrigo R. Duterte has broken his silence and denied making any deal with China over the West Philippine Sea (WPS).",
+                "date": "2024-04-12T13:52:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.scmp.com/week-asia/people/article/3257912/fighting-their-land-philippines-boracay-island-indigenous-ati-tribe-faces-eviction-threat",
+            "shortUrl": "",
+            "title": "Fighting for their land: on Philippine’s Boracay, Ati tribe faces eviction",
+            "description": "Boracay’s indigenous Ati people have been pushed to the margins and are fighting to retain agricultural land that developers claim is better used for tourism.",
+            "date": "2024-04-07T06:00:20.000Z",
+            "tag": "Environment",
+            "locale": "Aklan"
+        },
+        {
+            "url": "https://www.nytimes.com/2024/04/11/nyregion/nyc-restaurants-virtual-remote.html",
+            "shortUrl": "",
+            "title": "The Fried Chicken Is in New York. The Cashier Is in the Philippines.",
+            "description": "A few New York City restaurants are experimenting with virtual staff members, who greet customers onscreen via Zoom from the Philippines.",
+            "date": "2024-04-11T18:37:53.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/ph-unemployment-rate-down-to-35-percent",
+            "shortUrl": "",
+            "title": "PH unemployment rate down to 3.5%",
+            "description": "The Philippines’ unemployment rate recorded a slight decrease to 3.5 percent in February 2024 from 4.8 percent in the same month last year, according to the latest report of the Philippine Statistics Authority",
+            "date": "2024-04-11T03:44:00.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/doh-reminds-public-get-kids-vaccinated-pertussis-cases-climb/",
+            "shortUrl": "",
+            "title": "<abbr title=\"Department of Health\">DOH</abbr> reminds public to get kids vaccinated as pertussis cases climb",
+            "description": "Health authorities say the Philippines still has enough stock of pentavalent vaccines effective against pertussis, with some 6 million doses expected to arrive by July",
+            "date": "2024-04-11T07:00:17.000Z",
+            "tag": "Health",
+            "locale": ""
+        }
+    ]
+}
