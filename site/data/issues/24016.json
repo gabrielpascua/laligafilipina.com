@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24016,
+        "date": "2024-04-21T20:06:07.848Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/environment/findings-philippines-plastic-brand-audit-2023/",
+        "shortUrl": "",
+        "title": "Philippines 'sinking in sachets' – brand audit",
+        "description": "From October 2023 to February 2024, volunteers collected, catalogued, and analyzed 10,801 sachets in several locations in the Philippines",
+        "date": "2024-04-17T07:39:24.000Z",
+        "tag": "Environment",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Influx of Chinese students in Cagayan",
+            "url": "https://globalnation.inquirer.net/232570/bi-1516-chinese-natls-given-student-visas-in-cagayan-in-2023",
+            "shortUrl": "",
+            "title": "BI: 1,516 Chinese nat’ls given student visas in Cagayan in 2023",
+            "description": "Manila, Philippines — A total of 1,516 Chinese nationals, all endorsed by a major Philippine university, were issued student visas in Cagayan in 2023, the Bureau of Immigration (BI) said on Friday.",
+            "date": "2024-04-19T17:31:00.000Z",
+            "tag": "China",
+            "locale": "Cagayan"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/04/18/2348660/chinese-embassy-hits-unfounded-claims-vs-student-exchanges",
+                "shortUrl": "",
+                "title": "Chinese Embassy hits ‘unfounded’ claims vs student exchanges",
+                "description": "Reps. Joseph Lara (Cagayan) and Faustino Dy IV (Isabela) have filed separate resolutions to probe the alleged surge of Chinese nationals in the Cagayan Valley, noting their presence poses risk to the country’s national security. ",
+                "date": "2024-04-18T21:04:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314438002/nsc-probes-influx-of-chinese-students-in-cagayan-province.html",
+                "shortUrl": "",
+                "title": "NSC probes influx of Chinese students in Cagayan province - Manila Standard",
+                "description": "The National Security Council is now investigating reports of an influx of Chinese students in areas close to military bases that can be accessed by American troops, in particular in Cagayan province.",
+                "date": "2024-04-21T04:10:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/904262/bi-chinese-students-in-cagayan-have-proper-documents/story/",
+                "shortUrl": "",
+                "title": "BI: Chinese students in Cagayan have proper documents",
+                "description": "The Bureau of Immigration said the Chinese students enrolled at St. Paul University Philippines (SPUP) in Tuguegarao City, Cagayan, have proper documents.",
+                "date": "2024-04-21T03:06:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/2024/4/19/3-filipinos-killed-2-others-injured-after-massive-flooding-in-uae-2215",
+            "shortUrl": "",
+            "title": "3 Filipinos killed, 2 others injured after massive flooding in UAE",
+            "description": "The Philippine government is working on repatriating the bodies of three Filipinos who died in the flashfloods in Dubai.",
+            "date": "2024-04-19T14:57:01.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.japantimes.co.jp/business/2024/04/20/philippines-rail-project-us-japan-china/",
+            "shortUrl": "",
+            "title": "Philippines wants U.S. and Japan to take over rail deal eyed by China",
+            "description": "The $868 million Subic-Clark railway will link former U.S. military bases turned commercial hubs and form part of the planned Luzon Economic Corridor.",
+            "date": "2024-04-20T00:13:00.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://www.scmp.com/week-asia/health-environment/article/3258761/australian-entrepreneur-hailed-cleaning-philippines-trash-strewn-river-can-pristineness-last-longer",
+            "shortUrl": "",
+            "title": "Australian shows how to keep dirty Manila river clean but can it stay pristine?",
+            "description": "Zero Co’s Mike Smith and his team of volunteers went viral after they scooped up 147,000kg of garbage from the Taguig-Pateros River.",
+            "date": "2024-04-14T06:00:22.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/4/15/p13-3-b-worth-of-shabu-seized-in-batangas-town-police-chief-gets-spot-promotion",
+            "shortUrl": "",
+            "title": "P13.3B worth of shabu seized in Batangas; Town police chief gets spot promotion ",
+            "description": "Local police forces in Batangas seized around P13.3 billion worth of shabu after intercepting a van loaded with around two tons of shabu in Alitagtag town on Monday morning, April 15.",
+            "date": "2024-04-15T06:58:00.000Z",
+            "tag": "War on Drugs",
+            "locale": "Batangas"
+        }
+    ]
+}

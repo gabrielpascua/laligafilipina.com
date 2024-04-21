@@ -247,6 +247,19 @@ body {
   @apply pl-8 pr-8 md:pl-12 md:pr-20;
 }
 
+.markdown table {
+  @apply border border-collapse table-auto w-full;
+}
+
+.markdown th {
+  @apply border-b p-2 pl-4 pb-3 text-left font-bold border;
+}
+
+.markdown td {
+  @apply border-b p-2 pl-4 border;
+}
+
+
 /* Tailwind Utilities - prepend with "x" */
 .xfont-medium {
   @apply font-medium text-gray-900;
