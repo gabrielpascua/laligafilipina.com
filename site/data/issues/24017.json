@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24017,
+        "date": "2024-04-28T20:06:07.848Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://news.abs-cbn.com/news/2024/4/26/end-of-the-road-philippine-jeepneys-face-uncertain-future-1201",
+        "shortUrl": "",
+        "title": "End of the road? Philippine jeepneys face uncertain future",
+        "description": "The government&#x27;s plan to phase out jeepneys in an effort to modernise the country&#x27;s chaotic public transport network has put the future of the iconic vehicles in doubt.",
+        "date": "2024-04-26T04:16:24.000Z",
+        "tag": "Transportation",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "El Niño's Dry Spell and the Rise in Temperature",
+            "url": "https://www.philstar.com/headlines/2024/04/24/2350133/so-hot-you-cant-breathe-extreme-heat-hits-philippines",
+            "shortUrl": "",
+            "title": "'So hot you can't breathe': Extreme heat hits the Philippines",
+            "description": "Extreme heat scorched the Philippines, forcing schools in some areas to suspend in-person classes and prompting warnings for people to limit the amount of time spent outdoors.",
+            "date": "2024-04-24T17:57:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/nation/mindanao/vendors-struggle-work-fight-survival-general-santos-sun-baked-streets/",
+                "shortUrl": "",
+                "title": "Vendors struggle to work, fight for survival in General Santos’ sun-baked streets",
+                "description": "The General Santos City government says there's no need for the city to be placed under a state of calamity because the measures in place are cushioning the impact of the El Niño phenomenon",
+                "date": "2024-04-25T12:15:14.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314438400/19-cars-catch-fire-at-naia-parking-lot.html",
+                "shortUrl": "",
+                "title": "19 cars catch fire at NAIA-3 - Manila Standard",
+                "description": "50 homes razed in Pasig blaze amid rising heat index Nineteen cars caught fire at a parking area near Terminal 3 of the Ninoy Aquino International Airport (NAIA) while at least 50 houses were razed in an early morning blaze in Pasig City on Monday.",
+                "date": "2024-04-23T05:20:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/1933117/heat-nearing-50c-like-death-sentence-for-pets-livestock",
+                "shortUrl": "",
+                "title": "Heat nearing 50°C like death sentence for pets, livestock",
+                "description": "MANILA, Philippines — Extreme heat, which is expected to exceed dangerous levels next month, is not only exacting a heavy toll on humans, but on animals as well.",
+                "date": "2024-04-24T18:51:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.economist.com/asia/2024/04/23/without-fanfare-the-philippines-is-getting-richer",
+            "shortUrl": "",
+            "title": "Without fanfare, the Philippines is getting richer",
+            "description": "And its economy is unusually well-defended against American politics",
+            "date": "2024-04-23T15:15:47.240Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.benarnews.org/english/news/philippine/philippines-scarborough-shoal-chinese-04262024130555.html",
+            "shortUrl": "",
+            "title": "Scarborough Shoal was a refuge for Filipino fishermen. Then Chinese boats moved in",
+            "description": "For the Philippines, the triangular chain of reefs offers a warning about China’s intentions.",
+            "date": "2024-04-26T17:27:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/4/24/what-happens-when-someone-is-branded-a-terrorist-in-the-philippines",
+            "shortUrl": "",
+            "title": "What happens when activists are branded ‘terrorists’ in the Philippines?",
+            "description": "Indigenous activists live from day to day as they try to hide from authorities and challenge designations in court.",
+            "date": "2024-04-24T23:20:17.000Z",
+            "tag": "Activism",
+            "locale": ""
+        },
+        {
+            "url": "https://www.darkreading.com/cyberattacks-data-breaches/philippines-pummeled-by-assortment-of-cyberattacks-tied-to-china",
+            "shortUrl": "",
+            "title": "Philippines Pummeled by Cyberattacks & Misinformation Tied to China",
+            "description": "Volume of malicious cyber activity against the Philippines quadrupled in the first quarter of 2024 compared to the same period in 2023.",
+            "date": "2024-04-26T21:25:33.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
