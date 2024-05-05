@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24018,
+        "date": "2024-05-05T17:56:30.771Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/content/253/plastic-is-everywhere-now-what/",
+        "shortUrl": "",
+        "title": "Plastic Is Everywhere - Now What?",
+        "description": "Plastic has become an important part of our daily lives. The material is so durable that years after it is discarded, it remains ever present in our lives, accumulating in our environments. How do we manage?",
+        "date": "2024-04-20T04:00:00.000Z",
+        "tag": "Environment",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Drought and Heatwave Impacts to the Country",
+            "url": "https://globalnation.inquirer.net/234018/the-heatwave-baking-parts-of-asia",
+            "shortUrl": "",
+            "title": "The heatwave baking parts of Asia",
+            "description": "Bangkok -- Large swaths of Asia are sweltering through a heatwave that has topped temperature records from Myanmar to the Philippines and forced millions of children to stay home",
+            "date": "2024-05-01T02:06:45.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314441042/filipino-farmers-struggle-as-drought-and-heatwave-hits.html",
+                "shortUrl": "",
+                "title": "Filipino farmers struggle as drought and heatwave hits - Manila Standard",
+                "description": "San Antonio, Philippines—Filipino farmer Daniel Velasco pumps water from a well in a desperate attempt to save his wilting vegetables, as a scorching heatwave and the worst drought in years hits crops. It has hardly rained on Velasco’s plot of gourds and tomatoes since November, as the El Nino weather phenomenon brings drier conditions",
+                "date": "2024-04-29T11:26:28.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/regions/2024/5/3/extreme-heat-reveals-sunken-town-in-the-philippines-1140",
+                "shortUrl": "",
+                "title": "Extreme heat reveals sunken town in the Philippines",
+                "description": "Receding levels from a dam in the northern rice-producing province of Nueva Ecija have revealed the ruins of a centuries-old town which has become a rare marvel for locals.",
+                "date": "2024-05-03T16:08:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/ph-sees-77-heat-related-illness-cases-amid-rising-temperatures",
+                "shortUrl": "",
+                "title": "PH sees 77 heat-related illness cases amid rising temperatures",
+                "description": "Amid the dangerous levels of heat indexes being recorded across the country, the Department of Health (DOH) on Saturday, May 4, 2024, reported nearly 80 cases of heat-related illnesses. ",
+                "date": "2024-05-04T11:48:26.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2024/4/30/china-installs-floating-barrier-at-bajo-de-masinloc-entry-pcg-vessel-damaged-after-another-water-cannon-attack",
+            "shortUrl": "",
+            "title": "China installs floating barrier at Bajo de Masinloc entry; PCG vessel damaged after another water cannon attack ",
+            "description": "A patrol vessel of the Philippine Coast Guard (PCG) was damaged following another incident of harassment of China Coast Guard ships using jet stream water cannons in the water near Bajo De Masinloc.",
+            "date": "2024-04-30T04:56:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://apnews.com/article/china-south-china-sea-philippines-alleged-agreement-0006abb98502727972872bcecfd49a51",
+            "shortUrl": "",
+            "title": "China publicizes for the first time what it claims is a 2016 agreement with Philippines",
+            "description": "China has publicized for the first time what it claims is an unwritten 2016 agreement with the Philippines over access to South China Sea islands.",
+            "date": "2024-05-03T17:45:22.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2024/05/01/2351804/philippines-falls-behind-2024-asia-university-rankings",
+            "shortUrl": "",
+            "title": "Philippines falls behind in 2024 The Asia University Rankings",
+            "description": "No Philippine university made it to the top 100 of the Times Higher Education's 2024 Asia University Rankings, with the latest results showing that the country's top schools either dropped or retained their place.",
+            "date": "2024-05-01T06:35:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/pharmaceutical-company-bell-kenz-admits-giving-incentives-doctors/",
+            "shortUrl": "",
+            "title": "Not a pyramid scheme, but pharma company admits giving doctors incentives",
+            "description": "Bell-Kenz Pharma chief executive officer Luis Raymond Go repeatedly denies that doctors receive commission from their company",
+            "date": "2024-05-01T08:49:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        }
+    ]
+}
