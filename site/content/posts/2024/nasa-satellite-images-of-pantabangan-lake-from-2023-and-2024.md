@@ -8,3 +8,7 @@ description: "NASA Satellite images from April 2023 and April 2024 show the exte
 ---
 
 ![Animated NASA Satellite Images from 2023 and 2024](/images/issues/2024/2024-05-11-pantabangan.gif)
+
+<p>&nbsp;</p>
+
+**[Read more about it here](https://earthobservatory.nasa.gov/images/152787/water-levels-plunge-in-philippine-reservoir)**  
