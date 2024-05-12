@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24019,
+        "date": "2024-05-12T11:24:07.460Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1938802/highly-educated-filipinos-as-ofws-a-double-edged-sword-for-ph",
+        "shortUrl": "",
+        "title": "Highly-educated Filipinos as OFWs: A double-edged sword for PH",
+        "description": "Manila, Philippines — In a world that's constantly on the move, the Philippines has carved out a unique position as a powerhouse in the export of skilled labor. Every year, waves of Filipinos pack their bags to set out across the globe",
+        "date": "2024-05-09T18:09:14.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "ABS-CBN News Looks Into Water Problems of the Country",
+            "url": "https://news.abs-cbn.com/specials/mind-the-tap",
+            "shortUrl": "",
+            "title": "Mind the tap: Water security in a ‘thirsty’ metropolis",
+            "description": "ABS-CBN News examines Metro Manila’s precarious dependency on Angat Dam for most of its water requirements, how El Niño and climate change wreaked havoc on its ability to supply water.",
+            "date": "2024-05-09T18:28:17.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/2024/5/7/40m-filipinos-do-not-have-access-to-clean-and-potable-water-denr-1320",
+                "shortUrl": "",
+                "title": "40M Filipinos do not have access to clean and potable water: DENR",
+                "description": "Some 40 million Filipinos do not have access to clean and potable water supply, the Department of Environment and Natural Resources said on Tuesday as the agency announced the government’s plan to procure several modular desalination machines to address the issue.",
+                "date": "2024-05-07T05:31:19.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/5/8/angat-dam-water-level-expected-to-dip-below-minimum-operating-level-this-month-1712",
+                "shortUrl": "",
+                "title": "Angat Dam water level expected to dip below minimum operating level this month",
+                "description": "Despite the weakening El Niño, officials see the water level in Angat Dam declining to below the minimum operating level of 180 meters before the end of May.",
+                "date": "2024-05-08T10:08:33.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/5/8/water-woes-public-urged-to-avoid-inflatable-pools-use-recycled-water-to-flush-toilets-902",
+                "shortUrl": "",
+                "title": "Water woes: Public urged to avoid inflatable pools, use recycled water to flush toilets",
+                "description": "The Department of the Interior and Local Government is urging the public to avoid using inflatable or portable swimming pools as the water level at Angat Dam continues to drop below normal.",
+                "date": "2024-05-08T01:24:23.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-is-philippine-economy-stable/",
+            "shortUrl": "",
+            "title": "[In This Economy] Is the Philippine economy stable?",
+            "description": "Inflation has experienced wild swings of late, growth has been anemic, underemployment rate is still high, wages are still stagnant, the debt continues to balloon in earnest.",
+            "date": "2024-05-10T14:09:07.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/world-asia-68137494",
+            "shortUrl": "",
+            "title": "Philippines: Is the unstoppable Marcos-Duterte alliance headed for divorce?",
+            "description": "Two powerful Philippine political dynasties are sparring publicly and trading shocking allegations.",
+            "date": "2024-05-07T21:43:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/pogo-hubs-linked-to-surveillance-activities-hacking-of-websites",
+            "shortUrl": "",
+            "title": "Pogo hubs linked to surveillance activities, hacking of websites",
+            "description": "Senator Risa Hontiveros has expressed alarm over the reported involvement of Philippine Offshore Gaming Operators (Pogo) in surveillance activities and hacking",
+            "date": "2024-05-08T05:22:33.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2024/05/10/2353998/icc-lawyer-duterte-faces-arrest-bato-albayalde-being-probed",
+            "shortUrl": "",
+            "title": "ICC lawyer: Duterte faces arrest; Bato, Albayalde being probed",
+            "description": "Aside from former president Rodrigo Duterte, two former police chiefs – Sen. Ronald dela Rosa and Oscar Albayalde – are likely to be subjected to arrest warrants that may soon be issued by the International Criminal Court.",
+            "date": "2024-05-09T16:00:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
