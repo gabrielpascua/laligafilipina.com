@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24020,
+        "date": "2024-05-19T11:24:07.460Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/jisellecasucian/254/love-sex-and-love-children/",
+        "shortUrl": "",
+        "title": "Love, Sex, and Love Children",
+        "description": "What was once taboo is becoming the new normal as out-of-wedlock births soar in the Philippines.",
+        "date": "2024-05-19T11:52:14.657Z",
+        "tag": "Lifestyle",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "'Atin Ito' Civilian Flotilla Voyage to Scarborough Shoal",
+            "url": "https://news.abs-cbn.com/news/2024/5/17/atin-ito-holds-protest-voyage-vs-china-s-bullying-1940",
+            "shortUrl": "",
+            "title": "Atin Ito holds protest voyage vs China&#x27;s bullying",
+            "description": "Some 200 Filipino activists and fisherfolk led by Akbayan Youth and Atin Ito coalition conducted a 2-day voyage to the West Philippine Sea on Thursday.",
+            "date": "2024-05-17T12:32:42.000Z",
+            "tag": "West Philippine Sea",
+            "locale": "Zambales"
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/5/13/civilian-group-s-second-supply-run-in-west-philippine-sea-to-face-biggest-chinese-blockade",
+                "shortUrl": "",
+                "title": "Civilian group's second supply run in West Philippine Sea to face 'biggest' Chinese blockade",
+                "description": "The second attempt of a civilian group to conduct a supply mission in the West Philippine Sea (WPS) beginning on Tuesday, May 14, will be challenged anew by Chinese maritime forces.",
+                "date": "2024-05-13T07:43:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://globalnation.inquirer.net/235924/hope-for-best-prepared-for-worst-scarborough-civilian-convoy-starts",
+                "shortUrl": "",
+                "title": "‘Hope for best, prepared for worst’: Scarborough civilian convoy starts",
+                "description": "Masinloc, Zambales — The civilian convoy for the West Philippine Sea officially embarked on a voyage to Scarborough (Panatag) Shoal early Wednesday morning on a mission that may witness another attempt by China to disrupt the activity.",
+                "date": "2024-05-15T15:26:28.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/05/17/2355723/atin-ito-mission-accomplished",
+                "shortUrl": "",
+                "title": "Atin Ito: Mission accomplished",
+                "description": "Diskarteng Pinoy” – the Filipino way – made the day for the Atin Ito Coalition’s “peace and solidarity regatta” as it managed to elude a Chinese blockade of Panatag Shoal to accomplish its mission of delivering 1,000 liters of fuel and 200 food packs to Filipino fishermen in the area.",
+                "date": "2024-05-16T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.abc.net.au/news/2024-05-15/philippines-divorce-battle-looms-to-free-women-from-abuse/103828284",
+            "shortUrl": "",
+            "title": "In the Philippines, divorce is banned. It has left women with few options to rid themselves of abusive partners",
+            "description": "In the Philippines, women who are abused by their husband have an even more difficult time leaving. Divorce is not an avenue available to them.",
+            "date": "2024-05-15T07:58:59.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://apnews.com/article/us-forces-philippines-south-china-sea-taiwan-f98247675dd8a808a515601a6f0c5240",
+            "shortUrl": "",
+            "title": "Sleepy far-flung towns in the Philippines will host US forces returning to counter China threats",
+            "description": "After withdrawing at the end of the Cold War, American forces are building new presence in nine sites under a 2014 pact to counter China's increasingly assertive actions.",
+            "date": "2024-05-13T08:21:15.000Z",
+            "tag": "United States",
+            "locale": "Cagayan"
+        },
+        {
+            "url": "https://www.rappler.com/business/filipinos-buy-record-aircons-every-day-home-credit/",
+            "shortUrl": "",
+            "title": "To beat the heat, Filipinos buy more than 1,000 aircons a day on credit, says finance firm",
+            "description": "Filipinos made heavy use of Home Credit's 0% interest installments to buy a record number of air conditioners this summer",
+            "date": "2024-05-13T22:39:00.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/c8vzd429zmdo",
+            "shortUrl": "",
+            "title": "Philippines: Mayor accused of being China 'asset' raises alarm",
+            "description": "The Philippines investigates a mayor as it faces increasing sea tensions with China.",
+            "date": "2024-05-18T00:28:49.833Z",
+            "tag": "China",
+            "locale": ""
+        }
+    ]
+}
