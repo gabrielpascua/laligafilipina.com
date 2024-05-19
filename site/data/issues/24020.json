@@ -53,12 +53,21 @@
     },
     "carousel": [
         {
-            "url": "https://www.abc.net.au/news/2024-05-15/philippines-divorce-battle-looms-to-free-women-from-abuse/103828284",
+            "url": "https://manilastandard.net/news/top-stories/314447878/house-passes-divorce-bill-on-second-hearing.html",
             "shortUrl": "",
-            "title": "In the Philippines, divorce is banned. It has left women with few options to rid themselves of abusive partners",
-            "description": "In the Philippines, women who are abused by their husband have an even more difficult time leaving. Divorce is not an avenue available to them.",
-            "date": "2024-05-15T07:58:59.000Z",
+            "title": "House passes divorce bill on second hearing - Manila Standard",
+            "description": "The House of Representatives approved on second reading a bill reinstituting absolute divorce in the country. Through a voice voting, House Bill (HB) 9349, or the proposed Absolute Divorce Act, moved a step closer to plenary passage.",
+            "date": "2024-05-16T16:40:00.000Z",
             "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/business/filipinos-buy-record-aircons-every-day-home-credit/",
+            "shortUrl": "",
+            "title": "To beat the heat, Filipinos buy more than 1,000 aircons a day on credit, says finance firm",
+            "description": "Filipinos made heavy use of Home Credit's 0% interest installments to buy a record number of air conditioners this summer",
+            "date": "2024-05-13T22:39:00.000Z",
+            "tag": "Business",
             "locale": ""
         },
         {
@@ -69,15 +78,6 @@
             "date": "2024-05-13T08:21:15.000Z",
             "tag": "United States",
             "locale": "Cagayan"
-        },
-        {
-            "url": "https://www.rappler.com/business/filipinos-buy-record-aircons-every-day-home-credit/",
-            "shortUrl": "",
-            "title": "To beat the heat, Filipinos buy more than 1,000 aircons a day on credit, says finance firm",
-            "description": "Filipinos made heavy use of Home Credit's 0% interest installments to buy a record number of air conditioners this summer",
-            "date": "2024-05-13T22:39:00.000Z",
-            "tag": "Business",
-            "locale": ""
         },
         {
             "url": "https://www.bbc.com/news/articles/c8vzd429zmdo",
