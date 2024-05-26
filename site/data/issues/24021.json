@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24021,
+        "date": "2024-05-26T11:24:07.460Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1943573/poisoned-waters-laguna-lakes-steady-crawl-to-brink-of-disaster",
+        "shortUrl": "",
+        "title": "Poisoned waters: Laguna de Bay’s steady crawl to brink of disaster",
+        "description": "(Part 1 of 2) Manila, Philippines — Encircled by the contrast of verdant and urban landscapes, Laguna de Bay is a silent witness to the environmental tug-of-war between progress and preservation",
+        "date": "2024-05-23T01:57:17.000Z",
+        "tag": "Environment",
+        "locale": "Laguna"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "First 2024 Tropical Depression Aghon",
+            "url": "https://mb.com.ph/2024/5/23/lpa-develops-into-tropical-depression-aghon",
+            "shortUrl": "",
+            "title": "LPA develops into tropical depression ‘Aghon’",
+            "description": "The low pressure area (LPA) east of Mindanao developed into a tropical depression at 2 a.m. on Friday, May 24, and was given the name “Aghon,” the Philippines’ first tropical cyclone for 2024.",
+            "date": "2024-05-23T22:47:00.000Z",
+            "tag": "Typhoons",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/2024/5/23/4-areas-under-signal-no-1-aghon-now-a-tropical-depression-621",
+                "shortUrl": "",
+                "title": "12 areas under Signal No. 1; Aghon now a tropical depression",
+                "description": "Twelve areas have been placed under tropical cyclone wind signal number 1 Friday morning after a low pressure area east of Hinatuan, Surigao del Sur developed into tropical depression Aghon as of 2 a.m.",
+                "date": "2024-05-23T22:32:52.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/907903/high-risk-emergency-response-protocols-activated-in-4-regions-due-to-aghon/story/",
+                "shortUrl": "",
+                "title": "'High-risk' emergency response protocols activated in 4 regions due to Aghon",
+                "description": "The <abbr title=\"National Disaster Risk Reduction and Management\">NDRRMC</abbr> and the OCD said the \"high-risk\" Emergency Preparedness and Response (EPR) protocol was activated over four regions due to Tropical Depression Aghon.",
+                "date": "2024-05-24T12:44:07.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/05/26/2358001/aghon-raises-storm-signals-halts-sea-travel",
+                "shortUrl": "",
+                "title": "‘Aghon’ raises storm signals, halts sea travel",
+                "description": "Tropical depression Aghon was forecast to intensify into a tropical storm and make landfall over parts of Quezon province this morning, according to the Philippine Atmospheric Geophysical and Astronomical Services Administration.",
+                "date": "2024-05-25T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1943889/accountability-adrift-murky-govt-data-draw-dreary-picture-of-laguna-lake",
+            "shortUrl": "",
+            "title": "Accountability adrift: Murky gov’t data draw dreary picture of Laguna de Bay",
+            "description": "(Part 2 of 2) Manila, Philippines — An investigation by Inquirer.net has shown that large amounts of human and animal waste have pushed Laguna de Bay to a Bay to a tipping point",
+            "date": "2024-05-23T21:45:35.000Z",
+            "tag": "Environment",
+            "locale": "Laguna"
+        },
+        {
+            "url": "https://www.benarnews.org/english/news/philippine/marawi-compensation-seven-years-05242024110756.html",
+            "shortUrl": "",
+            "title": "7 years on, residents in war-torn Marawi remain displaced, seek fair compensation",
+            "description": "Marawi families affected by the five-month siege in 2017 appeal for adequate funds from Philippine government to rebuild their homes.",
+            "date": "2024-05-24T15:08:00.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": "Lanao del Sur"
+        },
+        {
+            "url": "https://www.rappler.com/philippines/house-panel-hearing-rodrigo-duterte-drug-war-killings-icc-looms/",
+            "shortUrl": "",
+            "title": "While ICC looms, House panel probes Duterte’s drug war killings for the first time",
+            "description": "Lawmakers finally get around to asking questions about Rodrigo Duterte’s drug war, that have long been raised and exposed by the media, human rights advocates, and families of victims",
+            "date": "2024-05-21T10:24:56.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/house-approves-divorce-bill-in-final-reading",
+            "shortUrl": "",
+            "title": "House approves divorce bill in final reading",
+            "description": "The House of Representatives approved on third and final reading a measure seeking to legalize absolute divorce.House Bill 9349, or the Absolute Divorce Act, garnered 126 “yes” votes, 109 “no” votes, and 20 abstentions.",
+            "date": "2024-05-23T02:25:44.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        }
+    ]
+}
