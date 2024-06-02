@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24022,
+        "date": "2024-06-02T01:07:44.623Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.economist.com/asia/2024/05/23/in-the-philippines-a-decades-long-conflict-nears-its-endgame",
+        "shortUrl": "",
+        "title": "In the Philippines a decades-long conflict nears its endgame",
+        "description": "Peace in Mindanao matters for regional security",
+        "date": "2024-05-23T13:28:58.379Z",
+        "tag": "Muslim Mindanao",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Who is Alice Guo?",
+            "url": "https://www.philstar.com/opinion/2024/05/26/2357894/bamban-mayor-alice-guo-she-filipino-or-not",
+            "shortUrl": "",
+            "title": "Bamban Mayor Alice Guo: Is she Filipino, or not?",
+            "description": "The ongoing saga of Bamban, Tarlac mayor Alice Guo continues to keep Filipinos not only riveted but extremely concerned, with the burning question in the minds of everyone who has been keeping track of the Senate hearings: is she Filipino, or not?",
+            "date": "2024-05-25T16:00:00.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/voices/thought-leaders/newsstand-what-do-about-alice-guo/",
+                "shortUrl": "",
+                "title": "[Newsstand] What do we do about Alice Guo?",
+                "description": "The answers she gave in two Senate hearings were mystifying, and deeply problematic. But then the public discourse swirling about her is equally cringeworthy.",
+                "date": "2024-05-30T09:14:03.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://opinion.inquirer.net/174009/alice-guos-secret-masters",
+                "shortUrl": "",
+                "title": "Alice Guo’s secret masters",
+                "description": "Two blockbuster Senate hearings have gone by; local and national politicians have jumped into the fray; the President has weighed in on the fiasco, and government bureaucrats have sprung into action",
+                "date": "2024-05-28T13:12:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/5/29/scripting-in-the-time-of-pogo",
+                "shortUrl": "",
+                "title": "Scripting in the time of POGO",
+                "description": "Some TikToks say it all. To afford a rare McLaren 620R, worth at least $280,000 or more than ₱16 million, one should get used to living in a farm and running a piggery business. Prepare to live a simple life, grow with your father’s workers and yes, do homeschooling.",
+                "date": "2024-05-29T16:17:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://news.abs-cbn.com/news/2024/5/31/deped-says-current-awards-system-in-schools-eliminates-pressure-competition-1737",
+            "shortUrl": "",
+            "title": "Too many honor students? DepEd says awards system in schools eliminates pressure, competition",
+            "description": "The Department of Education (DepEd) on Friday explained the current awards and recognition system implemented in the schools, saying it eliminates pressure and competition among learners and helps them focus on their own academic excellence.",
+            "date": "2024-05-31T09:50:45.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/908594/ph-records-1st-vape-related-death-doh/story/",
+            "shortUrl": "",
+            "title": "PH records 1st vape-related death",
+            "description": "A 22-year-old Filipino male died of a heart attack following a severe lung injury, which is linked to his daily vape usage for two years, the Department of Health said Friday. ",
+            "date": "2024-05-31T04:41:25.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.thenation.com/article/culture/maria-ressa-memoir-review/",
+            "shortUrl": "",
+            "title": "In Maria Ressa’s Philippines",
+            "description": "The Nobel Prize–winning journalist's memoir offers a portrait of a country's struggles to battle the forces of populism and social media.",
+            "date": "2024-05-29T09:00:00.000Z",
+            "tag": "Culture",
+            "locale": ""
+        },
+        {
+            "url": "https://foreignpolicy.com/2024/05/28/philippines-marcos-us-china-economy-security/",
+            "shortUrl": "",
+            "title": "The Philippines Needs Butter, Not Just Guns",
+            "description": "To counter China, Washington must help its ally address economic issues.",
+            "date": "2024-05-28T18:30:06.000Z",
+            "tag": "Politics",
+            "locale": ""
+        }
+    ]
+}
