@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24023,
+        "date": "2024-06-09T09:14:13.104Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/environment/restoring-pasig-river-from-one-marcos-to-another/",
+        "shortUrl": "",
+        "title": "Restoring the Pasig River: From one Marcos to another",
+        "description": "The problem of the Pasig River endures as Philippine presidents come and go",
+        "date": "2024-05-29T13:42:49.000Z",
+        "tag": "Environment",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Eruption of Mount Kanlaon in Negros Province",
+            "url": "https://newsinfo.inquirer.net/1947741/kanlaon-volcano-erupts-phivolcs-raises-alert-level-2",
+            "shortUrl": "",
+            "title": "Kanlaon Volcano erupts; Phivolcs raises Alert Level 2",
+            "description": "Manila, Philippines — The Philippine Institute of Volcanology and Seismology (Phivolcs) reported a phreatic eruption at Kanlaon Volcano on Monday night reaching 5,000 meters high.",
+            "date": "2024-06-04T04:42:23.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Negros Occidental"
+        },
+        "secondary": [
+            {
+                "url": "https://malaya.com.ph/news_news/nearly-800-persons-displaced-by-kanlaon-volcano-eruption/",
+                "shortUrl": "",
+                "title": "Nearly 800 persons displaced by Kanlaon Volcano eruption",
+                "description": "Almost 800 persons have been evacuated following the “explosive eruption” of Kanlaon Volcano in Negros Island on Monday night, the National Disaster Risk Reduction and Management Council (NDRRMC) said.",
+                "date": "2024-06-04T16:59:56.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/06/06/2360704/kanlaon-eruption-2-areas-under-state-calamity",
+                "shortUrl": "",
+                "title": "Kanlaon eruption: 2 areas under state of calamity",
+                "description": "The city of Canlaon in Negros Oriental and the municipality of La Castellana in Negros Occidental declared a state of calamity on Tuesday, a day after being hit with ashfall and sulphuric fumes as a result of Kanlaon Volcano’s phreatic eruption.",
+                "date": "2024-06-05T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/phivolcs-confirms-lahar-flows-from-kanlaon-warns-residents",
+                "shortUrl": "",
+                "title": "Phivolcs confirms lahar flows from Kanlaon, warns residents",
+                "description": "Various parts of communities affected by the eruption of Kanlaon Volcano on June 3, 2024 have been experiencing lahar flows amid the occurrence of localized thunderstorms",
+                "date": "2024-06-06T08:34:17.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/specials/content/255/living-with-shrinkflation/",
+            "shortUrl": "",
+            "title": "Living with Shrinkflation",
+            "description": "When prices remain the same, but products are shrinking — what can consumers do to deal?",
+            "date": "2024-06-02T04:00:00.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/6/8/why-schools-no-longer-have-valedictorian-and-salutatorian-awards",
+            "shortUrl": "",
+            "title": "Why schools no longer have valedictorian and  salutatorian awards",
+            "description": "Aside from the school vacation that follows right after, one of the most anticipated events after the end of the school year is the awarding of honors to the top-performing students during a recognition or graduation ceremony.",
+            "date": "2024-06-08T09:19:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/future/article/20240531-the-floating-houses-built-to-withstand-typhoons-and-flooding-in-the-philippines",
+            "shortUrl": "",
+            "title": "Floating bamboo houses keep this indigenous tribe safe in a typhoon",
+            "description": "The Manobo indigenous community in the Agusan Marshlands of the Philippines live in floating homes able to withstand floods, rising water levels and typhoons.",
+            "date": "2024-06-03T09:03:00.706Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://www.economist.com/asia/2024/06/06/how-the-philippines-is-turning-the-water-cannon-on-china",
+            "shortUrl": "",
+            "title": "How the Philippines is turning the water-cannon on China",
+            "description": "Ferdinand Marcos’s flip is a huge gift to America. But dangers lie ahead",
+            "date": "2024-06-06T12:56:57.589Z",
+            "tag": "China",
+            "locale": ""
+        }
+    ]
+}
