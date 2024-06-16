@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24024,
+        "date": "2024-06-16T16:27:59.097Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.dw.com/en/dangerous-diving-child-gold-miners-in-the-philippines/video-69325433",
+        "shortUrl": "",
+        "title": "Dangerous diving - Child gold miners in the Philippines",
+        "description": "The Philippines has vast deposits of gold. But much of it is mined by children. They alone are slender enough to dive deep into self-dug tunnels, through swamps or down to the seabed. The highly dangerous undertaking puts their lives at risk.",
+        "date": "2024-06-10T16:00:54.498Z",
+        "tag": "Human Rights",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Illegal Philippine Offshore Gaming Operators (POGO)'s",
+            "url": "https://www.philstar.com/headlines/2024/06/11/2362085/social-menace-new-house-bill-bans-all-pogo-hubs",
+            "shortUrl": "",
+            "title": "'Social menace:' New House bill bans all POGO hubs",
+            "description": "Castro described POGOs as a \"social menace\" and a source of \"unimaginable corruption,\" saying that operators have routinely violated Philippine laws on money laundering, tax evasion and other serious offenses.",
+            "date": "2024-06-11T09:23:00.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314457431/pogo-prohibition-calls-from-senators-continue-amid-rising-crimes.html",
+                "shortUrl": "",
+                "title": "More solons want all POGOs closed down",
+                "description": "A House leader on Monday warned POGO-politics will doom the country amid a growing clamor for the government to totally ban Philippine Offshore Gaming Operations and declare the industry a national security threat.",
+                "date": "2024-06-10T16:40:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/6/13/chinese-military-uniforms-in-porac-pogo-hub-authentic-but-outdated-paocc-1533",
+                "shortUrl": "",
+                "title": "Chinese military uniforms in Porac POGO hub authentic but outdated: PAOCC",
+                "description": "The Chinese military uniforms discovered by Philippine authorities in the illegal POGO facility in Porac, Pampanga appear to be authentic but are outdated, according to the Presidential Anti-Organized Crime Commission.",
+                "date": "2024-06-13T08:18:39.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://globalnation.inquirer.net/239600/bad-for-relations-china-presses-ph-to-ban-pogos",
+                "shortUrl": "",
+                "title": "Bad for relations: China presses PH to ban Pogos",
+                "description": "Beijing urged Manila on Friday to immediately ban online gaming operations, saying these were a “social ill” that was harming the interests of both countries and were being linked to “baseless accusations” and smears against China.",
+                "date": "2024-06-15T13:30:37.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.sunstar.com.ph/manila/local-news/marcos-signs-into-law-negros-island-region-act",
+            "shortUrl": "",
+            "title": "Marcos signs into law Negros Island Region Act",
+            "description": "President Ferdinand “Bongbong” Marcos Jr. signed on Thursday, June 13, 2024, a measure for the establishment of the Negros Island Region.",
+            "date": "2024-06-13T09:14:07.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/909817/philippines-marks-126th-independence-day/story/",
+            "shortUrl": "",
+            "title": "Philippines marks 126th Independence Day",
+            "description": "Government officials on Wednesday led the celebration of the Philippines’ 126th Independence Day in several locations.",
+            "date": "2024-06-12T14:12:51.000Z",
+            "tag": "History",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/inside-track/controversy-new-senate-building-june-2024/",
+            "shortUrl": "",
+            "title": "What's the controversy over the P23-B new Senate building all about?",
+            "description": "The pricey Senate building did not only raise the eyebrows of Senate President Chiz Escudero, it also caught the attention of the public",
+            "date": "2024-06-12T14:30:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.reuters.com/investigates/special-report/usa-covid-propaganda/",
+            "shortUrl": "",
+            "title": "Pentagon ran secret anti-vax campaign to incite fear of China vaccines",
+            "description": "The covert effort began under Trump and continued into Biden’s presidency, Reuters found. Health experts say it endangered lives for possible geopolitical gain.",
+            "date": "2024-06-14T09:45:00.000Z",
+            "tag": "Coronavirus",
+            "locale": ""
+        }
+    ]
+}
