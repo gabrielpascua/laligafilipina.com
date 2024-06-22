@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24025,
+        "date": "2024-06-23T16:27:59.097Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.inquirer.net/406786/ph-fishers-cry-freedom-to-fish-in-our-countrys-waters-not-ayuda/",
+        "shortUrl": "",
+        "title": "PH fishers’ cry: Freedom to fish in our country’s waters, not ‘ayuda’",
+        "description": "Manila, Philippines-“Para [kaming] magnanakaw [sa sarili naming bayan].”",
+        "date": "2024-06-19T23:44:28.000Z",
+        "tag": "West Philippine Sea",
+        "locale": "Zambales"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "VP Duterte's Resignation from Department of Education",
+            "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-sara-duterte-exits-department-of-education-good-riddance/",
+            "shortUrl": "",
+            "title": "[In This Economy] Duterte exits DepEd: Good riddance!",
+            "description": "Who will replace Duterte? It better be someone good – for the sake of our kids and this country",
+            "date": "2024-06-21T11:00:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/duterte-resigns-from-marcos-cabinet",
+                "shortUrl": "",
+                "title": "Duterte resigns from Marcos Cabinet",
+                "description": "Vice President Sara Duterte has resigned as a member of the Cabinet of President Ferdinand Marcos Jr. In a statement on Wednesday, June 19, 2024, the Presidential Communications Office (PCO) announced Duterte’s resignation as secretary of the Department of Education (DepEd)",
+                "date": "2024-06-19T07:33:06.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/06/19/2364012/sara-duterte-resigns-deped-secretary",
+                "shortUrl": "",
+                "title": "Sara Duterte resigns as DepEd secretary",
+                "description": "Vice President Sara Duterte has tendered her resignation as Department of Education secretary, dislodging herself from President Ferdinand Marcos Jr.'s Cabinet after a tense year of flaring political tensions between both of their families.",
+                "date": "2024-06-19T07:00:00.000Z",
+                "locale": ""
+            },            
+            {
+                "url": "https://news.abs-cbn.com/news/2024/6/19/sara-duterte-resigns-from-marcos-cabinet-palace-1450",
+                "shortUrl": "",
+                "title": "Sara Duterte resigns from Marcos Cabinet",
+                "description": "Vice President Sara Duterte has resigned from the Cabinet of President Ferdinand Marcos Jr, the Palace said on Wednesday.",
+                "date": "2024-06-19T06:56:53.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/910575/filipino-students-lag-behind-creative-thinking-in-latest-pisa-report/story/",
+            "shortUrl": "",
+            "title": "PH students second to last in creative thinking — PISA",
+            "description": "Filipino students ranked second to the last when it comes to creative thinking, according on a newly released report of the Programme for International Student Assessment (PISA).",
+            "date": "2024-06-19T11:29:42.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=D-n_k1L-twU",
+            "shortUrl": "",
+            "title": "Pentagon Ran a Secret Anti-Vax Campaign to Undermine China at the Height of the Pandemic: Reuters",
+            "description": "The U.S. military ran a secret anti-vaccination campaign at the height of the pandemic in the Philippines and other nations to sow doubt about COVID vaccines made by China, according to a  new investigation by Reuters.",
+            "date": "2024-06-20T14:56:51.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/videos/cd1142k45j7o",
+            "shortUrl": "",
+            "title": "Chinese coast guard clashes with Philippines Navy boats",
+            "description": "The Philippines says its soldiers were attacked with swords, spears and knives in the South China Sea.",
+            "date": "2024-06-20T11:12:46.884Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.npr.org/2024/06/18/nx-s1-4902842/president-marcos-jr-hasnt-put-an-end-to-killings-in-the-philippines-drug-war",
+            "shortUrl": "",
+            "title": "President Marcos Jr. hasn't put an end to killings in the Philippines' drug war",
+            "description": "Philippine President Ferdinand Marco Jr. said he would turn his predecessor's deadly campaign against drug users and sellers &quot;bloodless.&quot; Yet extrajudicial killings continue.",
+            "date": "2024-06-18T21:42:02.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
