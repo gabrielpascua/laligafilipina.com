@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24026,
+        "date": "2024-06-30T12:11:46.888Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.washingtonpost.com/world/2024/06/24/philippines-rice-farming/",
+        "shortUrl": "",
+        "title": "The Philippines needs rice - but young people don’t want to farm it",
+        "description": "Some 2.4 million Filipinos work as rice farmers. But for young people, a rice farmer’s grueling and often impoverished life holds dwindling appeal.",
+        "date": "2024-06-24T06:00:21.387Z",
+        "tag": "Farming and Agriculture",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Muntinlupa Court Acquits de Lima from Final Drug Case",
+            "url": "https://www.philstar.com/headlines/2024/06/25/2365376/court-dismisses-de-limas-last-drug-case",
+            "shortUrl": "",
+            "title": "Court dismisses De Lima’s last drug case",
+            "description": "Former senator Leila de Lima, an arch critic of the previous administration, has now been cleared of all the drug charges filed against her during the presidency of Rodrigo Duterte.",
+            "date": "2024-06-24T16:00:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/6/24/de-lima-on-acquittal-i-am-vindicated-says-duterte-will-be-held-accountable-for-war-on-drugs",
+                "shortUrl": "",
+                "title": "De Lima on acquittal: ‘I am vindicated’; says Duterte will be held accountable for ‘war on drugs’",
+                "description": "Former senator Leila de Lima said she felt vindicated after the Muntinlupa Regional Trial Court (RTC) Branch 206 acquitted her in the last remaining drug case filed in 2017 under the Duterte administration.",
+                "date": "2024-06-24T08:27:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/explainers/why-muntinlupa-court-acquit-de-lima-last-drug-case/",
+                "shortUrl": "",
+                "title": "Explainer: Why court acquitted Leila de Lima in last drug case",
+                "description": "The court says the witnesses' testimonies were not enough to establish a drug trading conspiracy involving De Lima and her fellow accused",
+                "date": "2024-06-26T05:51:32.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.manilatimes.net/2024/06/30/opinion/editorial/long-road-to-justice/1954138",
+                "shortUrl": "",
+                "title": "Long road to justice",
+                "description": "Long road to justice",
+                "date": "2024-06-29T16:11:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1954632/pisa-results-mirror-ph-educations-lost-days-grave-crisis",
+            "shortUrl": "",
+            "title": "PISA results mirror PH education’s lost days, ‘grave crisis’",
+            "description": "Manila, Philippines — While class suspensions are imperative, especially when disasters strike, the almost three months of learning that were lost in school year 2023-2024 are already “symptoms of the grave education crisis.”",
+            "date": "2024-06-25T18:37:51.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/specials/content/256/beyond-the-prison-gates/",
+            "shortUrl": "",
+            "title": "Beyond the Prison Gates",
+            "description": "Inmates or persons deprived of liberty are released frequently. But after spending time in detention, how do they pick up where they left off?",
+            "date": "2024-06-30T06:36:00.000Z",
+            "tag": "Correctional Facilities",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nytimes.com/2024/06/29/world/asia/philippines-drug-war-duterte-justice.html",
+            "shortUrl": "",
+            "title": "Years Later, Philippines Reckons With Duterte’s Brutal Drug War",
+            "description": "A president’s vow to fight drugs unleashed violence and fostered a culture of impunity. But the crimes are finally getting a look, including from the International Criminal Court.",
+            "date": "2024-06-29T04:01:26.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/moveph/bike-advocates-laud-active-transport-infrastructure-intramuros/",
+            "shortUrl": "",
+            "title": "Bike advocates laud 'long overdue' active transport infrastructure in Intramuros",
+            "description": "Advocates say the project enhances pedestrians and cyclists' safety and promotes heritage tourism",
+            "date": "2024-06-29T02:06:34.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        }
+    ]
+}
