@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24027,
+        "date": "2024-07-07T12:11:46.888Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/newsbreak/in-depth/marcos-jr-second-year-inaccessible-president/",
+        "shortUrl": "",
+        "title": "Marcos, the inaccessible president",
+        "description": "Media access to President Ferdinand Marcos Jr. is closely managed, limiting reporters’ access to important and firsthand information",
+        "date": "2024-07-01T12:15:00.000Z",
+        "tag": "Press Freedom",
+        "locale": ""        
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Newly Appointed DepEd Secretary - Sonny Angara",
+            "url": "https://manilastandard.net/news/top-stories/314466551/marcos-picks-angara-as-new-deped-chief.html",
+            "shortUrl": "",
+            "title": "Marcos names Angara as new DepEd chief, cites track record - Manila Standard",
+            "description": "President Marcos named Senator Juan Edgardo Angara as the new Education Secretary, citing his track record of “championing significant educational reforms.” “Senator Angara has an extensive legislative history since joining the Senate in 2013.",
+            "date": "2024-07-02T16:45:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/7/2/what-teachers-expect-from-new-dep-ed-secretary-sonny-angara",
+                "shortUrl": "",
+                "title": "What teachers expect from new DepEd Secretary Sonny Angara",
+                "description": "Before Senator Sonny Angara steps into his role as the new Secretary of the Department of Education (DepEd), teachers' groups expressed eagerness on Tuesday, July 2, to see what changes and initiatives he will bring to the forefront.",
+                "date": "2024-07-02T14:49:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/07/04/2367669/angara-continue-saras-programs",
+                "shortUrl": "",
+                "title": "Angara to continue Sara’s programs",
+                "description": "Newly appointed Department of Education Secretary Sonny Angara will reach out to Vice President Sara Duterte to continue the good programs she initiated in the DepEd.",
+                "date": "2024-07-03T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://opinion.inquirer.net/174971/bringing-deped-back-on-track",
+                "shortUrl": "",
+                "title": "Bringing DepEd back on track",
+                "description": "Unlike his immediate predecessor who courted controversy throughout her two-year stint at the helm of the Department of Education (DepEd), Sen. Juan Edgardo “Sonny” Angara apparently enjoys tremendous goodwill",
+                "date": "2024-07-06T13:03:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/912398/china-monster-ship-deployed-to-intimidate-brp-teresa-magbanua-pcg/story/",
+            "shortUrl": "",
+            "title": "China 'monster ship' deployed to intimidate BRP Teresa Magbanua -PCG",
+            "description": "The PCG said the China Coast Guard ship known as \"The Monster\" was deployed to Escoda Shoal to intimidate the BRP Teresa Magbanua.",
+            "date": "2024-07-05T09:59:14.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=2Q0-n8WHlwI",
+            "shortUrl": "",
+            "title": "Playing crypto games for a living: Filipinos seek to escape poverty • FRANCE 24 English",
+            "description": "Can you make a living from playing video games? Millions of Filipinos who earn cryptocurrency playing online games seem to think so.",
+            "date": "2024-07-05T09:00:57.000Z",
+            "tag": "Technology",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/7/5/we-are-not-criminals-philippines-considers-making-divorce-legal",
+            "shortUrl": "",
+            "title": "‘We are not criminals’: Philippines considers making divorce legal",
+            "description": "The staunchly Catholic Southeast Asian nation is the only place other than the Vatican where divorce is banned.",
+            "date": "2024-07-05T09:41:51.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnbc.com/2024/07/03/philippines-surpasses-china-to-be-most-dependent-on-coal-generated-power.html",
+            "shortUrl": "",
+            "title": "Philippines overtakes China and Indonesia to be most dependent on coal-generated power",
+            "description": "The Philippines' dependency on coal-fired power overtook China, Indonesia and Poland in 2023, according to Ember. ",
+            "date": "2024-07-03T05:32:23.000Z",
+            "tag": "Energy Supply",
+            "locale": ""
+        }
+    ]
+}
