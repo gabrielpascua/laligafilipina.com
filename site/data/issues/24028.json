@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24028,
+        "date": "2024-07-14T12:08:52.998Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.philstar.com/newsx/deadly-dream-filipino-migrant-fishers",
+        "shortUrl": "",
+        "title": "How the Philippines fails its migrant fishers",
+        "description": "The Philippine government promises to protect its fishers working on foreign vessels, but loopholes in the law and a lack of enforcement allows for abuse.",
+        "date": "2024-11-07T04:00:00.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Senate Arrest Order for Alice Guo",
+            "url": "https://manilastandard.net/news/national/314469417/escudero-guo-has-no-choice-but-to-attend-senate-hearing.html",
+            "shortUrl": "",
+            "title": "Escudero: Guo has no choice but to attend Senate hearing - Manila Standard",
+            "description": "Senate President Francis Escudero on Tuesday said suspended Bamban Mayor Alice Guo is bound by law to attend the July 10 Senate hearing on Philippine offshore gaming operators (POGOs). In an interview, Escudero noted that once a court, the Senate, or Congress has issued a subpoena, Guo is already under compulsion of law.",
+            "date": "2024-07-09T06:33:24.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2024/7/12/senate-orders-arrest-of-bamban-mayor-alice-guo-7-others",
+                "shortUrl": "",
+                "title": "Senate orders arrest of Bamban Mayor Alice Guo, 7 others",
+                "description": "Escudero has said that he would sign the arrest warrant against Guo should Hontiveros ask for it.",
+                "date": "2024-07-13T03:05:00.000Z",                
+                "locale": ""
+            },            
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/specialreports/913274/alice-guo-timeline/story/",
+                "shortUrl": "",
+                "title": "Timeline: The plots and twists of the 'Alice Guo' probe",
+                "description": "Alice Guo now has an arrest warrant months after she failed to recall details of her childhood in a farm.",
+                "date": "2024-07-13T11:25:50.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/7/13/senate-fails-to-find-alice-guo-detains-ex-accountant-gamo-2017",
+                "shortUrl": "",
+                "title": "Senate fails to find Alice Guo, detains ex-accountant Gamo",
+                "description": "The Senate failed to find suspended Bamban Mayor Alice Guo in her registered address in Tarlac province as personnel from the Office of the Sergeant-At-Arms (OSAA) served the arrest order against her on Saturday.",
+                "date": "2024-07-13T12:32:17.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1958948/more-people-are-leaving-metro-manila-heres-why",
+            "shortUrl": "",
+            "title": "More people are leaving Metro Manila. Here’s why",
+            "description": "Manila, Philippines—When COVID-19 landed in the Philippines, nationwide lockdowns prompted many people in the National Capital Region (NCR) to return to their provinces or places of origin",
+            "date": "2024-07-08T17:46:06.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/environment/marcos-second-year-ruined-protected-areas-save-them/",
+            "shortUrl": "",
+            "title": "We ruined protected areas, now we must save them",
+            "description": "The second year of the Marcos administration was marked by irregularities in the management of protected areas such as Chocolate Hills, Mt. Apo, parcels of land in Surigao del Norte, and within the Upper Marikina Watershed",
+            "date": "2024-07-13T12:15:00.000Z",
+            "tag": "Environment",
+            "locale": "Rizal"
+        },
+        {
+            "url": "https://www.theguardian.com/world/article/2024/jul/12/south-china-sea-conflict-philippines-coast-guard",
+            "shortUrl": "",
+            "title": "Confrontations in South China Sea surge, raising fears a miscalculation could lead to conflict",
+            "description": "Vessels have been rammed, punctured with knives, damaged by water cannon and targeted by military-grade lasers. Now the Philippines’ US ambassador has warned the aggression must be reduced to avoid conflict",
+            "date": "2024-07-12T05:37:28.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://apnews.com/article/philippines-tagaytay-australians-killed-hotel-b52126eda4ea6e9eb39a7bcbe0321314",
+            "shortUrl": "",
+            "title": "2 Australians and a Filipina killed in Philippine hotel, officials say",
+            "description": "Officials in the Philippines say two Australian nationals and their Filipina companion have been killed in a hotel in a popular resort city south of the capital, and that police are trying to identify and track down the suspects.",
+            "date": "2024-07-11T13:43:11.000Z",
+            "tag": "Crime",
+            "locale": ""
+        }
+    ]
+}
