@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24029,
+        "date": "2024-07-21T12:04:25.465Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1961835/evidence-in-duterte-icc-case-his-kill-rhetoric-words",
+        "shortUrl": "",
+        "title": "Evidence in Duterte ICC case: His ‘kill’ rhetoric, words",
+        "description": "Manila, Philippines—As Rodrigo Duterte waged in 2016 a bloody campaign against drugs, thousands of suspects were killed by police and vigilantes, as stated in communication sent by victims",
+        "date": "2024-07-17T20:49:29.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Crowdstrike Security Update Causing Windows <abbr title=\"Blue Screen of Death\">BSOD</abbr>",
+            "url": "https://www.rappler.com/business/companies-affected-microsoft-windows-global-outage-july-19-2024/",
+            "shortUrl": "",
+            "title": "Philippine companies affected by global Windows outage",
+            "description": "The systems of airlines, banks, and even media companies are going offline around the world due to the issue affecting Microsoft’s Windows operating system",
+            "date": "2024-07-19T12:44:01.000Z",
+            "tag": "Technology",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/07/20/2371598/global-it-outage-grounds-flights-hits-banks-media",
+                "shortUrl": "",
+                "title": "Global IT outage grounds flights, hits banks, media",
+                "description": "A major outage wreaked havoc on global computer systems yesterday, grounding flights in the United States, derailing television broadcasts in the UK and impacting telecommunications in Australia.",
+                "date": "2024-07-19T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://business.inquirer.net/469477/cebu-pacific-air-asia-hit-by-microsoft-global-outage",
+                "shortUrl": "",
+                "title": "Cebu Pacific, Air Asia hit by Microsoft global outage",
+                "description": "Manila, Philippines – The global outage of technology giant Microsoft has affected the system of budget carrier Cebu Pacific and Air Asia, but the operations of international carriers in the Philippines remained unaffected",
+                "date": "2024-07-19T23:56:02.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314474227/flights-resume-after-global-it-crash-wreaks-havoc.html",
+                "shortUrl": "",
+                "title": "Flights resume after global IT crash wreaks havoc - Manila Standard",
+                "description": "Planes were gradually taking off again Saturday after global airlines, banks and media were thrown into turmoil by one of the biggest IT crashes in recent years, caused by an update to an antivirus program.",
+                "date": "2024-07-21T04:54:29.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/914153/ph-china-reach-crucial-arrangement-to-avoid-confrontation-in-ayungin/story/",
+            "shortUrl": "",
+            "title": "PH, China reach crucial deal on <abbr title=\"Rotation and Resupply\">RoRe</abbr> missions",
+            "description": "The Philippines and China have reached an understanding on an arrangement that will avoid altercations at a disputed South China Sea Shoal, the Department of Foreign Affairs said Sunday.",
+            "date": "2024-07-21T10:26:26.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/2024/7/18/mmda-says-viral-wheelchair-ramp-imperfectly-designed-for-wheelchair-users-925",
+            "shortUrl": "",
+            "title": "MMDA says viral wheelchair ramp 'imperfectly designed' for wheelchair users",
+            "description": "The Metropolitan Manila Development Authority admitted Wednesday the viral wheelchair ramp at the EDSA-Philam station is imperfectly designed for wheelchair users.",
+            "date": "2024-07-18T01:42:24.000Z",
+            "tag": "Infrastructure",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/ce784jggye1o",
+            "shortUrl": "",
+            "title": "Philippine Mayor Alice Guo linked to Chinese crime goes 'missing'",
+            "description": "Authorities fail to arrest mayor whose case has gripped a nation embroiled in a sea dispute with China.",
+            "date": "2024-07-15T06:26:19.601Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.telegraph.co.uk/global-health/science-and-disease/the-filipino-jails-struggling-to-contain-an-ancient-killer/",
+            "shortUrl": "",
+            "title": "Inside the Filipino jails struggling to contain an ancient killer",
+            "description": "As Covid showed, prisons can act as incubators for disease. In the Philippines, where inmates are kept 300 to a cell, <abbr title=\"Tuberculosis\">TB</abbr> is rife",
+            "date": "2024-07-15T12:45:00.000Z",
+            "tag": "Correctional Facilities",
+            "locale": ""
+        }
+    ]
+}
