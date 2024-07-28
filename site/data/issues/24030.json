@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24030,
+        "date": "2024-07-28T11:03:35.985Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1966092/when-designated-survivor-leaves-amid-disaster-flood-of-flak-follows",
+        "shortUrl": "",
+        "title": "When ‘designated survivor’ leaves amid disaster, flood of flak follows",
+        "description": "Manila, Philippines—Vice President Sara Duterte's decision to miss President Ferdinand Marcos Jr.’s third State of the Nation Address (Sona) came after she designated herself as the “designated survivor.”",
+        "date": "2024-07-26T21:29:28.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Super Typhoon Carina (Gaemi)",
+            "url": "https://news.abs-cbn.com/news/2024/7/25/carina-enhanced-habagat-dumps-more-rain-than-ondoy-1059",
+            "shortUrl": "",
+            "title": "Carina-enhanced habagat dumps more rain than Ondoy",
+            "description": "Super typhoon Carina-enhanced southwest monsoon or habagat that caused Metro Manila's worst flooding in recent years dumped more rains in Quezon City than tropical storm Ondoy in September 2009, rainfall data from PAGASA show.",
+            "date": "2024-07-25T03:26:33.000Z",
+            "tag": "Typhoons",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/914813/deaths-in-luzon-due-to-habagat-carina-rise-to-32-pnp/story/",
+                "shortUrl": "",
+                "title": "Deaths in Luzon due to Habagat, Carina rise to 34 — PNP",
+                "description": "The number of reported fatalities in Luzon due to the onslaught of Tropical Cyclone Carina and the Southwest Monsoon or Habagat has increased to 34, according to the Philippine National Police (PNP).",
+                "date": "2024-07-26T04:18:44.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/07/26/2373170/class-opening-postponed-738-typhoon-hit-schools",
+                "shortUrl": "",
+                "title": "Class opening postponed for 738 Carina-hit schools",
+                "description": "A total of 738 public schools from four regions will push back the start of classes from July 29 to a later date due to the impact of Typhoon Carina (international name: Gaemi) and the southwest monsoon, according to the Department of Education.",
+                "date": "2024-07-26T09:06:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/7/27/3-3-million-people-affected-by-typhoon-enhanced-rains-104-areas-under-state-of-calamity",
+                "shortUrl": "",
+                "title": "3.3 million people affected by typhoon-enhanced rains; 104 areas under state of calamity",
+                "description": "The southwest monsoon (habagat) rains enhanced by Typhoon “Carina” and Tropical Depression “Butchoy” have now affected 3,360,339 individuals or 905,086 families, the National Disaster Risk Reduction and Management Council (NDRRMC) reported on Saturday, July 27.",
+                "date": "2024-07-27T05:20:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pcij.org/2024/07/22/marcos-third-sona-pcij-blog-issues/",
+            "shortUrl": "",
+            "title": "Marcos' third SONA: What he said and did not say - PCIJ.org",
+            "description": "What he said click the titles to read more. What he did not say #sona2024 past speeches",
+            "date": "2024-07-22T10:07:28.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cd1ejnz420xo",
+            "shortUrl": "",
+            "title": "Philippines 'prepares for worst' after oil spill",
+            "description": "Authorities are racing to contain the oil spill and prevent it from reaching the capital, Manila.",
+            "date": "2024-07-26T04:24:51.368Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314474696/marcos-orders-total-pogo-ban.html",
+            "shortUrl": "",
+            "title": "Marcos orders total POGO ban - Manila Standard",
+            "description": "Biz groups, lawmakers, economic team hail SONA marching order President Marcos ordered an immediate ban on Philippine Offshore Gaming Operators (POGOs) during his third State of the Nation Address—a pronouncement that earned him resounding applause and a standing ovation from lawmakers and guests at the Batasan complex.",
+            "date": "2024-07-22T16:50:00.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/view-manila-about-the-arrangement-with-china-ayungin-shoal/",
+            "shortUrl": "",
+            "title": "View from Manila: Who's lying about the PH-China 'arrangement' in Ayungin Shoal?",
+            "description": "Manila and Beijing disagree on what the bilateral arrangement contains",
+            "date": "2024-07-22T16:39:13.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
