@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24031,
+        "date": "2024-08-05T02:54:54.711Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1968813/heritage-structures-losing-resilience-vs-deeper-floods-climate-change",
+        "shortUrl": "",
+        "title": "Heritage structures losing resilience vs deeper floods, climate change",
+        "description": "Manila, Philippines –– A 17th-century church in Pampanga, the San Agustin Parish in Lubao, was first located in Barrio Santa Catalina in 1572 but was moved to its present site 30 years later",
+        "date": "2024-08-02T23:24:52.000Z",
+        "tag": "Infrastructure",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Olympics Gold Medals for Carlos Yulo",
+            "url": "https://mb.com.ph/2024/8/3/carlos-yulo-delivers-philippines-first-paris-olympics-gold-after-ruling-the-floor-exercise",
+            "shortUrl": "",
+            "title": "Carlos Yulo delivers Philippines' first Paris Olympics gold after ruling floor exercise",
+            "description": "It was a golden redemption for Carlos Yulo after delivering the Philippines’ first gold medal in the 2024 Paris Olympics after topping the men’s artistic gymnastic floor exercise on Saturday, Aug. 3, at the Bercy Arena.",
+            "date": "2024-08-03T14:50:00.000Z",
+            "tag": "Sports",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/sports/othersports/915898/carlos-yulo-gold-vault-2024-paris-olympics/story/",
+                "shortUrl": "",
+                "title": "Carlos Yulo rules vault finals for second Olympic gold",
+                "description": "Carlos Yulo is once again an Olympic gold medalist.",
+                "date": "2024-08-04T15:08:07.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/gold-rush-carlos-yulo-wins-2nd-gold-medal-at-paris-2024",
+                "shortUrl": "",
+                "title": "Gold Rush! Carlos Yulo wins 2nd gold medal at Paris 2024",
+                "description": "Carlos \"Golden Boy\" Yulo has made history once again at the 2024 Paris Olympics, securing his second gold medal in the Men's Artistic Gymnastics Vault event",
+                "date": "2024-08-04T15:53:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/sports/2024/8/4/what-s-in-store-for-olympic-gold-medalist-carlos-yulo-1323",
+                "shortUrl": "",
+                "title": "What's in store for Olympic gold medalist Carlos Yulo?",
+                "description": "Under Republic Act No. 10699, or the National Athletes and Coaches Benefits and Incentives Act, gold medalists should receive P10 million, while silver and bronze medal winners get P5 million and P2 million, respectively.",
+                "date": "2024-08-04T05:54:17.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/voices/newsletters/be-the-good-limits-master-plan-disasters/",
+            "shortUrl": "",
+            "title": "[Be The Good] The limits of 'master planning'",
+            "description": "'We have long relied on hard infrastructure to address many of the woes that plague our communities...but infrastructure cannot stand alone'",
+            "date": "2024-07-31T09:12:01.000Z",
+            "tag": "Infrastructure",
+            "locale": ""
+        },
+        {
+            "url": "https://thediplomat.com/2024/07/why-the-philippines-chose-to-privatize-its-largest-airport/",
+            "shortUrl": "",
+            "title": "Why the Philippines Chose to Privatize Its Largest Airport",
+            "description": "Once again, Manila has demonstrated its willingness to turn vital national infrastructure over to the private sector.",
+            "date": "2024-07-31T07:39:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2024/08/02/2374866/philippines-wont-stop-drug-war-arrests-interpol-doj",
+            "shortUrl": "",
+            "title": "Philippines won’t stop drug war arrests by Interpol – DOJ",
+            "description": "The Philippine government cannot stop the International Criminal Police Organization from serving arrest warrants that the International Criminal Police Organization (Interpol)",
+            "date": "2024-08-01T16:00:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.theguardian.com/world/article/2024/aug/04/inside-mystery-alice-guo-missing-philippines-mayor",
+            "shortUrl": "",
+            "title": "Cognac, tortoises and a pink-striped helicopter: inside the mystery of Alice Guo, the missing Philippines mayor",
+            "description": "Investigation is ongoing into the identity of Alice Guo and her links to a compound housing human trafficking victims and offshore gaming operations",
+            "date": "2024-08-04T04:00:20.000Z",
+            "tag": "China",
+            "locale": ""
+        }
+    ]
+}
