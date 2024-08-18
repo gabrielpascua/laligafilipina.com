@@ -1,5 +1,6 @@
 [
     {"label":"China", "slug": "china"},
     {"label":"War on Drugs", "slug": "war-on-drugs"},
-    {"label":"Education", "slug": "education"}
+    {"label":"Education", "slug": "education"},
+    {"label":"Politics", "slug": "politics"}
 ]

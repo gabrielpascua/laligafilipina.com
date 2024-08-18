@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24033,
+        "date": "2024-08-18T11:35:56.734Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://opinion.inquirer.net/176094/the-significance-of-ninoy-aquinos-assassination",
+        "shortUrl": "",
+        "title": "The significance of Ninoy Aquino’s assassination",
+        "description": "Forty-one years have passed since former senator Benigno “Ninoy” Aquino Jr. was brazenly murdered at the Manila International Airport on the day of his return from exile in the United States. An entire generation of Filipinos has little memory of that event.",
+        "date": "2024-08-18T13:02:00.000Z",
+        "tag": "History",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Poverty Threshold According to Philippine Statistics Authority",
+            "url": "https://www.philstar.com/headlines/2024/08/16/2378195/psa-reviews-poverty-food-thresholds",
+            "shortUrl": "",
+            "title": "PSA reviews poverty, food thresholds",
+            "description": "The methodology for coming up with thresholds used by the government to determine poverty will be adjusted in 2025, the Philippine Statistics Authority said, with the current food threshold deemed insufficient.",
+            "date": "2024-08-15T16:00:00.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/money/economy/917209/who-is-poor-here-s-how-psa-classifies-poverty-among-filipinos/story/",
+                "shortUrl": "",
+                "title": "Explainer: Who is poor? Here's how PSA classifies poverty among Filipinos",
+                "description": "The number of Filipino families living in poverty has declined in 2023 compared to two years earlier, according to the results of the Philippine Statistics Authority's (PSA) Family Income and Expenditure Survey (FIES).",
+                "date": "2024-08-15T09:10:27.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/p64-enough-not-to-consider-a-filipino-food-poor",
+                "shortUrl": "",
+                "title": "P64 enough not to consider a Filipino 'food poor'",
+                "description": "A Filipino spending more than P64 for food per day is not considered food poor, National Economic Development Authority (Neda) secretary Arsenio Balisacan said.",
+                "date": "2024-08-15T04:06:12.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/8/17/binay-unrealistic-poverty-stats-can-hamper-government-interventions-932",
+                "shortUrl": "",
+                "title": "Binay: 'Unrealistic' poverty stats can hamper government interventions",
+                "description": "Senator Nancy Binay criticized the National Economic Development Authority’s food-poor threshold of P64 a day, calling it \"unrealistic.\"",
+                "date": "2024-08-17T03:07:30.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/vantage-point-curious-case-vice-president-sara-duterte/",
+            "shortUrl": "",
+            "title": "[Vantage Point] The curious case of VP Sara",
+            "description": "Can she win in the 2028 presidential elections? History is not on her side.",
+            "date": "2024-08-17T01:25:27.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/8/14/compensation-arrives-7-years-after-siege-that-left-marawi-a-dead-city",
+            "shortUrl": "",
+            "title": "Compensation arrives 7 years after siege that left Marawi a ‘dead city’",
+            "description": "Hundreds were killed after the once bustling town in the southern Philippines was occupied by hardline fighters in 2017.",
+            "date": "2024-08-15T03:45:45.000Z",
+            "tag": "Muslim Mindanao"
+        },
+        {
+            "url": "https://mb.com.ph/2024/8/12/leptospirosis-surge-doh-activates-response-plan-assures-no-shortage-of-hospital-beds",
+            "shortUrl": "",
+            "title": "Leptospirosis surge: DOH activates response plan, assures 'no shortage' of hospital beds",
+            "description": "As it prepares for an anticipated increase in leptospirosis cases in the coming weeks, the Department of Health (DOH) assured on Monday, Aug. 12, that a surge response plan is already in place and that there is no current shortage of hospital beds.",
+            "date": "2024-08-12T04:26:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nytimes.com/2024/08/12/world/asia/spratlys-thitu-philippines-china.html",
+            "shortUrl": "",
+            "title": "The Filipinos Living in the Shadow of China’s Military Might",
+            "description": "More than 200 civilian settlers on a contested island in the South China Sea find themselves on the frontier of a possible conflict with China.",
+            "date": "2024-08-12T04:01:47.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
