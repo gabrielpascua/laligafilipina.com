@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24034,
+        "date": "2024-08-25T16:19:30.575Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.youtube.com/watch?v=4gKDeYSWA0k",
+        "shortUrl": "",
+        "title": "Is US-China Rivalry Behind The Brewing Marcos-Duterte Feud? | Insight | Full Episode",
+        "description": "With VP Sara Duterte quitting President Ferdinand Marcos Jr’s cabinet, the feud between two powerful Filipino families heats up, even as the Philippines face continued challenges in the South China Sea.",
+        "date": "2024-08-20T12:00:05.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Alice Guo Presumed Out of the Country",
+            "url": "https://globalnation.inquirer.net/246244/alice-guos-controversies-from-senate-pogo-probe-to-her-escape",
+            "shortUrl": "",
+            "title": "Alice Guo’s controversies: From Senate Pogo probe to her escape",
+            "description": "Manila, Philippines — Dismissed Bamban, Tarlac Mayor Alice Guo has been the talk of the town following the Senate probe into her alleged involvement in the illegal activities of a Philippine Offshore Gaming Operator (Pogos)",
+            "date": "2024-08-23T04:10:03.000Z",
+            "locale": "",
+            "tag": "China"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/08/19/2379005/alice-guo-fled-philippines-malaysia-singapore-hontiveros",
+                "shortUrl": "",
+                "title": "Alice Guo fled Philippines for Malaysia, Singapore — Hontiveros",
+                "description": "Dismissed Bamban, Tarlac Mayor Alice Guo has fled the Philippines and has traveled to Malaysia and Singapore, Sen. Risa Hontiveros said on Monday.",
+                "date": "2024-08-19T08:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/917893/alice-guo-companions-indonesia/story/",
+                "shortUrl": "",
+                "title": "2 Alice Guo companions detained in Indonesia —Abalos",
+                "description": "Two companions of dismissed Bamban, Tarlac Mayor Alice Guo are already in the custody of Indonesian authorities, Interior Secretary Benhur Abalos said Thursday.",
+                "date": "2024-08-22T02:51:18.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/8/22/how-indonesian-authorities-busted-alice-guo-s-sister-alleged-cohort-1506",
+                "shortUrl": "",
+                "title": "How Indonesian authorities busted Alice Guo's sister, alleged cohort",
+                "description": "Indonesian authorities said they are still working to locate Alice Guo and her brother Wesley, whom they described as \"fugitives.\"",
+                "date": "2024-08-22T07:54:56.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2024/8/20/remembering-ninoy-aquino-1",
+            "shortUrl": "",
+            "title": "Remembering Ninoy Aquino",
+            "description": "Today, Aug. 21, the country commemorates Benigno “Ninoy” Aquino Day to honor the life and legacy of a man whose unwavering commitment to democracy and freedom left an indelible mark on the nation.",
+            "date": "2024-08-20T16:29:00.000Z",
+            "tag": "History",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/elections/barmm-violence-on-rebound-2025-will-be-deadly/",
+            "shortUrl": "",
+            "title": "BARMM violence 'on rebound,' 2025 elections will be deadly – crisis group",
+            "description": "The group says there is no evidence to support Marcos' SONA claim that there is 'peace momentum' in the Bangsamoro",
+            "date": "2024-08-22T12:27:06.000Z",
+            "tag": "Muslim Mindanao"
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2024/8/19/philippines-reports-new-mpox-case-with-no-history-of-foreign-travel",
+            "shortUrl": "",
+            "title": "‘A warning to everybody’: Philippines reports new mpox case",
+            "description": "Health officials say 33-year-old male patient from Manila experienced fever before developing a ‘distinct’ skin rash.",
+            "date": "2024-08-19T12:24:17.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://apnews.com/article/china-philippines-sabina-shoal-collision-fd76fcfcbcfcfdce5eb81c9422e8216c",
+            "shortUrl": "",
+            "title": "Chinese and Philippine ships collide again in disputed waters, and the countries are trading blame",
+            "description": "Chinese and Philippine coast guard ships have collided at sea, damaging at least two of the vessels, in an encounter near a new flashpoint in their increasingly alarming confrontations in the disputed South China Sea.",
+            "date": "2024-08-19T06:21:46.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
