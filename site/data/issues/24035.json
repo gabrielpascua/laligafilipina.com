@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24035,
+        "date": "2024-09-01T12:21:54.883Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.inquirer.net/412098/malaysia-gets-taste-of-china-west-philippine-sea-bullying/",
+        "shortUrl": "",
+        "title": "Malaysia gets taste of China West Philippine Sea bullying",
+        "description": "Manila, Philippines—China’s Hainan Island is almost 750 miles away from Spratlys in the South China Sea, where Malaysia is exploring oil and gas reserves in areas within its exclusive economic",
+        "date": "2024-08-29T21:22:53.000Z",
+        "tag": "West Philippine Sea",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Apollo Quiboloy Manhunt",
+            "url": "https://www.rappler.com/voices/newsletters/best-apollo-quiboloy-group-police-standoff-davao/",
+            "shortUrl": "",
+            "title": "[Rappler's Best] Standoff – and a mockery – in Davao ",
+            "description": "'The Dutertes’ political muscle, combined with police cowardice, corruption and, to borrow cop jargon, dereliction of duty, have allowed Quiboloy and his allies to mount rallies outside Davao in the past months'",
+            "date": "2024-08-26T11:12:56.000Z",
+            "tag": "Politics",
+            "locale": "Davao"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314489296/fugitive-pastors-bunker-now-located-within-kojc.html",
+                "shortUrl": "",
+                "title": "Fugitive pastor’s bunker now located within KOJC - Manila Standard",
+                "description": "PNP nabs 18 Quiboloy supporters after heated dispersal Police discovered the bunker where fugitive pastor Apollo Quiboloy may be hiding, but remained stumped as to where the entrance was within the almost 30-hectare Kingdom of Jesus Christ compound in Davao City",
+                "date": "2024-08-26T16:50:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/bacolod/cops-from-3-regions-deployed-to-kojc-as-quiboloy-search-continues",
+                "shortUrl": "",
+                "title": "Cops from 3 regions deployed to KOJC as Quiboloy search continues",
+                "description": "Police officers from three other regions have been deployed to the compound of the Kingdom of Jesus Christ (KOJC) in Davao City amid the continuing search for its wanted leader Pastor Apollo Quiboloy, the Philippine National Police (PNP) said Wednesday.",
+                "date": "2024-08-29T01:59:32.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/918608/29-kojc-members-raps-60-cops-hurt-quiboloy-hunt-pro-11/story/",
+                "shortUrl": "",
+                "title": "29 KOJC members face raps as 60 cops hurt in Quiboloy hunt —PRO 11",
+                "description": "A total of 29 members of the Kingdom of Jesus Christ (KOJC) are facing complaints after 60 police officers were hurt implementing the arrest warrants against Pastor Apollo Quiboloy, the Police Regional Office (PRO) 11 said on Thursday.",
+                "date": "2024-08-29T04:26:53.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2024/8/31/brp-teresa-magbanua-rammed-thrice-by-china-coast-guard-ship-in-escoda-shoal-official",
+            "shortUrl": "",
+            "title": "BRP Teresa Magbanua rammed thrice by China Coast Guard ship in Escoda Shoal – official",
+            "description": "Philippine Coast Guard (PCG) ship BRP Teresa Magbanua (MRRV-9701) was surrounded by multiple Chinese vessels before being rammed by a China Coast Guard (CCG) ship in Escoda (Sabina) Shoal on Saturday, Aug. 31, a ranking official said.",
+            "date": "2024-08-31T10:08:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bloomberg.com/news/features/2024-08-27/philippines-call-centers-navigate-ai-impact-on-jobs",
+            "shortUrl": "",
+            "title": "The World’s Call Center Capital Is Gripped by AI Fever — and Fear",
+            "description": "The experiences of staff in the Philippines’ outsourcing industry are a preview of the challenges and choices coming soon to white-collar workers around the globe.",
+            "date": "2024-08-27T21:00:03.886Z",
+            "tag": "Technology"
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2024/08/28/2381096/guo-siblings-fled-philippines-small-white-boat",
+            "shortUrl": "",
+            "title": "Guo siblings fled Philippines by ‘small white boat’",
+            "description": "Dismissed Bamban mayor Alice Guo and her siblings left the country using boats bound for Sabah, Malaysia last July, her sister Shiela Guo told a joint Senate public hearing yesterday.",
+            "date": "2024-08-27T16:00:00.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/2024/8/28/active-mpox-cases-in-philippines-hit-5-doh-1137",
+            "shortUrl": "",
+            "title": "Child, woman among new mpox patients; active cases hit 5",
+            "description": "The Department of Health on Wednesday reported two more cases of mpox, raising confirmed active cases to 5.",
+            "date": "2024-08-28T03:47:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        }
+    ]
+}
