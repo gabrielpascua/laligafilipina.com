@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24036,
+        "date": "2024-09-08T11:10:52.248Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/content/259/philippines-king-of-the-road-yet-to-abdicate/",
+        "shortUrl": "",
+        "title": "Philippines' King of the Road Yet to Abdicate",
+        "description": "Seven years after the modernization program was introduced, jeepney drivers continue to face the high cost of modern jeepneys, the lack of route plans, and inadequate safety nets while commuters have to deal with fewer PUVs on the road.",
+        "date": "2024-09-04T04:00:00.000Z",
+        "tag": "Transportation",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Alice Guo's Arrest in Indonesia",
+            "url": "https://news.abs-cbn.com/news/2024/9/7/alice-guo-s-great-escape-began-on-small-boats-ends-in-private-jet-after-indonesia-arrest-1724",
+            "shortUrl": "",
+            "title": "Alice Guo’s great escape began on small boats, ends in private jet after Indonesia arrest",
+            "description": "Guo had cited death threats and security concerns as among the reasons she snuck out of the country in July, all while government agencies and her lawyer had assured the public that she was still in the Philippines.",
+            "date": "2024-09-07T11:14:26.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://globalnation.inquirer.net/247586/alice-guo-arrested-in-indonesia-nbi",
+                "shortUrl": "",
+                "title": "Alice Guo arrested in Indonesia – DOJ, NBI",
+                "description": "Manila, Philippines — Dismissed Bamban, Tarlac Mayor Alice Guo has been arrested in Indonesia,  the Department of Justice  (DOJ) and the National Bureau of Investigation (NBI) confirmed on Wednesday.",
+                "date": "2024-09-04T15:44:59.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/9/5/senators-on-arrival-of-alice-guo-we-want-answers-not-a-photoshoot",
+                "shortUrl": "",
+                "title": "Senators on arrival of Alice Guo: ‘We want answers, not a photoshoot’",
+                "description": "Senators on Friday, September 6 said they are anticipating straight and truthful answers from dismissed Bamban Tarlac Mayor Alice Guo when she faces the Senate's hearing next week, as they criticize how some government officials welcomed her like a celebrity.",
+                "date": "2024-09-06T02:26:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/national/314494295/doj-to-release-details-of-people-involved-in-alice-guo-escape.html",
+                "shortUrl": "",
+                "title": "DOJ to release details of people involved in Alice Guo escape - Manila Standard",
+                "description": "The Department of Justice (DOJ) on Saturday said details of government personnel involved in the illegal exit of dismissed Bamban Mayor Alice Guo will be revealed soon. During a news forum in Quezon City, Justice Assistant Secretary and spokesperson Mico Clavano said the investigation is nearing completion.",
+                "date": "2024-09-07T09:57:14.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2024/09/04/2382855/sara-led-deped-built-just-3-classroom-target",
+            "shortUrl": "",
+            "title": "Sara-led DepEd built just 3% of classroom target",
+            "description": "DepEd's completion of just 3% of its target new classrooms in 2023 — Duterte's first and only full-year term as DepEd chief — was \"due to realignments because of modifications in the projects’ design,\" the Commission on Audit (COA) said in its 2023 report.",
+            "date": "2024-09-04T09:49:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/15-enteng-related-deaths-recorded",
+            "shortUrl": "",
+            "title": "15 'Enteng'-related deaths recorded",
+            "description": "The Office of Civil Defense (OCD) said on Wednesday, September 4, 2024, that 15 people were reported dead due to the onslaught of the combined effects of the habagat and Severe Tropical Storm Enteng (international name: Yagi).",
+            "date": "2024-09-04T06:56:10.000Z",
+            "tag": "Typhoons"
+        },
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/pastilan-rodrigo-sara-duterte-tandem-2028-elections/",
+            "shortUrl": "",
+            "title": "[Pastilan] ‘Duterte-Duterte 2028’: Why fix what’s broken when you can smash it more?",
+            "description": "I swear, we’re one step away from 'Duterte 2040: The Immortal Reign,' where they might keep him in office through dark sorcery or upload his consciousness into a Facebook algorithm that runs for public office every six years",
+            "date": "2024-09-07T15:00:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.esquiremag.ph/long-reads/features/the-history-and-recent-end-of-barangay-bagong-silang-caloocan-a1057-20240903",
+            "shortUrl": "",
+            "title": "Today I Learned: The History of the Philippines' Most Populous Barangay",
+            "description": "The 260,000-strong Barangay Bagong Silang in Caloocan will soon be split into six barangays after a referendum. We look back on its entangled history.",
+            "date": "2024-09-03T07:30:00.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        }
+    ]
+}
