@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24037,
+        "date": "2024-09-15T13:36:54.497Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.philstar.com/business/2024/09/12/2384782/duterte-admin-chinese-investmentssurged-950-under-arroyo",
+        "shortUrl": "",
+        "title": "Before Duterte admin, Chinese investments surged 950% under Arroyo – study",
+        "description": "Gloria Arroyo’s policies built a foundation that Duterte would later capitalize on, leading to the highest volume of Chinese investments in Philippine history.",
+        "date": "2024-09-12T10:30:00.000Z",
+        "tag": "China",
+        "locale": ""        
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Surrender of Davao Pastor Apollo Quiboloy",
+            "url": "https://manilastandard.net/news/top-stories/314494944/manhunt-ends-quiboloy-gives-up.html",
+            "shortUrl": "",
+            "title": "Manhunt ends; Quiboloy gives up",
+            "description": "Fugitive pastor Apollo Quiboloy on Sunday surrendered to the chief of military intelligence instead of police authorities, who for over two weeks, have been searching for him inside the 30-hectare Kingdom of Jesus Christ (KOJC) compound in Davao City.",
+            "date": "2024-09-08T16:45:00.000Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://news.abs-cbn.com/news/2024/8/26/who-was-apollo-quiboloy-before-the-downfall-1027",
+                "shortUrl": "",
+                "title": "Who is Apollo Quiboloy?",
+                "description": "Kingdom of Jesus Christ (KOJC) founder Pastor Apollo Quiboloy surrendered to Philippine authorities on Sunday, Sept. 8, after over 2 weeks of standoff in his compound and months of hiding from arrest warrants issued against him in April.",
+                "date": "2024-09-09T03:07:03.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/920095/pnp-more-quiboloy-victims-including-minors-reported-to-police/story/",
+                "shortUrl": "",
+                "title": "PNP: More Quiboloy 'victims,' including minors, reported to police",
+                "description": "More alleged victims of Kingdom of Jesus Christ (KOJC) leader Apollo Quiboloy have surfaced and reported their plight to the police, the Philippine National Police (PNP) said on Wednesday.",
+                "date": "2024-09-11T07:05:34.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/9/12/quiboloy-pleads-not-guilty-when-arraigned-on-non-bailable-qualified-trafficking-in-persons-case",
+                "shortUrl": "",
+                "title": "Quiboloy pleads 'not guilty' when arraigned on non-bailable qualified trafficking in persons case",
+                "description": "Kingdom of Jesus Christ (KOJC) founder Apollo C. Quiboloy on Friday, Sept. 13, pleaded \"not guilty\" when arraigned by the Pasig City regional trial court (RTC) on a non-bailable qualified trafficking in persons case filed against him and four co-accused.",
+                "date": "2024-09-13T03:09:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-tradition-gets-way-accountability-ovp-budget/",
+            "shortUrl": "",
+            "title": "[In This Economy] When tradition gets in the way of accountability",
+            "description": "It appears that if a government agency is even remotely critical of the government, or not aligned politically, it can expect a more adversarial Congress. This selective application of the power of checks and balances is but one manifestation of our country’s weak rule of law.",
+            "date": "2024-09-13T06:15:04.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.economist.com/asia/2024/09/10/the-scary-new-map-of-the-south-china-sea",
+            "shortUrl": "",
+            "title": "The scary new map of the South China Sea",
+            "description": "Fresh fights over reefs and shoals test America’s credibility",
+            "date": "2024-09-10T20:10:26.342Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },        
+        {
+            "url": "https://opinion.inquirer.net/176710/true-reckoning-for-duterte-drug-war",
+            "shortUrl": "",
+            "title": "True reckoning for Duterte drug war",
+            "description": "Barely a month old, the House of Representatives quad committee has hit the ground running, assembling witnesses and gathering testimonies that cast new light into the brutal drug war of the past administration.",
+            "date": "2024-09-10T12:35:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/economy/2024/9/9/in-the-philippines-loan-app-users-decry-deception-threats-and-debt",
+            "shortUrl": "",
+            "title": "In the Philippines, users of loan apps decry deception, threats and debt",
+            "description": "Borrowers say popular online lending platforms use intimidation tactics to recover debts.",
+            "date": "2024-09-09T04:18:15.000Z",
+            "tag": "Technology"
+        }        
+    ]
+}
