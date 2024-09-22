@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24038,
+        "date": "2024-09-22T11:38:18.767Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/philippines/luzon/campus-journalist-liliosa-hilao-martial-law-martyr/",
+        "shortUrl": "",
+        "title": "Remembering Lilli Hilao: Campus journalist turned Martial Law martyr",
+        "description": "Fifty-two years after Martial Law was declared by the late dictator Ferdinand E. Marcos, Lilli’s story remains one of the most resounding calls to demand accountability for human rights violations and tyranny",
+        "date": "2024-09-21T02:58:11.000Z",
+        "tag": "History",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Effects of Southwest Monsoon (Habagat) Season",
+            "url": "https://www.sunstar.com.ph/manila/combined-effects-of-weather-systems-kill-24",
+            "shortUrl": "",
+            "title": "Combined effects of weather systems kill 24",
+            "description": "The number of fatalities due to the combined effects of southwest monsoon (Habagat) and Tropical Cyclones Ferdie, Gener, and Helen has increased to 24, the National Disaster Risk Reduction and Management Council (NDRRMC) said Friday",
+            "date": "2024-09-20T05:25:36.000Z",
+            "tag": "Typhoons",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/scitech/weather/920948/pagasa-helen-exits-par-heads-for-japan/story/",
+                "shortUrl": "",
+                "title": "PAGASA: Helen exits PAR, heads for Japan",
+                "description": "Tropical storm Helen has exited the Philippine Area of Responsibility (PAR) and is now moving at 40 kilometers per hour (km/h) towards Japan, PAGASA said in its 11 p.m. cyclone bulletin.",
+                "date": "2024-09-18T16:05:02.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314498375/10-dead-11-injured-as-gener-hits-philippines.html",
+                "shortUrl": "",
+                "title": "10 dead, 11 injured as Gener hits Philippines - Manila Standard",
+                "description": "The National Disaster Risk Reduction and Management Council (NDRRMC) on Tuesday logged 10 deaths as Typhoon Gener passed through Philippine territory.  In its latest situational report, the agency said the casualties were reported in three regions in the country",
+                "date": "2024-09-17T03:30:39.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/9/15/silent-ferdie-proves-deadly-claims-six-lives-ndrr-mc",
+                "shortUrl": "",
+                "title": "Silent ‘Ferdie’ proves deadly, claims six lives – NDRRMC",
+                "description": "Tropical Storm “Ferdie” killed six persons in the short span of time that it wreaked havoc in the country, the National Disaster Risk Reduction and Management Council (NDRRMC) said on Sunday, Sept. 15.",
+                "date": "2024-09-16T14:00:00.000Z",
+                "locale": ""
+            }            
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/1984821/phs-middle-class-dream-by-2040-is-it-achievable",
+            "shortUrl": "",
+            "title": "PH’s middle class dream by 2040: Is it achievable?",
+            "description": "Manila, Philippines — Philippine officials are betting on a robust and expanding middle class to drive the country’s transformation into a prosperous society by 2040",
+            "date": "2024-09-19T17:53:21.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        },        
+        {
+            "url": "https://www.aljazeera.com/news/2024/9/19/battered-by-typhoons-why-arent-philippine-flood-control-projects-working",
+            "shortUrl": "",
+            "title": "Battered by typhoons: Why aren’t Philippine flood control projects working?",
+            "description": "Manila has spent billions of dollars on flood mitigation projects but few have been completed.",
+            "date": "2024-09-19T05:43:35.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        },   
+        {
+            "url": "https://www.philstar.com/headlines/2024/09/18/2386180/vp-sara-duterte-refuses-take-oath-skips-questions-house-inquiry-fund-use",
+            "shortUrl": "",
+            "title": "VP Sara Duterte refuses to take oath, skips questions at House inquiry on fund use",
+            "description": "Vice President Sara Duterte refused to answer questions once again at a House inquiry on her office’s budget utilization on Wednesday, September 18. ",
+            "date": "2024-09-18T07:05:00.000Z",
+            "tag": "Politics"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2024/09/15/world/asia/south-china-sea-philippines.html",
+            "shortUrl": "",
+            "title": "China’s Risky Power Play in the South China Sea",
+            "description": "As China pushes to dominate the South China Sea, it is increasingly willing to use force to drive out the Philippines. In recent months, China’s tactics have raised fears of a superpower showdown in the strategic waterway.",
+            "date": "2024-09-15T06:55:25.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
