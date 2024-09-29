@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24039,
+        "date": "2024-09-29T12:56:04.980Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/video/iwitness/683168/doctor-on-boat-dokumentaryo-ni-john-consulta-full-episode-i-witness/video/",
+        "shortUrl": "",
+        "title": "'Doctor on Boat',&nbsp;&nbsp;Dokumentaryo ni John Consulta (Full Episode)",
+        "description": "Sa dulong bahagi ng karagatan sa Sulu, matatagpuan ang isang komunidad na hirap pagdating sa access sa healthcare facilities. <em>(On the far side of Sulu Sea is a community struggling with access to healthcare facilities.)</em>",
+        "date": "2024-09-29T04:01:00.000Z",
+        "tag": "Muslim Mindanao",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Office of the Vice President's Budget Hearings",
+            "url": "https://www.philstar.com/headlines/2024/09/23/2387256/ovp-spent-p237-million-seven-months-coa-report",
+            "shortUrl": "",
+            "title": "OVP spent P237 million in seven months – COA report",
+            "description": "State auditors have unearthed a questionable disbursement of P237 million within just seven months by the Office of the Vice President.",
+            "date": "2024-09-22T16:00:00.000Z",
+            "tag": "Government",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314501571/no-show-sara-duterte-prompts-house-not-to-consider-2025-ovp-budget-deliberations.html",
+                "shortUrl": "",
+                "title": "No-show Sara Duterte prompts House not to consider 2025 OVP budget deliberations - Manila Standard",
+                "description": "The House of Representatives did not consider the deliberations on the Office of the Vice President (OVP) ‘s 2025 budget after Vice President Sara Duterte and her representatives skipped the scheduled budget hearing in plenary.",
+                "date": "2024-09-24T06:23:47.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/9/25/-hindi-ako-aalis-dito-sara-duterte-rejects-resignation-calls-from-lawmakers-1543",
+                "shortUrl": "",
+                "title": "'Hindi ako aalis dito': Sara Duterte rejects resignation calls from lawmakers",
+                "description": "The Vice President earlier accused some lawmakers of plotting her impeachment in a bid to dismantle her potential 2028 presidential bid.",
+                "date": "2024-09-25T08:17:38.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/9/25/alleged-ovp-fund-misuse-crosses-plunder-1",
+                "shortUrl": "",
+                "title": "Scale of alleged OVP fund misuse crosses plunder threshold, says House panel chief",
+                "description": "He noted that the documents submitted lacked detailed breakdowns and appeared to have been hastily prepared.",
+                "date": "2024-09-25T06:51:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.dw.com/en/philippines-a-drowning-tropical-island/video-70285916",
+            "shortUrl": "",
+            "title": "Philippines: A drowning tropical island – DW",
+            "description": "The consequences of climate change are hitting the Philippines hard. Parts of the country are permanently flooded. Many villagers can't afford to flee. Their plight is made worse by the exploitation of nature and botched urban planning.",
+            "date": "2024-09-23T04:00:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1986368/after-duterte-fight-vs-drugs-keeps-anti-poor-face",
+            "shortUrl": "",
+            "title": "After Duterte, fight vs drugs keeps anti-poor face",
+            "description": "Manila, Philippines—The killings in President Ferdinand Marcos Jr.’s war on drugs may not be as massive as Rodrigo Duterte’s, but like in the first few years of the previous administration,",
+            "date": "2024-09-24T19:16:36.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cp39zvv6kl4o",
+            "shortUrl": "",
+            "title": "Masungi: Philippine reserve targeted by online smear campaign",
+            "description": "How did a Philippine nature reserve get caught up in an information battle?",
+            "date": "2024-09-28T00:18:25.673Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/voices/thought-leaders/point-law-corruption-rising-debt-poverty/",
+            "shortUrl": "",
+            "title": "[Point of Law] Corruption, rising debt, and why Filipinos stay poor",
+            "description": "Our ability to catch up with our peers depends on ensuring that public funds, especially borrowed money for which we must pay interest, are used efficiently for their intended purposes",
+            "date": "2024-09-26T08:00:00.000Z",
+            "tag": "Poverty"
+        }
+    ]
+}
