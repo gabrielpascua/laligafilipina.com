@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24040,
+        "date": "2024-10-20T18:29:16.302Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/1993045/the-lure-of-politics-some-celebrities-shun-the-circus",
+        "shortUrl": "",
+        "title": "The lure of politics: Some celebrities shun the circus",
+        "description": "Manila, Philippines—“Paano kung manalo (What if I win)?”",
+        "date": "2024-10-16T18:34:06.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Quad Committee Hearings on Duterte Administration Issues",
+            "url": "https://www.rappler.com/newsbreak/in-depth/how-duterte-planned-drug-war-royina-garma-affidavit/",
+            "shortUrl": "",
+            "title": "How Duterte's 5 am call to Garma starts a nationwide drug war",
+            "description": "Garma's affidavit corroborates a lot of things, including Espenido's earlier allegation that cops were financially rewarded under Duterte's drug war",
+            "date": "2024-10-14T00:30:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/philippines-not-renewing-membership-to-icc",
+                "shortUrl": "",
+                "title": "Philippines not renewing membership to ICC",
+                "description": "President Ferdinand Marcos Jr. has remained firm on his stand against the country’s renewal of membership to the International Criminal Court (ICC).",
+                "date": "2024-10-15T04:53:15.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/10/17/reward-system-during-past-illegal-drug-operations-validates-chr-s-2021-findings",
+                "shortUrl": "",
+                "title": "‘Reward system’ during past illegal drug operations validates CHR’s 2021 findings",
+                "description": "As early as 2021, the Commission on Human Rights (CHR) had validated the concept of “awards, rewards, recognition” to policemen for the killings of suspected illegal drugs offenders.",
+                "date": "2024-10-18T02:42:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/10/19/2393634/duterte-attend-quad-comm-hearing-if-invited",
+                "shortUrl": "",
+                "title": "Duterte to attend quad comm hearing if invited",
+                "description": "If invited, former president Rodrigo Duterte will attend the House of Representatives quad committee hearings on extrajudicial killings.",
+                "date": "2024-10-18T16:00:00.000Z",
+                "locale": ""
+            }            
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/923609/teachers-dismayed-over-law-removing-mother-tongue-in-k-3/story/",
+            "shortUrl": "",
+            "title": "Teachers dismayed over law removing mother tongue in K-3",
+            "description": "Several teachers groups expressed concern over the new policy that discontinued the use of the mother tongue as a medium of instruction from Kindergarten to Grade 3.",
+            "date": "2024-10-14T02:50:52.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/business/2024/10/16/ph-among-most-food-insecure-nations-in-se-asia-think-tank-1518",
+            "shortUrl": "",
+            "title": "PH among most food-insecure nations in SE Asia: think tank",
+            "description": "The Philippines ranked as among the most food insecure nation in Southeast Asia from 2021-2023, think tank Ibon Foundation said.",
+            "date": "2024-10-16T08:36:48.000Z",
+            "tag": "Poverty"
+        },
+        {
+            "url": "https://www.cbsnews.com/news/american-reportedly-kidnapped-in-philippines-and-shot-in-leg-as-he-resisted/",
+            "shortUrl": "",
+            "title": "American reportedly kidnapped in Philippines and shot in leg as he resisted",
+            "description": "Police in the Philippines say they've launched a search after gunmen reportedly abducted an American national who was shot in the leg as he tried to resist.",
+            "date": "2024-10-18T09:21:04.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": "Zamboanga del Norte"
+        },
+        {
+            "url": "https://www.theguardian.com/global-development/2024/oct/18/philippines-paracale-gold-mining-mercury-environment-united-nations-planetgold",
+            "shortUrl": "",
+            "title": "‘Mercury destroys lives’: but if goldmining is here to stay, is there a way to make it safer?",
+            "description": "Using the toxin for gold extraction is banned in the Philippines, but the practice remains widespread. Now one town is trialling a technique that could end its use and protect the world’s 15 million small-scale miners",
+            "date": "2024-10-18T11:00:24.000Z",
+            "tag": "Business",
+            "locale": "Camarines Norte"
+        }        
+    ]
+}
