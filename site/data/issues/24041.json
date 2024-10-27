@@ -1,0 +1,90 @@
+{
+    "issue": {
+        "number": 24041,
+        "date": "2024-10-27T18:43:19.131Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://pcij.org/2024/10/25/fat-political-dynasties-philippines-elections/",
+        "shortUrl": "",
+        "title": "Meet the 'obese' political dynasties of the Philippines",
+        "description": "We’ve seen sibling pairs in the Senate, as well as mother-and-son tandems. But three brothers? If the pre-election polls hold until May 12, 2025, neophyte Sen. Raffy Tulfo will be welcoming two of his brothers to the Senate.",
+        "date": "2024-10-25T06:53:42.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Signal #3 Tropical Storm Kristine (Trami) Damages",
+            "url": "https://mb.com.ph/2024/10/26/ocd-kristine-death-toll-hits-81-agri-infra-damage-at-p291-5-million",
+            "shortUrl": "",
+            "title": "OCD: ‘Kristine’ death toll hits 81; agri-infra damage at P291.5 million",
+            "description": "Severe Tropical Storm “Kristine” left a trail of destruction as it exited the Philippine Area of Responsibility (PAR) while claiming the lives of 81 people and dealing P291.5 million in damage to the country’s agriculture and infrastructure sectors.",
+            "date": "2024-10-26T04:29:00.000Z",
+            "tag": "Typhoons",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/scitech/weather/924668/kristine-a-severe-tropical-storm-signal-no-3-raised-over-13-areas/story/",
+                "shortUrl": "",
+                "title": "Kristine a severe tropical storm, Signal No. 3 raised over 13 areas",
+                "description": "Tropical cyclone Kristine (international name: Trami) has developed into a severe tropical storm ahead of its expected landfall over Isabela, the state weather bureau PAGASA said in its 5 p.m. Wednesday bulletin.",
+                "date": "2024-10-23T09:52:26.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314514517/kristine-disrupts-over-2-million-lives-civil-defense.html",
+                "shortUrl": "",
+                "title": "‘Kristine’ disrupts over 2 million lives—Civil Defense - Manila Standard",
+                "description": "Severe tropical storm ‘Kristine’ devastated the lives of over two million Filipinos across 12 regions in Luzon, Visayas and Mindanao, the Office of Civil",
+                "date": "2024-10-24T04:00:21.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/kristine-most-fatal-typhoon-so-far-with-85-fatalities",
+                "shortUrl": "",
+                "title": "'Kristine,' most fatal tropical cyclone so far with 85 fatalities",
+                "description": "The number of fatalities due to Tropical Storm Kristine has increased to 85, Office of Civil Defense administrator Undersecretary Ariel Nepomuceno said Sunday, ",
+                "date": "2024-10-27T05:11:45.281Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.philstar.com/headlines/2024/10/23/2394703/betrayed-her-faith-ex-kojc-member-details-years-quiboloys-sexual-abuse",
+            "shortUrl": "",
+            "title": "Betrayed by her faith: Ex-KOJC member details years of Quiboloy’s sexual abuse",
+            "description": "Teresita Valdehueza was only 17 years old when she saw the Kingdom of Jesus Christ as a way to serve God. All of that changed when Quiboloy summoned Valdehueza to him.",
+            "date": "2024-10-23T06:37:00.000Z",
+            "tag": "Crime"
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/1995221/party-list-system-what-to-know-ahead-of-2025-polls",
+            "shortUrl": "",
+            "title": "Party-list system: What to know ahead of 2025 polls",
+            "description": "Manila, Philippines—As the 2025 midterm elections approach, voters are gearing up not only to choose local leaders but also elect party-list groups — who are expected to be the voice of marginalized sectors in Congress.",
+            "date": "2024-10-22T18:00:02.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/national-disaster-risk-reduction-management-fund-status-remainder-october-24-2024/",
+            "shortUrl": "",
+            "title": "National disaster fund down to P1.9 billion for remainder of 2024",
+            "description": "Budget Secretary Amenah Pangandaman says there are still other funding sources, such as unprogrammed appropriations, should the government need it",
+            "date": "2024-10-25T10:30:56.000Z",
+            "tag": "Disasters and Response"
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/2024/10/22/-a-courtesy-no-need-for-medical-certificate-to-excuse-duterte-s-absence-from-house-hearing-1722",
+            "shortUrl": "",
+            "title": "'A courtesy': No need for medical certificate to excuse Duterte's absence from House hearing",
+            "description": "Former President Rodrigo Duterte skipped the resumption on Tuesday of the House Quad Committee inquiry into the alleged extrajudicial killings in his administration’s war on drugs.",
+            "date": "2024-10-22T09:26:50.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
