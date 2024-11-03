@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24042,
+        "date": "2024-11-03T20:45:08.595Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/philippines/visayas/woman-breathes-new-life-negros-occidental-graves/",
+        "shortUrl": "",
+        "title": "Woman breathes new life into Negros Occidental graves for over 30 years",
+        "description": "In Kabankalan, Negros Occidental, a family turns All Saints' and All Souls' Days into an opportunity for income, while helping in maintaining a tradition of remembrance",
+        "date": "2024-11-01T13:35:16.000Z",
+        "tag": "Culture",
+        "locale": "Negros Occidental"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Duterte Admits to Death Squad as Davao Mayor",
+            "url": "https://www.sunstar.com.ph/manila/duterte-admits-he-kept-a-death-squad-as-mayor-to-kill-criminals",
+            "shortUrl": "",
+            "title": "Duterte admits he kept a ‘death squad’ as mayor to kill criminals",
+            "description": "Former President Rodrigo Duterte told a Senate inquiry Monday, October 28, 2024, that he had maintained a “death squad” of criminals to kill other criminals when he was mayor of Davao City.",
+            "date": "2024-10-28T10:43:36.174Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/10/28/2395907/duterte-claims-responsibility-drug-war-offers-no-apologies",
+                "shortUrl": "",
+                "title": "Duterte claims responsibility for drug war but offers no apologies",
+                "description": "In the presence of families of those who died during the war on drugs, former president Rodrigo Duterte appeared to express little remorse regarding his administration’s crackdown on illegal substances.",
+                "date": "2024-10-28T06:38:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314516249/rody-i-take-full-responsibility.html",
+                "shortUrl": "",
+                "title": "Rody: I take full responsibility",
+                "description": "Defends bloody war on drugs; admits existence of death squad Former President Rodrigo Duterte said he takes full legal responsibility for his administration’s war on drugs",
+                "date": "2024-10-28T16:55:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/11/3/families-of-drug-war-victims-call-for-dutertes-prosecution-1704",
+                "shortUrl": "",
+                "title": "'Kailangan managot': Families of drug war victims call for Duterte's prosecution",
+                "description": "The families of the victims of the Duterte administration's bloody war on drugs gathered on Sunday at the Siena College Chapel to mark the eighth anniversary of remembrance for their slain loved ones.",
+                "date": "2024-11-03T09:20:48.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [       
+        {
+            "url": "https://newsinfo.inquirer.net/1999285/antoway-bontocs-unique-mourning-for-the-dead-at-risk-of-dying",
+            "shortUrl": "",
+            "title": "‘Antoway’: Bontoc’s unique mourning for the dead at risk of dying",
+            "description": "Manila, Philippines—Like every night, it was silent in a community in Bontoc, Mountain Province on Oct. 15, except for a house where an 87-year-old matriarch died, as people, most of them elders",
+            "date": "2024-10-30T20:59:33.000Z",
+            "tag": "Culture",
+            "locale": "Mountain Province"
+        },
+        {
+            "url": "https://mb.com.ph/2024/10/31/who-are-accountable-for-billions-allocated-for-flood-control",
+            "shortUrl": "",
+            "title": "Who are accountable for billions allocated for flood control?",
+            "description": "The Senate will scrutinize the utilization of the government’s flood control budget when it resumes its hearing on the proposed 2025 national budget next week in the aftermath of the devastation caused by Severe Tropical Storm “Kristine.”",
+            "date": "2024-10-31T16:02:00.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        },        
+        {
+            "url": "https://apnews.com/article/philippines-talisay-volcano-landslide-trami-e18e6d928e8d8233c521c378ff58c1b1",
+            "shortUrl": "",
+            "title": "A Philippine town in the shadow of a volcano is hit by landslides it never expected",
+            "description": "Residents of a northern Philippine town are picking up the pieces following one of the deadliest storms to hit the country this year.",
+            "date": "2024-10-27T15:17:00.000Z",
+            "tag": "Typhoons",
+            "locale": "Batangas"
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cy0g82n9e4go",
+            "shortUrl": "",
+            "title": "Philippines baby food: Added sugars worry experts",
+            "description": "The BBC takes a closer look at the products more and more parents are turning to for their children.",
+            "date": "2024-10-31T23:21:59.600Z",
+            "tag": "Health"
+        }
+    ]
+}
