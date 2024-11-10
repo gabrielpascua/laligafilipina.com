@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24043,
+        "date": "2024-11-10T15:05:04.594Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.aljazeera.com/gallery/longform/2024/11/7/breaking-the-cycle-of-child-physical-punishment-in-the-philippines",
+        "shortUrl": "",
+        "title": "Breaking the cycle of child physical punishment in the Philippines",
+        "description": "A photographer explores the persistence of ‘pamamalo’ or corporal punishment through the stories of three mothers.",
+        "date": "2024-11-07T14:58:41.000Z",
+        "tag": "Culture",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Typhoons Marce and Nika Make Landfall the Same Week",
+            "url": "https://www.scmp.com/week-asia/politics/article/3284954/can-philippines-handle-disasters-typhoons-spark-criticism-marcos-ghost-projects",
+            "shortUrl": "",
+            "title": "‘No master plan’: Philippines’ Marcos Jnr faces outrage over disaster response",
+            "description": "Senator Imee Marcos and a group of retired generals have separately demanded accountability for flood control funds.",
+            "date": "2024-11-04T00:00:12.000Z",
+            "tag": "Disasters and Response",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/926484/1-hurt-1-missing-due-to-marce-over-21k-families-affected/story/",
+                "shortUrl": "",
+                "title": "1 hurt, 1 missing due to Marce; over 21K families affected",
+                "description": "One person was reported injured and one other missing during the onslaught of Typhoon Marce, the National Disaster Risk Reduction and Management Council said Saturday.",
+                "date": "2024-11-09T02:23:19.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/11/10/pagasa-raises-signal-no-3-as-nika-continues-to-move-closer-to-isabela-aurora-area",
+                "shortUrl": "",
+                "title": "PAGASA raises Signal No. 3 as ‘Nika’ continues to move closer to Isabela-Aurora area",
+                "description": "Tropical Cyclone Wind Signal No. 3 was hoisted over parts of Isabela and Aurora on Sunday evening, Nov. 10, as Severe Tropical Storm “Nika” (international name: Toraji) advanced closer to northern and central Luzon.",
+                "date": "2024-11-10T13:09:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/the-freeman/opinion/2024/11/10/2399048/editorial-learning-past",
+                "shortUrl": "",
+                "title": "Editorial — Learning from the past",
+                "description": "It has been 11 years since super typhoon Yolanda thrashed and laid waste to parts of the Philippines. ",
+                "date": "2024-11-09T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/news/314520669/marcos-signs-2-crucial-laws-on-navigating-west-philippine-sea.html",
+            "shortUrl": "",
+            "title": "Marcos signs 2 laws to bolster WPS rights",
+            "description": "Gov't to release official map marking Spratlys, Scarborough President Ferdinand Marcos Jr. on Friday signed two landmark laws—the Philippine Maritime Zones Act and the Philippine Archipelagic Sea Lanes Act",
+            "date": "2024-11-08T16:50:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2001320/whats-next-for-fil-am-family-petitions-if-trump-wins",
+            "shortUrl": "",
+            "title": "What’s next for Fil-Am family petitions if Trump wins?",
+            "description": "Manila, Philippines—As Election Day descends in the United States, millions of Filipino families are watching closely, with many concerned about how a potential Donald Trump victory might impact their hopes of reuniting with loved ones still in the Philippines.",
+            "date": "2024-11-05T19:37:55.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/investigative/pharmally-linked-personalities-buy-dubai-properties/",
+            "shortUrl": "",
+            "title": "After pandemic deals, Pharmally bosses buy P1-B Dubai properties",
+            "description": "Exclusive: Lin Weixiong, who owns both properties in Dubai, is facing graft charges over accusations of using Pharmally as a dummy. Former presidential adviser Michael Yang, Pharmally’s guarantor, is spared from the indictment.",
+            "date": "2024-11-05T14:00:00.000Z",
+            "tag": "Corruption",
+            "locale": ""
+        },
+        {
+            "url": "https://news.abs-cbn.com/news/2024/11/7/who-faked-7-plate-of-edsa-busway-violator-probe-ongoing-says-lto-841",
+            "shortUrl": "",
+            "title": "Who faked ‘7’ plate of EDSA Busway violator? Probe ongoing, says LTO",
+            "description": "The Land Transportation Office said Thursday it was still investigating who fabricated the number “7” protocol plate spotted on an SUV that illegally used the EDSA Busway last weekend.",
+            "date": "2024-11-07T01:01:00.000Z",
+            "tag": "Transportation"
+        }
+    ]
+}
