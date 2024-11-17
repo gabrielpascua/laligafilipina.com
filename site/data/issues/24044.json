@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24044,
+        "date": "2024-11-17T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2004843/mining-in-homonhon-feeding-chinas-avarice-for-minerals",
+        "shortUrl": "",
+        "title": "Mining in Homonhon: Feeding China’s avarice for minerals",
+        "description": "Manila, Philippines — Mining in Eastern Samar’s Homonhon Island has been so rampant that locals started asking: “Would there still be something left for our children?”",
+        "date": "2024-11-17T20:04:02.346Z",
+        "tag": "Environment",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Looming ICC Investigation or Arrest of Rodrigo Duterte",
+            "url": "https://www.sunstar.com.ph/manila/duterte-urges-icc-to-hurry-probe",
+            "shortUrl": "",
+            "title": "Duterte urges ICC to hurry probe",
+            "description": "Former President Rodrigo Duterte urged the International Criminal Court (ICC) to \"hurry up\" with its investigation into the alleged violations committed during his administration's drug war.",
+            "date": "2024-11-13T06:01:41.093Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/11/15/2400378/marcos-jr-philippines-wont-stop-duterte-arrest-through-interpol",
+                "shortUrl": "",
+                "title": "Marcos Jr: Philippines won’t stop Duterte arrest through Interpol",
+                "description": "The Philippines is not stopping a possible arrest of former president Rodrigo Duterte by the Interpol if it is how his challenge to the International Criminal Court to have him investigated would end up, President Marcos said yesterday.",
+                "date": "2024-11-14T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314523306/marcos-firm-ph-wont-cooperate-with-icc-but.html",
+                "shortUrl": "",
+                "title": "Marcos firm PH won't cooperate with ICC, but... - Manila Standard",
+                "description": "President Marcos clarified that his administration does not intend to cooperate with the International Criminal Court (ICC) on investigation into former President Rodrigo Duterte’s controversial anti-drug campaign",
+                "date": "2024-11-14T16:45:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://news.abs-cbn.com/news/2024/11/14/marcos-says-gov-t-won-t-help-nor-stop-icc-probe-on-duterte-drug-war-1253",
+                "shortUrl": "",
+                "title": "Marcos says gov’t won’t help nor stop ICC probe on Duterte drug war",
+                "description": "President Ferdinand Marcos Jr. said Thursday that his administration would neither help nor block the International Criminal Court’s investigation into the alleged crimes against humanity in the drug war of his predecessor Rodrigo Duterte.",
+                "date": "2024-11-14T04:59:13.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.theguardian.com/world/2024/nov/15/philippines-weather-typhoon-yinxing-toraji-usagi",
+            "shortUrl": "",
+            "title": "‘Shock of our lives’: Philippines reels as five major storms strike in three weeks",
+            "description": "Filipinos feel real-life effects of climate change as destructive typhoons become more frequent",
+            "date": "2024-11-15T05:32:37.000Z",
+            "tag": "Typhoons"
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/926910/deped-class-suspensions-education/story/",
+            "shortUrl": "",
+            "title": "DepEd: Over 377K students 'very high risk' to further learning losses due to class suspensions",
+            "description": "A total of 377,729 Filipino learners are very likely to suffer further learning losses due to the class disruptions caused by typhoons and other natural disasters, the Department of Education (DepEd) said Wednesday.",
+            "date": "2024-11-13T06:34:01.000Z",
+            "tag": "Education",
+            "locale": ""
+        },        
+        {
+            "url": "https://www.rappler.com/philippines/metro-manila/how-malabon-waste-workers-keep-sinking-city-afloat/",
+            "shortUrl": "",
+            "title": "How Malabon waste workers keep afloat the sinking city",
+            "description": "Due to the glaring waste problem in Malabon, the Malabon-Navotas Waste Workers' Association began a community initiative to save the city from eventual submergence",
+            "date": "2024-11-11T13:01:35.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/11/15/indonesia-eyes-transfer-of-mary-jane-veloso-to-ph-prison",
+            "shortUrl": "",
+            "title": "Indonesia eyes transfer of Mary Jane Veloso to PH prison",
+            "description": "Jakarta is considering a transfer to the Philippine prison of Mary Jane Veloso, a Filipino national facing death penalty for drug charges in Indonesia.",
+            "date": "2024-11-15T13:59:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        }
+    ]
+}
