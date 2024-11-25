@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24045,
+        "date": "2024-11-24T15:05:04.594Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-how-marcos-jr-bastardized-the-national-budget/",
+        "shortUrl": "",
+        "title": "[In This Economy] How Marcos Jr. bastardized the national budget",
+        "description": "In a way, things are worse now. Pork didn’t go away; it just morphed into something else that’s more hidden now and is more prone to patronage than ever before.",
+        "date": "2024-11-22T04:16:46.000Z",
+        "tag": "Economy",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Mary Jane Veloso's Transfer to the Philippines",
+            "url": "https://www.aljazeera.com/news/2024/11/20/philippines-and-indonesia-reach-deal-to-return-filipina-death-row-convict",
+            "shortUrl": "",
+            "title": "Philippines and Indonesia reach deal to return Filipina death row convict",
+            "description": "Philippine President Ferdinand Marcos Jr. says Mary Jane Veloso to come home after ‘long and difficult journey’.",
+            "date": "2024-11-20T13:29:33.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/11/21/2401938/death-row-life-term-mary-jane-veloso-gets-reduced-sentence",
+                "shortUrl": "",
+                "title": "From death row to life term: Mary Jane Veloso gets reduced sentence",
+                "description": "Marcos said that Indonesia has lowered Veloso’s sentence from the death penalty to life imprisonment.",
+                "date": "2024-11-21T07:53:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314525885/news-of-impending-return-raises-hopes-for-mary-jane-velosos-mother.html",
+                "shortUrl": "",
+                "title": "News of impending return raises hopes for Mary Jane Veloso’s mother - Manila Standard",
+                "description": "Celia Veloso, the mother of overseas Filipino worker (OFW) Mary Jane Veloso thanked everyone working to bring her daughter back to the Philippines",
+                "date": "2024-11-20T08:58:05.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/927806/mary-jane-veloso-elated-to-be-coming-home/story/",
+                "shortUrl": "",
+                "title": "Mary Jane Veloso ‘elated’ to be coming home",
+                "description": "\"I am very elated to hear there is an opening chance for my hope to return home and be with my family,\" Mary Jane Veloso said in a written statement read by the prison warden Evi Loliancy on Thursday.",
+                "date": "2024-11-21T11:33:44.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.abs-cbn.com/news/regions/2024/11/21/12-reported-dead-due-to-typhoons-nika-ofel-pepito-ndrrmc-1333",
+            "shortUrl": "",
+            "title": "12 reported dead due to typhoons Nika, Ofel, Pepito: NDRRMC | ABS-CBN News",
+            "description": "A total of 12 people have been reported dead due to typhoons Nika, Ofel, and Pepito that overlapped with each other in a span of weeks, the National Disaster Risk Reduction and Management Council (NDRRMC) said on Thursday.",
+            "date": "2024-11-21T05:33:51.000Z",
+            "tag": "Typhoons",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2007257/house-probe-ovp-deped-cfs-received-by-same-man-different-signatures",
+            "shortUrl": "",
+            "title": "House probe: OVP, DepEd CFs received by same man, different signatures",
+            "description": "Manila, Philippines — Offices under Vice President Sara Duterte are facing another issue as the same person received two different acknowledgment receipts (ARs) for confidential fund",
+            "date": "2024-11-20T20:41:07.000Z",
+            "tag": "Corruption",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/the-philippine-vice-presidentcly-threatens-to-have-the-president-assassinated",
+            "shortUrl": "",
+            "title": "Sara Duterte publicly threatens to have President Marcos assassinated",
+            "description": "Philippine Vice President Sara Duterte said Saturday, November 23, 2024, she has contracted an assassin to kill the President, his wife and the House of Representative",
+            "date": "2024-11-24T04:47:57.275Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2024/11/19/break-cycle-of-poverty-for-good-prioritize-livelihood-over-ayuda",
+            "shortUrl": "",
+            "title": "Break cycle of poverty for good; prioritize livelihood over ‘ayuda’",
+            "description": "A considerable portion of the national budget is allocated to cash assistance programs or what is now popularly known as “ayuda.”",
+            "date": "2024-11-19T22:48:00.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        }
+    ]
+}
