@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 24046,
+        "date": "2024-12-01T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/newsbreak/investigative/inside-philippines-booming-underground-surrogacy-industry/",
+        "shortUrl": "",
+        "title": "Inside the Philippines’ booming underground surrogacy industry",
+        "description": "There is no law that governs surrogacy in the country, but those involved in the secret world of renting out wombs say that demand is increasing, opening the door to exploitation",
+        "date": "2024-11-30T09:07:04.000Z",
+        "tag": "Poverty",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Sara Duterte Lashes out on Marcos Administration",
+            "url": "https://www.bbc.com/news/articles/c4gzn4j0g20o",
+            "shortUrl": "",
+            "title": "Sara Duterte: Philippines' political feud takes a dramatic turn",
+            "description": "The powerful Marcos-Duterte alliance has spectacularly unravelled in the Philippines.",
+            "date": "2024-11-28T23:03:32.753Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2024/11/28/2403396/explainer-how-vp-saras-kill-remark-vs-marcoses-may-violate-anti-terror-law?utm_source=pocket_saves",
+                "shortUrl": "",
+                "title": "Explainer: How VP Sara's 'kill' remark vs Marcoses may violate Anti-Terror Law",
+                "description": "One of the possible charges indicated in the subpoena is under the controversial Anti-Terrorism Law, which was signed into law by Sara Duterte’s father, former President Rodrigo Duterte.",
+                "date": "2024-11-28T01:16:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/nbi-to-issue-subpoena-vs-duterte",
+                "shortUrl": "",
+                "title": "NBI to issue subpoena vs Duterte",
+                "description": "The Department of Justice (DOJ) will issue a subpoena against Vice President Sara Duterte in relation to her assassination remark against President Ferdinand “Bongbong“ Marcos",
+                "date": "2024-11-25T08:21:54.897Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314530187/marcos-impeachment-vs-vp-a-waste-of-time.html",
+                "shortUrl": "",
+                "title": "Marcos: Impeachment vs. VP a waste of time - Manila Standard",
+                "description": "President Ferdinand “Bongbong” Marcos Jr. left the door open to a possible reconciliation with Duterte",
+                "date": "2024-11-29T17:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2009007/sagibu-landless-farmers-get-taste-of-owning-land",
+            "shortUrl": "",
+            "title": "Sagibu: Landless farmers get taste of owning land",
+            "description": "Manila, Philippines—There are 2.4 million rice farmers in the Philippines, but only over 50 percent have their own land, the Philippine Rice Research Institute (PhilRice) said.",
+            "date": "2024-11-26T00:28:47.000Z",
+            "tag": "Farming and Agriculture",
+            "locale": ""
+        },
+        {
+            "url": "https://www.yahoo.com/news/sachets-fueling-plastic-waste-crisis-154011368.html",
+            "shortUrl": "",
+            "title": "How sachets are fueling a plastic waste crisis in the Philippines",
+            "description": "Story: Stretching across an area as vast as five soccer fields, this massive landfill highlights the scale of the plastic waste crisis gripping Southeast Asia.",
+            "date": "2024-11-29T15:40:11.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.newsweek.com/china-news-issues-new-missile-warning-us-philippines-1993077",
+            "shortUrl": "",
+            "title": "China issues new missile warning to US and Philippines",
+            "description": "China urged Washington and Manila to withdraw the Mid-Range Capability missile system from the Philippines immediately.",
+            "date": "2024-11-28T17:36:29.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://foreignpolicy.com/2024/11/25/trump-will-be-a-philippine-military-ally-but-a-climate-enemy/",
+            "shortUrl": "",
+            "title": "Trump Will Be a Philippine Military Ally But a Climate Enemy",
+            "description": "Manila is worried about Chinese maritime aggression and rising seas.",
+            "date": "2024-11-25T17:54:46.000Z",
+            "tag": "United States",
+            "locale": ""
+        }
+    ]
+}
