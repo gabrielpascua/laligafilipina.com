@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24047,
+        "date": "2024-12-08T15:05:04.594Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/content/266/overcoming-hiv-hope-rises-between-two-red-lines/",
+        "shortUrl": "",
+        "title": "Overcoming HIV: Hope Rises Between Two Red Lines",
+        "description": "Two Filipinos come to terms that they will live with HIV for the rest of their lives—then find hope and meaning in their journey.",
+        "date": "2024-12-02T05:00:00.000Z",
+        "tag": "Health",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Impeachment complaints Against VP Sara Duterte",
+            "url": "https://www.abs-cbn.com/news/nation/2024/12/2/coa-ovp-spent-p375-m-in-confidential-expenses-in-2023-2018",
+            "shortUrl": "",
+            "title": "COA: OVP spent P375 million in ‘confidential expenses’ in 2023 | ABS-CBN News",
+            "description": "The Office of the Vice President used a total of P375 million in confidential expenses for 2023, the Commission on Audit said in its report.",
+            "date": "2024-12-02T12:17:29.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/office-vice-president-sara-duterte-travel-expenses-2023/",
+                "shortUrl": "",
+                "title": "OVP travel expenses more than double in Sara Duterte’s first full year",
+                "description": "Bulk of the expenses — almost 69% — were for local travels, which increased to P31.43 million in 2023 from P18.62 million in 2022",
+                "date": "2024-12-02T08:50:52.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/12/02/2404537/betrayal-public-trust-alleged-first-impeachment-complaint-filed-vs-vp-sara-duterte",
+                "title": "'Betrayal of public trust' alleged in first impeachment complaint filed vs VP Sara Duterte",
+                "description": "Various sectoral groups, including families of extrajudicial killing victims, filed an impeachment complaint against Vice President Sara Duterte on Monday, December 2 at the House of Representatives. ",
+                "date":"2024-12-02T08:42:00.000Z",
+                "locale": ""
+            },         
+            {
+                "url": "https://newsinfo.inquirer.net/2012483/2nd-complaint-presses-vp-on-p125m-spent-in-11-days",
+                "shortUrl": "",
+                "title": "2nd complaint presses VP Duterte on P125M spent in 11 days",
+                "description": "Manila, Philippines — Accusing Vice President Sara Duterte of committing what they described as the highest form of treachery through betrayal of public trust by misusing and abusing confidential funds",
+                "date": "2024-12-05T13:30:57.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2024/12/6/ph-indonesia-sign-agreement-on-transfer-of-mary-jane-veloso",
+            "shortUrl": "",
+            "title": "PH, Indonesia sign agreement on transfer of Mary Jane Veloso",
+            "description": "The Philippines and Indonesia on Friday, Dec. 6, signed an agreement for the transfer of convicted drug courier Mary Jane Veloso back to her home country.",
+            "date": "2024-12-06T09:54:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.reuters.com/world/asia-pacific/china-says-philippine-ships-entered-its-territorial-waters-around-disputed-shoal-2024-12-04/",
+            "shortUrl": "",
+            "title": "Philippines, China trade accusations on new South China Sea confrontation",
+            "description": "China and the Philippines gave conflicting versions on Wednesday of a maritime confrontation around a contested shoal in the South China Sea, the latest row in a longstanding dispute between the neighbours.",
+            "date": "2024-12-04T10:26:17.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nytimes.com/2024/12/05/world/asia/philippines-kidnapping-american-elliot-eastman-dead.html",
+            "shortUrl": "",
+            "title": "American Kidnapped in Philippines Is Believed to Be Dead, Police Say",
+            "description": "The police said they believed Elliot Eastman, 26, from Vermont, was killed during the abduction in October. They cited testimony from a suspect in custody.",
+            "date": "2024-12-05T12:09:53.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cx2y8xz9nweo",
+            "shortUrl": "",
+            "title": "Philippines: Three dead and dozens sick after eating sea turtle stew",
+            "description": "At least 32 people in the Philippines were admitted to hospital after consuming the endangered species.",
+            "date": "2024-12-02T08:22:34.925Z",
+            "tag": "Food",
+            "locale": ""
+        }
+    ]
+}
