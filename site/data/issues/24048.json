@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24048,
+        "date": "2024-12-15T15:05:04.594Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.channelnewsasia.com/watch/insight-20242025/southeast-asias-gambling-addiction-4802136",
+        "shortUrl": "",
+        "title": "Southeast Asia’s Gambling Addiction",
+        "description": "Southeast Asia wants to kick its gambling habit. The Philippines outlawed online gambling operations. While a new Indonesian task force shuts down gaming websites. Is the game up for gaming operators?",
+        "date": "2024-12-12T14:00:00.000Z",
+        "tag": "China",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Kanlaon Volcano Eruption",
+            "url": "https://www.philstar.com/headlines/2024/12/09/2406168/kanlaon-volcano-erupts-alert-level-raised-3",
+            "shortUrl": "",
+            "title": "Kanlaon Volcano erupts, Alert Level raised to 3",
+            "description": "Kanlaon Volcano erupted Monday afternoon, December 9 prompting authorities to raise its status to Alert Level 3, indicating heightened volcanic unrest.",
+            "date": "2024-12-09T08:23:00.000Z",
+            "tag": "Disasters and Response",
+            "locale": "Negros Occidental"
+        },
+        "secondary": [
+            {
+                "url": "https://www.aljazeera.com/program/newsfeed/2024/12/9/video-captures-explosive-eruption-of-philippine-volcano",
+                "shortUrl": "",
+                "title": "Video captures ‘explosive eruption’ of Philippine volcano",
+                "description": "Timelapse video captured the “explosive eruption” of the Philippines’ Mount Kanlaon volcano.",
+                "date": "2024-12-09T23:59:20.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/visayas/kanlaon-evacuees-la-castellana-negros-occidental-situation-updates-december-2024/",
+                "title": "Kanlaon evacuees worry over lack of tents, drinking water, face masks",
+                "description": "Defense Secretary Gilberto Teodoro Jr. says La Castellana in Negros Occidental and Canlaon City in Negros Oriental are the towns most affected by Kanlaon Volcano's explosive eruption",
+                "date": "2024-12-10T08:25:48.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314535154/more-than-40000-people-displaced-by-kanlaons-eruption.html",
+                "shortUrl": "",
+                "title": "More than 40,000 people displaced by Kanlaon's eruption - Manila Standard",
+                "description": "The recent eruption of Kanlaon Volcano on Negros Island has impacted 11,791 families, according to the National Disaster Risk Reduction and Management",
+                "date": "2024-12-12T05:35:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/930047/1-300-ovp-confidential-fund-recipients-lack-psa-records/story/",
+            "shortUrl": "",
+            "title": "1,300 OVP confidential fund recipients lack PSA records",
+            "description": "The PSA has revealed that over 1,300  individuals who reportedly received disbursements from the OVP's P500-million confidential fund do not have records in the national registry.",
+            "date": "2024-12-15T12:08:13.000Z",
+            "tag": "Corruption",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/mary-jane-veloso-recalls-a-stunning-last-minute-reprieve-and-miracle-transfer",
+            "shortUrl": "",
+            "title": "Mary Jane Veloso recalls a stunning last minute reprieve and 'miracle' transfer",
+            "description": "Yogyakarta, Indonesia - Filipino death row inmate Mary Jane Fiesta Veloso knelt to pray when officers came to take her to an execution site in May 2015",
+            "date": "2024-12-15T03:55:43.736Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },        
+        {
+            "url": "https://www.abs-cbn.com/news/nation/2024/12/9/3-arrested-for-illegally-selling-uranium-1529",
+            "shortUrl": "",
+            "title": "3 arrested for illegally selling uranium | ABS-CBN News",
+            "description": "Authorities on Monday confirmed the arrest of 3 people who illegally sold uranium.",
+            "date": "2024-12-09T07:29:47.000Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        {
+            "url": "https://www.inquirer.net/422966/chinas-acts-of-war-in-west-ph-sea-accelerating-ecological-ruin/",
+            "shortUrl": "",
+            "title": "China’s acts of war in West PH Sea accelerating ecological ruin",
+            "description": "One can only imagine the extent of damage brought by the swarm of Chinese vessels in the West Philippine Sea, especially now that China is continuing its act of war to assert control over most of the South China Sea.",
+            "date": "2024-12-10T07:34:24.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
