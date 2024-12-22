@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24049,
+        "date": "2024-12-22T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.npr.org/sections/goats-and-soda/2024/12/19/g-s1-37829/health-hiv-testing-infection-philippines-africa",
+        "shortUrl": "",
+        "title": "HIV is spiking in new hot spots. Here's what's being done to control it",
+        "description": "As the new cases and related deaths fall in sub-Saharan Africa, the virus is rearing its head elsewhere. What's the cause? And the solution?",
+        "date": "2024-12-19T15:26:57.000Z",
+        "tag": "Health",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Repatriation of Mary Jane Veloso",
+            "url": "https://mb.com.ph/2024/12/16/dfa-veloso-returning-to-ph-on-dec-18",
+            "shortUrl": "",
+            "title": "DFA: Veloso returning to PH on Dec. 18",
+            "description": "Mary Jane Veloso, a Filipina inmate arrested in Indonesia for carrying cocaine, will arrive in Manila on Wednesday, Dec. 18, the Department of Foreign Affairs (DFA) confirmed.",
+            "date": "2024-12-17T04:52:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/mary-jane-veloso-back-in-philippines",
+                "shortUrl": "",
+                "title": "Mary Jane Veloso back in Philippines",
+                "description": "After a 14-year detention in Indonesia, Filipino death row convict Mary Jane Veloso returned to the country on Wednesday morning, December 18, 2024.",
+                "date": "2024-12-18T02:51:00.118Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/in-depth/after-returning-home-what-fate-awaits-mary-jane-veloso/",
+                "title": "After returning home, what fate awaits Mary Jane Veloso?",
+                "description": "Mary Jane Veloso's lawyer Edre Olalia believes that the former OFW should be granted absolute pardon based on humanitarian grounds",
+                "date": "2024-12-21T13:54:21.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2024/12/19/2408518/malayo-pa-marcos-says-clemency-mary-jane-veloso",
+                "shortUrl": "",
+                "title": "'Malayo pa': Marcos says on clemency for Mary Jane Veloso",
+                "description": "President Ferdinand Marcos Jr. said on Thursday, December 19, that the matter of clemency for Mary Jane Veloso is still far off, but acknowledged that the Philippine government is fully in control of her freedom.",
+                "date": "2024-12-19T05:50:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2016898/vietnam-learns-lesson-about-china-aggression-everyones-a-target",
+            "shortUrl": "",
+            "title": "Vietnam learns lesson about China aggression – everyone’s a target",
+            "description": "Manila, Philippines — One of the biggest lessons that Vietnam has learned about China’s expansionism in the South China Sea is indisputable — the Asian behemoth does not discriminate in its campaign of conquest at sea.",
+            "date": "2024-12-19T17:22:03.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnn.com/travel/siargao-surf-capital-philippines-sustainable-tourism/index.html",
+            "shortUrl": "",
+            "title": "Siargao, the ‘surf capital of the Philippines,’ is riding a wave of change",
+            "description": "A growing movement of residents is committed to protecting Siargao’s essence while inviting like-minded travelers to share in its beauty through sustainable resorts and immersive cultural experiences.",
+            "date": "2024-12-20T00:42:37.796Z",
+            "tag": "Travel",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/930394/third-impeachment-complaint-filed-vs-sara-duterte/story/",
+            "shortUrl": "",
+            "title": "Third impeachment complaint filed vs. Sara Duterte",
+            "description": "Religious groups, priests, and lawyers filed Thursday a third impeachment complaint against Vice President Sara Duterte for betrayal of public trust, graft and corruption, among others, over alleged misuse of at least P612 million worth of confidential funds.",
+            "date": "2024-12-19T05:22:21.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314538731/bill-filed-to-ban-firecrackers-sale.html",
+            "shortUrl": "",
+            "title": "Bill filed to ban firecrackers sale - Manila Standard",
+            "description": "Senator Sherwin Gatchalian urged the public to consider the potential tragedies caused by firecrackers and fireworks during the holidays, particularly during New Year revelry.",
+            "date": "2024-12-21T16:00:00.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        }
+    ]
+}
