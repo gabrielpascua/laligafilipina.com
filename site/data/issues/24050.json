@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 24050,
+        "date": "2024-12-29T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.wsj.com/world/asia/how-a-young-mayor-turned-her-town-into-a-hub-for-pig-butchering-scammers-da89e2a5",
+        "shortUrl": "",
+        "title": "How a Young Mayor Turned Her Town Into a Hub for ‘Pig Butchering’ Scammers",
+        "description": "WSJ got rare access to a criminal enclave in the Philippines from which gangs targeted people around the world, including Americans.",
+        "date": "2024-12-25T04:00:00.000Z",
+        "tag": "China",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Omissions and Commissions of the 2025 National Budget",
+            "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-breaking-down-marcos-2025-budget-dilemma/",
+            "shortUrl": "",
+            "title": "[In This Economy] Breaking down Marcos’ 2025 budget dilemma",
+            "description": "In this piece, let’s break down the dilemma now faced by Marcos concerning the 2025 budget, and what he can realistically do",
+            "date": "2024-12-27T04:41:45.000Z",
+            "tag": "Economy",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/2018729/marcos-thoroughly-reviewing-2025-budget-to-conform-to-charter-palace",
+                "shortUrl": "",
+                "title": "Marcos ‘thoroughly reviewing’ 2025 budget to conform to charter – Palace",
+                "description": "Manila, Philippines — President Ferdinand Marcos Jr. and his Cabinet are “thoroughly reviewing” the national budget for 2025 to ensure that it conforms to the 1987 Constitution, Executive",
+                "date": "2024-12-26T17:58:44.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/opinion/2024/12/28/2410233/fixing-bad-budget",
+                "title": "Fixing a bad budget",
+                "description": "The 2025 proposed national budget remains in the headlines for two weeks now. ",
+                "date": "2024-12-27T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/12/27/mbc-demands-transparency-in-2025-budget",
+                "shortUrl": "",
+                "title": "Business leaders demand transparency in 2025 budget amid concerns",
+                "description": "Business leaders are urging a more transparent and accountable process in finalizing the 2025 national budget amid concerns over budgetary adjustments and a lack of clear justification for certain allocations.",
+                "date": "2024-12-28T02:08:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pcij.org/2024/12/22/media-celebrities-senate-elections-may-2025/",
+            "shortUrl": "",
+            "title": "11 of 24 Senate seats could go to media celebrities after May 2025 - PCIJ.org",
+            "description": "Eleven popular news, entertainment, and sports personalities could fill the 24-member Philippine Senate after the May 2025 elections — an unprecedented number in the history of Philippine politics.",
+            "date": "2024-12-22T06:49:06.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.washingtonpost.com/world/2024/12/24/philippines-tourism-sulu-jolo-tawi/",
+            "shortUrl": "",
+            "title": "Once a war zone, southern Philippines rebrands as tourist destination",
+            "description": "New visitors are flocking to the Philippines’ Sulu Archipelago. But the specter of violence — both real and imagined — persists.",
+            "date": "2024-12-24T19:41:53.464Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://www.dw.com/en/philippines-manila-hiv-aids-rise-in-cases/a-71148127",
+            "shortUrl": "",
+            "title": "Philippines faces alarming rise in HIV infections",
+            "description": "The Philippines is witnessing a rapid rise in HIV infections, recording a 543% rise in cases between 2010 and 2023. One in three people living with HIV is diagnosed at a late stage, compounding the health challenges.",
+            "date": "2024-12-23T16:12:58.531Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.scmp.com/week-asia/politics/article/3291980/erasing-history-philippines-new-banknotes-do-not-feature-aquinos-sparking-anger",
+            "shortUrl": "",
+            "title": "‘Erasing history’?: Marcos Jnr accused of political bias over new banknotes",
+            "description": "A critic of Ferdinand Marcos Jnr accuses him of attempting to reshape the country’s history by removing the Aquinos from the 500-peso notes.",
+            "date": "2054-12-23T06:52:16.000Z",
+            "tag": "History",
+            "locale": ""
+        }
+    ]
+}
