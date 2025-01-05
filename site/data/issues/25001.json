@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 25001,
+        "date": "2025-01-05T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2019947/broken-from-start-uniteam-sees-complete-collapse",
+        "shortUrl": "",
+        "title": "‘Broken from start’, UniTeam sees complete collapse",
+        "description": "Manila, Philippines — While it felt real, especially for millions of Filipinos who brought Ferdinand Marcos Jr. and Sara Duterte to the presidency and vice presidency, the UniTeam, which Sen. Imee Marcos had described as “marriage made in heaven,” was after all just an illusion.",
+        "date": "2024-12-30T22:56:27.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "President Marcos Jr. Signs 6.3 Trillion 2025 Budget",
+            "url": "https://www.scmp.com/week-asia/economics/article/3292796/why-philippines-latest-budget-has-been-called-heartbreaking-and-moral-failure",
+            "shortUrl": "",
+            "title": "Why the Philippines’ latest budget has been called ‘heartbreaking’",
+            "description": "Funds for the social and health protection of the country’s poorest have been channelled to politicians for their pet projects, critics say.",
+            "date": "2024-12-30T13:29:52.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/marcos-signs-2025-national-budget/",
+                "shortUrl": "",
+                "title": "Marcos vetoes P194 billion worth of line items in 2025 national budget",
+                "description": "(President Ferdinand Marcos Jr. says the vetoed line items, including P26 billion worth of projects under the Department of Public Works and Highways, are 'inconsistent' with his administration's priorities",
+                "date": "2024-12-30T06:54:14.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2024/12/29/marcos-signs-2025-national-budget-vetoes-p194-b-items",
+                "title": "Marcos signs 2025 national budget; vetoes P194-B items",
+                "description": "After much controversy, President Marcos signed the 2025 national budget on Monday, Dec. 30, disclosing that he vetoed P194 billion worth of line items.",
+                "date": "2024-12-30T04:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314541463/pbbm-trims-2025-budget-to-p6-32-t.html",
+                "shortUrl": "",
+                "title": "PBBM trims 2025 budget to P6.32 Trillion",
+                "description": "Vetoes P194-b line items, keeps AKAP President Ferdinand “Bongbong” Marcos Jr. signed the P6.326-trillion General Appropriations Act (GAA) for 2025",
+                "date": "2024-12-30T16:45:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.sunstar.com.ph/manila/340-new-year-revelers-welcome-2025-injured",
+            "shortUrl": "",
+            "title": "340 New Year revelers welcome 2025 injured",
+            "description": "Three hundred forty individuals welcomed 2025 with injuries caused by firecrackers and fireworks, according to the Department of Health (DOH).",
+            "date": "2025-01-01T12:22:20.631Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://pcij.org/2024/12/30/villar-led-flood-control-project-las-pinas-city-failure/",
+            "shortUrl": "",
+            "title": "At least P2.5-B Villar-led ‘flood control’ project in Las Piñas City fails to solve flooding",
+            "description": "What you need to know: Sacks of charcoal reached the roof of a cramped space inside the Old Zapote Market in Las Piñas City. Black dust settled on Mary’s skin, as she supervised the workers hauling the sacks in a delivery truck.",
+            "date": "2024-12-30T02:05:48.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/business/2025/01/02/2411370/naia-breaks-passenger-record-50-million-travelers-2024",
+            "shortUrl": "",
+            "title": "NAIA breaks passenger record with 50 million travelers in 2024",
+            "description": "Passenger traffic at Ninoy Aquino International Airport reached 50.1 million in 2024, breaking all previous records as travel demand surged past pre-pandemic levels. ",
+            "date": "2025-01-02T08:42:00.000Z",
+            "tag": "Transportation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.abs-cbn.com/news/nation/2025/1/2/navy-investigates-origin-purpose-of-underwater-drone-recovered-in-masbate-1347",
+            "shortUrl": "",
+            "title": "Navy investigates origin, purpose of underwater drone recovered in Masbate",
+            "description": "The drone was marked HY-119, which reportedly refers to a Chinese underwater navigation and communication system.",
+            "date": "2025-01-02T05:47:50.000Z",
+            "tag": "China",
+            "locale": ""
+        }
+    ]
+}
