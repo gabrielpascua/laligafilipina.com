@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25002,
+        "date": "2025-01-12T15:05:04.594Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/content/270/for-better-or-worse/",
+        "shortUrl": "",
+        "title": "For Better or Worse",
+        "description": "The plight of Filipino farmers after five years of the Rice Tariffication Law.",
+        "date": "2025-01-08T05:00:00.000Z",
+        "tag": "Farming and Agriculture",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "The Feast of the Black Nazarene",
+            "url": "https://www.abs-cbn.com/news/nation/2025/1/9/millions-of-devotees-participate-in-2025-traslacion-of-jesus-nazareno-0146",
+            "shortUrl": "",
+            "title": "Millions of devotees participate in 2025 Traslacion of Jesus Nazareno",
+            "description": "Millions of Filipinos showed their devotion to Jesus Nazareno as they participated in the second post-pandemic Traslacion this year.",
+            "date": "2025-01-09T17:46:07.000Z",
+            "tag": "Culture",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/314544080/what-is-pahalik-a-tradition-of-faith-and-devotion-to-the-black-nazarene.html",
+                "shortUrl": "",
+                "title": "What is ‘Pahalik?’ A tradition of faith and devotion to the Black Nazarene",
+                "description": "For most people, the start of the new year signals a beginning of a new chapter. But for millions of Filipino Catholic, it also marks a religious",
+                "date": "2025-01-07T00:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://apnews.com/article/philippines-catholic-procession-jesus-nazareno-672877d605cec6582f29894a0e7b314e",
+                "shortUrl": "",
+                "title": "Filipino Catholics pray for good health and peace in huge procession venerating Jesus statue",
+                "description": "At least 1.8 million mostly barefoot Catholic worshippers are marching in an annual procession in the Philippines that venerates a centuries-old black statue of Jesus.",
+                "date": "2025-01-09T12:31:56.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/climate-and-environment/2025/01/09/2413025/nazarene-feast-leaves-trail-trash-says-environmental-watchdog",
+                "shortUrl": "",
+                "title": "Nazarene feast leaves trail of trash, says environmental watchdog",
+                "description": "The annual Feast of the Black Nazarene on Thursday, January 9, left piles of trash scattered around the Quirino Grandstand in Manila, where thousands of Catholic devotees gathered to venerate the centuries-old wooden statue of Jesus.",
+                "date": "2025-01-09T10:10:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.nytimes.com/2025/01/05/world/asia/philippines-hit-man-confession.html",
+            "shortUrl": "",
+            "title": "On the Run, a Hit Man Gives One Last Confession",
+            "description": "Edgar Matobato says he killed again and again for former President Rodrigo Duterte of the Philippines. Now he’s trying to stay alive to testify.",
+            "date": "2025-01-05T10:00:22.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2022784/femicide-targeting-women-because-theyre-women",
+            "shortUrl": "",
+            "title": "Femicide: Targeting women because they’re women",
+            "description": "Manila, Philippines — Every 10 minutes in 2023, a woman or girl lost her life at the hands of an intimate partner or family member — a chilling reminder of the unrelenting violence women face",
+            "date": "2025-01-09T17:25:15.000Z",
+            "tag": "Women's Rights and Advocacy",
+            "locale": ""
+        },
+        {
+            "url": "https://pcij.org/2025/01/06/what-if-kaliwa-dam-gets-stalled/",
+            "shortUrl": "",
+            "title": "What if Kaliwa Dam gets stalled?",
+            "description": "Last of 2 parts In October 2024, in an attempt to halt the construction of Kaliwa Dam, around 140 anti-dam people including Indigenous leaders wearing loin cloths mobilized at the Quezon provincial capitol, some 129 kilometers east of the capital Metro Manila.",
+            "date": "2025-01-06T02:12:23.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/entertainment/celebrities/things-to-know-pepsi-paloma/",
+            "shortUrl": "",
+            "title": "Who is Pepsi Paloma, and why are people talking about her?",
+            "description": "The controversy surrounding the late '80s actress is back in the spotlight after Vic Sotto filed a cyber libel complaint against filmmaker Darryl Yap over the teaser for his upcoming movie, 'The Rapists of Pepsi Paloma'",
+            "date": "2025-01-09T15:54:35.000Z",
+            "tag": "Art and Entertainment",
+            "locale": ""
+        }
+    ]
+}
