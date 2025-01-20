@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25003,
+        "date": "2025-01-19T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/philippines/elections/who-responsible-wasted-millions-ballots-2025-comelec-supreme-court-tro/",
+        "shortUrl": "",
+        "title": "Who's to blame for the wasted 6 million election ballots for 2025?",
+        "description": "At least P13 million worth of paper will be shredded, following a Supreme Court order that effectively compelled the Comelec to revise its ballot design after printing had already begun. Whose fault is it?",
+        "date": "2025-01-17T05:59:10.000Z",
+        "tag": "Government",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Impending Food Security Emergency Declaration",
+            "url": "https://www.sunstar.com.ph/manila/ph-to-be-placed-under-food-security-emergency",
+            "shortUrl": "",
+            "title": "PH to be placed under food security emergency",
+            "description": "In a bid to bring down the price of rice, the country is likely to be placed under a food security emergency by next week.",
+            "date": "2025-01-17T06:11:15.741Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/933127/explainer-food-security-emergency-rice-agriculture/story/",
+                "shortUrl": "",
+                "title": "Explainer: What is a food security emergency?",
+                "description": "Under Republic Act 12078 or the law amending the Agricultural Tariffication Act, the Agriculture Secretary has the power to declare a food security emergency on rice due to a supply shortage or extraordinary increase in prices.",
+                "date": "2025-01-16T11:56:38.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/business/2025/1/16/-food-security-emergency-urged-to-bring-down-rice-prices-1731",
+                "shortUrl": "",
+                "title": "As rice prices stay high ‘Food Security Emergency’ to be declared to bring down prices",
+                "description": "The Department of Agriculture said it was set to declare a food security emergency as rice prices stayed high despite tariff cuts and lower prices in the world market.",
+                "date": "2025-01-16T09:32:27.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314547793/pbbm-backs-food-security-emergency-declaration.html",
+                "shortUrl": "",
+                "title": "<abbr title=\"President Bongbong Marcos\">PBBM</abbr> backs food security emergency declaration",
+                "description": "President Ferdinand R. Marcos Jr. on Friday expressed support for the declaration of food security emergency to bring down the prices of rice.",
+                "date": "2025-01-17T06:30:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pcij.org/2025/01/17/the-making-of-edgar-matobato/",
+            "shortUrl": "",
+            "title": "The Making of Edgar Matobato - PCIJ.org",
+            "description": "It is a wonder Edgar Matobato is still alive. A confessed assassin for the Davao Death Squad, he was the first to go public about the killings allegedly ordered by former President Rodrigo Duterte.",
+            "date": "2025-01-17T02:00:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2025763/pnp-summons-mall-guard-over-viral-video-mistreating-young-vendor",
+            "shortUrl": "",
+            "title": "PNP summons mall guard over viral video mistreating young vendor",
+            "description": "Manila, Philippines — The Philippine National Police - Supervisory Office for Security and Investigation Agencies (PNP-Sosia) has summoned the mall security guard accused of mistreating a young girl wearing a school uniform",
+            "date": "2025-01-17T23:52:46.000Z",
+            "tag": "Viral News",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/01/15/2414394/hunger-rate-its-highest-pandemic-sws",
+            "shortUrl": "",
+            "title": "Hunger rate at its highest since pandemic — SWS",
+            "description": "The number of Filipino households experiencing involuntary hunger has jumped to 25.9%, the highest since the COVID-19 pandemic.",
+            "date": "2025-01-15T16:07:00.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2025/1/15/dfa-working-on-repatriation-of-the-remains-of-slain-filipina-in-slovenia",
+            "shortUrl": "",
+            "title": "DFA working on repatriation of slain Filipina's remains from Slovenia",
+            "description": "The Department of Foreign Affairs (DFA) said on Thursday, Jan. 16, that it is working together with the Philippine Embassy in Vienna to repatriate the remains of Marvil Facturan Kocjančič, a Filipina who was allegedly stabbed to death by her Slovenian husband.",
+            "date": "2025-01-16T02:05:00.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        }
+    ]
+}
