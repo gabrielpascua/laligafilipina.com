@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25004,
+        "date": "2025-01-26T15:05:04.594Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://opinion.inquirer.net/180327/a-new-generation-of-smokers",
+        "shortUrl": "",
+        "title": "A new generation of smokers",
+        "description": "The worst fears of those who opposed and criticized Republic Act No. 11900 or the Vaporized Nicotine and Non-Nicotine Products Regulation Act have materialized. Instead of reducing the prevalence of smoking, more people have turned to the deadly habit through electronic smoking devices.",
+        "date": "2025-01-26T13:15:00.000Z",
+        "tag": "Health",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Lawmakers Back Away from Anti Teenage Pregnancy Bill",
+            "url": "https://manilastandard.net/news/314549829/comprehensive-sexuality-education-facts-over-fear.html",
+            "shortUrl": "",
+            "title": "Comprehensive Sexuality Education: Facts Over Fear",
+            "description": "If we’re honest, our society sexualizes children from an early age—sexy dances at events, skimpy outfits on noon-time shows, online porn, sexting. In the absence of proper education, all that young people have, in this already hypersexualized world, are unreliable sources for information",
+            "date": "2025-01-23T05:41:16.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2025/01/23/2416334/anti-pregnancy-bill-running-against-clock",
+                "shortUrl": "",
+                "title": "Anti-pregnancy bill running against the clock",
+                "description": " A bill hoping to address the rising cases of teenage pregnancy in the country is pressed for time with the 19th Congress soon coming to end, with election season right around the corner.",
+                "date": "2025-01-23T10:18:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/newsbreak/in-depth/religious-groups-project-dalisay-derails-bill-against-teenage-pregnancy/",
+                "shortUrl": "",
+                "title": "War waged by religious groups derails bill vs teenage pregnancy",
+                "description": "Years of lobbying for a bill aiming to fight adolescent pregnancies are swept away as a coalition mounts a campaign claiming that comprehensive sexuality education will corrupt children — a claim that proponents of the bill have rejected",
+                "date": "2025-01-23T11:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.benarnews.org/english/news/philippine/philippines-adolescent-pregnancy-bill-questions-01242025144320.html",
+                "shortUrl": "",
+                "title": "8 questions for Philippine Sen. Risa Hontiveros about her adolescent pregnancy bill",
+                "description": "Hontiveros, sponsor of the proposed legislation, explains misconceptions about it and the urgency for its passage.",
+                "date": "2025-01-24T19:43:48.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2025/1/24/dfa-monitoring-freezing-us-aid",
+            "shortUrl": "",
+            "title": "DFA monitoring reports of possible freezing of US aid",
+            "description": "The Department of Foreign Affairs (DFA) is now monitoring how the United States of America's (USA) freeze on foreign aid will affect the Philippines, Malacañang said.",
+            "date": "2025-01-25T04:45:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.globaltimes.cn/page/202501/1327469.shtml",
+            "shortUrl": "",
+            "title": "China responds to Rubio's remarks on S.China Sea after his phone call with Philippine FM",
+            "description": "In response to a US State Department statement, Chinese Foreign Ministry spokesperson Mao Ning said on Thursday that the US is not a party to the South China Sea issue and has no right to interfere in the maritime issues between China and the Philippines.",
+            "date": "2025-01-24T03:39:00.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/934098/china-coast-guard-uses-sonic-device-to-harass-pcg-near-zambales/story/",
+            "shortUrl": "",
+            "title": "China Coast Guard uses sonic device to harass PCG near Zambales",
+            "description": "A Chinese Coast Guard vessel sailing off the coast of Zambales in the West Philippine Sea used a long range acoustic device on Saturday to harass again the Philippine Coast Guard.",
+            "date": "2025-01-26T09:13:16+08:00",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.dw.com/en/philippines-how-a-coastal-community-revived-its-mangroves/video-71362109",
+            "shortUrl": "",
+            "title": "Philippines: How a coastal community revived its mangroves",
+            "description": "Three decades ago, the mangrove forest in the Philippines' Prieto Diaz municipality was nearly depleted. But restoration efforts have reversed years of decline. DW explores the success story of the coastal town southeast of Manila.",
+            "date": "2025-01-21T12:42:09.368Z",
+            "tag": "Environment",
+            "locale": ""
+        }
+    ]
+}
