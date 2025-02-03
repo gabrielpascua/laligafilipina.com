@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25005,
+        "date": "2025-02-02T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2029272/sex-education-protecting-kids-through-information",
+        "shortUrl": "",
+        "title": "Sex education: Protecting kids through information",
+        "description": "MANILA, Philippines-The University of the Philippines Population Institute (UPPI) started conducting the Young Adult Fertility and Sexuality (YAFS) Study in 1982 to provide comprehensive data on young Filipinos",
+        "date": "2025-01-29T18:59:43.000Z",
+        "tag": "Law and Legislation",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "The <abbr title=\"Second Congressional Commission on Education\">EDCOM 2</abbr> Report Analysis from Rappler",
+            "url": "https://www.rappler.com/philippines/filipino-students-lagging-behind-expected-literacy-standards-edcom-2-report/",
+            "shortUrl": "",
+            "title": "Filipino students 4 to 5 years behind expected literacy standards",
+            "description": "The Second Congressional Commission on Education says its findings suggest that the learning crisis has persisted 'for much longer than we have noticed'",
+            "date": "2025-01-27T13:30:20.000Z",
+            "tag": "Education",
+            "locale": ""            
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/public-schools-without-principals-edcom-2-report/",
+                "shortUrl": "",
+                "title": "‘Are you not panicking?’ Over half of public schools don’t have principals",
+                "description": "Nearly 25,000 public schools in the Philippines have been operating without principals — and the Department of Education has no formalized succession plan for future leaders",
+                "date": "2025-01-28T16:50:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/rate-college-students-dropping-out-edcom-2-report/",
+                "shortUrl": "",
+                "title": "4 in 10 Filipino college students dropping out despite free tuition law",
+                "description": "The national higher education dropout rate is 39%, but for the Bangsamoro Autonomous Region in Muslim Mindanao, it is at a staggering 93.4%",
+                "date": "2025-01-29T10:00:55.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/best-students-left-behind-lack-government-support-edcom-2-report/",
+                "shortUrl": "",
+                "title": "Philippines' 'best' students left behind due to lack of gov't support",
+                "description": "EDCOM 2 notes that around half of the students qualified for admission to the Philippine Science High School were 'turned away' due to limited slots, based on data from three straight school years",
+                "date": "2025-01-30T10:40:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://apnews.com/article/china-philippines-us-missile-system-d2d7aeeaeef0ea9d93f105ae6614ab02",
+            "shortUrl": "",
+            "title": "Philippine president offers a deal to China: Stop sea aggression and I'll return missiles to US",
+            "description": "Philippine President Ferdinand Marcos Jr. has offered to remove a U.S. missile system from the Philippines if China halts what he called its “aggressive and coercive behavior” in the disputed South China Sea.",
+            "date": "2025-01-30T15:35:31.000Z",
+            "tag": "China",
+            "locale": ""
+        },        
+        {
+            "url": "https://qa.philstar.com/business/2025/01/27/2417285/maharlika-fund-makes-first-investment-buys-20-stake-ngcp",
+            "shortUrl": "",
+            "title": "Maharlika Fund makes first investment, buys 20% stake in NGCP",
+            "description": "The Maharlika Investment Corp, the governing body of the Maharlika Investment Fund, has made its maiden investment by acquiring a stake in the National Grid Corporation of the Philippines.",
+            "date": "2025-01-27T09:37:00.000Z",
+            "tag": "Business",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314551123/24-filipinos-in-first-wave-of-trump-deportations.html",
+            "shortUrl": "",
+            "title": "24 Filipinos in first wave of Trump deportations - Manila Standard",
+            "description": "Romualdez: Expelled 'TNTs' were accused of minor crimes Some 24 Filipinos illegally staying in the United States have already been deported as the Trump",
+            "date": "2025-01-26T16:45:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.france24.com/en/tv-shows/reporters/20250124-philippines-hiv-the-silent-epidemic",
+            "shortUrl": "",
+            "title": "Reporters - Philippines: HIV, the silent epidemic",
+            "description": "While significant progress has been made globally in curbing the spread of HIV, the Philippines has one of the fastest-growing infection rates in the world.",
+            "date": "2025-01-24T12:30:46",
+            "tag": "Health",
+            "locale": ""
+        }
+    ]
+}
