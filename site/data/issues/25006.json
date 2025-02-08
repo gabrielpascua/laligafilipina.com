@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25006,
+        "date": "2025-02-09T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://fortune.com/asia/2025/01/31/call-center-employees-ai-philippines/",
+        "shortUrl": "",
+        "title": "Call center employees in the Philippines aren’t worried about AI: The tech’s 'not quite there yet'",
+        "description": "Workers agree AI technology makes them more efficient, but it isn’t ready to replace them.",
+        "date": "2025-01-31T22:00:00.000Z",
+        "tag": "Technology",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "<abbr title=\"Department of Agriculture\">DA</abbr> Declares Food Security Emergency for Rice",
+            "url": "https://mb.com.ph/2025/2/4/under-food-security-emergency-rice-to-be-sold-at-p35-per-kilo",
+            "shortUrl": "",
+            "title": "NFA to release buffer stocks at ₱35/kilo to stabilize rice market amid food security emergency",
+            "description": "The National Food Authority (NFA) announced on Tuesday, Feb. 4, that the rice buffer stocks it will disburse as part of the declaration of a food security emergency on rice could be purchased by consumers at ₱35 per kilo as early as this week.",
+            "date": "2025-02-04T07:07:00.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/business/2025/02/03/2418959/da-declares-food-security-emergency-curb-rising-rice-prices",
+                "shortUrl": "",
+                "title": "DA declares food security emergency to curb rising rice prices",
+                "description": "The Department of Agriculture (DA) has declared a food security emergency in response to the rising cost of rice, which has reached P50 to P60 per kilo.",
+                "date": "2025-02-03T10:24:00.000Z",
+                "locale": ""
+            },            
+            {
+                "url": "https://www.sunstar.com.ph/manila/da-declares-food-security-emergency",
+                "shortUrl": "",
+                "title": "DA declares food security emergency",
+                "description": "Agriculture Secretary Francisco Tiu Laurel Jr. declared on Monday, February 3, 2025, a food security emergency on rice amid the “extraordinary” increase in price",
+                "date": "2025-02-03T10:18:26.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/money/economy/935028/food-security-emergency-on-rice-da-tiu-laurel/story/",
+                "shortUrl": "",
+                "title": "DA chief declares food security emergency on rice",
+                "description": "Department of Agriculture Secretary Francisco Tiu Laurel Jr. on Monday declared a food security emergency on rice based on the recommendations from the National Price Coordinating Council.",
+                "date": "2025-02-03T09:57:34.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/news/314554555/house-impeaches-vp-sara.html",
+            "shortUrl": "",
+            "title": "House impeaches VP Sara - Manila Standard",
+            "description": "4th complaint transmitted to Senate for impeachment trial The House of Representatives on Wednesday voted to impeach Vice President Sara Duterte in a historic decision supported by 215 lawmakers",
+            "date": "2025-02-05T16:45:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/view-manila-understanding-united-states-typhon-missile-launcher/",
+            "shortUrl": "",
+            "title": "View from Manila: Understanding the US Typhon missile launcher",
+            "description": "President Marcos chastises Beijing over talk on the US Mid-Range Capability mission system",
+            "date": "2025-02-03T14:11:04.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2032654/impact-of-us-aid-freeze-on-ph-its-small-anyway",
+            "shortUrl": "",
+            "title": "Impact of US aid freeze on PH: It’s small anyway",
+            "description": "Manila, Philippines—In a major policy shift, United States President Donald Trump ordered a suspension of US foreign aid, a move that has profound consequences for many countries, including the Philippines.",
+            "date": "2025-02-07T22:51:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://pcij.org/2025/02/02/cagayan-frontline-province-west-philippine-sea-dispute-agriculture-tops-concern/",
+            "shortUrl": "",
+            "title": "In Cagayan, a frontline province in West PH Sea dispute, agriculture is the top concern - PCIJ.org",
+            "description": "Three months before the May 12 national elections, agriculture, law and order, and environment were the leading topics in news and commentary programs at major local radio stations in Cagayan province.",
+            "date": "2025-02-02T07:45:28.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        }
+    ]
+}
