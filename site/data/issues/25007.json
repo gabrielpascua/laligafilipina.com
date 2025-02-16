@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25007,
+        "date": "2025-02-16T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2034631/deadly-grip-of-cardiovascular-diseases-on-filipino-families",
+        "shortUrl": "",
+        "title": "Deadly grip of cardiovascular diseases on Filipino families",
+        "description": "Manila, Philippines—Think of your loved ones — your family, friends, people you work with, or even the people in your community. Can you name someone who has suffered a heart attack or stroke?",
+        "date": "2025-02-15T02:10:53.000Z",
+        "tag": "Health",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Start of the 2025 Election Campaigns",
+            "url": "https://www.gmanetwork.com/news/topstories/nation/935897/eleksyon-2025-the-do-s-and-don-ts-during-campaign-period/story/",
+            "shortUrl": "",
+            "title": "Eleksyon 2025: The do's and don'ts during campaign period",
+            "description": "The 90-day campaign period for the national candidates vying for positions in Eleksyon 2025 started Tuesday, February 11, while local candidates will begin wooing their constituents on March 28.",
+            "date": "2025-02-11T21:16:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/elections/kontra-daya-study-party-list-groups-not-represent-marginalized-february-2025/",
+                "shortUrl": "",
+                "title": "Over half of party-list groups do not represent marginalized – watchdog",
+                "description": "Kontra Daya finds that dozens of party-list groups in the upcoming elections have links to political dynasties and big business",
+                "date": "2025-02-12T15:36:11.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://pcij.org/2025/02/11/television-radio-ads-2025-candidates-philippine-elections-billions-before-discounts/",
+                "shortUrl": "",
+                "title": "Before the campaign period, TV and radio ads of 2025 candidates exceed P10B before discounts",
+                "description": "Candidates in the May 2025 Philippine elections aired television and radio ads worth over P10 billion before discounts from January to December 2024, based on newly released data that the Philippine Center for Investigative Journalism (PCIJ) obtained from Nielsen Ad Intel.",
+                "date": "2025-02-11T06:45:40.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/nation/2025/2/11/look-senate-bets-kick-off-campaign-period-1236",
+                "shortUrl": "",
+                "title": "LOOK: Senate bets kick off campaign period",
+                "description": "The campaign period for senatorial and party-list candidates kicked off on Tuesday.",
+                "date": "2025-02-11T04:36:44.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.sunstar.com.ph/davao/uncharted-territory-ph-politics-writes-history-in-impeachment-of-2nd-highest-official",
+            "shortUrl": "",
+            "title": "Uncharted territory: PH politics writes history in impeachment of 2nd highest official",
+            "description": "VP Sara Duterte faces impeachment, marking a historic first in Philippine politics. Learn about the charges, political rift, and Senate trial.",
+            "date": "2025-02-10T08:06:27.960Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://globalnation.inquirer.net/263961/lured-to-work-in-scam-centers-filipinos-pay-or-escape-to-freedom",
+            "shortUrl": "",
+            "title": "Lured to work in ‘scam centers,’ Filipinos pay for freedom or escape",
+            "description": "In 2022, Paul (not his real name), a 27-year-old IT dropout, worked as an online bet collector at Philippine offshore gaming operators (POGO) in Makati. When President Ferdinand Marcos Jr. banned POGO operations in late 2024, Paul was one of the hundreds of Filipinos who lost their jobs in the country’s gambling sector.",
+            "date": "2025-02-12T02:34:24.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/sports/314557627/absolutely-wild-philippine-curlers-win-historic-asian-games-gold.html",
+            "shortUrl": "",
+            "title": "Miracle win!",
+            "description": "PH curlers bag 1st Asian Winter Games gold medal The Philippines on Friday bagged a historic and unlikely gold medal by stunning South Korea 5-3 in men's curling at the Asian Winter Games in China’s Harbin.",
+            "date": "2025-02-14T16:55:00.000Z",
+            "tag": "Sports",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2025/2/11/da-to-lower-rice-prices-in-kadiwa-stores",
+            "shortUrl": "",
+            "title": "DA set to reduce rice prices at Kadiwa by up to ₱3",
+            "description": "The Department of Agriculture (DA) is set to reduce rice prices under the Rice-for-All (RFA) program, available at Kadiwa ng Pangulo (KNP) stores, effective on Wednesday, Feb. 12.",
+            "date": "2025-02-11T06:14:00.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        }
+    ]
+}
