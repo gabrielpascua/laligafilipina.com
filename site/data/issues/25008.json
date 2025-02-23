@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25008,
+        "date": "2025-02-23T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2036757/neglected-and-forgotten-marcos-wealth-case-junked",
+        "shortUrl": "",
+        "title": "‘Neglected and forgotten’ Marcos wealth case junked",
+        "description": "Manila, Philippines — “Neglected and forgotten.” Thus said the antigraft court as it dismissed another ill-gotten wealth case against the late President Ferdinand Marcos Sr., his wife,",
+        "date": "2025-02-21T13:42:59.000Z",
+        "tag": "Corruption",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Midterm General Election Party-List System",
+            "url": "https://manilastandard.net/news/elections-2025/314559060/only-15-party-lists-will-secure-seatssurvey.html",
+            "shortUrl": "",
+            "title": "Only 15 party-lists will secure seats - survey",
+            "description": "As the election campaign kicked off its first month, only 15 party-lists—roughly 10% of the 155 vying for congressional seats—are projected to secure seats in the 2025 elections if voting were held today",
+            "date": "2025-02-18T15:55:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2025/2/22/our-party-list-system-and-matalinong-boto-2025",
+                "shortUrl": "",
+                "title": "Our party-list system and Matalinong Boto 2025",
+                "description": "In last week’s column I made mention of the Manila Bulletin’s ongoing Matalinong Boto campaign against election-related violence, against fake news, and against mud-slinging and character assassination. I commented on how social media, with it’s lack of fact-checking or verifying posts, could be seen as one of the major culprits for the disinformation that spreads like wildfire.",
+                "date": "2025-02-22T16:03:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://qa.philstar.com/opinion/2025/02/19/2422493/negative-list",
+                "shortUrl": "",
+                "title": "The negative list",
+                "description": "With candidates and parties opting for negative campaigning, there are now people who are also dwelling on the negative, swapping notes on who they will NOT vote for in May.",
+                "date": "2025-02-18T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/nation/2025/2/16/wrap-why-it-matters-if-a-party-list-rep-isn-t-from-the-poor-and-marginalized-0129",
+                "shortUrl": "",
+                "title": "WRAP: Why it matters if a party-list rep isn’t from the poor and marginalized",
+                "description": "An election watchdog this week flagged more than half of the groups running in the party-list elections of having dubious claims of representing the marginalized.",
+                "date": "2025-02-16T17:29:10.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pcij.org/2025/02/17/philippines-rice-prices-nueva-ecija-agents-role/",
+            "shortUrl": "",
+            "title": "In Nueva Ecija, agents are getting bolder in setting palay prices",
+            "description": "San Jose City — Rice miller Marivic Violago-Belen was on the stairs of her family’s home in San Jose City, Nueva Ecija when she closed a palay deal worth hundreds of thousands of pesos at P31 per kilogram.",
+            "date": "2025-02-16T22:05:35.000Z",
+            "tag": "Food Supply",
+            "locale": ""
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=z9IiZkMKi68",
+            "shortUrl": "",
+            "title": "Why China Will Never Surrender the South China Sea",
+            "description": "As the conflict heats up again in the South China Sea, we want to understand why? What do these countries, particularly China, hope to gain by claiming all this territory? And what stories do they tell about why they are entitled to it? ",
+            "date": "2025-02-20T13:01:33.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/business/philippines-removed-financial-action-task-force-gray-list-february-2025/",
+            "shortUrl": "",
+            "title": "In a boon for OFWs, <abbr title=\"Financial Action Task Force\">FATF</abbr> removes Philippines from 'gray list'",
+            "description": "The exit 'will support business, strengthen the country's position as an attractive destination for foreign direct investment, and benefit Filipinos, particularly OFWs,' the Marcos government says",
+            "date": "2025-02-22T07:01:34.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.bbc.com/news/articles/cvgdr4r2l31o",
+            "shortUrl": "",
+            "title": "Philippines: Manila town offers bounty for mosquitoes as dengue rises",
+            "description": "Officials in central Manila are offering two pesos for every five mosquitoes captured, dead or alive.",
+            "date": "2025-02-19T06:06:09.977Z",
+            "tag": "Health",
+            "locale": ""
+        }
+    ]
+}
