@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25009,
+        "date": "2025-03-02T15:05:04.594Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://opinion.inquirer.net/181099/edsa-is-for-the-young",
+        "shortUrl": "",
+        "title": "EDSA is for the young",
+        "description": "As custom dictates, Filipinos of a certain age will spend the 25th of February performing their annual rite of self-reflection — and self-flagellation — about the historic events remembered on this day.",
+        "date": "2025-02-25T13:00:00.000Z",
+        "tag": "History",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Isabela Bridge Collapse",
+            "url": "https://mb.com.ph/2025/2/27/newly-opened-bridge-in-isabela-collapses",
+            "shortUrl": "",
+            "title": "6 hurt as Cabagan-Santa Maria Bridge in Isabela collapses",
+            "description": "Cauayan City, Isabela – Six persons were reportedly injured when a portion of the Cabagan-Santa Maria Bridge in Barangay Casibarag Norte, Cabagan, Isabela collapsed on Thursday night, Feb. 27.",
+            "date": "2025-02-27T13:57:00.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": "Isabela"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314562936/p1-2-b-new-bridge-collapses.html",
+                "shortUrl": "",
+                "title": "P1.2-b new bridge collapses",
+                "description": "Isabela guv blames dump truck with 102-ton boulders; 6 injured Cabagan, Isabela—A portion of the P1.2 billion Cabagan-Santa Maria Bridge in Isabela",
+                "date": "2025-02-28T16:45:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/regions/2025/2/28/collapsed-cabagan-santa-maria-bridge-just-opened-feb-2025-cost-p1-2-b-1024",
+                "shortUrl": "",
+                "title": "Collapsed Cabagan-Santa Maria bridge just opened Feb 2025, cost P1.2-B - DPWH",
+                "description": "The Cabagan-Santa Maria Bridge in Isabela, a portion of which collapsed Thursday night, had just finished construction earlier this month at a cost of P1.225 billion.",
+                "date": "2025-02-28T02:24:56.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/937842/acountability-over-p1-2b-isabela-bridge-collapse-sought/story/",
+                "shortUrl": "",
+                "title": "Accountability over P1.2B Isabela bridge collapse sought",
+                "description": "A lawmaker called for accountability in the partial collapse of the newly constructed P1.2-billion Cabagan-Sta. Maria Bridge in Isabela.",
+                "date": "2025-03-01T10:48:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.sunstar.com.ph/cebu/feature/unmasking-the-silent-killer-unfriending-bad-cholesterol",
+            "shortUrl": "",
+            "title": "Unmasking the silent killer, unfriending bad cholesterol",
+            "description": "The last thing Lau remembered were the cries of his grade three pupils, shaking him and tapping his legs before he totally lost consciousness. When consciousness came back, he was in his hospital bed in the intensive care unit of a local hospital.",
+            "date": "2025-03-01T07:07:54.270Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/02/25/2423966/us-exempts-336-million-philippines-aid-freeze",
+            "shortUrl": "",
+            "title": "US exempts $336 million Philippines aid from freeze",
+            "description": "The United States has exempted a “portion” of its military assistance to the Philippines from its foreign aid freeze, the Department of Foreign Affairs confirmed yesterday. The DFA did not disclose the exact amount the US exempted.",
+            "date": "2025-02-24T16:00:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rfa.org/english/southchinasea/2025/02/26/china-philippines-south-china-sea-palawan-zheng-he/",
+            "shortUrl": "",
+            "title": "Chinese, Philippine social media users at odds over claim on Palawan ",
+            "description": "Chinese commentators maintain it was earlier called Zheng He island after a famous explorer",
+            "date": "2025-02-26T13:02:19.915Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://news.microsoft.com/source/asia/2025/02/26/deped-and-microsoft-drive-ai-adoption-in-philippine-education/",
+            "shortUrl": "",
+            "title": "DepEd and Microsoft Drive AI Adoption in Philippine Education  - Source Asia",
+            "description": "The Department of Education (DepEd) and Microsoft are working together to drive educational advancements in the Philippines through generative AI technology and comprehensive skilling programs for students and educators, as part of the Presidential Digitalization Blueprint. ",
+            "date": "2025-02-26T01:48:09.000Z",
+            "tag": "Technology",
+            "locale": ""
+        }
+    ]
+}
