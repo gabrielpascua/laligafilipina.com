@@ -1,0 +1,93 @@
+{
+    "issue": {
+        "number": 25010,
+        "date": "2025-03-09T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/newsbreak/investigative/filipino-migrant-fishers-toil-foreign-vessels-unpaid-wages-salary/",
+        "shortUrl": "",
+        "title": "Filipino migrant fishers toil on foreign vessels, return home with unpaid wages",
+        "description": "Some migrant fishers get a few months’ worth of salary, others get nothing. They could either file a case and wait years, or settle for only part of what they worked for in the high seas.",
+        "date": "2025-03-04T10:12:04.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Philippine Air Force's FA-50 Fighter Jet Crash",
+
+                "url": "https://mb.com.ph/2025/3/6/fa-50-crash-how-s-the-weather-in-bukidnon-brother",
+                "shortUrl": "",
+                "title": "FA-50 crash: ‘How’s the weather in Bukidnon, brother?’",
+                "description": "I did not know that he had a mission. The last time he contacted me, he sent me a message inquiring about the weather here in Bukidnon. ‘How’s the weather in Bukidnon, brother?’ he asked. I did not know that the reason he was asking about the weather is because he would be deployed that night.",
+                "date": "2025-03-07T00:17:00.000Z",
+                "locale": "Bukidnon"
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/938084/paf-s-fa-50-fighter-jet-goes-missing/story/",
+                "shortUrl": "",
+                "title": "PAF’s FA-50 fighter jet goes missing",
+                "description": "The Philippine Air Force (PAF) on Tuesday said its FA-50 fighter jet went missing during a tactical night operation in support of ground troops.",
+                "date": "2025-03-04T04:09:20.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2025/03/06/2426245/fighter-jet-wreckage-found-2-pilots-dead",
+                "shortUrl": "",
+                "title": "Fighter jet wreckage found; 2 pilots dead",
+                "description": "After hours of full-scale search and recovery operations for its missing FA-50 fighter jet, the Philippine Air Force’s worst fears were realized.",
+                "date": "2025-03-05T16:00:00.000Z",
+                "tag": "Disasters and Response",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/afp-honors-fallen-airmen",
+                "shortUrl": "",
+                "title": "AFP honors fallen airmen",
+                "description": "The Armed Forces of the Philippines (AFP) honored the bravery and sacrifice of the two FA-50 fighter pilots who perished in a crash in Bukidnon last week.",
+                "date": "2025-03-09T02:41:12.467Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2041188/silent-no-more-how-children-with-disabilities-fight-online-sexual-abuse-in-ph",
+            "shortUrl": "",
+            "title": "Silent no more: How children with disabilities fight online sexual abuse in PH",
+            "description": "Manila, Philippines — One in every hundred Filipino children has been abused to create new child sexual exploitation material. If this can happen to children in general, how much more to those with disabilities",
+            "date": "2025-03-07T00:01:00.000Z",
+            "tag": "Human Rights",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314564342/heat-wave-shuts-down-schools-in-several-parts-of-metro-manila.html",
+            "shortUrl": "",
+            "title": "Heat wave shuts down schools in several parts of Metro Manila",
+            "description": "Soaring temperatures shut down schools in nearly half of Metro Manila yesterday, local officials said. In Malabon, education department official Edgar Bonifacio said the suspensions affected more than 68,000 students across 42 schools.",
+            "date": "2025-03-03T17:00:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url":"https://pcij.org/2025/03/04/grab-in-vehicle-audio-recording-ongoing-appeal-suspension-order-privacy-issues/",
+            "shortUrl": "",
+            "title": "Grab resumes in-vehicle audio recording amid appeal of suspension order",
+            "description": "January 27 was a day of justice for Grab Car driver Jerricho Narvaez who was cleared of a sexual harassment allegation from a student-passenger.",
+            "date": "2025-03-03T21:05:41.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.abs-cbn.com/news/nation/2025/3/4/comelec-junks-disqualification-case-vs-tulfo-brothers-kin-1236",
+            "shortUrl": "",
+            "title": "Comelec junks disqualification case vs Tulfo brothers, kin",
+            "description": "The Commission on Elections on Tuesday dismissed the poll disqualification case against Senate candidates Ben and Erwin Tulfo, and other members of their clan.",
+            "date": "2025-03-04T04:36:17.000Z",
+            "tag": "Politics",
+            "locale": ""
+        }
+    ]
+}
