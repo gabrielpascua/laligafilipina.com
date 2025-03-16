@@ -1,0 +1,91 @@
+{
+    "issue": {
+        "number": 25011,
+        "date": "2025-03-16T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://globalnation.inquirer.net/266700/the-fall-of-the-punisher-rodrigo-dutertes-path-to-the-icc",
+        "shortUrl": "",
+        "title": "The fall of ‘The Punisher’: Rodrigo Duterte’s path to the ICC",
+        "description": "Manila, Philippines — Rodrigo Duterte, the 16th president of the Philippines, rose to power in 2016 on a promise to eradicate crimes, particularly illegal drugs.",
+        "date": "2025-03-12T01:21:33.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Former President Duterte's International Court Arrest",
+            "url": "https://pcij.org/2025/03/13/rodrigo-duterte-arrested-international-criminal-court-crimes-against-humanity-case/",
+            "shortUrl": "",
+            "title": "Rodrigo Duterte arrested, placed in ICC custody in The Hague for crimes against humanity",
+            "description": "Former President Rodrigo Duterte was arrested by the International Criminal Police Organization (Interpol) on Tuesday, March 11, on his arrival in Manila from Hong Kong in connection with a case of crimes against humanity he’s facing before the International Criminal Court (ICC).",
+            "date": "2025-03-12T19:07:50.000Z",
+            "locale": ""
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314568127/i-am-responsible-for-war-on-drugs-policy.html",
+                "shortUrl": "",
+                "title": "‘I am responsible’ for war on drugs policy",
+                "description": "UN Human Rights chief: ICC trial key to address impunity Rotterdam—Former President Rodrigo Duterte said he was \"responsible\" for his administration's bloody war on drugs as the International Criminal Court took him into custody Wednesday to face charges of crimes against humanity.",
+                "date": "2025-03-13T17:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/voices/thought-leaders/in-this-economy-no-icc-try-duterte-economic-crimes/",
+                "shortUrl": "",
+                "title": "[In This Economy] Sadly, there’s no ICC to try Duterte’s ‘economic crimes’",
+                "description": "Since there’s no legal mechanism to do so, we will have to settle for two things: Duterte’s trial at the ICC and a much wiser electorate in the 2028 elections and beyond",
+                "date": "2025-03-14T08:51:48.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2025/03/14/2428527/icc-bares-charges-vs-duterte-murder-least-43-people-davao-and-nationwide-drug-war",
+                "shortUrl": "",
+                "title": "First hearing: ICC charges Duterte with murder of at least 43 people as crimes against humanity",
+                "description": "The ICC formally presented charges to former President Rodrigo Duterte during his first court appearance, saying he faces accusations of crimes against humanity for at least 43 killings",
+                "date": "2025-03-14T14:58:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.nytimes.com/2025/03/12/world/asia/philippines-duterte-arrest-marcos.html",
+            "shortUrl": "",
+            "title": "A Chance for Justice in a Notorious Drug War",
+            "description": "Running parallel to Rodrigo Duterte’s transfer to the International Criminal Court in The Hague is a monthslong feud with the Philippines’ current president.",
+            "date": "2025-03-12T14:23:44.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.theguardian.com/world/2025/mar/14/the-senator-the-priest-the-forensic-pathologist-the-people-who-bought-ex-president-duterte-to-justice",
+            "shortUrl": "",
+            "title": "The senator, the priest, the forensic pathologist: the people who brought ex-president Duterte to justice",
+            "description": "For years many brave Filipinos have worked tirelessly, in and out of the spotlight, to expose the horrors of the deadly campaign",
+            "date": "2025-03-14T12:35:10.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },
+        {
+            "url": "https://www.wsj.com/world/asia/philippines-duterte-marcos-family-feud-584410d3",
+            "shortUrl": "",
+            "title": "The Epic Dynastic Feud Behind the Arrest of the Former Philippine President",
+            "description": "The power struggle between the Philippines’s Marcos and Duterte families has roiled the key American ally as Rodrigo Duterte stands accused of crimes against humanity.",
+            "date": "2025-03-13T03:00:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.thenation.com/article/world/rodrigo-duterte-philippines/",
+            "shortUrl": "",
+            "title": "Rodrigo Duterte Used the Philippines’ US-Made Constitution Against Itself",
+            "description": "The autocratic spectacle of Duterte’s presidency should be a warning to the United States.",
+            "date": "2025-03-14T08:52:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        }
+    ]
+}
