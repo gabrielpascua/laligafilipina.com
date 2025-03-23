@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25012,
+        "date": "2025-03-23T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://www.cjr.org/world/duterte-arrest-strongman-autocrat-marcos-davao-mindanao-drug-war-death-squad-philippines.php",
+        "shortUrl": "",
+        "title": "On the Arrest of an Autocrat",
+        "description": "Journalists, lawyers, clergy, and human rights activists persisted in the Philippines, even when hope for accountability seemed nonexistent. ",
+        "date": "2025-03-17T04:00:00.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Arrest of Former President Rodrigo Duterte",
+            "url": "https://www.rappler.com/newsbreak/in-depth/nicolas-torre-iii-profile-rodrigo-duterte-arrest-hague/",
+            "shortUrl": "",
+            "title": "It took a Nicolas Torre to haul Rodrigo Duterte to The Hague",
+            "description": "Mindanaoan Torre is instrumental in the arrest of two high-profile suspects: ICC-charged Duterte and alleged trafficker Quiboloy",
+            "date": "2025-03-22T12:49:20.000Z",
+            "locale": "",
+            "tag":"War on Drugs"
+        },
+        "secondary": [
+            {
+                "url": "https://www.thenation.com/article/world/rodrigo-duterte-hague/",
+                "shortUrl": "",
+                "title": "Rodrigo Duterte Is at The Hague. What’s Next for the Philippines?",
+                "description": "His arrest by the ICC was a monumental step in prosecuting his bloody drug war. But it’s also the latest episode in a battle between the Philippines’ two political dynasties.",
+                "date": "2025-03-18T09:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/3/18/british-lawyer-kaufman-preparing-for-strong-defense-to-acquit-duterte-at-icc",
+                "shortUrl": "",
+                "title": "British lawyer Kaufman preparing for ‘strong defense’ to acquit Duterte at ICC",
+                "description": "British-Israeli lawyer Nicholas Kaufman, the lead counsel of former president Rodrigo Duterte’s defense team, said they are preparing “a strong defense” for the former president’s acquittal in the crimes against humanity of murder case before the International Criminal Court (ICC).",
+                "date": "2025-03-18T14:51:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/davao/petition-calls-on-icc-to-release-duterte-gains-470k-signatures",
+                "shortUrl": "",
+                "title": "Petition calls on ICC to release Duterte, gains 470,000 signatures",
+                "description": "Over 470,000 people sign an online petition on change.org demanding Rodrigo Duterte's return from the ICC, as supporters flood social media with messages of support.",
+                "date": "2025-03-19T16:29:50.112Z",
+                "locale": ""
+            }            
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/news/314569510/nbi-rescues-3-filipinos-from-cambodia-scam-farm.html",
+            "shortUrl": "",
+            "title": "NBI rescues 3 Filipinos from Cambodia scam farm",
+            "description": "The National Bureau of Investigation (NBI) on Monday announced the rescue of three Filipino nationals who were forced to work as scammers while being",
+            "date": "2025-03-17T08:56:52.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/03/20/2429724/philippines-third-most-heat-impacted-country-asia",
+            "shortUrl": "",
+            "title": "‘Philippines third most heat-impacted country in Asia’",
+            "description": "The Philippines is the third most heat-impacted country in Asia, based on nonprofit Climate Central&rsquo;s report.",
+            "date": "2025-03-19T16:00:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2044353/more-food-names-found-on-ovp-secret-fund-receipts-kamote-mango",
+            "shortUrl": "",
+            "title": "More food names found on OVP secret fund receipts: Kamote, Mango",
+            "description": "Manila, Philippines — More names seemingly derived from food were found as “non-existent” recipients of confidential funds of Vice President Sara Duterte&#039;s office, according to a lawmaker.",
+            "date": "2025-03-17T01:30:19.000Z",
+            "tag": "Corruption",
+            "locale": ""
+        },
+        {
+            "url": "https://www.esquiremag.ph/life/travel/boracay-caticlan-bridge-opposition-a7940-20250317",
+            "shortUrl": "",
+            "title": "Today I Learned: Why are People Opposed to the P8-Billion Boracay-Caticlan Bridge Project",
+            "description": "Stakeholders have raised serious concerns about the bridge even as the DPWH moves to open competitive bids for the project.",
+            "date": "2025-03-17T10:47:00.000Z",
+            "tag": "Infrastructure and Urban Development",
+            "locale": ""
+        }
+    ]
+}
