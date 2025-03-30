@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25013,
+        "date": "2025-03-30T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.nytimes.com/2025/03/23/opinion/duterte-icc-drugs-victims.html",
+        "shortUrl": "",
+        "title": "Opinion | Duterte Is Enjoying the Due Process He Denied to His Thousands of Victims",
+        "description": "In Duterte’s Philippines, due process was not a right, it was a privilege that was not extended to the victims of his drug war.",
+        "date": "2025-03-23T05:00:05.000Z",
+        "tag": "War on Drugs",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Alex Eala Semis Run at the Miami Open",
+            "url": "https://manilastandard.net/news/314573810/world-no-4-pegula-edges-eala-in-semis-match.html",
+            "shortUrl": "",
+            "title": "World no. 4 Pegula edges Eala in semis match",
+            "description": "A standing ovation and a sea of Philippine flag-waving supporters greeted Filipino tennis sensation Alex Eala as she exited the court, her Miami Open",
+            "date": "2025-03-28T16:35:00.000Z",
+            "locale": "",
+            "tag": "Sports"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/network/alexandra-eala-stuns-iga-swiatek-to-make-the-miami-open-semifinals",
+                "shortUrl": "",
+                "title": "Alexandra Eala stuns Iga Swiatek to make the Miami Open semifinals",
+                "description": "Miami Gardens, Florida — Teenager Alexandra Eala pulled off another upset at the Miami Open on Wednesday when she knocked off five-time Grand Slam champion and second-seeded Iga Swiatek 6-2, 7-5 in the quarterfinals.",
+                "date": "2025-03-26T23:48:24.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/sports/alex-eala-cracks-top-100-dream-run-miami-open-2025/",
+                "shortUrl": "",
+                "title": "Alex Eala cracks top 100, nets biggest purse yet in Miami Open dream run",
+                "description": "Alex Eala crashes the WTA top 100 for the first time as she's also set to rake in her biggest prize money yet from a single tournament after advancing to the Miami Open semifinals",
+                "date": "2025-03-27T07:00:13.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/3/28/alex-eala-captivates-ph-fans-with-fairytale-run-in-miami-open",
+                "shortUrl": "",
+                "title": "Alex Eala captivates PH fans with fairytale run in Miami Open",
+                "description": "Sure, she was not on the level of Manny Pacquiao or Caloy Yulo just yet in terms of popularity but for a good two and a half hours, Eala had the Filipinos, not specifically tennis fans, glued to their phones and screens, either watching or waiting for updates in her semifinals match in the Miami Open on Friday, March 28.",
+                "date": "2025-03-28T06:16:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.bbc.com/news/articles/ckgn0794z1jo",
+            "shortUrl": "",
+            "title": "Alice Guo: The Philippine mayor accused of trafficking and spying for China",
+            "description": "Alice Guo's star was on the rise in the Philippines - until alleged links to a scam operation led to her downfall.",
+            "date": "2025-03-24T23:05:02.230Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.nbcnews.com/news/asian-america/green-card-holder-50-years-detained-ice-rcna198044",
+            "shortUrl": "",
+            "title": "Family calls for release of woman legally in U.S. for 50 years and now detained by ICE",
+            "description": "Lewelyn Dixon was arrested at the Seattle airport and placed in ICE custody after she came back from a trip to her native Philippines in late February.",
+            "date": "2025-03-26T19:56:54.983Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://newsinfo.inquirer.net/2046716/feeding-the-problem-junk-food-ads-target-filipino-kids-2",
+            "shortUrl": "",
+            "title": "Feeding the problem: Junk food ads target Filipino kids",
+            "description": "Manila, Philippines—Every day, Filipino children are exposed to a constant stream of ads promoting donuts, soft drinks, fried chicken, instant noodles, and chocolate-covered treats. These aren’t just commercials",
+            "date": "2025-03-25T22:44:31.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/03/29/2431901/motorcades-rallies-mark-start-local-campaign",
+            "shortUrl": "",
+            "title": "Motorcades, rallies mark start of local campaign",
+            "description": "The 45-day local campaign period for the May elections officially began yesterday, with candidates across Metro Manila launching their bids through rallies, house-to-house campaigns and online promotions.",
+            "date": "2025-03-28T16:00:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        }
+    ]
+}
