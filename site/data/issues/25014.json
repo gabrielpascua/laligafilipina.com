@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25014,
+        "date": "2025-04-06T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.gmanetwork.com/news/specials/content/271/sex-education-how-far-is-too-far/",
+        "shortUrl": "",
+        "title": "Sex Education: How Far Is Too Far?",
+        "description": "Educators, doctors, government officials, experts, parents, and the pupils themselves are asked for their insights if sexual education in the Philippines has crossed the line, or is still a long way to go in guiding the Filipino youth.",
+        "date": "2025-03-27T04:00:00.000Z",
+        "tag": "Education",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "2025 Election News",
+            "url": "https://newsinfo.inquirer.net/2050004/2025-elections-what-the-senate-would-look-like-if-surveys-prove-true",
+            "shortUrl": "",
+            "title": "2025 elections: What the Senate would look like if surveys prove true",
+            "description": "Manila, Philippines—There are 66 candidates for 12 seats in the Senate, considered as the upper chamber of Congress that has the duty to uplift lives, especially of the poor, through legislation.",
+            "date": "2025-04-05T00:18:20.000Z",
+            "locale": "",
+            "tag": "Politics"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/pasig-congressional-bet-in-hot-water-over-single-mom-joke",
+                "shortUrl": "",
+                "title": "Pasig congressional bet in hot water over single mom joke",
+                "description": "A Congressional candidate in Pasig City, who went viral for a sexually charged joke about single mothers, is currently in hot water after the Commission on Elections (Comelec) issued a show cause order against him.",
+                "date": "2025-04-04T07:10:58.258Z",
+                "locale": ""
+            },
+            {
+                "url": "https://interaksyon.philstar.com/politics-issues/2025/04/04/294401/willie-revillame-senator-mandate-bigyan-ng-jacket-joke/",
+                "shortUrl": "",
+                "title": "Willie Revillame reminded of senator's mandate after 'bigyan ng jacket' joke",
+                "description": "Television host Willie Revillame was reminded of a senator's mandate following his joke about giving 'jackets' if he ever faced conflicts in the upper chamber.",
+                "date": "2025-04-04T08:35:47.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.nytimes.com/2025/04/05/world/asia/duterte-mayor-davao.html",
+                "shortUrl": "",
+                "title": "Detained in The Hague, Duterte Pursues a Political Comeback at Home",
+                "description": "Rodrigo Duterte, the former Philippine president who is facing charges of crimes against humanity, is running for mayor in a race analysts say he could win.",
+                "date": "2025-04-05T04:01:07.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pcij.org/2025/03/31/unfinished-project-portraits-stories-of-women-fighting-for-divorce-in-the-philippines/",
+            "shortUrl": "",
+            "title": "Unfinished project: Portraits, stories of women fighting for divorce in the Philippines",
+            "description": "It could have been the first documentary photography exhibition on the controversial issue of divorce. I did not know it at the time, but the silent power of the Catholic Church on divorce indirectly reaches the walls of arts institutions.",
+            "date": "2025-03-31T15:15:00.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314574880/marawi-math-prodigy-bound-for-mit-after-dominating-academics.html",
+            "shortUrl": "",
+            "title": "Marawi math prodigy bound for MIT after dominating academics",
+            "description": "A Moro student from Marawi City—known for his exceptional talent in mathematics, physics, chemistry, and statistics—is set to pursue higher education at the Massachusetts Institute of Technology (MIT) after winning top awards in national and international Olympiads.",
+            "date": "2025-04-01T08:26:15.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/sports/alex-eala-spot-wta-ranking-march-31-2025/",
+            "shortUrl": "",
+            "title": "Her-story official: Alex Eala 65-spot ranking rise marks biggest leap in WTA top 100",
+            "description": "Alex Eala is officially ranked No. 75 in the latest WTA rankings after an unprecedented giant-killer run in the Miami Open",
+            "date": "2025-03-31T06:40:54.000Z",
+            "tag": "Sports",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2025/4/3/march-inflation-of-1-8-lowest-in-4-years",
+            "shortUrl": "",
+            "title": "Inflation slides to nearly 5-year low of 1.8% in March 2025",
+            "description": "March inflation was the slowest in nearly five years, or since May 2020—at the height of the most stringent lockdowns at the onset of the Covid-19 pandemic—when the headline rate clocked in at 1.6 percent.",
+            "date": "2025-04-04T02:03:00.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}
