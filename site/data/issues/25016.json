@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25016,
+        "date": "2025-04-20T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.france24.com/en/live-news/20250419-money-power-violence-in-high-stakes-philippine-elections",
+        "shortUrl": "",
+        "title": "Money, power, violence in high-stakes Philippine elections",
+        "description": "Philippines election hopefuls like mayoral candidate Kerwin Espinosa have to ask themselves whether the job is worth taking a bullet.",
+        "date": "2025-04-19T10:13:10.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Holy Week 2025",
+            "url": "https://apnews.com/article/philippines-holy-week-612f26933d9fdd2be117c0a1ef7c01c0",
+            "shortUrl": "",
+            "title": "AP PHOTOS: Devout in the Philippines mark Holy Week with flagellations, processions and passion play",
+            "description": "KALAYAAN, Philippines (AP) — Dozens of penitents whip their backs to atone for their sins during Good Friday rites in the the southern Philippine town of Kalayaan, as Christians across this largely Catholic country commemorate the passion and sufferings of Jesus.",
+            "date": "2025-04-18T16:13:11.000Z",
+            "locale": "",
+            "tag": "Culture"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314580719/bloody-passion-play-sees-final-performance-of-veteran-jesus.html",
+                "shortUrl": "",
+                "title": "Bloody passion play sees final performance of veteran 'Jesus' - Manila Standard",
+                "description": "Manila, Philippines—Scores of penitents whipped themselves bloody under a scorching Philippine sun while others were nailed to crosses in a polarizing Good Friday tradition drawing the most extreme of Catholic devotees.",
+                "date": "2025-04-18T13:10:43.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/life-and-style/arts-culture/reasons-catholics-filipinos-do-not-eat-meat-holy-week/",
+                "shortUrl": "",
+                "title": "Why some Catholics don't eat meat during Holy Week",
+                "description": "For many Filipino Catholics, it's become a personal sacrifice",
+                "date": "2025-04-16T13:21:21.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://newsinfo.inquirer.net/2053244/puni-and-magdarame-pampangas-penitential-holy-week-tradition",
+                "shortUrl": "",
+                "title": "Puni and magdarame: Pampanga’s penitential Holy Week tradition",
+                "description": "Manila, Philippines — As Holy Week started on Sunday, April 13, the streets of Pampanga, a province in Central Luzon, is again teeming with its rich traditions, which residents have kept alive",
+                "date": "2025-04-16T20:38:30.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://mb.com.ph/2025/4/18/deped-class-opening-sy-2025-2026-june-16",
+            "shortUrl": "",
+            "title": "DepEd sets opening of classes for School Year 2025–2026 on June 16",
+            "description": "The Department of Education (DepEd) has officially set June 16 as the start of classes for School Year (SY) 2025–2026, marking a return to the pre-pandemic academic calendar.",
+            "date": "2025-04-18T12:49:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/manila/afp-welcomes-inclusion-of-west-philippine-sea-in-google-maps",
+            "shortUrl": "",
+            "title": "AFP welcomes inclusion of West Philippine Sea in Google Maps",
+            "description": "The Armed Forces of the Philippines (AFP) welcomed on Tuesday, April 15, 2025, the inclusion of the “West Philippine Sea” on Google Maps.",
+            "date": "2025-04-15T03:30:46.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/04/18/2436766/bone-disease-led-death-philippine-eagle-riley-foundation",
+            "shortUrl": "",
+            "title": "Bone disease led to death of Philippine eagle Riley — foundation",
+            "description": "Riley&#39;s death &quot;prompted the Foundation to review and strengthen its health and nutrition programs to prevent similar incidents,&quot; according to the foundation&#39;s statement on the eaglet&#39;s death.",
+            "date": "2025-04-18T02:44:00.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.tennis.com/baseline/articles/alexandra-eala-the-reality-of-travel-and-difficulty-of-securing-visas-with-a-philippine-passport",
+            "shortUrl": "",
+            "title": "Alexandra Eala: The reality of travel and difficulty of securing visas with a Philippine passport",
+            "description": "The Philippine passport allows visa-free or visa-on-arrival travel to only 65 countries and territories, making the global nature of tennis a challenge.",
+            "date": "2025-04-14T13:16:54.516Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
