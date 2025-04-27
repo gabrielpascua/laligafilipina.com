@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25017,
+        "date": "2025-04-27T15:05:04.594Z",
+        "theme": "dark centered"
+    },
+    "hero": {
+        "url": "https://opinion.inquirer.net/182602/hunger-as-public-perception",
+        "shortUrl": "",
+        "title": "Hunger as ‘public perception’?",
+        "description": "Pearl S. Buck perfectly captured the nature of hunger as a primeval motivation for humans when she wrote: “A hungry man can’t see right or wrong. He just sees food.”",
+        "date": "2025-04-22T12:35:00.000Z",
+        "tag": "Poverty",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Mourning the Death of Pope Francis \"Lolo Kiko\"",
+            "url": "https://manilastandard.net/news/314581548/the-voice-of-god-filipinos-wrestle-with-death-of-pope-francis.html",
+            "shortUrl": "",
+            "title": "'The voice of God': Filipinos wrestle with death of Pope Francis",
+            "description": "Manila, Philippines — Church bells rang out across the Philippines early Monday evening as Asia's bastion of Catholicism mourned the death of Pope",
+            "date": "2025-04-22T03:23:53.000Z",
+            "locale": "",
+            "tag": "Religion"
+        },
+        "secondary": [
+            {
+                "url": "https://www.bbc.com/news/articles/ckg2y4k3dpyo",
+                "shortUrl": "",
+                "title": "Pope Francis: Philippines remembers 'Lolo Kiko' who braved a typhoon for them",
+                "description": "Popes enjoy rockstar status in overwhelmingly Catholic Philippines. And yet, Pope Francis was special.",
+                "date": "2025-04-23T00:18:44.908Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.theguardian.com/world/2025/apr/24/pope-francis-philippines-death-catholicism-conclave",
+                "shortUrl": "",
+                "title": "In a bastion of Catholicism, Filipinos mourn Pope Francis and wonder who comes next",
+                "description": "The nation remembers pontiff’s trip to the Philippines, where he met Typhoon Haiyan survivors in a show of sympathy and humility",
+                "date": "2025-04-24T04:32:30.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/4/25/pope-jeep-back-in-spotlight-as-filipinos-mourn-pope-francis-passing",
+                "shortUrl": "",
+                "title": "‘Pope Jeep’ back in spotlight as Filipinos mourn Pope Francis’ passing",
+                "description": "The vehicle was displayed at the compound of the Minor Basilica and National Shrine of Jesus Nazareno in Quiapo, Manila on Friday, April 25, before being moved to Santuario de San Antonio Parish in Makati City, where it will remain until Sunday, April 27.",
+                "date": "2025-04-25T05:39:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.wallpaper.com/architecture/philippine-brutalism",
+            "shortUrl": "",
+            "title": "Enter the weird and wonderful world of Philippine brutalism",
+            "description": "Philippine brutalism is an architecture subgenre to be explored and admired; the brains and lens behind visual database Brutalist Pilipinas, Patrick Kasingsing, takes us on a tour",
+            "date": "2025-04-25T10:50:57.000Z",
+            "tag": "Design and Architecture",
+            "locale": ""
+        },
+        {
+            "url": "https://www.scmp.com/week-asia/politics/article/3307415/philippine-elections-will-overseas-filipinos-sway-vote",
+            "shortUrl": "",
+            "title": "Will overseas Filipino workers sway the Philippines’ midterm elections?",
+            "description": "Observers say mistrust of a newly introduced online voting system needs to be addressed to increase voter turnout among OFWs.",
+            "date": "2025-04-22T07:00:51.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/program/now-you-know/2025/4/22/aje-onl-nyk_jill_damatacpublishing-220425",
+            "shortUrl": "",
+            "title": "Why one woman self-deported from the US",
+            "description": "Immigrants of colour encounter the idea of race and racism for the first time when they migrate to a place like the US",
+            "date": "2025-04-22T14:47:57.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/sports/tennis-results-alex-eala-iga-swiatek-madrid-open-april-24-2025/",
+            "shortUrl": "",
+            "title": "Alex Eala falls short of repeat upset bid vs world No. 2 Iga Swiatek",
+            "description": "Filipina teen sensation Alex Eala comes close to pulling off another stunner, but five-time Grand Slam champion Iga Swiatek roars back from a set down in the Madrid Open",
+            "date": "2025-04-24T19:58:27.000Z",
+            "tag": "Sports",
+            "locale": ""
+        }
+    ]
+}
