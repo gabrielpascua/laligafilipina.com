@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25018,
+        "date": "2025-05-04T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.theguardian.com/world/2025/may/05/luis-antonio-tagle-cardinal-philippines-catholic-karaoke-priest-pope",
+        "shortUrl": "",
+        "title": "Who is Luis Antonio Tagle? The Philippine cardinal and ‘karaoke priest’ in the running for pope",
+        "description": "Tagle is considered progressive and humble, but has faced some criticism for his response to the drug war and sexual abuse in the church",
+        "date": "2025-05-05T03:51:47.000Z",
+        "tag": "Religion",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "<abbr title=\"Ninoy Aquino International Airport\">NAIA</abbr> Terminal 1 Car Crash",
+            "url": "https://newsinfo.inquirer.net/2059034/naia-car-crash-the-bollard-that-failed-to-protect",
+            "shortUrl": "",
+            "title": "NAIA car crash: The bollard that failed to protect",
+            "description": "Manila, Philippines — How deep should a bollard be?",
+            "date": "2025-05-07T19:24:22.000Z",
+            "locale": "",
+            "tag": "Infrastructure and Urban Development"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/2-dead-3-injured-as-suv-crashes-into-naia-terminal-1-departure-area",
+                "shortUrl": "",
+                "title": "2 dead, 3 injured as SUV crashes into NAIA Terminal 1 departure area",
+                "description": "Two individuals, including a four-year-old girl, were killed when a sports utility vehicle (SUV) crashed through the passenger entrance of the departure area at",
+                "date": "2025-05-04T06:00:08.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/people/naia-car-crash-malia-kates-masongsong-life-love/",
+                "shortUrl": "",
+                "title": "More than a moment: The life and love of Malia",
+                "description": "Malia's family wants people to remember her as a loving child who was well loved. They also ask: 'Please stop sharing videos of the accident. It’s painful and unfair to her memory. She was more than that moment—so much more.'",
+                "date": "2025-05-06T11:40:55.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/business/2025/05/09/2441591/notes-beat-what-went-wrong-naias-bollards",
+                "shortUrl": "",
+                "title": "Notes on the beat: What went wrong with NAIA’s bollards?",
+                "description": "Bollards are supposed to prevent vehicles from crashing into pedestrians, but this was not the case in the recent car crash at the Ninoy Aquino International Airport (NAIA) Terminal 1.",
+                "date": "2025-05-08T16:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.scmp.com/week-asia/politics/article/3308944/philippines-faces-educational-crisis-18-million-graduates-functionally-illiterate",
+            "shortUrl": "",
+            "title": "Philippines’ educational crisis: 18 million graduates ‘functionally illiterate’",
+            "description": "One in five high-school graduates cannot comprehend or understand a simple story, survey shows.",
+            "date": "2025-05-05T03:00:10.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://www.cnn.com/2025/05/09/asia/philippines-rodrigo-duterte-midterm-elections-intl-hnk",
+            "shortUrl": "",
+            "title": "Rodrigo Duterte is being held at The Hague. Next week he might be elected mayor of his hometown",
+            "description": "In the southern Philippine city of Davao, a spirited mayoral election campaign is in full swing, with candidates and their supporters out canvassing for votes.",
+            "date": "2025-05-10T02:47:19.652Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314587634/digital-voting-breeds-distrust-among-overseas-filipino-workers.html",
+            "shortUrl": "",
+            "title": "Digital voting breeds distrust among overseas Filipino workers",
+            "description": "Manila, Philippines—A new online voting system aimed at boosting turnout among the Philippines' millions of overseas workers ahead of Monday's midterm elections has been marked by confusion and fears of disenfranchisement.",
+            "date": "2025-05-08T02:34:32.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://news.mongabay.com/2025/05/viral-standoff-at-philippines-mt-pinatubo-exposes-decades-of-indigenous-exclusion/",
+            "shortUrl": "",
+            "title": "Viral standoff at Philippines’ Mt. Pinatubo exposes decades of Indigenous exclusion",
+            "description": "Avid hiker Maria* and her boyfriend were among the dozens of travelers who booked a tour of the Philippines’ Mount Pinatubo for April 18. Pinatubo, an active volcano, had its last major eruption in 1991, altering the surrounding landscape and producing a scenic crater lake that has since become popular with hikers and travelers.",
+            "date": "2025-05-09T05:10:03.000Z",
+            "tag": "Tourism",
+            "locale": ""
+        }
+    ]
+}
