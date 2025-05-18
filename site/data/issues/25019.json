@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25019,
+        "date": "2025-05-11T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://verafiles.org/articles/why-vote",
+        "shortUrl": "",
+        "title": "Why vote?",
+        "description": "Commentary: Elections give voters an opportunity every three years to reject non-performing, misbehaving, incompetent, corrupt and other types of bad leaders and replace them with aspirants suitable for the position. Every election presents a chance for improvement, not deterioration of the quality of the leaders we choose.",
+        "date": "1970-01-01T00:00:00.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "2025 Midterm Elections",
+            "url": "https://www.gmanetwork.com/news/topstories/nation/946480/comelec-proclaims-12-winning-senators-for-eleksyon-2025/story/",
+            "shortUrl": "",
+            "title": "Comelec proclaims 12 winning senators for Eleksyon 2025",
+            "description": "Comelec has proclaimed the 12 winning senators for Eleksyon 2025.",
+            "date": "2025-05-17T08:55:58.000Z",
+            "locale": "",
+            "tag": "Politics"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2025/05/17/2443799/undervoting-senatorial-race-analyst-says-37-possible-votes-unused",
+                "shortUrl": "",
+                "title": "Undervoting: 37% of possible senatorial votes unused, says analyst",
+                "description": "About 242 million senatorial votes went unused in the recent midterm elections as the average Filipino voter only shaded seven to eight candidates instead of the maximum 12, according to the president of a public opinion research firm.",
+                "date": "2025-05-17T08:03:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/mall-voting-nets-79-voter-turnout",
+                "shortUrl": "",
+                "title": "Mall voting nets 79% voter turnout",
+                "description": "Nearly 79 percent of registered voters participated in the Mall Voting Program during the May 12 midterm elections, according to the Commission on Elections (Comelec)",
+                "date": "2025-05-17T07:35:33.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/05/12/comelec-chief-early-voting-hours-a-big-help-to-priority-sectors",
+                "shortUrl": "",
+                "title": "Comelec chief: Early voting hours a big help to priority sectors",
+                "description": "Cavite - Commission on Elections (Comelec) Chairman George Garcia inspected priority polling centers in Silang Central Elementary School morning on Monday",
+                "date": "2025-05-12T04:11:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://time.com/7285803/philippines-ngo-red-tagging-terrorism-charges-intimidation-duterte-marcos-trump/",
+            "shortUrl": "",
+            "title": "How the Philippines Silences Advocacy Groups",
+            "description": "And how the Trump Administration could be taking a page from the same playbook.",
+            "date": "2025-05-16T11:30:00.000Z",
+            "tag": "Press Freedom",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/elections/badjao-batangas-vote-first-time-2025/",
+            "shortUrl": "",
+            "title": "From boats to ballot: Pride, hope energize first-time Badjao voters in Batangas",
+            "description": "The road that led to more Badjao voting in the 2025 elections was not a smooth one",
+            "date": "2025-05-12T09:05:04.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.inquirer.net/442128/45-degree-celsius-heat-alters-voting-behavior-in-many-areas/",
+            "shortUrl": "",
+            "title": "43°C heat alters voting behavior in many areas",
+            "description": "While some voters have decided to wait until the swelter eases, others are taking advantage of the extreme heat to escape the long lines leading to election precincts.",
+            "date": "2025-05-12T07:53:23.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314589499/basura-2025-ngo-flags-trash-fueled-midterm-polls.html",
+            "shortUrl": "",
+            "title": "Basura 2025: NGO flags trash-fueled midterm polls",
+            "description": "Politicians and their voters did not just make their voices heard on Monday—they also left behind a trail of trash. EcoWaste Coalition slammed candidates candidates in the 2025 midterm elections for the waste they generated",
+            "date": "2025-05-13T05:41:55.000Z",
+            "tag": "Environment",
+            "locale": ""
+        }
+    ]
+}
