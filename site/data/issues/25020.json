@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25020,
+        "date": "2025-05-18T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/voices/newsletters/best-marcos-arroyo-midterm-elections-curse-may-2025/",
+        "shortUrl": "",
+        "title": "[Rappler's Best] Marcos and the Arroyo ‘curse’",
+        "description": "'As we do our audits, analyses, and Monday-morning quarterbacking on the biggest midterm upset in nearly two decades, it bears noting that na-Arroyo si Marcos'",
+        "date": "2025-05-19T14:00:00.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Resignation Order to the President's Cabinet Secretaries",
+            "url": "https://newsinfo.inquirer.net/2062350/fwd-break-marcos-on-courtesy-resignation-of-all-cabinet-secretaries",
+            "shortUrl": "",
+            "title": "Marcos orders courtesy resignation of all Cabinet secretaries",
+            "description": "Manila, Philippines — President Ferdinand Marcos Jr. has called for the courtesy resignation of all Cabinet secretaries to recalibrate his administration following the results of the recent elections.",
+            "date": "2025-05-22T15:58:45.000Z",
+            "locale": "",
+            "tag": "Politics"
+        },
+        "secondary": [
+            {
+                "url": "https://mb.com.ph/2025/05/22/marcos-asks-all-cabinet-secretaries-to-resign",
+                "shortUrl": "",
+                "title": "Marcos asks all Cabinet secretaries to resign",
+                "description": "Following the unfavorable result of the recent midterm elections, President Marcos has called on all his Cabinet secretaries to hand in their resignations",
+                "date": "2025-05-21T23:56:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2025/05/22/2445046/sharper-faster-cleaner-what-marcos-demanding-cabinet-after-shakeup",
+                "shortUrl": "",
+                "title": "Sharper, faster, cleaner: What Marcos is demanding from Cabinet after shakeup",
+                "description": "Following a shock call for his secretaries to resign, President Ferdinand Marcos Jr. said he wants cabinet officials who act quickly and are free from corruption.",
+                "date": "2025-05-22T07:45:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/marcos-retains-economic-team-in-cabinet-revamp",
+                "shortUrl": "",
+                "title": "Marcos retains economic team in Cabinet revamp",
+                "description": "President Ferdinand Marcos Jr. is keeping his economic team following his call for all his Cabinet members to file their courtesy resignation in a bid to “realign government with the people’s expectations.”",
+                "date": "2025-05-23T08:30:21.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.seattletimes.com/seattle-news/another-filipino-green-card-holder-returning-to-wa-detained-at-sea-tac/",
+            "shortUrl": "",
+            "title": "Green card holder returning to U.S. held at Sea-Tac Airport for 4 days",
+            "description": "Washington resident Maximo Londonio is being held in custody after a trip to the Philippines. He now expects to be transferred to a Tacoma detention center.",
+            "date": "2025-05-20T01:30:39.000Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/topstories/nation/946601/deped-841-schools-to-join-pilot-run-of-revised-shs-curriculum/story/",
+            "shortUrl": "",
+            "title": "DepEd: 841 schools to join pilot run of revised SHS curriculum",
+            "description": "Over 800 schools nationwide are set to participate in the pilot run of the revised Senior High School (SHS) curriculum of the basic education program this incoming School Year 2025-2026, the Department of Education (DepEd) said Monday.",
+            "date": "2025-05-19T04:06:45.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://pcij.org/2025/05/20/obese-dynasties-of-the-philippines-results-crowned-again-but-reform-hopes-rise-2028-polls/",
+            "shortUrl": "",
+            "title": "The ‘obese’ dynasties of the Philippines are crowned again, but reform hopes rise for 2028 - PCIJ.org",
+            "description": "Seventeen relatives of Luis “Chavit” Singson’s political clan ran’s political clan in local races in Ilocos Sur, a province in northern Luzon with a little more than 700,000 people. One lost her electoral bid. Singsons occupy the seats of governor, vice governor, provincial board members, district representatives, city and municipal officials.",
+            "date": "2025-05-20T06:59:43.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/314592952/floods-displace-192k-people-across-maguindanao-del-sur.html",
+            "shortUrl": "",
+            "title": "Floods displace 192k people across Maguindanao del Sur",
+            "description": "Flash floods submerged 98 villages across Maguindanao del Sur on Tuesday night, displacing 38,689 families or around 192,000 people, according to the region’s top official.",
+            "date": "2025-05-21T16:35:00.000Z",
+            "tag": "Muslim Mindanao",
+            "locale": ""
+        }
+    ]
+}
