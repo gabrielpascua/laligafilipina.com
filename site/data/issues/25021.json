@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25021,
+        "date": "2025-05-25T15:05:04.594Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.inquirer.net/445691/china-assault-on-malaysia-sovereignty-draws-parallels-to-ph-ordeal/",
+        "shortUrl": "",
+        "title": "China assault on Malaysia sovereignty draws parallels to PH ordeal",
+        "description": "Less than 100 miles off the coast of Sarawak, Luconia Breakers is considered as the only feature visible even when there is high tide in Luconia Shoals, but over the years, the sandbar, which is close to where Malaysia is exploring oil and gas reserves, appeared to grow bigger.",
+        "date": "2025-05-29T03:23:39.000Z",
+        "tag": "China",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Bringing Back the No-Contact Apprehension Policy",
+            "url": "https://mb.com.ph/2025/05/24/kabado-na-ba-transparency-right-to-contest-violations-assured-as-ncap-reimplementation-starts-monday",
+            "shortUrl": "",
+            "title": "'Kabado na ba?': Transparency, right to contest violations assured as NCAP reimplementation starts Monday",
+            "description": "Many a motorist is probably starting to get nervous right now as authorities prepare for the reimplementation of the No-Contact Apprehension Policy (NCAP) on...",
+            "date": "2025-05-24T08:50:00.000Z",
+            "locale": "",
+            "tag": "Transportation"
+        },
+        "secondary": [
+            {
+                "url": "https://www.rappler.com/philippines/metro-manila/no-contact-apprehension-policy-how-it-works-pay-fines-appeal/",
+                "shortUrl": "",
+                "title": "No contact apprehension policy: How it works, how to pay fines, file an appeal",
+                "description": "(1st UPDATE) Here's a quick guide to the no contact apprehension policy, which will be reimplemented on major roads in Metro Manila starting Monday, May 26",
+                "date": "2025-05-25T13:16:47.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314594587/over-500-violations-on-1st-day-of-ncap.html",
+                "shortUrl": "",
+                "title": "Over 500 violations on 1st day of NCAP",
+                "description": "The Metropolitan Manila Development Authority (MMDA) apprehended over 500 vehicles on the first day of reimplementing the No Contact Apprehension Policy",
+                "date": "2025-05-26T16:25:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/metro/947623/mmda-violations-under-ncap-manually-reviewed/story/",
+                "shortUrl": "",
+                "title": "MMDA: Violations under NCAP 'manually' reviewed",
+                "description": "The Metropolitan Manila Development Authority (MMDA) said Wednesday that violations caught under the No Contact Apprehension Policy (NCAP) will be manually reviewed by its personnel before issuing tickets.",
+                "date": "2025-05-28T08:15:20.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://www.nbcnews.com/news/asian-america/ice-releases-health-worker-us-legally-50-years-rcna209975",
+            "shortUrl": "",
+            "title": "ICE releases health worker arrested at airport despite living in the U.S. legally for 50 years",
+            "description": "Lewelyn Dixon had been arrested at the Seattle airport after a trip to her native Philippines in late February. She was released from ICE custody after three months.",
+            "date": "2025-05-30T17:32:28.378Z",
+            "tag": "United States",
+            "locale": ""
+        },
+        {
+            "url": "https://abcnews.go.com/International/wireStory/east-timor-deport-filipino-congressman-accused-masterminding-governors-122297614",
+            "shortUrl": "",
+            "title": "East Timor to deport an ex-Filipino congressman accused of masterminding a governor’s murder",
+            "description": "East Timor said Thursday it would deport a former Filipino congressman charged with multiple murders in the Philippines and added that he was a national security threat whose presence could damage the country’s image ahead of its entry to the Association of Southeast Asian Nations.",
+            "date": "2025-05-29T06:14:16.000Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/lifestyle/on-the-radar/2025/05/31/2447229/man-who-photographed-viral-makati-drain-woman-finds-more-people-living-sewers",
+            "shortUrl": "",
+            "title": "Man who photographed viral Makati drain woman finds more people living in sewers",
+            "description": "The original Reddit poster of the woman emerging from a Makati sewer encountered her community living by a creek.",
+            "date": "2025-05-31T09:30:00.000Z",
+            "tag": "Poverty",
+            "locale": ""
+        },
+        {
+            "url": "https://www.dw.com/en/forests-clear-cut-as-philippines-builds-solar-projects/video-72740123",
+            "shortUrl": "",
+            "title": "Forests clear-cut as Philippines builds solar projects",
+            "description": "The Philippines aims to reach its target of generating 50% of its energy from renewable energy sources by 2040. But small communities in the north are bearing the brunt of extreme heat and flooding caused by the clean energy rush.",
+            "date": "2025-05-31T08:55:16.253Z",
+            "tag": "Environment",
+            "locale": ""
+        }
+    ]
+}
