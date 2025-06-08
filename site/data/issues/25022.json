@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25022,
+        "date": "2025-06-01T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://newsinfo.inquirer.net/2067894/p20-rice-real-cost-who-gains-who-pays-in-marcos-flagship-subsidy",
+        "shortUrl": "",
+        "title": "P20 rice, real cost: Who gains, who pays in Marcos’ flagship subsidy?",
+        "description": "MANILA, Philippines—Under the sweltering sun in Nueva Ecija, Mario Satulan carefully tends to the rice fields he has farmed for decades. A second-generation farmer, he has long known what it means to sell palay at prices that often fall short of his production costs.",
+        "date": "2025-06-06T18:21:07.000Z",
+        "tag": "Farming and Agriculture",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Senate Delays Impeaching the Vice President",
+            "url": "https://verafiles.org/articles/chiz-kill-impeachment-maneuvers-becoming-obvious",
+            "shortUrl": "",
+            "title": "Chiz’ ‘kill impeachment’ maneuvers becoming obvious",
+            "description": "Commentary: The Dutertes are marshalling all their forces to block the impeachment trial. Their battle strategy is not to gather enough votes to block the conviction of the vice president but to PREVENT the convening of the impeachment court and the holding of the trial.",
+            "date": "2025-06-03T22:04:18.000Z",
+            "locale": "",
+            "tag": "Politics"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/senate-pushes-back-reading-of-impeachment-complaints-vs-sara-duterte",
+                "shortUrl": "",
+                "title": "Senate pushes back reading of impeachment complaints vs Sara Duterte",
+                "description": "Senate President Francis “Chiz” Escudero denied on Monday, June 2, 2025, the intervention of President Ferdinand “Bongbong” Marcos Jr. in the delay of the presentation of the Articles of Impeachment by the House prosecution panel",
+                "date": "2025-06-02T07:28:34.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/top-stories/314598534/bato-admits-drafting-senate-reso-to-dismiss-vp-impeachment.html",
+                "shortUrl": "",
+                "title": "Bato admits drafting Senate reso to dismiss VP impeachment",
+                "description": "Senator Ronald 'Bato' dela Rosa admitted drafting a copy of a Senate resolution aimed at blocking the impeachment trial of Vice President Sara Duterte in",
+                "date": "2025-06-04T08:30:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/nation/2025/6/7/-let-truth-unfold-profs-add-to-pressure-to-begin-vp-sara-impeachment-trial-1130",
+                "shortUrl": "",
+                "title": "'Let truth unfold': Profs add to pressure on Senate to start VP Sara impeachment trial",
+                "description": "Professors of law and of political science across the Philippines broke their silence this week to express concern over the potential dismissal of the impeachment case against Vice President Sara Duterte, saying the Senate has to act on its constitutional duty to \"forthwith proceed\" with trial.",
+                "date": "2025-06-07T03:30:14.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://time.com/7289533/philippines-fishing-communities-rising-water/",
+            "shortUrl": "",
+            "title": "Fishing Communities Fight for their Future as Waters Rise",
+            "description": "As sea levels rise, coastal families in the Philippines tackle the fear of displacement—and what it means for the next generation.",
+            "date": "2025-06-05T15:00:00.000Z",
+            "tag": "Climate Change",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/technology/decoded-china-state-media-unlocked-afp-dnd/",
+            "shortUrl": "",
+            "title": "[DECODED] How Chinese state-owned Media Unlocked targets AFP, DND",
+            "description": "A program run by the Chinese government, Media Unlocked paints the Philippines as the aggressor amid rising tensions in the South China Sea",
+            "date": "2025-06-06T06:23:01.000Z",
+            "tag": "China",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/06/03/2447900/doh-hiv-surge-bigger-threat-mpox-56-cases-daily",
+            "shortUrl": "",
+            "title": "'HIV, not mpox': DOH flags surge in cases, eyes public health emergency declaration",
+            "description": "As confirmed HIV infections continue to climb, averaging 56 new cases daily as of April, the DOH has proposed declaring a national public health emergency.",
+            "date": "2025-06-03T03:54:00.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://www.gmanetwork.com/news/money/economy/948545/jobless-filipinos-rose-to-2-06m-in-april-2025-says-psa/story/",
+            "shortUrl": "",
+            "title": "Jobless Filipinos rose to 2.06M in April 2025, says PSA",
+            "description": "The number of Filipinos without jobs or livelihoods rose to over two million in April 2025 as more people entered the labor force, seeking jobs, during the period but only few were absorbed by the market, according to the results of the Philippine Statistics Authority’s latest Labor Force Survey.",
+            "date": "2025-06-06T02:47:35.000Z",
+            "tag": "Economy",
+            "locale": ""
+        }
+    ]
+}
