@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25023,
+        "date": "2025-06-08T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://business.inquirer.net/530360/rethinking-our-brand-of-education",
+        "shortUrl": "",
+        "title": "Rethinking our ‘brand’ of education",
+        "description": "Manila, Philippines — In many middle-class Filipino homes, a framed diploma hangs proudly in the living room. It’s more than decoration; it’s a symbol of sacrifice, of years of silent struggles, anchored on a single belief: education is the path to a better life.",
+        "date": "2025-06-13T10:14:06.000Z",
+        "tag": "Education",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Senate Returns Impeachment Case Back to Congress",
+            "url": "https://www.gmanetwork.com/news/topstories/nation/949001/senate-impeachment-court-votes-to-return-raps-vs-vp-sara-duterte-to-house/story/",
+            "shortUrl": "",
+            "title": "Impeachment court votes to return without dismissing raps vs. VP Sara Duterte",
+            "description": "The Senate sitting as an impeachment court on Tuesday night voted to return to the House of Representatives the articles of impeachment against Vice President Sara Duterte without dismissing nor terminating them.",
+            "date": "2025-06-10T13:07:16.000Z",
+            "locale": "",
+            "tag": "Politics"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2025/06/11/2449699/senate-remands-sara-impeach-case-house",
+                "shortUrl": "",
+                "title": "Senate remands Sara impeach case to House",
+                "description": "Senators took their oaths last night as judges in an impeachment court that will try Vice President Sara Duterte for culpable violation of the Constitution and betrayal of public trust, among other charges.",
+                "date": "2025-06-10T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/nation/2025/6/14/no-impropriety-in-remanding-articles-of-impeachment-to-house-senate-spox-says-1542",
+                "shortUrl": "",
+                "title": "No impropriety in remanding articles of impeachment to House, Senate spox says",
+                "description": "There is nothing irregular with the move of the Senate impeachment court to remand the articles of impeachment against Vice President Sara Duterte to the House of Representatives, according to the court’s spokesperson Reginald Tongol.",
+                "date": "2025-06-14T07:42:05.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/cebu/top-of-the-week-trial-of-sara-duterte-a-few-things-we-may-need-to-be-clear-about",
+                "shortUrl": "",
+                "title": "Top of the Week: Trial of Sara Duterte: A few things we may need to be clear about",
+                "description": "[1] Political or personal interest does not invalidate an impeachment. Strategy in politics or revenge in family feud doesn’t disqualify impeachment as a constitutiional device on accountability.",
+                "date": "2025-06-15T12:38:11.088Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://manilastandard.net/news/top-stories/314602176/house-admonishes-senate-for-junking-wage-hike-bill.html",
+            "shortUrl": "",
+            "title": "House admonishes Senate for junking wage hike bill",
+            "description": "The House of Representatives on Thursday condemned the Senate’s refusal to convene a bicameral conference committee on the legislated wage hike bill",
+            "date": "2025-06-12T16:35:00.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://abcnews.go.com/International/wireStory/filipino-forces-villagers-struggle-live-chinas-shadow-disputed-122682464",
+            "shortUrl": "",
+            "title": "Filipino forces and villagers struggle to live in China's shadow in disputed waters",
+            "description": "Filipino forces and villagers have been struggling to live in Beijing's shadow in the disputed South China while fighting isolation on remote islands",
+            "date": "2025-06-10T06:30:24.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/philippines/overseas-filipinos/families-flee-northern-ireland-home-anti-immigrant-violence/",
+            "shortUrl": "",
+            "title": "Filipino families flee Northern Irish home after night of anti-immigrant violence",
+            "description": "Around Ballymena, Filipino residents put stickers of British and Philippine flags on their doors, with messages saying 'Filipino lives here' to show they were not Romanian",
+            "date": "2025-06-12T12:31:43.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2025/06/10/filipino-arrested-in-la-immigration-raids-ph-consulate-expects-he-will-be-deported",
+            "shortUrl": "",
+            "title": "Filipino arrested in LA immigration raids; PH consulate expects he will be deported",
+            "description": "The consul general of the Philippine Consulate in Los Angeles confirmed that a Filipino was arrested by the United States’ Immigration and Customs Enforcement",
+            "date": "2025-06-10T16:30:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        }
+    ]
+}
