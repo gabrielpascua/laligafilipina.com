@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25024,
+        "date": "2025-06-15T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://pcij.org/2025/06/15/mariahangin-island-a-tale-of-indigenous-land-power-and-resistance/",
+        "shortUrl": "",
+        "title": "Mariahangin Island: A tale of indigenous land, power and resistance",
+        "description": "In the remote reaches of southern Palawan, a 38-hectare island paradise is at the center of a brewing social conflict. Once home to nearly 200 families of mostly Molbog and Cagayanen descent, Mariahangin island’s population is rapidly declining.",
+        "date": "2025-06-15T06:44:30.000Z",
+        "tag": "Environment",
+        "locale": "Palawan"
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Start of the 2025 School Year",
+            "url": "https://mb.com.ph/2025/06/18/deped-highlights-urgent-reforms-in-education-as-school-year-20252026-opens",
+            "shortUrl": "",
+            "title": "<abbr title=\"Department of Education\">DepEd</abbr> highlights urgent reforms in education as School Year 2025–2026 opens",
+            "description": "As public schools welcomed a new school year this week, Department of Education (DepEd) Secretary Sonny Angara on Wednesday, June 18, addressed the agency’s urgent priorities",
+            "date": "2025-06-18T05:56:00.000Z",
+            "locale": "",
+            "tag": "Education"
+        },
+        "secondary": [
+            {
+                "url": "https://www.philstar.com/headlines/2025/06/16/2451012/first-day-blues-teachers-see-recycled-solutions-chronic-shortages",
+                "shortUrl": "",
+                "title": "First day blues: Teachers see 'recycled solutions' for chronic shortages",
+                "description": "Three different major teachers&#39; groups used the first day of classes on June 16&nbsp;to blast the government for what they called &quot;recycled&quot; solutions to old education issues.",
+                "date": "2025-06-16T11:11:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/949520/classes-for-sy-2025-2026-begin-despite-flood-fire-damage-in-some-schools/story/",
+                "shortUrl": "",
+                "title": "Classes for SY 2025-2026 begin despite flood, fire damage in some schools",
+                "description": "Classes opened nationwide on Monday for School Year 2025-2026 with over 27 million students expected to return to classrooms. Some schools however had to adjust after flooding and fire incidents.",
+                "date": "2025-06-16T03:23:01.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.rappler.com/philippines/visayas/teachers-leaving-negros-island-region-public-schools-united-states-jobs/",
+                "shortUrl": "",
+                "title": "For a better life: Teachers leaving Negros public schools for US jobs",
+                "description": "The exodus of educators from the Negros Island Region shows the challenges and new prospects for local education in the country",
+                "date": "2025-06-17T03:58:31.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2072255/killing-of-p200-pay-hike-bill-also-kills-bid-for-living-wage",
+            "shortUrl": "",
+            "title": "Killing of P200 pay hike bill also kills bid for living wage",
+            "description": "MANILA, Philippines — To have a basic but decent standard of living, a local think tank stressed the need for a P1,217 living wage in Metro Manila, where most workers are compelled to make do with a minimum wage of P608 to P645.",
+            "date": "2025-06-19T20:07:56.000Z",
+            "tag": "Law and Legislation",
+            "locale": ""
+        },
+        {
+            "url": "https://www.sunstar.com.ph/davao/social-media-101-understanding-facebook-algorithm-and-the-effect-of-post-bumping-last-of-2-parts",
+            "shortUrl": "",
+            "title": "Social media 101: Understanding Facebook algorithm and the effect of post ‘bumping’ (Last of 2 parts)",
+            "description": "This article, the second part of \"SOCMED 101,\" delves into how Facebook algorithms and \"post bumping\" contribute to the spread of fake news in the Philippines.",
+            "date": "2025-06-17T06:57:42.000Z",
+            "tag": "Technology",
+            "locale": ""
+        },
+        {
+            "url": "https://www.amnesty.org/en/projects/the-philippines-war-on-drugs/",
+            "shortUrl": "",
+            "title": "The Philippines \"war on drugs\"",
+            "description": "The effect of former President Duterte's lethal \"war on drugs\" in Philippines is still felt and seen today, where reforms are slow to come.",
+            "date": "2025-06-18T12:09:06.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        },        
+        {
+            "url": "https://www.tatlerasia.com/power-purpose/impact/domestic-helpers-shape-hong-kong-households-domestic-migrant-workers-role-in-hk-society",
+            "shortUrl": "",
+            "title": "Embracing domestic helpers as family: How respect transforms Hong Kong homes completely",
+            "description": "While stories of exploitation about Hong Kong’s domestic helpers often dominate headlines, these uplifting tales show a different side of Hong Kong’s heart.",
+            "date": "2025-06-16T05:20:08.000Z",
+            "tag": "Overseas Workers",
+            "locale": ""
+        }
+    ]
+}
