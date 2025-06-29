@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25025,
+        "date": "2025-06-22T15:05:04.594Z",
+        "theme": "dark two-column"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/newsbreak/in-depth/ofws-staying-israel-poverty-more-frightening-than-war/",
+        "shortUrl": "",
+        "title": "For some OFWs staying in Israel, poverty is more frightening than war",
+        "description": "Despite what some call the worst clashes they’ve seen involving their host country Israel, just around 1% of the 30,000 OFWs are interested in going home",
+        "date": "2025-06-27T03:47:58.000Z",
+        "tag": "Overseas Workers",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Middle East Filipinos Caught in Israel - Iran Conflict",
+            "url": "https://www.abs-cbn.com/news/world/2025/6/29/festival-stampede-kills-three-near-indian-temple-1705",
+            "shortUrl": "",
+            "title": "DFA: 127 Filipinos in Israel lost homes; 118 have been resettled",
+            "description": "DFA Undersecretary Eduardo de Vega told ANC that 127 Filipinos in Israel lost their homes. Of that number, 118 had already been resettled, he said.",
+            "date": "2025-06-24T02:14:35.000Z",
+            "locale": "",
+            "tag": "Overseas Workers"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/manila/no-filipino-hurt-during-missile-attack-in-qatar",
+                "shortUrl": "",
+                "title": "No Filipino hurt during missile attack in Qatar",
+                "description": "The Philippine Embassy in Qatar confirmed on Tuesday, June 24, 2025, that no Filipinos were hurt following a missile attack launched by Iran targeting American military installations there",
+                "date": "2025-06-24T03:35:40.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.gmanetwork.com/news/pinoyabroad/dispatch/950601/most-filipinos-in-israel-declining-repatriation-offers/story/",
+                "shortUrl": "",
+                "title": "Most Filipinos in Israel declining repatriation offers",
+                "description": "Most Filipinos in Middle East declining repatriation offers",
+                "date": "2025-06-26T03:03:59.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/06/26/alert-level-2-recommended-in-israel-still-no-ofw-deploymentdfa",
+                "shortUrl": "",
+                "title": "Alert Level 2 recommended in Israel; still no OFW deployment—DFA",
+                "description": "An official of the Department of Foreign Affairs (DFA) said that there is already a recommendation to lower the crisis alert level from 3 (voluntary repatriation) to 2 (restriction phase) in Israel",
+                "date": "2025-06-26T08:35:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://pulitzercenter.org/stories/fight-save-filipino-chocolate",
+            "shortUrl": "",
+            "title": "The Fight To Save Filipino Chocolate",
+            "description": "Cacao farmers in the Philippines are using innovative solutions to fight climate change—an increasing threat to crops and livelihoods.",
+            "date": "2025-06-24T08:06:41.000Z",
+            "tag": "Farming and Agriculture",
+            "locale": "Davao de Oro"
+        },
+        {
+            "url": "https://opinion.inquirer.net/184101/duterte-youths-comeuppance",
+            "shortUrl": "",
+            "title": "Duterte Youth’s comeuppance",
+            "description": "Tempting as it might be to celebrate the decision of the Commission on Elections (Comelec) to cancel the registration of Duterte Youth as a richly deserved comeuppance for its own actions, one can’t help but feel a little skeptical.",
+            "date": "2025-06-24T13:08:00.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/news-commentary/2025/06/28/2454014/essential-discord-why-education-hearings-are-crucial-despite-flaws",
+            "shortUrl": "",
+            "title": "The essential discord: Why education hearings are crucial, despite flaws",
+            "description": "For years, the Philippine Senate and Congress have made their committee hearings publicly accessible&mdash;streamed live on television and YouTube&mdash;as a symbolic gesture of transparency.",
+            "date": "2025-06-28T08:56:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314608545/2-countries-turn-away-rody.html",
+            "shortUrl": "",
+            "title": "2 countries turn away Rody",
+            "description": "Australia, Belgium unwilling to be ‘third country’ for ex-president. The governments of Australia and Belgium have both rejected requests to host former Philippine President Rodrigo Duterte should the interim release currently being sought by his lawyers be granted",
+            "date": "2025-06-27T16:50:00.000Z",
+            "tag": "War on Drugs",
+            "locale": ""
+        }
+    ]
+}
