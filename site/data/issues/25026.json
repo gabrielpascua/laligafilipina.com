@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25026,
+        "date": "2025-06-29T15:05:04.594Z",
+        "theme": "light two-column"
+    },
+    "hero": {
+        "url": "https://www.cnn.com/interactive/2025/06/climate/philippines-fishing-industry-storms-rising-seas-cnnphotos/",
+        "shortUrl": "",
+        "title": "Threatened by supercharged storms and rising oceans, Filipino fishing communities are fighting for their lives",
+        "description": "Climate change and environmental destruction are putting the future of fishing at risk in the Philippines. But coastal communities are fighting back and trying to preserve the industry for generations to come.",
+        "date": "2025-06-27T04:00:00.000Z",
+        "tag": "Climate Change",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Search for Bodies of Missing Cockfighting Enthusiasts",
+            "url": "https://www.rappler.com/newsbreak/podcasts-videos/atong-ang-gretchen-barretto-missing-sabungeros-tale/",
+            "shortUrl": "",
+            "title": "Watch: Atong Ang and the tale of missing sabungeros",
+            "description": "Watch reporter Jairo Bolledo's explainer to understand how Ang's name got entangled in the complicated tale of missing sabungeros",
+            "date": "2025-07-05T16:00:00.000Z",
+            "locale": "",
+            "tag": "Crime"
+        },
+        "secondary": [
+            {
+                "url": "https://www.gmanetwork.com/news/topstories/nation/951417/atong-ang-grhen-barretto-boying-remulla-missing-sabungeros-suspects/story/",
+                "shortUrl": "",
+                "title": "Atong Ang, Gretchen Barretto now suspects in sabungero abductions – SOJ",
+                "description": "Businessman Atong Ang and actress Gretchen Barreto will be included in the list of suspects in the case of missing sabungeros after one of the accused tagged them to the disappearances, Justice Secretary Jesus Crispin Remulla said Thursday.",
+                "date": "2025-07-03T08:37:47.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/national/314611097/palace-no-one-spared-in-missing-sabungeros-probe.html",
+                "shortUrl": "",
+                "title": "Palace: No one spared in missing ‘sabungeros’ probe ",
+                "description": "Malacañang on Thursday affirmed that President Ferdinand Marcos Jr. is not shielding any individual, regardless of status or influence, in the ongoing investigation into the disappearance of several cockfighting enthusiasts",
+                "date": "2025-07-03T06:07:49.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.sunstar.com.ph/manila/15-cops-under-restrictive-custody-over-alleged-links-to-missing-sabungero-case",
+                "shortUrl": "",
+                "title": "15 cops under restrictive custody over alleged links to missing sabungeros",
+                "description": "Justice Secretary Jesus Crispin Remulla said on Friday, July 4, 2025, that 15 policemen were placed under restrictive custody over their alleged involvement in the disappearance of the missing cockfighting enthusiasts",
+                "date": "2025-07-04T08:54:11.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2077989/smoking-vaping-crisis-worsening-among-ph-youth",
+            "shortUrl": "",
+            "title": "Smoking, vaping: Crisis worsening among PH youth",
+            "description": "Paul (not his real name) was only eight years old when he first held an e-cigarette. Like a simple toy hanging on his neck, he believed it was “harmless.”",
+            "date": "2025-07-03T22:33:49.000Z",
+            "tag": "Health",
+            "locale": ""
+        },
+        {
+            "url": "https://pcij.org/2025/07/03/top-spender-camille-villar-lito-lapid-pia-cayetano-2025-senate-race/",
+            "shortUrl": "",
+            "title": "Top spender Camille Villar reports P179.6-M spending in 2025 campaign",
+            "description": "Winning senatorial candidate Camille Villar reported spending P179.6 million during the election campaign, based on her own submission to the Commission on Elections (Comelec). She was followed by winning senators Lito Lapid and Pia Cayetano",
+            "date": "2025-07-03T00:39:08.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.richmond-news.com/tennis/wimbledon-defending-champ-barbora-krejcikova-comes-back-to-beat-alexandra-eala-of-the-philippines-10887207",
+            "shortUrl": "",
+            "title": "Wimbledon: Defending champ Barbora Krejcikova comes back to beat Alexandra Eala of the Philippines",
+            "description": "London (AP) — Barbora Krejcikova needed a comeback to avoid becoming the second consecutive Wimbledon women’s champion to lose in the first round a year later at the All England Club, eventually eliminating 56th-ranked Alexandra Eala of the Philippines",
+            "date": "2025-07-01T15:07:54.000Z",
+            "tag": "Sports",
+            "locale": ""
+        },
+        {
+            "url": "https://mb.com.ph/2025/07/02/del-monte-pacifics-us-arm-files-for-bankruptcy",
+            "shortUrl": "",
+            "title": "Del Monte Pacific's US arm files for bankruptcy",
+            "description": "Del Monte Pacific Limited’s US subsidiary, Del Monte Foods Holdings Limited (DMFHL), has filed for Chapter 11 bankruptcy in preparation for the liquidation of its assets",
+            "date": "2025-07-02T05:40:00.000Z",
+            "tag": "Business",
+            "locale": ""
+        }
+    ]
+}
