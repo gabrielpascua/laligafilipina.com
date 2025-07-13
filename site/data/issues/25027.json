@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25027,
+        "date": "2025-07-06T15:05:04.594Z",
+        "theme": "dark left-aligned"
+    },
+    "hero": {
+        "url": "https://www.rappler.com/newsbreak/in-depth/under-president-marcos-family-cronies-score-record-high-court-wins/",
+        "shortUrl": "",
+        "title": "Under President Marcos, his family and cronies score record-high court wins",
+        "description": "Two of the wins in 2024 have the same ponente, whom Marcos later appointed Presiding Justice. Justice Econg says those cases were overdue to be resolved.",
+        "date": "2025-07-12T04:00:00.000Z",
+        "tag": "Politics",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Police Search for Missing Bodies in Taal Lake Begins",
+            "url": "https://www.sunstar.com.ph/manila/pcg-to-start-scouring-taal-lake-for-missing-sabungero-remains",
+            "shortUrl": "",
+            "title": "PCG to start scouring Taal Lake for missing sabungeros' remains",
+            "description": "The Philippine Coast Guard (PCG) conducted an ocular inspection at Taal Lake Thursday, July 10, 2025, ahead of the search and retrieval operations for the remains of the missing cockfighting enthusiasts (sabungeros).",
+            "date": "2025-07-10T08:23:43.000Z",
+            "locale": "",
+            "tag": "Crime"
+        },
+        "secondary": [
+            {
+                "url": "https://manilastandard.net/news/top-stories/314613030/totoy-under-pnp-protective-custody-sc-sets-own-probe.html",
+                "shortUrl": "",
+                "title": "‘Totoy’ under PNP protective custody; SC sets own probe",
+                "description": "A suspect-turned-whistleblower in the case of the missing “sabungeros” is now under the protective custody of the Philippine National Police as the government said it has already identified the “ground zero” in Taal Lake where the bodies of the disappeared cockfighting enthusiasts may have been dumped.",
+                "date": "2025-07-07T17:10:00.000Z",
+                "locale": "Batangas"
+            },
+            {
+                "url": "https://www.abs-cbn.com/news/nation/2025/7/8/murder-cases-being-readied-as-search-for-bodies-of-missing-sabungeros-intensifies-1747",
+                "shortUrl": "",
+                "title": "Murder cases being readied as search for bodies of missing sabungeros intensifies: DOJ",
+                "description": "Cases of murder are being readied by the Department of Justice in connection to the missing “sabungeros” or cockfight enthusiasts.",
+                "date": "2025-07-08T09:47:43.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/07/10/taal-lake-search-yields-a-sack-of-bones-doj",
+                "shortUrl": "",
+                "title": "Taal Lake search yields a sack of bones -- DOJ",
+                "description": "A white sack containing what appeared to be burned human bones has been recovered by authorities in the vicinity of Taal Lake in Batangas, the Department of Justice (DOJ) said on Thursday evening, July 10.",
+                "date": "2025-07-10T13:00:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2080268/online-sugal-income-for-govt-scourge-for-poor-filipinos",
+            "shortUrl": "",
+            "title": "Online sugal: Income for gov’t, scourge for poor Filipinos",
+            "description": "Online gambling is “making history” as the gaming industry’s “top revenue driver,” contributing P51 billion in the first three months of 2025, almost the same as the all year P58 billion",
+            "date": "2025-07-10T00:22:42.000Z",
+            "tag": "Social Issues",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/07/12/2457267/south-china-sea-ruling-philippines-stands-victory-after-9-years-beijings-defiance",
+            "shortUrl": "",
+            "title": "South China Sea ruling: Philippines vows dialogue & deterrence as China continues coercive acts",
+            "description": "The Philippines is extending a cautious hand to China for cooperation in &quot;non-sensitive areas,&quot; even as it vows to uphold the 2016 ruling that recognized its sovereign rights in the West Philippine Sea and dealt a blow to China&#39;s so-called nine-dash line.",
+            "date": "2025-07-12T01:00:00.000Z",
+            "tag": "West Philippine Sea",
+            "locale": ""
+        },
+        {
+            "url": "https://foreignpolicy.com/2025/07/09/philippines-sara-duterte-china-election-us-alliance/",
+            "shortUrl": "",
+            "title": "The Philippines May Turn Its Back on the U.S. Again",
+            "description": "Presidential rival Sara Duterte could step into her father’s foreign policy footsteps.",
+            "date": "2025-07-09T15:46:27.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.usatoday.com/story/news/politics/2025/07/09/trump-tariffs-more-countries-trade-war-expands/84518951007/",
+            "shortUrl": "",
+            "title": "Trump hits Philippines and 6 more countries with higher tariffs",
+            "description": "The notices bring the total number of countries Trump has hiked tariffs on this week to 21. The higher rates are slated to take effect on August 1.",
+            "date": "2025-07-09T16:52:52.000Z",
+            "tag": "United States",
+            "locale": ""
+        }
+    ]
+}
