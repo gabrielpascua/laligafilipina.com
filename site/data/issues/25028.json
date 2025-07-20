@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25028,
+        "date": "2025-07-13T15:05:04.594Z",
+        "theme": "light centered"
+    },
+    "hero": {
+        "url": "https://foreignpolicy.com/2025/07/14/china-philippines-disinformation-elections/",
+        "shortUrl": "",
+        "title": "The Philippines Is a Petri Dish for Chinese Disinformation",
+        "description": "Inauthentic accounts linked to China are seizing on local political feuds.",
+        "date": "2025-07-14T17:21:36.000Z",
+        "tag": "China",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Tropical Storm Crising",
+            "url": "https://mb.com.ph/2025/07/20/ocd-brace-for-more-rains-as-crising-monsoon-rains-leave-3-dead",
+            "shortUrl": "",
+            "title": "OCD: Brace for more rains as ‘Crising’, monsoon rains leave 3 dead",
+            "description": "The Office of Civil Defense (OCD) urged the public to prepare for more rains as a new weather disturbance may form this week after Tropical Storm “Crising” left three people dead and 370,000 individuals were affected in 15 regions.",
+            "date": "2025-07-20T03:39:00.000Z",
+            "locale": "",
+            "tag": "Typhoons"
+        },
+        "secondary": [
+            {
+                "url": "https://www.sunstar.com.ph/cebu/crising-to-bring-massive-floods",
+                "shortUrl": "",
+                "title": "Crising to bring massive floods",
+                "description": "A Low-Pressure Area (LPA) has intensified into tropical depression Crising, enhancing the southwest monsoon and prompting flood advisories across the Visayas.",
+                "date": "2025-07-16T12:27:37.440Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.philstar.com/headlines/2025/07/19/2459048/pcg-suspends-taal-search-due-bad-weather",
+                "shortUrl": "",
+                "title": "PCG suspends Taal search due to bad weather",
+                "description": "The Philippine Coast Guard has suspended its search operations for the remains of the missing sabungeros in Taal Lake in Batangas due to bad weather brought by Tropical Storm Crising.",
+                "date": "2025-07-18T16:00:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://manilastandard.net/news/314618292/agta-woman-gives-birth-during-the-height-of-crising-in-cagayan.html",
+                "shortUrl": "",
+                "title": "Agta woman gives birth during the height of ‘Crising’ in Cagayan",
+                "description": "A 31-year-old woman from the Agta community gave birth on the road during the height of tropical storm ‘Crising’ in Santa Teresita, Cagayan with cops and village officials providing assistance on their way to the nearest health center.",
+                "date": "2025-07-20T03:29:41.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://newsinfo.inquirer.net/2083858/river-restoration-or-risky-dredging-oriental-mindoros-flood-control-dilemma",
+            "shortUrl": "",
+            "title": "River restoration or risky dredging? Oriental Mindoro’s flood control dilemma",
+            "description": "Oriental Mindoro, finds itself at a crossroad as the local government pushes for a “cost-free” solution to flooding while some oppose the extraction of river sand, pointing out that it is commercial sand mining.",
+            "date": "2025-07-18T22:35:19.000Z",
+            "tag": "Environment",
+            "locale": ""
+        },
+        {
+            "url": "https://www.aljazeera.com/news/2025/7/15/ai-and-disinformation-prompt-political-rivalries-in-the-philippines",
+            "shortUrl": "",
+            "title": "AI and disinformation fuel political tensions in the Philippines",
+            "description": "Duterte supporters step up digital smear campaigns against opponents, using AI-generated content, after his ICC arrest.",
+            "date": "2025-07-15T23:12:56.000Z",
+            "tag": "Technology",
+            "locale": ""
+        },
+        {
+            "url": "https://www.rappler.com/newsbreak/in-depth/things-to-know-julie-dondon-patidongan-whistleblower-missing-sabungeros/",
+            "shortUrl": "",
+            "title": "The role of whistleblower Julie Patidongan in missing sabungeros case",
+            "description": "Four years since the disappearance of sabungeros, Patidongan surfaces and implicates his former boss",
+            "date": "2025-07-19T00:00:00.000Z",
+            "tag": "Crime",
+            "locale": ""
+        },
+        {
+            "url": "https://www.esquiremag.ph/long-reads/notes-and-essays/sandwich-generation-in-the-philippines-meaning-opinion-a833-src-spot-a3690-20250717-lfrm",
+            "shortUrl": "",
+            "title": "'Utang na Loob' and Its Complicated Role in the Cycle of Poverty",
+            "description": "Simultaneously supporting elderly parents while raising a family often leaves very little room to financially prepare for the future.",
+            "date": "2025-07-17T05:54:00.000Z",
+            "tag": "Culture",
+            "locale": ""
+        }
+    ]
+}
