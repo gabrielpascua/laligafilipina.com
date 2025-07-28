@@ -1,0 +1,92 @@
+{
+    "issue": {
+        "number": 25029,
+        "date": "2025-07-20T15:05:04.594Z",
+        "theme": "light left-aligned"
+    },
+    "hero": {
+        "url": "https://philstarlife.com/news-and-views/949537-why-does-philippines-still-experience-severe-flooding-despite-billions-flood-control-budget",
+        "shortUrl": "",
+        "title": "Explainer: Why does the Philippines still experience severe flooding despite billions in flood control budget?",
+        "description": "Here's what experts say.",
+        "date": "2025-07-23T18:17:00.000Z",
+        "tag": "Infrastructure and Urban Development",
+        "locale": ""
+    },
+    "ticker": {
+        "primary": {
+            "lead": "Floods Around Metro Manila and Parts of Luzon",
+            "url": "https://www.rappler.com/philippines/weather/tropical-storm-dante-depression-emong-southwest-monsoon-update-pagasa-forecast-july-23-2025-11am/",
+            "shortUrl": "",
+            "title": "Tropical Depression Emong forms, joins Tropical Storm Dante in enhancing monsoon",
+            "description": "The newly formed Tropical Depression Emong is directly affecting areas in Northern Luzon. It is also enhancing the southwest monsoon, similar to Tropical Storm Dante (Francisco).",
+            "date": "2025-07-23T04:45:14.000Z",
+            "locale": "",
+            "tag": "Typhoons"
+        },
+        "secondary": [
+            {
+                "url": "https://newsinfo.inquirer.net/2086508/billions-for-flood-control-unanswered-questions-behind-senates-p142-b-bicam-insertions",
+                "shortUrl": "",
+                "title": "Billions for flood control: Unanswered questions behind Senate’s P142-B ‘bicam insertions’",
+                "description": "Manila, Philippines — As monsoon rains battered much of the country this month—including Bulacan, where rivers again overflowed—the floodwaters rose fast, and entire neighborhoods watched anxiously, wondering when, if ever, the billions set aside for flood control would make a real difference.",
+                "date": "2025-07-24T20:18:05.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://mb.com.ph/2025/07/23/the-price-of-flood-control-failure",
+                "shortUrl": "",
+                "title": "The price of flood control failure",
+                "description": "Once again, the rains have come—and once again, our cities, towns, and provinces are submerged in flood. The latest floodings triggered by the southwest monsoon or “habagat” have laid bare not just our vulnerability to nature, but our failure to prepare for it.",
+                "date": "2025-07-22T16:05:00.000Z",
+                "locale": ""
+            },
+            {
+                "url": "https://www.esquiremag.ph/long-reads/features/many-flood-prone-areas-are-where-streets-and-creeks-intersect-a3690-20250722-lfrm",
+                "shortUrl": "",
+                "title": "Today I Learned: Many Flood-Prone Areas Are Where Streets and Creeks Intersect",
+                "description": "'Daanan talaga [sila] ng tubig pero nilapatan natin ng kalye,' Mahar Lagmay pointed out.",
+                "date": "2025-07-22T07:38:00.000Z",
+                "locale": ""
+            }
+        ]
+    },
+    "carousel": [
+        {
+            "url": "https://time.com/7305463/philippines-impeachment-sara-duterte-supreme-court/",
+            "shortUrl": "",
+            "title": "How a Philippine Court Handed Duterte Family Another Victory",
+            "description": "On Friday, the country’s top court ruled that the impeachment against Vice President Sara Duterte was unconstitutional.",
+            "date": "2025-07-25T18:49:52.000Z",
+            "tag": "Politics",
+            "locale": ""
+        },
+        {
+            "url": "https://www.philstar.com/headlines/2025/07/23/2460159/deped-sees-longest-class-suspension-year-habagat-rains-lash-philippines",
+            "shortUrl": "",
+            "title": "Another disruption: Over 20,000 schools suspend in-person classes amid non-stop habagat rains",
+            "description": "Face-to-face classes have been suspended in over 20,000 public schools nationwide since Monday as rains from the enhanced southwest monsoon (habagat) continue to pummel the country &mdash; the longest class suspension for the school year so far.",
+            "date": "2025-07-23T22:16:00.000Z",
+            "tag": "Education",
+            "locale": ""
+        },
+        {
+            "url": "https://asia.nikkei.com/Spotlight/Policy-Asia/Philippines-confronts-rising-toll-from-online-gambling-boom",
+            "shortUrl": "",
+            "title": "Philippines confronts rising toll from online gambling boom",
+            "description": "Industry opponents look to Marcos to back new restrictions or ban",
+            "date": "2025-07-24T21:03:06.000Z",
+            "tag": "Social Issues",
+            "locale": ""
+        },
+        {
+            "url": "https://manilastandard.net/news/top-stories/314619573/trump-agrees-to-19-in-philippine-tariffs.html",
+            "shortUrl": "",
+            "title": "Trump agrees to 19% in Philippine tariffs",
+            "description": "Washington, United States — US President Donald Trump agreed Tuesday to reduce threatened tariffs on the Philippines, but only by one percentage point,",
+            "date": "2025-07-22T18:10:00.000Z",
+            "tag": "United States",
+            "locale": ""
+        }
+    ]
+}
